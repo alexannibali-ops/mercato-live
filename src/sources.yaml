@@ -1,0 +1,91 @@
+# ---------------------------------------------------------------------------
+# Fonti del giornale. Ogni voce e' un feed RSS/Atom.
+#
+#   name    : etichetta stampata sotto il titolo dell'articolo
+#   url     : endpoint del feed
+#   weight  : 0.0-1.5, quanto la fonte "pesa" nella gerarchia di pagina
+#   scope   : "generalista" | nome squadra (usato per i box di sezione)
+#
+# Verifica sempre i feed prima di aggiungerli:   make check-sources
+# Se un feed risponde 403, spesso basta uno User-Agent realistico (vedi
+# fetch.py -> USER_AGENT); se risponde 404 il percorso e' cambiato.
+# ---------------------------------------------------------------------------
+
+sources:
+  - name: Calciomercato.it
+    url: https://www.calciomercato.it/feed/
+    weight: 1.2
+    scope: generalista
+
+  - name: TuttoMercatoWeb
+    url: https://www.tuttomercatoweb.com/rss
+    weight: 1.3
+    scope: generalista
+
+  - name: Football Italia
+    url: https://www.football-italia.net/feed/
+    weight: 0.9
+    scope: generalista
+
+  - name: MilanNews
+    url: https://www.milannews.it/rss
+    weight: 0.8
+    scope: Milan
+
+  - name: FcInterNews
+    url: https://www.fcinternews.it/rss
+    weight: 0.8
+    scope: Inter
+
+  - name: TuttoNapoli
+    url: https://www.tuttonapoli.net/rss
+    weight: 0.8
+    scope: Napoli
+
+  - name: TuttoJuve
+    url: https://www.tuttojuve.com/rss
+    weight: 0.8
+    scope: Juventus
+
+  - name: LaRoma24
+    url: https://www.laroma24.it/rss
+    weight: 0.7
+    scope: Roma
+
+# --- Parametri editoriali ---------------------------------------------------
+editorial:
+  # Finestra di notizie considerate "in edizione" (ore)
+  max_age_hours: 36
+  # Quante notizie stampare al massimo in prima pagina
+  max_articles: 34
+  # Lunghezza massima del sommario riprodotto (caratteri).
+  # Tenerla bassa: si cita, non si ricopia. Vedi NOTA-COPYRIGHT nel README.
+  summary_chars: 220
+  # Soglia di somiglianza fra titoli oltre la quale due notizie sono la stessa.
+  # Calibrata su titoli reali: sotto 0.20 stanno le notizie diverse, sopra 0.54
+  # le riformulazioni della stessa. 0.40 sta comodo in mezzo.
+  # Alzala se vedi notizie distinte fuse insieme, abbassala se vedi doppioni.
+  dedup_threshold: 0.40
+
+# --- Impaginazione ----------------------------------------------------------
+# Quante notizie in ciascuna metà della pagina. Le colonne 1-2 ospitano gli
+# articoli, le 3-4 il pezzo fotografico (che occupa molta altezza) più le
+# ultimissime. Questi due numeri servono a far chiudere le due metà alla
+# stessa altezza: se la colonna di sinistra ti resta corta, alza "articoli".
+impaginazione:
+  articoli: 11
+  sotto_foto: 9
+
+# Lessico di mercato: una notizia entra in edizione se il titolo o il sommario
+# contiene almeno uno di questi termini. Amplialo pure a piacere.
+keywords:
+  forte:      [calciomercato, mercato, trattativa, firma, firmato, ufficiale,
+               acquisto, cessione, ingaggio, contratto, rinnovo, clausola,
+               offerta, affare, colpo, visite mediche, accordo, addio,
+               prestito, riscatto, obbligo di riscatto, plusvalenza]
+  medio:      [trasferimento, richiesta, valutazione, sondaggio, incontro,
+               summit, agente, procuratore, intesa, bonus, commissioni,
+               scadenza, svincolato, opzione, blitz, sorpasso, asse]
+  esclusione: [pagelle, moviola, probabili formazioni, highlights, diretta,
+               live, cronaca, tabellino, fantacalcio, quote, scommesse,
+               oroscopo, meteo]

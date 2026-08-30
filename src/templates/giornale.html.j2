@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Il Mercato — edizione del {{ data_estesa }}</title>
+<meta name="description" content="Rassegna di calciomercato impaginata come un quotidiano, aggiornata ogni 30 minuti.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Oswald:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="foglio">
+{% if demo %}
+  <p class="bollo-demo">Edizione di prova — le notizie qui sotto sono <strong>inventate</strong>
+  e servono solo a controllare l'impaginazione. Nessuna di queste è una vera notizia di mercato.</p>
+{% endif %}
+
+  <!-- ============ TESTATA ============ -->
+  <header class="testata">
+    <div class="testata-lato sinistra">
+      <span>Anno I — n. {{ numero }}</span>
+      <span>Edizione delle {{ ora }}</span>
+    </div>
+    <div class="testata-centro">
+      <h1 class="gerente">Il Mercato</h1>
+      <p class="sottotestata">Quotidiano di trattative, firme e voci di corridoio</p>
+    </div>
+    <div class="testata-lato destra">
+      <span>{{ data_estesa }}</span>
+      <span>{{ stats.in_edizione }} notizie · {{ stats.fonti }} fonti</span>
+    </div>
+  </header>
+  <div class="filetto-doppio"></div>
+
+  {% if layout.civette %}
+  <!-- ============ CIVETTE ============ -->
+  <nav class="civette">
+    {% for c in layout.civette %}
+    <a class="civetta" href="{{ c.link }}" target="_blank" rel="noopener">
+      <span class="civetta-occhiello">{{ c.occhiello }}</span>
+      <span class="civetta-titolo">{{ c.title }}</span>
+    </a>
+    {% endfor %}
+  </nav>
+  <div class="filetto"></div>
+  {% endif %}
+
+  <!-- ============ CORPO — quattro colonne ============ -->
+  <main class="corpo">
+
+    <!-- colonne 1-2: gli articoli -->
+    <section class="articoli">
+      {% for c in layout.articoli %}
+      <article class="pezzo">
+        <p class="occhiello">{{ c.occhiello }}</p>
+        <h3 class="titolo"><a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.title }}</a></h3>
+        {% if c.summary %}<p class="testo">{{ c.summary }}</p>{% endif %}
+        <p class="firma">{{ c.source }} · {{ c.eta }}</p>
+      </article>
+      {% endfor %}
+    </section>
+
+    <!-- colonne 3-4: il pezzo fotografico -->
+    <section class="fotografico">
+      {% if layout.fotografico %}
+      {% set f = layout.fotografico %}
+      <figure class="foto">
+        <img src="{{ f.image or 'foto-mancante.svg' }}" alt="" loading="lazy">
+        <figcaption>
+          {% if f.image %}Fotografia di {{ f.source }}{% else %}Il feed non ha fornito una fotografia per questa notizia{% endif %}
+        </figcaption>
+      </figure>
+
+      <p class="occhiello occhiello-foto">{{ f.occhiello }}</p>
+      <h2 class="titolo-foto">
+        <a href="{{ f.link }}" target="_blank" rel="noopener">{{ f.title }}</a>
+      </h2>
+
+      <div class="testo-foto">
+        {% if f.summary %}<p class="sommario">{{ f.summary }}</p>{% endif %}
+        <p class="firma">
+          {{ f.source }} · {{ f.eta }}
+          {% if f.also %}<span class="rilancio">rilanciata da {{ f.also|map(attribute='source')|unique|join(', ') }}</span>{% endif %}
+        </p>
+        <p class="prosegue">
+          <a href="{{ f.link }}" target="_blank" rel="noopener">L'articolo completo su {{ f.source }} →</a>
+        </p>
+      </div>
+      {% endif %}
+
+      <div class="filetto"></div>
+
+      <!-- sotto la foto, sempre su due colonne -->
+      <div class="coda-destra">
+        {% if layout.sotto_foto %}
+        <h2 class="testatina">Ultimissime</h2>
+        {% for b in layout.sotto_foto %}
+        <article class="breve">
+          <a href="{{ b.link }}" target="_blank" rel="noopener">{{ b.title }}</a>
+          <p class="firma">{{ b.source }} · {{ b.eta }}</p>
+        </article>
+        {% endfor %}
+        {% endif %}
+
+        {% for squadra, notizie in layout.box_squadre.items() %}
+        <section class="box-squadra">
+          <h2 class="testatina">{{ squadra }}</h2>
+          {% for n in notizie %}
+          <article class="breve">
+            <a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.title }}</a>
+            <p class="firma">{{ n.eta }}</p>
+          </article>
+          {% endfor %}
+        </section>
+        {% endfor %}
+      </div>
+    </section>
+  </main>
+
+  {% if layout.brevi %}
+  <div class="filetto-doppio"></div>
+  <section class="taglio-basso">
+    <h2 class="testatina">In breve</h2>
+    <div class="colonne-basso">
+      {% for b in layout.brevi %}
+      <p class="riga-breve">
+        <a href="{{ b.link }}" target="_blank" rel="noopener">{{ b.title }}</a>
+        <span class="firma-inline">{{ b.source }}</span>
+      </p>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- ============ PIEDE ============ -->
+  <footer class="piede">
+    <p>
+      Edizione generata automaticamente alle {{ ora }} del {{ data_estesa }}.
+      Titoli e sommari sono citazioni brevi delle testate indicate; i diritti
+      restano dei rispettivi editori e ogni titolo rimanda all'articolo originale.
+    </p>
+    <p class="fonti">Fonti di questa edizione: {{ fonti|join(' · ') }}</p>
+  </footer>
+</div>
+
+<button class="stampa" onclick="window.print()" aria-label="Stampa l'edizione">Stampa questa edizione</button>
+</body>
+</html>

@@ -1,0 +1,28 @@
+name: Manutenzione
+
+# Due lavori noiosi ma necessari:
+#  1. GitHub disattiva i workflow schedulati dopo 60 giorni senza attività
+#     nel repository. Un commit mensile tiene sveglio il cron.
+#  2. Un'edizione ogni 30 minuti gonfia la storia di git: qui la si pota.
+on:
+  schedule:
+    - cron: "17 4 1 * *"     # il 1° di ogni mese, 4:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sveglia:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Timbro mensile
+        run: |
+          git config user.name  "redazione-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p build
+          date -u +"ultima manutenzione: %Y-%m-%dT%H:%M:%SZ" > build/.keepalive
+          git add build/.keepalive
+          git commit -m "Manutenzione mensile (mantiene attivo il cron)" || exit 0
+          git push

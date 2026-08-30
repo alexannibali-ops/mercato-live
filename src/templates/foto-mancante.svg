@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img"
+     aria-label="Spazio riservato alla fotografia: il feed non ne ha fornita una">
+  <defs>
+    <!-- retino tipografico appena accennato -->
+    <pattern id="retino" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="4.5" cy="4.5" r="1.5" fill="#1b1512" opacity=".22"/>
+    </pattern>
+    <clipPath id="campo"><rect width="1200" height="760"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="760" fill="#e9c3b9"/>
+  <rect width="1200" height="760" fill="url(#retino)"/>
+
+  <!-- l'area di rigore vista di scorcio: segno grafico, non una finta foto -->
+  <g clip-path="url(#campo)" fill="none" stroke="#1b1512" stroke-opacity=".34" stroke-width="7">
+    <path d="M-120 690 L400 150 L800 150 L1320 690"/>
+    <path d="M150 690 L505 322 L695 322 L1050 690"/>
+    <path d="M405 150 L405 148"/>
+    <line x1="-120" y1="150" x2="1320" y2="150"/>
+    <path d="M474 322 A 130 88 0 0 0 726 322"/>
+    <circle cx="600" cy="238" r="9" fill="#1b1512" fill-opacity=".34" stroke="none"/>
+  </g>
+  <!-- pali della porta -->
+  <g stroke="#1b1512" stroke-opacity=".5" stroke-width="9" fill="none">
+    <path d="M448 150 L448 60 L752 60 L752 150"/>
+  </g>
+
+  <rect y="700" width="1200" height="60" fill="#f7d5cd" opacity=".94"/>
+  <text x="600" y="739" text-anchor="middle" font-family="Oswald, Arial Narrow, sans-serif"
+        font-size="22" letter-spacing="5" fill="#9a1f24">SPAZIO RISERVATO ALLA FOTOGRAFIA</text>
+</svg>

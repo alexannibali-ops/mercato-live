@@ -1,0 +1,425 @@
+/* =========================================================================
+   Il Mercato — foglio di stile tipografico
+   Pensato per due destinazioni: lo schermo e la carta (A3 verticale).
+   Tutto ciò che riguarda la stampa sta in fondo, in @media print.
+   ========================================================================= */
+
+:root{
+  /* La carta rosa dei quotidiani sportivi. Contrasti verificati:
+     inchiostro 13.2:1, testo tenue 6.1:1, rosso 5.9:1 — tutti sopra AA. */
+  --carta:      #f7d5cd;   /* rosa da rotativa */
+  --carta-scura:#eec2b8;   /* il piano su cui poggia il foglio */
+  --inchiostro: #1b1512;
+  --inchiostro-tenue:#5b4a44;
+  --filetto:    #1b1512;
+  --rosso:      #9a1f24;   /* occhielli e richiami */
+  --serif:      "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --display:    "Playfair Display", "Times New Roman", Times, serif;
+  --condensed:  "Oswald", "Haettenschweiler", "Arial Narrow", sans-serif;
+  --colonna:    1px solid rgba(22,19,15,.28);
+}
+
+*{ box-sizing:border-box; }
+
+body{
+  margin:0;
+  background:
+    radial-gradient(circle at 20% 10%, rgba(0,0,0,.035), transparent 60%),
+    var(--carta-scura);
+  color:var(--inchiostro);
+  font-family:var(--serif);
+  font-size:15px;
+  line-height:1.42;
+  -webkit-font-smoothing:antialiased;
+  padding:24px 12px 96px;
+}
+
+.foglio{
+  max-width:1180px;
+  margin:0 auto;
+  background:var(--carta);
+  padding:34px 38px 26px;
+  box-shadow:0 2px 34px rgba(0,0,0,.22);
+  /* finissima trama di carta */
+  background-image:
+    repeating-linear-gradient(0deg, rgba(0,0,0,.012) 0 1px, transparent 1px 3px);
+}
+
+a{ color:inherit; text-decoration:none; }
+a:hover{ text-decoration:underline; text-underline-offset:2px; }
+
+/* ---------------- testata ---------------- */
+.testata{
+  display:grid;
+  grid-template-columns:1fr auto 1fr;
+  align-items:flex-end;
+  gap:16px;
+  padding-bottom:10px;
+}
+.testata-lato{
+  display:flex; flex-direction:column; gap:3px;
+  font-family:var(--condensed);
+  font-size:11px; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--inchiostro-tenue);
+}
+.testata-lato.destra{ text-align:right; }
+.gerente{
+  font-family:var(--display);
+  font-weight:900;
+  font-size:clamp(46px, 9vw, 96px);
+  line-height:.9;
+  margin:0;
+  letter-spacing:-.02em;
+  text-align:center;
+}
+.sottotestata{
+  margin:8px 0 0;
+  text-align:center;
+  font-family:var(--condensed);
+  font-size:11.5px; letter-spacing:.24em; text-transform:uppercase;
+  color:var(--inchiostro-tenue);
+}
+
+.filetto{ border-top:var(--colonna); margin:10px 0; }
+.filetto-doppio{
+  border-top:3px solid var(--filetto);
+  border-bottom:1px solid var(--filetto);
+  height:4px; margin:6px 0 12px;
+}
+
+/* ---------------- civette ---------------- */
+.civette{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:0;
+}
+.civetta{
+  display:block;
+  padding:6px 16px;
+  border-left:var(--colonna);
+}
+.civetta:first-child{ border-left:0; padding-left:0; }
+.civetta:last-child{ padding-right:0; }
+.civetta-occhiello{
+  display:block;
+  font-family:var(--condensed);
+  font-size:10px; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--rosso);
+  margin-bottom:2px;
+}
+.civetta-titolo{
+  display:block;
+  font-family:var(--display);
+  font-weight:700; font-size:16px; line-height:1.18;
+}
+
+/* ---------------- corpo: quattro colonne ---------------- */
+/* La pagina è divisa in due metà uguali; ciascuna metà si spezza in due
+   colonne. Risultato: quattro colonne della stessa larghezza, con un filetto
+   verticale a separare gli articoli dal pezzo fotografico. */
+.corpo{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:0;
+  align-items:start;
+}
+.articoli{
+  padding-right:14px;
+  column-count:2;
+  column-gap:24px;
+  column-rule:var(--colonna);
+}
+.fotografico{
+  padding-left:14px;
+  border-left:var(--colonna);
+}
+
+.testatina{
+  font-family:var(--condensed);
+  font-size:12px; font-weight:600;
+  letter-spacing:.2em; text-transform:uppercase;
+  margin:0 0 8px;
+  padding-bottom:4px;
+  border-bottom:2px solid var(--filetto);
+}
+/* solo la testatina che apre un blocco occupa tutte le colonne;
+   quelle dei box di club scorrono dentro la colonna in cui capitano */
+.coda-destra > .testatina,
+.taglio-basso > .testatina{ column-span:all; }
+
+.occhiello{
+  font-family:var(--condensed);
+  font-size:10.5px; font-weight:600;
+  letter-spacing:.15em; text-transform:uppercase;
+  color:var(--rosso);
+  margin:0 0 4px;
+}
+
+/* --- colonne 1-2: gli articoli --- */
+.pezzo{
+  break-inside:avoid;
+  margin-bottom:14px;
+  padding-bottom:12px;
+  border-bottom:var(--colonna);
+}
+.pezzo:last-child{ border-bottom:0; }
+.titolo{
+  font-family:var(--display);
+  font-weight:700;
+  font-size:19px;
+  line-height:1.14;
+  margin:0 0 5px;
+  text-wrap:balance;
+}
+.testo{
+  margin:0 0 5px;
+  font-size:14px;
+  text-align:justify;
+  hyphens:auto;
+}
+
+/* --- colonne 3-4: il pezzo fotografico ---
+   foto e titolo occupano tutta la larghezza delle due colonne,
+   il testo scorre sotto ripartito fra le due. */
+.foto{ margin:0 0 10px; }
+.foto img{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:1200/760;
+  object-fit:cover;
+}
+.foto figcaption{
+  margin-top:4px;
+  font-family:var(--condensed);
+  font-size:10px;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+  color:var(--inchiostro-tenue);
+  border-bottom:var(--colonna);
+  padding-bottom:5px;
+}
+.occhiello-foto{ margin-top:9px; font-size:11.5px; }
+.titolo-foto{
+  font-family:var(--display);
+  font-weight:900;
+  font-size:clamp(26px, 3.1vw, 40px);
+  line-height:1.03;
+  letter-spacing:-.015em;
+  margin:0 0 10px;
+  text-wrap:balance;
+}
+.testo-foto{
+  column-count:2;
+  column-gap:24px;
+  column-rule:var(--colonna);
+}
+.sommario{
+  font-size:14.5px;
+  line-height:1.46;
+  margin:0 0 6px;
+  text-align:justify;
+  hyphens:auto;
+}
+.sommario::first-letter{
+  float:left;
+  font-family:var(--display);
+  font-weight:900;
+  font-size:3.05em;
+  line-height:.78;
+  padding:4px 7px 0 0;
+  color:var(--rosso);
+}
+.prosegue{
+  margin:6px 0 0;
+  font-family:var(--condensed);
+  font-size:11px;
+  letter-spacing:.06em;
+  color:var(--rosso);
+}
+
+/* sotto il pezzo fotografico si resta su due colonne */
+.coda-destra{
+  column-count:2;
+  column-gap:24px;
+  column-rule:var(--colonna);
+}
+
+/* --- brevi e box di club --- */
+.breve{
+  break-inside:avoid;
+  padding:7px 0;
+  border-bottom:var(--colonna);
+}
+.breve:last-child{ border-bottom:0; }
+.breve a{
+  font-family:var(--display);
+  font-weight:700;
+  font-size:14.5px;
+  line-height:1.2;
+  display:block;
+  margin-bottom:3px;
+}
+.box-squadra{ break-inside:avoid; margin-top:14px; }
+.box-squadra .testatina{ font-size:11px; }
+
+/* firme */
+.firma{
+  margin:0;
+  font-family:var(--condensed);
+  font-size:10px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--inchiostro-tenue);
+}
+.rilancio{
+  display:block;
+  text-transform:none;
+  letter-spacing:.02em;
+  font-family:var(--serif);
+  font-size:11.5px;
+  color:var(--inchiostro-tenue);
+  margin-top:2px;
+}
+
+/* taglio basso */
+.taglio-basso{ margin-top:6px; }
+.colonne-basso{
+  column-count:4;
+  column-gap:20px;
+  column-rule:var(--colonna);
+}
+.riga-breve{
+  break-inside:avoid;
+  margin:0 0 8px;
+  font-size:13px;
+  line-height:1.28;
+}
+.firma-inline{
+  display:block;
+  font-family:var(--condensed);
+  font-size:9.5px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--inchiostro-tenue);
+}
+
+/* piede */
+.piede{
+  margin-top:18px;
+  padding-top:10px;
+  border-top:3px double var(--filetto);
+  font-size:11px;
+  line-height:1.45;
+  color:var(--inchiostro-tenue);
+  text-align:center;
+}
+.piede p{ margin:0 0 4px; }
+.fonti{ font-family:var(--condensed); letter-spacing:.06em; text-transform:uppercase; font-size:10px; }
+
+/* bottone stampa (solo a schermo) */
+.stampa{
+  position:fixed; right:22px; bottom:22px;
+  font-family:var(--condensed);
+  font-size:12px; letter-spacing:.16em; text-transform:uppercase;
+  padding:12px 20px;
+  background:var(--inchiostro); color:var(--carta);
+  border:0; border-radius:2px; cursor:pointer;
+  box-shadow:0 4px 16px rgba(0,0,0,.3);
+}
+.stampa:hover{ background:var(--rosso); }
+
+/* ---------------- schermi stretti ---------------- */
+@media (max-width: 900px){
+  body{ padding:10px 6px 90px; }
+  .foglio{ padding:20px 16px; }
+  .testata{ grid-template-columns:1fr; }
+  .testata-lato{ flex-direction:row; justify-content:space-between; }
+  .testata-lato.destra{ text-align:left; }
+  .civette{ grid-template-columns:1fr; }
+  .civetta{ border-left:0; border-top:var(--colonna); padding:8px 0; }
+  .civetta:first-child{ border-top:0; }
+
+  /* le quattro colonne diventano una sola, e il pezzo fotografico va in cima */
+  .corpo{ grid-template-columns:1fr; }
+  .articoli{
+    order:2; column-count:1; padding-right:0;
+    border-top:var(--colonna); margin-top:16px; padding-top:14px;
+  }
+  .fotografico{ order:1; border-left:0; padding-left:0; }
+  .testo-foto, .coda-destra{ column-count:1; }
+  .colonne-basso{ column-count:1; }
+}
+
+/* =========================================================================
+   STAMPA — qui il giornale diventa carta.
+   Formato base A3 verticale: è il compromesso che regge tre colonne di
+   testo leggibile. Per A4 basta cambiare la riga @page qui sotto.
+   ========================================================================= */
+@page{
+  size: A3 portrait;
+  margin: 12mm 11mm 14mm;
+}
+
+@media print{
+  html,body{
+    background:var(--carta);
+    font-size:9.6pt;
+    padding:0; margin:0;
+    -webkit-print-color-adjust:exact;
+    print-color-adjust:exact;      /* senza questo il rosa non viene stampato */
+  }
+  .foglio{
+    max-width:none;
+    box-shadow:none;
+    background:var(--carta);
+    background-image:none;
+    padding:0;
+  }
+  .stampa{ display:none !important; }
+
+  /* niente URL stampati in coda ai link, e niente blu */
+  a, a:hover{ color:var(--inchiostro); text-decoration:none; }
+  .prosegue{ display:none; }   /* su carta un link non si clicca */
+
+  .gerente{ font-size:62pt; }
+  .titolo-foto{ font-size:26pt; }
+  .titolo{ font-size:12.5pt; }
+  .sommario{ font-size:10.4pt; }
+  .testo{ font-size:9.2pt; }
+  .civetta-titolo{ font-size:11pt; }
+  .breve a{ font-size:9.8pt; }
+  .riga-breve{ font-size:8.6pt; }
+  .foto figcaption{ font-size:7pt; }
+
+  .articoli{ padding-right:5mm; column-gap:7mm; }
+  .fotografico{ padding-left:5mm; }
+  .testo-foto, .coda-destra{ column-gap:7mm; }
+
+  /* niente orfane e vedove a metà colonna */
+  .pezzo, .breve, .riga-breve, .civetta, .foto, .box-squadra{
+    break-inside:avoid;
+    page-break-inside:avoid;
+  }
+  p{ orphans:3; widows:3; }
+
+  .piede{ border-top:2px double #000; font-size:7.4pt; }
+}
+
+/* Se serve l'A4: decommenta e commenta il blocco @page qui sopra.
+@page{ size: A4 portrait; margin: 10mm; }
+@media print{ .colonne-basso{ column-count:3; } .articoli{ column-count:1; } }
+*/
+
+/* bollo dell'edizione di prova (make demo) */
+.bollo-demo{
+  margin:0 0 14px;
+  padding:9px 14px;
+  border:2px dashed var(--rosso);
+  color:var(--rosso);
+  font-family:var(--condensed);
+  font-size:12px;
+  letter-spacing:.05em;
+  text-align:center;
+}
+@media print{ .bollo-demo{ border-color:#000; color:#000; } }
