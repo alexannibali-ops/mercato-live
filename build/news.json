@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T02:29:16.902149+02:00",
+ "generated_at": "2026-09-02T06:59:24.522704+02:00",
  "articles": [
   {
    "title": "UFFICIALE - Como, colpo Kean: \"Ottimo progetto, Fabregas ha grandi idee\"",
@@ -11,23 +11,9 @@
    "published": "2026-09-01T17:50:19+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ef/ef604bbe3f678952f9221771202d0115-77950-771o132o1614o975z0da4.jpeg",
    "id": "e8500b928ff4",
-   "age_minutes": 398,
+   "age_minutes": 669,
    "also": [],
-   "score": 10.648
-  },
-  {
-   "title": "Calciomercato Napoli, Teotino a Sky: \"Serviva un colpo, una scintilla\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/calciomercato-napoli-teotino-sky-serviva-colpo-scintilla-655129",
-   "summary": "Il momento del Napoli continua a far discutere dopo la sconfitta contro il Como.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T22:30:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d6/d67f20e2305c884f7f18fa7299bdf3dd-16583-oooz0000.jpeg",
-   "id": "391d7a784981",
-   "age_minutes": 118,
-   "also": [],
-   "score": 10.571
+   "score": 9.922
   },
   {
    "title": "UFFICIALE - Juve, ingaggio last minute: Woltemade in prestito dal Newcastle",
@@ -39,9 +25,23 @@
    "published": "2026-09-01T19:05:39+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7a/7a895ed6d4ac560962ff2c8efb3a5ce8-14211-oooz0000.jpeg",
    "id": "1e2cbc7ac08f",
-   "age_minutes": 323,
+   "age_minutes": 593,
    "also": [],
-   "score": 10.507
+   "score": 9.697
+  },
+  {
+   "title": "Calciomercato Napoli, Teotino a Sky: \"Serviva un colpo, una scintilla\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/calciomercato-napoli-teotino-sky-serviva-colpo-scintilla-655129",
+   "summary": "Il momento del Napoli continua a far discutere dopo la sconfitta contro il Como.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-01T22:30:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d6/d67f20e2305c884f7f18fa7299bdf3dd-16583-oooz0000.jpeg",
+   "id": "391d7a784981",
+   "age_minutes": 388,
+   "also": [],
+   "score": 9.482
   },
   {
    "title": "UFFICIALE: Youssouf Fofana è un nuovo giocatore del Siviglia. Il comunicato",
@@ -53,23 +53,23 @@
    "published": "2026-09-01T22:10:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f9/f904bf450d7aeb293511c108089f5c5d-47142-oooz0000.jpeg",
    "id": "e79d99b6056a",
-   "age_minutes": 138,
+   "age_minutes": 408,
    "also": [],
-   "score": 9.675
+   "score": 8.617
   },
   {
-   "title": "Calciomercato Napoli, Mediaset: “Voto 5! Si è capita la differenza tra Conte e Allegri…”",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-mediaset-voto-5-capita-differenza-conte-allegri-655126",
-   "summary": "Un mercato che non ha convinto e che lascia il Napoli sostanzialmente con la stessa rosa di partenza. È questo il giudizio di SportMediaset, che ha assegnato un 5 alla sessione estiva condotta dal club azzurro.",
+   "title": "Calciomercato Napoli, Corbo: “Manna ha soltanto una colpa: non ha parlato chiaro”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/corbo-655085",
+   "summary": "Mercato, rosa, ambizioni e futuro del Napoli: Antonio Corbo, giornalista ed editorialista di Repubblica, analizza a Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone…",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-09-01T21:30:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a8/a8180cc4057128703d86ef9015a80ada-23271-oooz0000.jpeg",
-   "id": "2d3d195cbbe9",
-   "age_minutes": 178,
+   "published": "2026-09-02T03:00:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a6/a6304290d42030958a6709a7e5251b6f-84380-oooz0000.jpeg",
+   "id": "d6b7200aa419",
+   "age_minutes": 119,
    "also": [],
-   "score": 8.69
+   "score": 8.567
   },
   {
    "title": "Colpo Norton-Cuffy, altro che Venezia: affare da 14 milioni",
@@ -81,89 +81,23 @@
    "published": "2026-09-01T11:02:21+00:00",
    "image": "",
    "id": "28f24f9acf52",
-   "age_minutes": 806,
+   "age_minutes": 1077,
    "also": [],
-   "score": 8.647
+   "score": 8.244
   },
   {
-   "title": "UFFICIALE - Bonfanti si trasferisce in prestito alla Carrarese",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/ufficiale-bonfanti-trasferisce-prestito-carrarese-1017400",
-   "summary": "Nuova avventura in Serie B per Nicholas Bonfanti. L'attaccante classe 2002, prodotto delle giovanili dell'Inter, lascia il Pisa in prestito per trasferirsi sempre in Toscana, ma stavolta alla corte della Carrarese.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T20:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/35/35424507e4c135bee46dc3148eca5458-91845-623o0o2051o1427z1005.jpeg",
-   "id": "ba9c18326812",
-   "age_minutes": 239,
-   "also": [],
-   "score": 8.431
-  },
-  {
-   "title": "Romano rivela: “Adesso è ufficiale, Tomori sarà reintegrato in rosa”",
-   "link": "https://www.milannews.it/news/roma-rivela-adesso-ufficiale-tomori-reintegrato-rosa-628606",
-   "summary": "Dopo i rumors emersi nei primi minuti post chiusura della sessione del calciomercato estivo, arriva la conferma di Fabrizio Romano: Fikayo Tomori sarà reintegrato in rosa almeno fino alla sessione di mercato di gennaio.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-01T21:00:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b4/b469cd7499e82261ec7ef96e82f23c87-72899-oooz0000.jpeg",
-   "id": "e73a5a7afd9a",
-   "age_minutes": 208,
-   "also": [
-    {
-     "source": "TuttoJuve",
-     "link": "https://www.tuttojuve.com/l-avversario/milan-fikayo-tomori-reintegrato-rosa-791440"
-    }
-   ],
-   "score": 8.359
-  },
-  {
-   "title": "Niente Everton per Zirkzee: lo United blocca la cessione",
-   "link": "https://www.tuttojuve.com/calciomercato/everton-zirkzee-united-blocca-cessione-791451",
-   "summary": "Niente trasferimento per Joshua Zirkzee nelle ultime ore della sessione di mercato.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T21:50:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f4/f49cfa4134eead4a7e856e5c2bebf9e2-07721-oooz0000.jpeg",
-   "id": "380145254b31",
-   "age_minutes": 158,
-   "also": [
-    {
-     "source": "TuttoJuve",
-     "link": "https://www.tuttojuve.com/calciomercato/zirkzee-spunta-everton-contatti-manchester-united-entourage-alternativa-balogun-791444"
-    }
-   ],
-   "score": 8.18
-  },
-  {
-   "title": "Calciomercato Napoli, Manna si è mosso per primo per molti obiettivi: perchè sono sfumati",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-manna-mosso-giocatori-arrivati-655132",
-   "summary": "Il Napoli si era mosso per tempo su diversi obiettivi di mercato, ma non è riuscito a trasformare l’interesse in operazioni concrete.",
+   "title": "Calciomercato Napoli, Mediaset: “Voto 5! Si è capita la differenza tra Conte e Allegri…”",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-mediaset-voto-5-capita-differenza-conte-allegri-655126",
+   "summary": "Un mercato che non ha convinto e che lascia il Napoli sostanzialmente con la stessa rosa di partenza. È questo il giudizio di SportMediaset, che ha assegnato un 5 alla sessione estiva condotta dal club azzurro.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-09-01T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
-   "id": "f8b26c1663bf",
-   "age_minutes": 259,
+   "published": "2026-09-01T21:30:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a8/a8180cc4057128703d86ef9015a80ada-23271-oooz0000.jpeg",
+   "id": "2d3d195cbbe9",
+   "age_minutes": 448,
    "also": [],
-   "score": 7.951
-  },
-  {
-   "title": "UFFICIALE - Kamate all'Atletico a titolo definitivo. L'Inter mantiene la recompra",
-   "link": "https://www.fcinternews.it/focus/ufficiale-kamate-atletico-definitivo-inter-mantiene-recompra-1017402",
-   "summary": "A pochi minuti dalla fine del calciomercato estivo, l'Inter ha comunicato ufficialmente la cessione di Issiaka Kamate all'Atlético Madrid.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T17:35:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c140e5501033caf885800e0c69480ddf-21167-469o72o1372o975z0b48.jpeg",
-   "id": "5fc8611c5553",
-   "age_minutes": 413,
-   "also": [],
-   "score": 7.8
+   "score": 7.692
   },
   {
    "title": "Milan, accordo per la cessione di Fofana: dove giocherà",
@@ -175,23 +109,75 @@
    "published": "2026-08-31T17:00:20+00:00",
    "image": "",
    "id": "a6ea0c02471f",
-   "age_minutes": 1888,
-   "also": [],
-   "score": 7.661
-  },
-  {
-   "title": "Fiorentina, è Beto il sostituto di Kean: visite mediche e firma",
-   "link": "https://www.calciomercato.it/2026/08/31/fiorentina-e-beto-il-sostituto-di-kean-visite-mediche-e-firma/",
-   "summary": "L'articolo Fiorentina, è Beto il sostituto di Kean: visite mediche e firma proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-08-31T12:30:11+00:00",
-   "image": "",
-   "id": "9e0ec6a8811c",
    "age_minutes": 2159,
    "also": [],
    "score": 7.577
+  },
+  {
+   "title": "UFFICIALE - Bonfanti si trasferisce in prestito alla Carrarese",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/ufficiale-bonfanti-trasferisce-prestito-carrarese-1017400",
+   "summary": "Nuova avventura in Serie B per Nicholas Bonfanti. L'attaccante classe 2002, prodotto delle giovanili dell'Inter, lascia il Pisa in prestito per trasferirsi sempre in Toscana, ma stavolta alla corte della Carrarese.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T20:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/35/35424507e4c135bee46dc3148eca5458-91845-623o0o2051o1427z1005.jpeg",
+   "id": "ba9c18326812",
+   "age_minutes": 509,
+   "also": [],
+   "score": 7.517
+  },
+  {
+   "title": "Romano rivela: “Adesso è ufficiale, Tomori sarà reintegrato in rosa”",
+   "link": "https://www.milannews.it/news/roma-rivela-adesso-ufficiale-tomori-reintegrato-rosa-628606",
+   "summary": "Dopo i rumors emersi nei primi minuti post chiusura della sessione del calciomercato estivo, arriva la conferma di Fabrizio Romano: Fikayo Tomori sarà reintegrato in rosa almeno fino alla sessione di mercato di gennaio.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-01T21:00:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b4/b469cd7499e82261ec7ef96e82f23c87-72899-oooz0000.jpeg",
+   "id": "e73a5a7afd9a",
+   "age_minutes": 478,
+   "also": [
+    {
+     "source": "TuttoJuve",
+     "link": "https://www.tuttojuve.com/l-avversario/milan-fikayo-tomori-reintegrato-rosa-791440"
+    }
+   ],
+   "score": 7.403
+  },
+  {
+   "title": "Niente Everton per Zirkzee: lo United blocca la cessione",
+   "link": "https://www.tuttojuve.com/calciomercato/everton-zirkzee-united-blocca-cessione-791451",
+   "summary": "Niente trasferimento per Joshua Zirkzee nelle ultime ore della sessione di mercato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-01T21:50:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f4/f49cfa4134eead4a7e856e5c2bebf9e2-07721-oooz0000.jpeg",
+   "id": "380145254b31",
+   "age_minutes": 428,
+   "also": [
+    {
+     "source": "TuttoJuve",
+     "link": "https://www.tuttojuve.com/calciomercato/zirkzee-spunta-everton-contatti-manchester-united-entourage-alternativa-balogun-791444"
+    }
+   ],
+   "score": 7.153
+  },
+  {
+   "title": "UFFICIALE - Kamate all'Atletico a titolo definitivo. L'Inter mantiene la recompra",
+   "link": "https://www.fcinternews.it/focus/ufficiale-kamate-atletico-definitivo-inter-mantiene-recompra-1017402",
+   "summary": "A pochi minuti dalla fine del calciomercato estivo, l'Inter ha comunicato ufficialmente la cessione di Issiaka Kamate all'Atlético Madrid.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T17:35:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c140e5501033caf885800e0c69480ddf-21167-469o72o1372o975z0b48.jpeg",
+   "id": "5fc8611c5553",
+   "age_minutes": 684,
+   "also": [],
+   "score": 7.089
   },
   {
    "title": "Cessione last second, il Milan saluta un altro esubero",
@@ -203,37 +189,23 @@
    "published": "2026-09-01T17:16:52+00:00",
    "image": "",
    "id": "f8b820796fc0",
-   "age_minutes": 432,
+   "age_minutes": 702,
    "also": [],
-   "score": 7.542
+   "score": 6.85
   },
   {
-   "title": "Cuomo stupefatto: \"Tomori poteva stare a passeggiare a Milanello tanto chissenefrega e ora viene reintegrato? Che disordine!\"",
-   "link": "https://www.milannews.it/calciomercato-milan/cuomo-tomori-reintegrato-calciomercato-milan-amorim-cardinale-milanello-mercato-628593",
-   "summary": "Michael Cuomo, giornalista, si è così espresso sul canale Youtube di Carlos Passerini sull'esito finale del calciomercato del Milan: \"Spendere tanto non è sinonimo di spendere bene.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-01T22:24:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/6250cb1e9e9d8f11dc0d3d44bb536a43-75662-oooz0000.jpeg",
-   "id": "6e91687719cd",
-   "age_minutes": 125,
-   "also": [],
-   "score": 7.139
-  },
-  {
-   "title": "Coppa Italia, colpo Monza! Batte il Torino (che protesta per un rigore tolto) e va agli ottavi",
-   "link": "https://www.tuttonapoli.net/serie-a/coppa-italia-colpo-monza-batte-torino-che-protesta-rigore-tolto-ottavi-655139",
-   "summary": "Il Monza firma il colpaccio in Coppa Italia ed elimina il Torino davanti al proprio pubblico.",
+   "title": "Sportitalia, Credendino: “Napoli ancora senza identità! Mercato? ADL era stato chiaro…”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/credendino-kk-655110",
+   "summary": "Calciomercato e prime due giornate di campionato: è già possibile tracciare una prima gerarchia in Serie A? Ne abbiamo parlato con Vincenzo Credendino, giornalista di Sportitalia, intervenuto sulla nostra Radio Tutto…",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-09-01T21:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9a/9afb6d851fe52902653dbc79cadc8822-15383-oooz0000.jpeg",
-   "id": "0c3a296d6eed",
-   "age_minutes": 197,
+   "published": "2026-09-02T01:00:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bd/bda9b346090ab15056718972feaf3465-53658-oooz0000.jpeg",
+   "id": "2c712e186a64",
+   "age_minutes": 238,
    "also": [],
-   "score": 7.008
+   "score": 6.834
   },
   {
    "title": "Premier o Inter? In arrivo firma e ufficialità per Esposito | VIDEO CM",
@@ -245,23 +217,9 @@
    "published": "2026-09-01T13:39:48+00:00",
    "image": "",
    "id": "b4d69aecc21a",
-   "age_minutes": 649,
+   "age_minutes": 919,
    "also": [],
-   "score": 6.966
-  },
-  {
-   "title": "L'educazione di Pio",
-   "link": "https://www.fcinternews.it/editoriale/fcin-1017331",
-   "summary": "Ieri Pio Esposito, mentre stava per entrare in sede per firmare il rinnovo di contratto con l’Inter, si è fermato con un tifoso nerazzurro non solo per i selfie di rito, ma pure per parlare in videochiamata con un’amica…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T22:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/0993179268fa9e4600f025653c0ae962-06603-oooz0000.jpeg",
-   "id": "b23e447cd38f",
-   "age_minutes": 149,
-   "also": [],
-   "score": 6.824
+   "score": 6.46
   },
   {
    "title": "Juventus, Spalletti ha il suo gigante: visite e firma per Woltemade | VIDEO CM",
@@ -273,65 +231,23 @@
    "published": "2026-09-01T12:26:52+00:00",
    "image": "",
    "id": "3b5c8bf6760c",
-   "age_minutes": 722,
+   "age_minutes": 992,
    "also": [],
-   "score": 6.809
+   "score": 6.354
   },
   {
-   "title": "Gabriel Jesus si presenta al Barcellona e svela: \"Io piano B? Mi sono ridotto l’ingaggio\"",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/gabriel-jesus-presenta-barca-svela-io-piano-b-ridotto-l-ingaggio-655140",
-   "summary": "Gabriel Jesus è ufficialmente un nuovo giocatore del Barcellona dopo il trasferimento lampo dall’Arsenal.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T21:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d9578b425e2d0628ed6741e04c6f581-89398-oooz0000.jpeg",
-   "id": "f6dafef217b5",
-   "age_minutes": 168,
-   "also": [],
-   "score": 6.734
-  },
-  {
-   "title": "Il bilancio di Bergomi dopo il mercato: \"Inter e Roma le squadre che mi piacciono di più\"",
-   "link": "https://www.fcinternews.it/focus/bilancio-bergomi-mercato-inter-roma-squadre-piacciono-piu-1017407",
-   "summary": "Beppe Bergomi non sa eleggere la vera regina del calciomercato italiano, che si è chiuso oggi alle 20 per quanto riguarda la Serie A: \"Faccio fatica a dire quale club si sia mosso meglio sul mercato perché ogni rosa ha…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T18:50:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1e168c8fa356a31bd9613f3f9232e919-25980-oooz0000.jpeg",
-   "id": "d6ede3c49508",
-   "age_minutes": 338,
-   "also": [],
-   "score": 6.452
-  },
-  {
-   "title": "Juve, mercato da 7-, ecco perchè, cosa si poteva fare e cosa si è fatto",
-   "link": "https://www.tuttojuve.com/primo-piano/juve-mercato-7-791389",
-   "summary": "Sette meno.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T22:05:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8f/8fb86f9d28b77eadd905e8f6c53311b4-83496-oooz0000.jpeg",
-   "id": "f6be06565314",
-   "age_minutes": 144,
-   "also": [],
-   "score": 6.449
-  },
-  {
-   "title": "Il mercato del Milan come il fiume Okavango. È INCOMPLETO! Cardinale, le speranze e una congiunzione!",
-   "link": "https://www.milannews.it/editoriale/mercato-milan-fiume-okavango-incompleto-cardinale-speranze-congiunzione-628608",
-   "summary": "Vi racconto qui la storia del fiume Okavango, che scorre per 1600 chilometri nell’Africa sud-occidentale.",
+   "title": "Cuomo stupefatto: \"Tomori poteva stare a passeggiare a Milanello tanto chissenefrega e ora viene reintegrato? Che disordine!\"",
+   "link": "https://www.milannews.it/calciomercato-milan/cuomo-tomori-reintegrato-calciomercato-milan-amorim-cardinale-milanello-mercato-628593",
+   "summary": "Michael Cuomo, giornalista, si è così espresso sul canale Youtube di Carlos Passerini sull'esito finale del calciomercato del Milan: \"Spendere tanto non è sinonimo di spendere bene.",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-09-01T22:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c5/c5bb3e164b1f524168e1b06cdc076e0d-14811-oooz0000.jpeg",
-   "id": "47a810993eb9",
-   "age_minutes": 149,
+   "published": "2026-09-01T22:24:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/6250cb1e9e9d8f11dc0d3d44bb536a43-75662-oooz0000.jpeg",
+   "id": "6e91687719cd",
+   "age_minutes": 395,
    "also": [],
-   "score": 6.424
+   "score": 6.06
   },
   {
    "title": "Sì di Tagliafico alla Juventus, colpo sul gong per i bianconeri",
@@ -343,9 +259,23 @@
    "published": "2026-09-01T08:07:42+00:00",
    "image": "",
    "id": "400041e25d0f",
-   "age_minutes": 981,
+   "age_minutes": 1251,
    "also": [],
-   "score": 6.369
+   "score": 6.056
+  },
+  {
+   "title": "Coppa Italia, colpo Monza! Batte il Torino (che protesta per un rigore tolto) e va agli ottavi",
+   "link": "https://www.tuttonapoli.net/serie-a/coppa-italia-colpo-monza-batte-torino-che-protesta-rigore-tolto-ottavi-655139",
+   "summary": "Il Monza firma il colpaccio in Coppa Italia ed elimina il Torino davanti al proprio pubblico.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-01T21:12:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9a/9afb6d851fe52902653dbc79cadc8822-15383-oooz0000.jpeg",
+   "id": "0c3a296d6eed",
+   "age_minutes": 467,
+   "also": [],
+   "score": 6.037
   },
   {
    "title": "Spalletti può esultare: come un nuovo acquisto per la Juventus",
@@ -357,9 +287,121 @@
    "published": "2026-09-01T06:56:32+00:00",
    "image": "",
    "id": "1c9e08cf258e",
-   "age_minutes": 1052,
+   "age_minutes": 1322,
    "also": [],
-   "score": 6.275
+   "score": 5.992
+  },
+  {
+   "title": "L'educazione di Pio",
+   "link": "https://www.fcinternews.it/editoriale/fcin-1017331",
+   "summary": "Ieri Pio Esposito, mentre stava per entrare in sede per firmare il rinnovo di contratto con l’Inter, si è fermato con un tifoso nerazzurro non solo per i selfie di rito, ma pure per parlare in videochiamata con un’amica…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/0993179268fa9e4600f025653c0ae962-06603-oooz0000.jpeg",
+   "id": "b23e447cd38f",
+   "age_minutes": 419,
+   "also": [],
+   "score": 5.783
+  },
+  {
+   "title": "Gabriel Jesus si presenta al Barcellona e svela: \"Io piano B? Mi sono ridotto l’ingaggio\"",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/gabriel-jesus-presenta-barca-svela-io-piano-b-ridotto-l-ingaggio-655140",
+   "summary": "Gabriel Jesus è ufficialmente un nuovo giocatore del Barcellona dopo il trasferimento lampo dall’Arsenal.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-01T21:40:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d9578b425e2d0628ed6741e04c6f581-89398-oooz0000.jpeg",
+   "id": "f6dafef217b5",
+   "age_minutes": 439,
+   "also": [],
+   "score": 5.722
+  },
+  {
+   "title": "Come finisce Inter-Napoli? Il pronostico di Biasin a Radio Tutto Napoli",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/biasin-655104",
+   "summary": "Fabrizio Biasin, giornalista di Libero e Cronache di Spogliatoio, è stato nostro ospite su Radio Tutto Napoli per parlare di Inter-Napoli e di come il mercato ha ridisegnato gli equilibri della Serie A.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-02T04:00:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a098781b0ad0b3d18bde9734f027d1af-36106-oooz0000.jpeg",
+   "id": "4dd5a1542a4e",
+   "age_minutes": 58,
+   "also": [],
+   "score": 5.674
+  },
+  {
+   "title": "Il bilancio di Bergomi dopo il mercato: \"Inter e Roma le squadre che mi piacciono di più\"",
+   "link": "https://www.fcinternews.it/focus/bilancio-bergomi-mercato-inter-roma-squadre-piacciono-piu-1017407",
+   "summary": "Beppe Bergomi non sa eleggere la vera regina del calciomercato italiano, che si è chiuso oggi alle 20 per quanto riguarda la Serie A: \"Faccio fatica a dire quale club si sia mosso meglio sul mercato perché ogni rosa ha…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T18:50:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1e168c8fa356a31bd9613f3f9232e919-25980-oooz0000.jpeg",
+   "id": "d6ede3c49508",
+   "age_minutes": 609,
+   "also": [],
+   "score": 5.66
+  },
+  {
+   "title": "Messi dice addio alla nazionale argentina, la fine di un’era",
+   "link": "https://www.calciomercato.it/2026/08/31/messi-dice-addio-alla-nazionale-argentina-la-fine-di-unera/",
+   "summary": "L'articolo Messi dice addio alla nazionale argentina, la fine di un’era proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-08-31T20:17:58+00:00",
+   "image": "",
+   "id": "5c3edba8ee7d",
+   "age_minutes": 1961,
+   "also": [],
+   "score": 5.635
+  },
+  {
+   "title": "Napoli ko con il Como, Petino: “Piano gara sbagliato! Ma poteva finire in pareggio”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-ko-como-petino-piano-gara-sbagliato-poteva-finire-pareggio-655137",
+   "summary": "Il ko del Napoli contro il Como, il mercato e l’assenza di Scott McTominay.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-02T02:00:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d8/d8faa01617bf0c8bd70a59349e80b3fa-93306-oooz0000.jpeg",
+   "id": "8124ec9719d9",
+   "age_minutes": 178,
+   "also": [],
+   "score": 5.489
+  },
+  {
+   "title": "Juve, mercato da 7-, ecco perchè, cosa si poteva fare e cosa si è fatto",
+   "link": "https://www.tuttojuve.com/primo-piano/juve-mercato-7-791389",
+   "summary": "Sette meno.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-01T22:05:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8f/8fb86f9d28b77eadd905e8f6c53311b4-83496-oooz0000.jpeg",
+   "id": "f6be06565314",
+   "age_minutes": 414,
+   "also": [],
+   "score": 5.4
+  },
+  {
+   "title": "Il mercato del Milan come il fiume Okavango. È INCOMPLETO! Cardinale, le speranze e una congiunzione!",
+   "link": "https://www.milannews.it/editoriale/mercato-milan-fiume-okavango-incompleto-cardinale-speranze-congiunzione-628608",
+   "summary": "Vi racconto qui la storia del fiume Okavango, che scorre per 1600 chilometri nell’Africa sud-occidentale.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-01T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c5/c5bb3e164b1f524168e1b06cdc076e0d-14811-oooz0000.jpeg",
+   "id": "47a810993eb9",
+   "age_minutes": 419,
+   "also": [],
+   "score": 5.383
   },
   {
    "title": "ll Fenerbahce piomba su Calhanoglu: assalto del club turco in casa Inter",
@@ -371,79 +413,9 @@
    "published": "2026-09-01T20:27:59+00:00",
    "image": "",
    "id": "f9304214f658",
-   "age_minutes": 241,
+   "age_minutes": 511,
    "also": [],
-   "score": 6.223
-  },
-  {
-   "title": "Falci: \"Carnevali e Massara hanno fatto un miracolo, mercato Juventus da 7,5. Ora tocca a Spalletti\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/falci-carnevali-massara-miracolo-mercato-juventus-7-5-tocca-spalletti-791441",
-   "summary": "Il mercato estivo della Juventus supera ampiamente l'esame secondo Giuseppe Falci.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T21:00:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8f/8fb86f9d28b77eadd905e8f6c53311b4-83496-oooz0000.jpeg",
-   "id": "b575a270bf96",
-   "age_minutes": 209,
-   "also": [],
-   "score": 6.157
-  },
-  {
-   "title": "Diouf sposa in maniera \"ufficiale\" il proprio soprannome",
-   "link": "https://www.fcinternews.it/news/diouf-sposa-maniera-ufficiale-soprannome-1017409",
-   "summary": "Ora c'è anche la conferma \"ufficiale\": Andy Diouf ha definitivamente sposato il proprio soprannome \"Il Calcio\", nickname nato per gioco sui vari social media ma presto diffusosi in maniera esponenziale fino a giungere a…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/99/992ed9171a81a85a99189ec5eb46e277-30389-oooz0000.jpeg",
-   "id": "e14a895bba0c",
-   "age_minutes": 209,
-   "also": [],
-   "score": 6.157
-  },
-  {
-   "title": "Letizia: \"Chissà se sapremo mai la verità su ciò che è successo a Casa Milan nelle ultime ore”",
-   "link": "https://www.milannews.it/calciomercato-milan/letizia-tomori-reintegrato-calciomercato-milan-amorim-cardinale-milanello-mercato-628594",
-   "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube sul calciomercato del Milan e sul reintegro di Tomori: \"Chissà se sapremo mai la verità.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-01T22:12:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/17ff34651c8be8667777625ce3c18fd6-26708-oooz0000.jpeg",
-   "id": "07406c9f9700",
-   "age_minutes": 136,
-   "also": [],
-   "score": 6.083
-  },
-  {
-   "title": "Assalto Besiktas per Koopmeiners, nel mirino il centrocampista della Juventus",
-   "link": "https://www.calciomercato.it/2026/09/01/assalto-besiktas-per-koopmeiners-nel-mirino-il-centrocampista-della-juventus/",
-   "summary": "L'articolo Assalto Besiktas per Koopmeiners, nel mirino il centrocampista della Juventus proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-01T19:40:15+00:00",
-   "image": "",
-   "id": "84f11cb2a4f9",
-   "age_minutes": 289,
-   "also": [],
-   "score": 6.035
-  },
-  {
-   "title": "Un “lavorone” che ora dovrà dare i suoi frutti",
-   "link": "https://www.tuttojuve.com/firme-bianconere/lavorone-dare-frutti-791370",
-   "summary": "Devo essere onesto e sincero: all’inizio di questa sessione estiva del calciomercato, non mi aspettavo più di 4-5 innesti per la Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T22:01:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2f/2fd200bb819dc60642244e070196b1d1-12629-oooz0000.jpeg",
-   "id": "045c152b5f52",
-   "age_minutes": 148,
-   "also": [],
-   "score": 6.029
+   "score": 5.311
   },
   {
    "title": "Kamate: \"Inter, è stato un onore immenso. Dire grazie non è abbastanza\"",
@@ -455,9 +427,51 @@
    "published": "2026-09-01T18:35:32+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f2/f2d84630a656bbd09102e6351e0fe7c6-43668-oooz0000.jpeg",
    "id": "169dae9c0f9b",
-   "age_minutes": 353,
+   "age_minutes": 623,
    "also": [],
-   "score": 6.0
+   "score": 5.225
+  },
+  {
+   "title": "Falci: \"Carnevali e Massara hanno fatto un miracolo, mercato Juventus da 7,5. Ora tocca a Spalletti\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/falci-carnevali-massara-miracolo-mercato-juventus-7-5-tocca-spalletti-791441",
+   "summary": "Il mercato estivo della Juventus supera ampiamente l'esame secondo Giuseppe Falci.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-01T21:00:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8f/8fb86f9d28b77eadd905e8f6c53311b4-83496-oooz0000.jpeg",
+   "id": "b575a270bf96",
+   "age_minutes": 479,
+   "also": [],
+   "score": 5.202
+  },
+  {
+   "title": "Diouf sposa in maniera \"ufficiale\" il proprio soprannome",
+   "link": "https://www.fcinternews.it/news/diouf-sposa-maniera-ufficiale-soprannome-1017409",
+   "summary": "Ora c'è anche la conferma \"ufficiale\": Andy Diouf ha definitivamente sposato il proprio soprannome \"Il Calcio\", nickname nato per gioco sui vari social media ma presto diffusosi in maniera esponenziale fino a giungere a…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T21:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/99/992ed9171a81a85a99189ec5eb46e277-30389-oooz0000.jpeg",
+   "id": "e14a895bba0c",
+   "age_minutes": 479,
+   "also": [],
+   "score": 5.202
+  },
+  {
+   "title": "Assalto Besiktas per Koopmeiners, nel mirino il centrocampista della Juventus",
+   "link": "https://www.calciomercato.it/2026/09/01/assalto-besiktas-per-koopmeiners-nel-mirino-il-centrocampista-della-juventus/",
+   "summary": "L'articolo Assalto Besiktas per Koopmeiners, nel mirino il centrocampista della Juventus proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-01T19:40:15+00:00",
+   "image": "",
+   "id": "84f11cb2a4f9",
+   "age_minutes": 559,
+   "also": [],
+   "score": 5.184
   },
   {
    "title": "UFFICIALE - Gnonto torna in Italia: l'ex Inter giocherà alla Fiorentina",
@@ -469,26 +483,45 @@
    "published": "2026-09-01T20:02:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/11/119776470835113961adec554abf0c23-40768-582o296o1287o1001z0c5e.jpeg",
    "id": "b520bad28190",
-   "age_minutes": 267,
+   "age_minutes": 537,
    "also": [],
-   "score": 5.919
-  },
-  {
-   "title": "Sky - Mauro Icardi ha deciso: no all'offerta della Lazio",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/i-sky-i-mauro-icardi-deciso-offerta-lazio-1017410",
-   "summary": "Il futuro di Mauro Icardi non avrà i colori della Lazio. Come riportato da Sky Sport, l'ex capitano dell'Inter avrebbe riflettuto a lungo in merito alla proposta inviatagli dalla società romana, salvo poi decidere di…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T19:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4d/4d0a329ca2271eba990d6c368b74b881-55970-oooz0000.jpeg",
-   "id": "940a360ac037",
-   "age_minutes": 281,
-   "also": [],
-   "score": 5.865
+   "score": 5.041
   }
  ],
  "raw": [
+  {
+   "title": "Juve, tutto avanti",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-791452",
+   "summary": "Una Juventus completamente ribaltata davanti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-02T04:45:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9854f47c023d90aa68d82c6b0439da6-91889-oooz0000.jpeg",
+   "id": "9b42fbbad187"
+  },
+  {
+   "title": "Woltemade, c'è qualcosa dietro!",
+   "link": "https://www.tuttojuve.com/primo-piano/woltemade-dietro-791331",
+   "summary": "Il primo errore sarebbe guardare Nick Woltemade, leggere 1,98 metri di altezza e immaginare il classico centravanti d'area al quale affidare una quantità industriale di cross.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-02T04:40:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7e/7e8f34e6842a5acca79a1e9eb909d62e-52116-oooz0000.jpeg",
+   "id": "b5c27f020d1f"
+  },
+  {
+   "title": "Segno subito",
+   "link": "https://www.tuttojuve.com/altre-notizie/segno-791454",
+   "summary": "Nick Woltemade è arrivato. Il gigante tedesco è pronto a cominciare la sua avventura con la Juventus e Luciano Spalletti ha immediatamente una tentazione: utilizzarlo già contro il Milan.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-02T04:30:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4b/4b0e5043097d71a52ca7dc1a96f2586f-86049-oooz0000.jpeg",
+   "id": "1854989e7903"
+  },
   {
    "title": "Zhegrova, non è ancora detto che rimanga, ecco da cosa dipende",
    "link": "https://www.tuttojuve.com/calciomercato/zhegrova-rimanga-dipende-791402",
@@ -499,9 +532,9 @@
    "published": "2026-09-01T23:30:43+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32ff53dfbfa18bf150ed9f1aa300db13-07751-oooz0000.jpeg",
    "id": "02096903a672",
-   "age_minutes": 58,
+   "age_minutes": 328,
    "also": [],
-   "score": 5.676
+   "score": 4.488
   },
   {
    "title": "Pape Matar Sarr dovrà probabilmente aspettare",
@@ -568,9 +601,9 @@
    "published": "2026-09-01T22:05:15+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8f/8fb86f9d28b77eadd905e8f6c53311b4-83496-oooz0000.jpeg",
    "id": "f6be06565314",
-   "age_minutes": 144,
+   "age_minutes": 414,
    "also": [],
-   "score": 6.449
+   "score": 5.4
   },
   {
    "title": "Un “lavorone” che ora dovrà dare i suoi frutti",
@@ -582,9 +615,9 @@
    "published": "2026-09-01T22:01:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2f/2fd200bb819dc60642244e070196b1d1-12629-oooz0000.jpeg",
    "id": "045c152b5f52",
-   "age_minutes": 148,
+   "age_minutes": 418,
    "also": [],
-   "score": 6.029
+   "score": 4.986
   },
   {
    "title": "McKennie prova il recupero per il Milan",
@@ -607,14 +640,14 @@
    "published": "2026-09-01T21:50:30+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f4/f49cfa4134eead4a7e856e5c2bebf9e2-07721-oooz0000.jpeg",
    "id": "380145254b31",
-   "age_minutes": 158,
+   "age_minutes": 428,
    "also": [
     {
      "source": "TuttoJuve",
      "link": "https://www.tuttojuve.com/calciomercato/zirkzee-spunta-everton-contatti-manchester-united-entourage-alternativa-balogun-791444"
     }
    ],
-   "score": 8.18
+   "score": 7.153
   },
   {
    "title": "Atletico Madrid, le prime parole di David: \"Felice di essere qui. È un club con molta ambizione\"",
@@ -626,9 +659,9 @@
    "published": "2026-09-01T21:40:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7d/7dda01f5bb09097ed05040367d94491e-61770-oooz0000.jpeg",
    "id": "8b6717b21ac8",
-   "age_minutes": 168,
+   "age_minutes": 438,
    "also": [],
-   "score": 5.136
+   "score": 4.123
   },
   {
    "title": "Cremonese, Giampaolo esonerato dopo il successo in Coppa Italia: un ex Juve in pole per sostituirlo",
@@ -663,9 +696,9 @@
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6ec5bb83339c7aff698cdf172aa0b752-66561-oooz0000.jpeg",
    "id": "8ede85d4457f",
    "_kw": 0.8,
-   "_fresh": 0.7503138010148301,
+   "_fresh": 0.5079654849899344,
    "_fp": "zirkzee spunta everton contatti manchester united entourage puo diventare alternativa balogun",
-   "age_minutes": 198
+   "age_minutes": 469
   },
   {
    "title": "Alla Juventus serve un centravanti pesante e forte di testa, ecco perché lui!",
@@ -677,9 +710,9 @@
    "published": "2026-09-01T21:09:13+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/44/44ec31d3b613bfd10c96cb7762b86397-31386-oooz0000.jpeg",
    "id": "93090baba9f5",
-   "age_minutes": 200,
+   "age_minutes": 470,
    "also": [],
-   "score": 4.996
+   "score": 4.029
   },
   {
    "title": "Falci: \"Carnevali e Massara hanno fatto un miracolo, mercato Juventus da 7,5. Ora tocca a Spalletti\"",
@@ -691,9 +724,9 @@
    "published": "2026-09-01T21:00:06+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8f/8fb86f9d28b77eadd905e8f6c53311b4-83496-oooz0000.jpeg",
    "id": "b575a270bf96",
-   "age_minutes": 209,
+   "age_minutes": 479,
    "also": [],
-   "score": 6.157
+   "score": 5.202
   },
   {
    "title": "Qui Milan - Fikayo Tomori reintegrato in rosa",
@@ -706,48 +739,76 @@
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9f27b07c13ffce44d031816f8b9f8eb-57641-oooz0000.jpeg",
    "id": "929acb0fd2f5",
    "_kw": 0.8,
-   "_fresh": 0.7286380967885892,
+   "_fresh": 0.4932909453574651,
    "_fp": "qui milan fikayo tomori reintegrato rosa",
-   "age_minutes": 219
+   "age_minutes": 489
   },
   {
-   "title": "Jorginho, l'agente: \"Se dovesse uscire fuori un'opportunità per tornare in Italia...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/jorginho-agente-se-dovesse-uscire-opportunita-tornare-italia-791420",
-   "summary": "Joao Santos, storico procuratore di Jorginho, ha parlato a TMW Radio dell'ex centrocampista del Napoli, accostato in passato anche alla Juve: \"Il primo obiettivo è vincere la Libertadores e il campionato brasiliano.",
-   "source": "TuttoJuve",
+   "title": "Napoli-Como, Biazzo: “Avete notato cosa è successo ad un certo punto?”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/biazzo-hhh-655092",
+   "summary": "Il Napoli deve ripartire dopo la sconfitta contro il Como, ma intanto deve fare i conti con lo stop di Scott McTominay.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b1/b1be8363be6e07b31158aac4f826f074-65559-oooz0000.jpeg",
-   "id": "3501951be7a2",
-   "age_minutes": 229,
+   "scope": "Napoli",
+   "published": "2026-09-02T04:30:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4e/4ece8c05ef13670d938ed173143c37cd-89300-oooz0000.jpeg",
+   "id": "54e507a3ba5d"
+  },
+  {
+   "title": "Come finisce Inter-Napoli? Il pronostico di Biasin a Radio Tutto Napoli",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/biasin-655104",
+   "summary": "Fabrizio Biasin, giornalista di Libero e Cronache di Spogliatoio, è stato nostro ospite su Radio Tutto Napoli per parlare di Inter-Napoli e di come il mercato ha ridisegnato gli equilibri della Serie A.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-02T04:00:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a098781b0ad0b3d18bde9734f027d1af-36106-oooz0000.jpeg",
+   "id": "4dd5a1542a4e",
+   "age_minutes": 58,
    "also": [],
-   "score": 5.473
+   "score": 5.674
   },
   {
-   "title": "Borsa, seduta in rosso per Juventus, Stellantis e Ferrari",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-seduta-rosso-juventus-stellantis-ferrari-791434",
-   "summary": "La forte volatilità che attraversa i mercati finanziari europei colpisce anche Piazza Affari.",
-   "source": "TuttoJuve",
+   "title": "Calciomercato Napoli, Corbo: “Manna ha soltanto una colpa: non ha parlato chiaro”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/corbo-655085",
+   "summary": "Mercato, rosa, ambizioni e futuro del Napoli: Antonio Corbo, giornalista ed editorialista di Repubblica, analizza a Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone…",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T20:30:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/74/74a45504e33cd34a191dcb497d5a94d4-19038-oooz0000.jpeg",
-   "id": "439443b07453"
-  },
-  {
-   "title": "Poggi: \"Koopmeiners? Fa bene la Juve a tenere i giocatori di qualità\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/poggi-koopmeiners-juve-tenere-giocatori-qualita-791414",
-   "summary": "L'ex attaccante Paolo Poggi, ai microfoni di TMW Radio, ha commentato la decisione della Juve di trattenere Teun Koopmeiners e rifiutare l'offerta del Besiktas delle scorse ore: \"Abbiamo conosciuto le qualità di…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-01T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a9/a9d015ccdaf91268c727bd2d555f067a-39626-oooz0000.jpeg",
-   "id": "ea5ba93840bd",
-   "age_minutes": 249,
+   "scope": "Napoli",
+   "published": "2026-09-02T03:00:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a6/a6304290d42030958a6709a7e5251b6f-84380-oooz0000.jpeg",
+   "id": "d6b7200aa419",
+   "age_minutes": 119,
    "also": [],
-   "score": 4.791
+   "score": 8.567
+  },
+  {
+   "title": "Napoli ko con il Como, Petino: “Piano gara sbagliato! Ma poteva finire in pareggio”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-ko-como-petino-piano-gara-sbagliato-poteva-finire-pareggio-655137",
+   "summary": "Il ko del Napoli contro il Como, il mercato e l’assenza di Scott McTominay.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-02T02:00:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d8/d8faa01617bf0c8bd70a59349e80b3fa-93306-oooz0000.jpeg",
+   "id": "8124ec9719d9",
+   "age_minutes": 178,
+   "also": [],
+   "score": 5.489
+  },
+  {
+   "title": "Sportitalia, Credendino: “Napoli ancora senza identità! Mercato? ADL era stato chiaro…”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/credendino-kk-655110",
+   "summary": "Calciomercato e prime due giornate di campionato: è già possibile tracciare una prima gerarchia in Serie A? Ne abbiamo parlato con Vincenzo Credendino, giornalista di Sportitalia, intervenuto sulla nostra Radio Tutto…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-02T01:00:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bd/bda9b346090ab15056718972feaf3465-53658-oooz0000.jpeg",
+   "id": "2c712e186a64",
+   "age_minutes": 238,
+   "also": [],
+   "score": 6.834
   },
   {
    "title": "Forgione: “Piedi per terra. Ho una sensazione sull’obiettivo del Napoli di quest’anno”",
@@ -781,9 +842,9 @@
    "published": "2026-09-01T22:30:43+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d6/d67f20e2305c884f7f18fa7299bdf3dd-16583-oooz0000.jpeg",
    "id": "391d7a784981",
-   "age_minutes": 118,
+   "age_minutes": 388,
    "also": [],
-   "score": 10.571
+   "score": 9.482
   },
   {
    "title": "Bagni difende Allegri: “Il Napoli ha perso con il Como per due errori individuali!”",
@@ -828,9 +889,9 @@
    "published": "2026-09-01T21:40:22+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d9578b425e2d0628ed6741e04c6f581-89398-oooz0000.jpeg",
    "id": "f6dafef217b5",
-   "age_minutes": 168,
+   "age_minutes": 439,
    "also": [],
-   "score": 6.734
+   "score": 5.722
   },
   {
    "title": "Calciomercato Napoli, Mediaset: “Voto 5! Si è capita la differenza tra Conte e Allegri…”",
@@ -842,9 +903,9 @@
    "published": "2026-09-01T21:30:38+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a8/a8180cc4057128703d86ef9015a80ada-23271-oooz0000.jpeg",
    "id": "2d3d195cbbe9",
-   "age_minutes": 178,
+   "age_minutes": 448,
    "also": [],
-   "score": 8.69
+   "score": 7.692
   },
   {
    "title": "Coppa Italia, colpo Monza! Batte il Torino (che protesta per un rigore tolto) e va agli ottavi",
@@ -856,9 +917,9 @@
    "published": "2026-09-01T21:12:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9a/9afb6d851fe52902653dbc79cadc8822-15383-oooz0000.jpeg",
    "id": "0c3a296d6eed",
-   "age_minutes": 197,
+   "age_minutes": 467,
    "also": [],
-   "score": 7.008
+   "score": 6.037
   },
   {
    "title": "Il Napoli piazza anche Cajuste! Lo svedese va al Malaga: svelata la formula",
@@ -903,9 +964,9 @@
    "published": "2026-09-01T20:40:50+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c5/c5b446fd15338b778320c5f134b6193b-27658-oooz0000.jpeg",
    "id": "296e74b4d351",
-   "age_minutes": 228,
+   "age_minutes": 498,
    "also": [],
-   "score": 4.476
+   "score": 3.547
   },
   {
    "title": "Sosa ai tifosi: “Già il Genoa aveva dominato, attenti a chi esalta Allegri per lecchinaggio!”",
@@ -928,73 +989,9 @@
    "published": "2026-09-01T20:20:44+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/27/27650d79936ef5fd08dd2fa1d6218b67-84524-oooz0000.jpeg",
    "id": "0383e5e941a3",
-   "age_minutes": 248,
+   "age_minutes": 518,
    "also": [],
-   "score": 5.594
-  },
-  {
-   "title": "Calciomercato Napoli, Manna si è mosso per primo per molti obiettivi: perchè sono sfumati",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-manna-mosso-giocatori-arrivati-655132",
-   "summary": "Il Napoli si era mosso per tempo su diversi obiettivi di mercato, ma non è riuscito a trasformare l’interesse in operazioni concrete.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
-   "id": "f8b26c1663bf",
-   "age_minutes": 259,
-   "also": [],
-   "score": 7.951
-  },
-  {
-   "title": "Errore in costruzione, Del Genio: “L’uscita di Allegri a 4 in linea favorisce chi pressa”",
-   "link": "https://www.tuttonapoli.net/le-interviste/errore-costruzione-genio-l-uscita-allegri-4-linea-favorisce-pressa-655111",
-   "summary": "Paolo Del Genio, intervenuto ai microfoni di Radio Kiss Kiss Napoli, ha analizzato la sconfitta del Napoli contro il Como, soffermandosi sulle difficoltà mostrate dalla squadra di Massimiliano Allegri nella costruzione dal basso.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T20:00:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11bac6c80b061df8fb6c2047baec489e-53441-oooz0000.jpeg",
-   "id": "016ebe15c659"
-  },
-  {
-   "title": "Como, non solo Kean: Fabregas ha anche un nuovo portiere, arriva dal Chelsea",
-   "link": "https://www.tuttonapoli.net/serie-a/como-arriva-sanchez-uscita-tornqvist-655127",
-   "summary": "(ANSA) - MILANO, 01 SET - Al Como arriva in prestito secco Robert Sanchez dal Chelsea. Il portiere spagnolo arriva per rimpiazzare Tornqvist che è stato ceduto al Monza.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T19:50:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0f/0f2d7638b67bb4a65eb1ce42ce36b9b1-33167-oooz0000.jpeg",
-   "id": "9fb471656b4e",
-   "age_minutes": 278,
-   "also": [],
-   "score": 4.676
-  },
-  {
-   "title": "Napoli-Como, caldo torrido al Maradona! Dazn svela la reazione di Politano e De Bruyne",
-   "link": "https://www.tuttonapoli.net/notizie/napoli-como-caldo-torrido-maradona-dazn-svela-reazione-politano-de-bruyne-655131",
-   "summary": "Il caldo torrido e l’umidità hanno rappresentato un avversario in più per Napoli e Como.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T19:40:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/05/05888d4249f90546bc5c6387227afe3f-15423-oooz0000.jpeg",
-   "id": "c369f76eaa4f"
-  },
-  {
-   "title": "Salisburgo, Lindstrom: “Non vedo l’ora! Stile di gioco perfetto per le mie caratteristiche\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/salisburgo-lindstrom-non-vedo-l-ora-stile-gioco-perfetto-caratteristiche-655122",
-   "summary": "Si apre una nuova pagina della carriera di Jesper Lindstrøm. L’esterno danese è ufficialmente un nuovo giocatore del Red Bull Salisburgo, dove arriva dal Napoli con la formula del prestito con diritto di riscatto.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-01T19:30:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7ca6e3b7ed80579eaa74729974e486e6-00910-oooz0000.jpeg",
-   "id": "90f21d74266a",
-   "age_minutes": 298,
-   "also": [],
-   "score": 5.398
+   "score": 4.691
   },
   {
    "title": "Ordine: \"Il Milan ha strapagato Ramos e Moreira ma se non avesse fatto così avrebbe perso i suoi obiettivi”",
@@ -1006,9 +1003,9 @@
    "published": "2026-09-01T22:48:50+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d1/d1dfe717ba8218c70d8cfee0a5030180-18307-oooz0000.jpeg",
    "id": "6d8605c9c4d8",
-   "age_minutes": 100,
+   "age_minutes": 370,
    "also": [],
-   "score": 5.46
+   "score": 4.342
   },
   {
    "title": "Como: Kean, 'mi rispecchio molto nelle idee di Fabregas'",
@@ -1031,9 +1028,9 @@
    "published": "2026-09-01T22:24:07+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/6250cb1e9e9d8f11dc0d3d44bb536a43-75662-oooz0000.jpeg",
    "id": "6e91687719cd",
-   "age_minutes": 125,
+   "age_minutes": 395,
    "also": [],
-   "score": 7.139
+   "score": 6.06
   },
   {
    "title": "Letizia: \"Chissà se sapremo mai la verità su ciò che è successo a Casa Milan nelle ultime ore”",
@@ -1045,9 +1042,9 @@
    "published": "2026-09-01T22:12:33+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/17ff34651c8be8667777625ce3c18fd6-26708-oooz0000.jpeg",
    "id": "07406c9f9700",
-   "age_minutes": 136,
+   "age_minutes": 406,
    "also": [],
-   "score": 6.083
+   "score": 5.023
   },
   {
    "title": "UFFICIALE: Youssouf Fofana è un nuovo giocatore del Siviglia. Il comunicato",
@@ -1059,9 +1056,9 @@
    "published": "2026-09-01T22:10:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f9/f904bf450d7aeb293511c108089f5c5d-47142-oooz0000.jpeg",
    "id": "e79d99b6056a",
-   "age_minutes": 138,
+   "age_minutes": 408,
    "also": [],
-   "score": 9.675
+   "score": 8.617
   },
   {
    "title": "Clamoroso Fofana: niente Francia ed Inghilterra: il francese è un nuovo giocatore del Siviglia",
@@ -1084,9 +1081,9 @@
    "published": "2026-09-01T22:00:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c5/c5bb3e164b1f524168e1b06cdc076e0d-14811-oooz0000.jpeg",
    "id": "47a810993eb9",
-   "age_minutes": 149,
+   "age_minutes": 419,
    "also": [],
-   "score": 6.424
+   "score": 5.383
   },
   {
    "title": "Quattro gare per il Milan a settembre: il calendario completo",
@@ -1120,9 +1117,9 @@
    "published": "2026-09-01T21:24:03+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/33/339ed0814f16fb6108076c6f8bdae215-65968-oooz0000.jpeg",
    "id": "9e254a6e5381",
-   "age_minutes": 185,
+   "age_minutes": 455,
    "also": [],
-   "score": 5.861
+   "score": 4.872
   },
   {
    "title": "Coppa Italia, avanti Cremonese e Monza: i biancorossi troveranno il Milan agli ottavi",
@@ -1145,14 +1142,14 @@
    "published": "2026-09-01T21:00:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b4/b469cd7499e82261ec7ef96e82f23c87-72899-oooz0000.jpeg",
    "id": "e73a5a7afd9a",
-   "age_minutes": 208,
+   "age_minutes": 478,
    "also": [
     {
      "source": "TuttoJuve",
      "link": "https://www.tuttojuve.com/l-avversario/milan-fikayo-tomori-reintegrato-rosa-791440"
     }
    ],
-   "score": 8.359
+   "score": 7.403
   },
   {
    "title": "Napoli, per McTominay lieve aritmia benigna: sarà operato",
@@ -1208,9 +1205,9 @@
    "published": "2026-09-01T20:00:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/99/995d86de39c6e56243f08e135ab3ea2a-06254-oooz0000.jpeg",
    "id": "db7853f487a6",
-   "age_minutes": 268,
+   "age_minutes": 538,
    "also": [],
-   "score": 4.713
+   "score": 3.837
   },
   {
    "title": "Il saluto dell'Argentina per Leo Messi è da brividi: il messaggio",
@@ -1233,9 +1230,9 @@
    "published": "2026-09-01T19:35:40+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fb/fbbfe4b7c39f8d18e39a1326e1db97b4-27054-oooz0000.jpeg",
    "id": "30f1231f9159",
-   "age_minutes": 293,
+   "age_minutes": 563,
    "also": [],
-   "score": 4.618
+   "score": 3.772
   },
   {
    "title": "Rabiot-Cisse la coppia più probabile per la trequarti contro la Juventus",
@@ -1249,268 +1246,6 @@
    "id": "367d25e3e55b"
   },
   {
-   "title": "L'educazione di Pio",
-   "link": "https://www.fcinternews.it/editoriale/fcin-1017331",
-   "summary": "Ieri Pio Esposito, mentre stava per entrare in sede per firmare il rinnovo di contratto con l’Inter, si è fermato con un tifoso nerazzurro non solo per i selfie di rito, ma pure per parlare in videochiamata con un’amica…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T22:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/0993179268fa9e4600f025653c0ae962-06603-oooz0000.jpeg",
-   "id": "b23e447cd38f",
-   "age_minutes": 149,
-   "also": [],
-   "score": 6.824
-  },
-  {
-   "title": "Ranocchia: \"Lotta scudetto? Solo l'Inter può andare contro se stessa\"",
-   "link": "https://www.fcinternews.it/news/ranocchia-lotta-scudetto-inter-andare-stessa-1017416",
-   "summary": "\"La lotta scudetto la può cambiare solo l'Inter, andando contro se stessa. Negli anni ha costruito la rosa e la mentalità che non ha nessuno in Italia.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T21:45:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/25/255d23012de68846c7a917d587fad5ab-75500-oooz0000.jpeg",
-   "id": "1e378527c721"
-  },
-  {
-   "title": "Borja Valero: \"La dirigenza dell'Inter lavora bene da anni, anche con poche risorse\"",
-   "link": "https://www.fcinternews.it/focus/borja-valero-la-dirigenza-inter-lavora-anni-poche-risorse-1017415",
-   "summary": "Borja Valero promuove a pieni voti il lavoro svolto sul mercato dalla dirigenza dell'Inter, capace - a suo avviso - di rendere, nel bilancio tra entrate e uscite, la rosa della scorsa stagione ancora più forte: \"Negli…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T21:29:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/92/926c88ab8c96eda5772a21ab9eaa6cb4-35504-oooz0000.jpeg",
-   "id": "2a66e4f7377b",
-   "age_minutes": 180,
-   "also": [],
-   "score": 5.084
-  },
-  {
-   "title": "Coppa Italia, il Monza batte il Torino e vola agli ottavi. Esordio per Maye",
-   "link": "https://www.fcinternews.it/news/coppa-italia-monza-batte-torino-vola-ottavi-esordio-maye-1017412",
-   "summary": "Altro accoppiamento definito in vista degli ottavi di finale di Coppa Italia. Lo sfida dello stadio Olimpico di Torino premia il Monza, vittorioso per 0-1 contro i padroni di casa del Torino.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T21:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5e/5e09811f4b0c80b6fdc512bf873bb72b-72413-671o0o2087o1415z104d.jpeg",
-   "id": "774a19140dd5"
-  },
-  {
-   "title": "Diouf sposa in maniera \"ufficiale\" il proprio soprannome",
-   "link": "https://www.fcinternews.it/news/diouf-sposa-maniera-ufficiale-soprannome-1017409",
-   "summary": "Ora c'è anche la conferma \"ufficiale\": Andy Diouf ha definitivamente sposato il proprio soprannome \"Il Calcio\", nickname nato per gioco sui vari social media ma presto diffusosi in maniera esponenziale fino a giungere a…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/99/992ed9171a81a85a99189ec5eb46e277-30389-oooz0000.jpeg",
-   "id": "e14a895bba0c",
-   "age_minutes": 209,
-   "also": [],
-   "score": 6.157
-  },
-  {
-   "title": "Totti: \"Scudetto, spero che la Roma possa correre con l'Inter e le altre\"",
-   "link": "https://www.fcinternews.it/news/totti-scudetto-spero-roma-correre-inter-altre-1017414",
-   "summary": "Tra scaramanzia e speranze, Francesco Totti parla con cautela delle chance scudetto della sua Roma, la cui partenza a razzo in campionato ha autorizzato un intero popolo a sognare a occhi aperti: \"Da tifoso non ti rispondo - dice sorridendo ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T20:45:10+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/44/444881493da803bcc2f8621480a14d7b-19485-oooz0000.jpeg",
-   "id": "ffdda9e0415c"
-  },
-  {
-   "title": "UFFICIALE - Bonfanti si trasferisce in prestito alla Carrarese",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/ufficiale-bonfanti-trasferisce-prestito-carrarese-1017400",
-   "summary": "Nuova avventura in Serie B per Nicholas Bonfanti. L'attaccante classe 2002, prodotto delle giovanili dell'Inter, lascia il Pisa in prestito per trasferirsi sempre in Toscana, ma stavolta alla corte della Carrarese.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T20:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/35/35424507e4c135bee46dc3148eca5458-91845-623o0o2051o1427z1005.jpeg",
-   "id": "ba9c18326812",
-   "age_minutes": 239,
-   "also": [],
-   "score": 8.431
-  },
-  {
-   "title": "Jovetic: \"Scudetto, l'Inter è la più forte. Champions? Le italiane possono fare bene\"",
-   "link": "https://www.fcinternews.it/focus/jovetic-scudetto-inter-forte-champions-italiane-possono-bene-1017413",
-   "summary": "Terminato il mercato, arriva il tempo dei pronostici.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T20:17:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/54/541d29996692cc6b788884df37584551-13411-oooz0000.jpeg",
-   "id": "849521e75178",
-   "age_minutes": 252,
-   "also": [],
-   "score": 4.779
-  },
-  {
-   "title": "UFFICIALE - Gnonto torna in Italia: l'ex Inter giocherà alla Fiorentina",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/ufficiale-gnonto-torna-italia-inter-giochera-fiorentina-1017411",
-   "summary": "Wilfried Gnonto torna in Italia e lo fa per sposare il progetto della Fiorentina. L'attaccante scuola Inter aveva lasciato il belpaese sei anni fa, nel 2020, per tentare la sua prima avventura tra i professionisti, allo…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T20:02:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/11/119776470835113961adec554abf0c23-40768-582o296o1287o1001z0c5e.jpeg",
-   "id": "b520bad28190",
-   "age_minutes": 267,
-   "also": [],
-   "score": 5.919
-  },
-  {
-   "title": "Sky - Mauro Icardi ha deciso: no all'offerta della Lazio",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/i-sky-i-mauro-icardi-deciso-offerta-lazio-1017410",
-   "summary": "Il futuro di Mauro Icardi non avrà i colori della Lazio. Come riportato da Sky Sport, l'ex capitano dell'Inter avrebbe riflettuto a lungo in merito alla proposta inviatagli dalla società romana, salvo poi decidere di…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T19:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4d/4d0a329ca2271eba990d6c368b74b881-55970-oooz0000.jpeg",
-   "id": "940a360ac037",
-   "age_minutes": 281,
-   "also": [],
-   "score": 5.865
-  },
-  {
-   "title": "Classifica spettatori, il Milan sorpassa di poco l'Inter: i numeri",
-   "link": "https://www.fcinternews.it/news/classifica-spettatori-milan-inter-numeri-stadi-1017374",
-   "summary": "È il Milan a guidare, dopo le prime due giornate, la classifica degli spettatori della Serie A 2026/27. Come riportato da Calcio&Finanza, i rossoneri hanno fatto registrare 75.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T19:33:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/82/82b4728749ce3965d11ce2eea38379be-82600-oooz0000.jpeg",
-   "id": "08d0c0f53e60"
-  },
-  {
-   "title": "Champions su Prime Video: due gare dell'Inter in esclusiva, ecco quali",
-   "link": "https://www.fcinternews.it/copertina/champions-prime-video-gare-inter-esclusiva-1017403",
-   "summary": "Amazon Prime Video ha svelato le prime sei partite della League Phase di Champions League che trasmetterà in diretta esclusiva.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T19:18:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/00/00cf8c5c78b0385a21f2158af075a089-40057-oooz0000.jpeg",
-   "id": "8397695291f6"
-  },
-  {
-   "title": "UFFICIALE - Juve, ingaggio last minute: Woltemade in prestito dal Newcastle",
-   "link": "https://www.fcinternews.it/news/ufficiale-juve-colpo-last-minute-woltemade-prestito-newcastle-1017406",
-   "summary": "La Juventus chiude il suo mercato prelevando dal Newcastle United, a titolo temporaneo fino al 30 giugno 2027, Nick Woltemade a fronte di un corrispettivo di 2,8 milioni di euro, oltre ad oneri accessori pari a 800mila…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T19:05:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7a/7a895ed6d4ac560962ff2c8efb3a5ce8-14211-oooz0000.jpeg",
-   "id": "1e2cbc7ac08f",
-   "age_minutes": 323,
-   "also": [],
-   "score": 10.507
-  },
-  {
-   "title": "Il bilancio di Bergomi dopo il mercato: \"Inter e Roma le squadre che mi piacciono di più\"",
-   "link": "https://www.fcinternews.it/focus/bilancio-bergomi-mercato-inter-roma-squadre-piacciono-piu-1017407",
-   "summary": "Beppe Bergomi non sa eleggere la vera regina del calciomercato italiano, che si è chiuso oggi alle 20 per quanto riguarda la Serie A: \"Faccio fatica a dire quale club si sia mosso meglio sul mercato perché ogni rosa ha…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T18:50:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1e168c8fa356a31bd9613f3f9232e919-25980-oooz0000.jpeg",
-   "id": "d6ede3c49508",
-   "age_minutes": 338,
-   "also": [],
-   "score": 6.452
-  },
-  {
-   "title": "Kamate: \"Inter, è stato un onore immenso. Dire grazie non è abbastanza\"",
-   "link": "https://www.fcinternews.it/focus/kamate-inter-onore-immenso-abbastanza-1017408",
-   "summary": "Negli ultimi minuti della sessione di calciomercato appena conclusa, Issiaka Kamate si è trasferito all'Atletico Madrid, a titolo definitivo, con diritto di riacquisto in favore dell'Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T18:35:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f2/f2d84630a656bbd09102e6351e0fe7c6-43668-oooz0000.jpeg",
-   "id": "169dae9c0f9b",
-   "age_minutes": 353,
-   "also": [],
-   "score": 6.0
-  },
-  {
-   "title": "Parma-Cremonese 0-2, colpo a sorpresa dei lombardi in Coppa Italia",
-   "link": "https://www.fcinternews.it/news/parma-cremonese-0-2-colpo-sorpresa-lombardi-coppa-italia-1017405",
-   "summary": "Colpo a sorpresa della Cremonese in Coppa Italia. La compagine lombarda guidata da Giampaolo conquista la vittoria tra le mura del Tardini ed elimina il Parma dalla coppa nazionale per 0-2.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T18:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6e/6e5ccd22b7e846e472c03e5b447ea438-02008-192o0o1680o1488z0d20.jpeg",
-   "id": "7e9d93a3fe42",
-   "age_minutes": 369,
-   "also": [],
-   "score": 5.547
-  },
-  {
-   "title": "Dagli episodi di Black Mirror alla Brentry: Inter, mercato completato",
-   "link": "https://www.fcinternews.it/in-primo-piano/episodi-black-mirror-i-brentry-i-inter-mercato-completato-1017320",
-   "summary": "In estrema sintesi, il mercato estivo dell'Inter, quello da non sbagliare, può essere riassunto con una sola espressione: Brentry. Proprio con l'uso di un gioco di parole che tanto piace ai sudditi di sua Maestà.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T18:05:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/450ad28d72586e0726412d0055ed4384-76909-oooz0000.jpeg",
-   "id": "c95b9aae62df",
-   "age_minutes": 383,
-   "also": [],
-   "score": 5.498
-  },
-  {
-   "title": "UFFICIALE - Como, colpo Kean: \"Ottimo progetto, Fabregas ha grandi idee\"",
-   "link": "https://www.fcinternews.it/il-resto-del-mercato/ufficiale-como-colpo-kean-ottimo-progetto-fabregas-grandi-idee-1017401",
-   "summary": "Alla fine, la telenovela Moise Kean si è risolta proprio nelle ultimissime ore di mercato: l'attaccante della Nazionale italiana passa dalla Fiorentina al Como in prestito con obbligo di riscatto.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T17:50:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ef/ef604bbe3f678952f9221771202d0115-77950-771o132o1614o975z0da4.jpeg",
-   "id": "e8500b928ff4",
-   "age_minutes": 398,
-   "also": [],
-   "score": 10.648
-  },
-  {
-   "title": "UFFICIALE - Kamate all'Atletico a titolo definitivo. L'Inter mantiene la recompra",
-   "link": "https://www.fcinternews.it/focus/ufficiale-kamate-atletico-definitivo-inter-mantiene-recompra-1017402",
-   "summary": "A pochi minuti dalla fine del calciomercato estivo, l'Inter ha comunicato ufficialmente la cessione di Issiaka Kamate all'Atlético Madrid.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T17:35:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c140e5501033caf885800e0c69480ddf-21167-469o72o1372o975z0b48.jpeg",
-   "id": "5fc8611c5553",
-   "age_minutes": 413,
-   "also": [],
-   "score": 7.8
-  },
-  {
-   "title": "Inter de Limeira, approvata la vendita dell'80%: tra gli investitori Ronaldo e Roberto Carlos",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/inter-de-limeira-approvata-vendita-80-investitori-ronaldo-roberto-carlos-1017398",
-   "summary": "Un gruppo di investitori, tra cui Ronaldo il Fenomeno e Roberto Carlos, ha acquistato l'80% dell'Inter de Limeira, squadra che oggi milita nella Serie C brasiliana.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-01T17:21:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/ace6f02e9f0f4dac6cdfd819f20d6826-90127-469o277o1542o1349z0e35.jpeg",
-   "id": "2081421f0e28"
-  },
-  {
    "title": "ll Fenerbahce piomba su Calhanoglu: assalto del club turco in casa Inter",
    "link": "https://www.calciomercato.it/2026/09/01/ll-fenerbahce-piomba-su-calhanoglu-assalto-del-club-turco-in-casa-inter/",
    "summary": "L'articolo ll Fenerbahce piomba su Calhanoglu: assalto del club turco in casa Inter proviene da CalcioMercato.it .",
@@ -1520,9 +1255,9 @@
    "published": "2026-09-01T20:27:59+00:00",
    "image": "",
    "id": "f9304214f658",
-   "age_minutes": 241,
+   "age_minutes": 511,
    "also": [],
-   "score": 6.223
+   "score": 5.311
   },
   {
    "title": "Assalto Besiktas per Koopmeiners, nel mirino il centrocampista della Juventus",
@@ -1534,9 +1269,9 @@
    "published": "2026-09-01T19:40:15+00:00",
    "image": "",
    "id": "84f11cb2a4f9",
-   "age_minutes": 289,
+   "age_minutes": 559,
    "also": [],
-   "score": 6.035
+   "score": 5.184
   },
   {
    "title": "Cessione last second, il Milan saluta un altro esubero",
@@ -1548,9 +1283,9 @@
    "published": "2026-09-01T17:16:52+00:00",
    "image": "",
    "id": "f8b820796fc0",
-   "age_minutes": 432,
+   "age_minutes": 702,
    "also": [],
-   "score": 7.542
+   "score": 6.85
   },
   {
    "title": "Gudmundsson lascia la Fiorentina e rimane in Serie A: operazione da 12 milioni",
@@ -1562,9 +1297,9 @@
    "published": "2026-09-01T17:00:16+00:00",
    "image": "",
    "id": "1d5fb2e52b11",
-   "age_minutes": 449,
+   "age_minutes": 719,
    "also": [],
-   "score": 5.492
+   "score": 4.816
   },
   {
    "title": "Premier o Inter? In arrivo firma e ufficialità per Esposito | VIDEO CM",
@@ -1576,9 +1311,9 @@
    "published": "2026-09-01T13:39:48+00:00",
    "image": "",
    "id": "b4d69aecc21a",
-   "age_minutes": 649,
+   "age_minutes": 919,
    "also": [],
-   "score": 6.966
+   "score": 6.46
   },
   {
    "title": "Juventus, Spalletti ha il suo gigante: visite e firma per Woltemade | VIDEO CM",
@@ -1590,9 +1325,9 @@
    "published": "2026-09-01T12:26:52+00:00",
    "image": "",
    "id": "3b5c8bf6760c",
-   "age_minutes": 722,
+   "age_minutes": 992,
    "also": [],
-   "score": 6.809
+   "score": 6.354
   },
   {
    "title": "Tegola Napoli, McTominay deve operarsi: i tempi di recupero",
@@ -1604,9 +1339,9 @@
    "published": "2026-09-01T12:00:46+00:00",
    "image": "",
    "id": "bb922918c03d",
-   "age_minutes": 748,
+   "age_minutes": 1018,
    "also": [],
-   "score": 4.757
+   "score": 4.319
   },
   {
    "title": "Colpo Norton-Cuffy, altro che Venezia: affare da 14 milioni",
@@ -1618,9 +1353,9 @@
    "published": "2026-09-01T11:02:21+00:00",
    "image": "",
    "id": "28f24f9acf52",
-   "age_minutes": 806,
+   "age_minutes": 1077,
    "also": [],
-   "score": 8.647
+   "score": 8.244
   },
   {
    "title": "Roma, assalto Chelsea a Koné ma Gasperini blocca tutto: i dettagli",
@@ -1632,14 +1367,9 @@
    "published": "2026-09-01T09:04:57+00:00",
    "image": "",
    "id": "0e03e51ffaa6",
-   "age_minutes": 924,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/08/31/roma-affondo-del-chelsea-per-kone-nuovi-contatti/"
-    }
-   ],
-   "score": 5.053
+   "age_minutes": 1194,
+   "also": [],
+   "score": 4.113
   },
   {
    "title": "Sì di Tagliafico alla Juventus, colpo sul gong per i bianconeri",
@@ -1651,9 +1381,9 @@
    "published": "2026-09-01T08:07:42+00:00",
    "image": "",
    "id": "400041e25d0f",
-   "age_minutes": 981,
+   "age_minutes": 1251,
    "also": [],
-   "score": 6.369
+   "score": 6.056
   },
   {
    "title": "Spalletti può esultare: come un nuovo acquisto per la Juventus",
@@ -1665,9 +1395,9 @@
    "published": "2026-09-01T06:56:32+00:00",
    "image": "",
    "id": "1c9e08cf258e",
-   "age_minutes": 1052,
+   "age_minutes": 1322,
    "also": [],
-   "score": 6.275
+   "score": 5.992
   },
   {
    "title": "Lazio, l’ultima idea per l’attacco si chiama Begraoui: i dettagli | CM",
@@ -1679,9 +1409,9 @@
    "published": "2026-09-01T06:37:54+00:00",
    "image": "",
    "id": "cd2795784c3e",
-   "age_minutes": 1071,
+   "age_minutes": 1341,
    "also": [],
-   "score": 4.251
+   "score": 3.976
   },
   {
    "title": "Futuro Saelemaekers, arriva la decisione definitiva del Milan",
@@ -1693,9 +1423,9 @@
    "published": "2026-09-01T05:04:55+00:00",
    "image": "",
    "id": "560ef415f76b",
-   "age_minutes": 1164,
+   "age_minutes": 1434,
    "also": [],
-   "score": 4.144
+   "score": 3.904
   },
   {
    "title": "Messi dice addio alla nazionale argentina, la fine di un’era",
@@ -1707,9 +1437,9 @@
    "published": "2026-08-31T20:17:58+00:00",
    "image": "",
    "id": "5c3edba8ee7d",
-   "age_minutes": 1691,
+   "age_minutes": 1961,
    "also": [],
-   "score": 5.748
+   "score": 5.635
   },
   {
    "title": "Milan, nuova pretendente per Pulisic: i dettagli",
@@ -1721,9 +1451,9 @@
    "published": "2026-08-31T18:02:06+00:00",
    "image": "",
    "id": "2c3fa2a128ef",
-   "age_minutes": 1827,
+   "age_minutes": 2097,
    "also": [],
-   "score": 3.686
+   "score": 3.594
   },
   {
    "title": "Icardi-Lazio, pista ancora viva: le ultime | CM",
@@ -1735,9 +1465,9 @@
    "published": "2026-08-31T17:44:35+00:00",
    "image": "",
    "id": "6500dcae4bc5",
-   "age_minutes": 1844,
+   "age_minutes": 2114,
    "also": [],
-   "score": 3.679
+   "score": 3.589
   },
   {
    "title": "Milan, accordo per la cessione di Fofana: dove giocherà",
@@ -1749,9 +1479,9 @@
    "published": "2026-08-31T17:00:20+00:00",
    "image": "",
    "id": "a6ea0c02471f",
-   "age_minutes": 1888,
+   "age_minutes": 2159,
    "also": [],
-   "score": 7.661
+   "score": 7.577
   },
   {
    "title": "Yildiz fuori tre mesi ed Ekhator due: arriva il comunicato ufficiale della Juventus",
@@ -1914,6 +1644,268 @@
    "published": "2026-08-30T18:47:36+00:00",
    "image": "",
    "id": "021b9d3319c8"
+  },
+  {
+   "title": "L'educazione di Pio",
+   "link": "https://www.fcinternews.it/editoriale/fcin-1017331",
+   "summary": "Ieri Pio Esposito, mentre stava per entrare in sede per firmare il rinnovo di contratto con l’Inter, si è fermato con un tifoso nerazzurro non solo per i selfie di rito, ma pure per parlare in videochiamata con un’amica…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/0993179268fa9e4600f025653c0ae962-06603-oooz0000.jpeg",
+   "id": "b23e447cd38f",
+   "age_minutes": 419,
+   "also": [],
+   "score": 5.783
+  },
+  {
+   "title": "Ranocchia: \"Lotta scudetto? Solo l'Inter può andare contro se stessa\"",
+   "link": "https://www.fcinternews.it/news/ranocchia-lotta-scudetto-inter-andare-stessa-1017416",
+   "summary": "\"La lotta scudetto la può cambiare solo l'Inter, andando contro se stessa. Negli anni ha costruito la rosa e la mentalità che non ha nessuno in Italia.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T21:45:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/25/255d23012de68846c7a917d587fad5ab-75500-oooz0000.jpeg",
+   "id": "1e378527c721"
+  },
+  {
+   "title": "Borja Valero: \"La dirigenza dell'Inter lavora bene da anni, anche con poche risorse\"",
+   "link": "https://www.fcinternews.it/focus/borja-valero-la-dirigenza-inter-lavora-anni-poche-risorse-1017415",
+   "summary": "Borja Valero promuove a pieni voti il lavoro svolto sul mercato dalla dirigenza dell'Inter, capace - a suo avviso - di rendere, nel bilancio tra entrate e uscite, la rosa della scorsa stagione ancora più forte: \"Negli…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T21:29:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/92/926c88ab8c96eda5772a21ab9eaa6cb4-35504-oooz0000.jpeg",
+   "id": "2a66e4f7377b",
+   "age_minutes": 450,
+   "also": [],
+   "score": 4.088
+  },
+  {
+   "title": "Coppa Italia, il Monza batte il Torino e vola agli ottavi. Esordio per Maye",
+   "link": "https://www.fcinternews.it/news/coppa-italia-monza-batte-torino-vola-ottavi-esordio-maye-1017412",
+   "summary": "Altro accoppiamento definito in vista degli ottavi di finale di Coppa Italia. Lo sfida dello stadio Olimpico di Torino premia il Monza, vittorioso per 0-1 contro i padroni di casa del Torino.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T21:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5e/5e09811f4b0c80b6fdc512bf873bb72b-72413-671o0o2087o1415z104d.jpeg",
+   "id": "774a19140dd5"
+  },
+  {
+   "title": "Diouf sposa in maniera \"ufficiale\" il proprio soprannome",
+   "link": "https://www.fcinternews.it/news/diouf-sposa-maniera-ufficiale-soprannome-1017409",
+   "summary": "Ora c'è anche la conferma \"ufficiale\": Andy Diouf ha definitivamente sposato il proprio soprannome \"Il Calcio\", nickname nato per gioco sui vari social media ma presto diffusosi in maniera esponenziale fino a giungere a…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T21:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/99/992ed9171a81a85a99189ec5eb46e277-30389-oooz0000.jpeg",
+   "id": "e14a895bba0c",
+   "age_minutes": 479,
+   "also": [],
+   "score": 5.202
+  },
+  {
+   "title": "Totti: \"Scudetto, spero che la Roma possa correre con l'Inter e le altre\"",
+   "link": "https://www.fcinternews.it/news/totti-scudetto-spero-roma-correre-inter-altre-1017414",
+   "summary": "Tra scaramanzia e speranze, Francesco Totti parla con cautela delle chance scudetto della sua Roma, la cui partenza a razzo in campionato ha autorizzato un intero popolo a sognare a occhi aperti: \"Da tifoso non ti rispondo - dice sorridendo ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T20:45:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/44/444881493da803bcc2f8621480a14d7b-19485-oooz0000.jpeg",
+   "id": "ffdda9e0415c"
+  },
+  {
+   "title": "UFFICIALE - Bonfanti si trasferisce in prestito alla Carrarese",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/ufficiale-bonfanti-trasferisce-prestito-carrarese-1017400",
+   "summary": "Nuova avventura in Serie B per Nicholas Bonfanti. L'attaccante classe 2002, prodotto delle giovanili dell'Inter, lascia il Pisa in prestito per trasferirsi sempre in Toscana, ma stavolta alla corte della Carrarese.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T20:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/35/35424507e4c135bee46dc3148eca5458-91845-623o0o2051o1427z1005.jpeg",
+   "id": "ba9c18326812",
+   "age_minutes": 509,
+   "also": [],
+   "score": 7.517
+  },
+  {
+   "title": "Jovetic: \"Scudetto, l'Inter è la più forte. Champions? Le italiane possono fare bene\"",
+   "link": "https://www.fcinternews.it/focus/jovetic-scudetto-inter-forte-champions-italiane-possono-bene-1017413",
+   "summary": "Terminato il mercato, arriva il tempo dei pronostici.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T20:17:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/54/541d29996692cc6b788884df37584551-13411-oooz0000.jpeg",
+   "id": "849521e75178",
+   "age_minutes": 522,
+   "also": [],
+   "score": 3.882
+  },
+  {
+   "title": "UFFICIALE - Gnonto torna in Italia: l'ex Inter giocherà alla Fiorentina",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/ufficiale-gnonto-torna-italia-inter-giochera-fiorentina-1017411",
+   "summary": "Wilfried Gnonto torna in Italia e lo fa per sposare il progetto della Fiorentina. L'attaccante scuola Inter aveva lasciato il belpaese sei anni fa, nel 2020, per tentare la sua prima avventura tra i professionisti, allo…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T20:02:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/11/119776470835113961adec554abf0c23-40768-582o296o1287o1001z0c5e.jpeg",
+   "id": "b520bad28190",
+   "age_minutes": 537,
+   "also": [],
+   "score": 5.041
+  },
+  {
+   "title": "Sky - Mauro Icardi ha deciso: no all'offerta della Lazio",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/i-sky-i-mauro-icardi-deciso-offerta-lazio-1017410",
+   "summary": "Il futuro di Mauro Icardi non avrà i colori della Lazio. Come riportato da Sky Sport, l'ex capitano dell'Inter avrebbe riflettuto a lungo in merito alla proposta inviatagli dalla società romana, salvo poi decidere di…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T19:48:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4d/4d0a329ca2271eba990d6c368b74b881-55970-oooz0000.jpeg",
+   "id": "940a360ac037",
+   "age_minutes": 551,
+   "also": [],
+   "score": 5.004
+  },
+  {
+   "title": "Classifica spettatori, il Milan sorpassa di poco l'Inter: i numeri",
+   "link": "https://www.fcinternews.it/news/classifica-spettatori-milan-inter-numeri-stadi-1017374",
+   "summary": "È il Milan a guidare, dopo le prime due giornate, la classifica degli spettatori della Serie A 2026/27. Come riportato da Calcio&Finanza, i rossoneri hanno fatto registrare 75.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T19:33:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/82/82b4728749ce3965d11ce2eea38379be-82600-oooz0000.jpeg",
+   "id": "08d0c0f53e60"
+  },
+  {
+   "title": "Champions su Prime Video: due gare dell'Inter in esclusiva, ecco quali",
+   "link": "https://www.fcinternews.it/copertina/champions-prime-video-gare-inter-esclusiva-1017403",
+   "summary": "Amazon Prime Video ha svelato le prime sei partite della League Phase di Champions League che trasmetterà in diretta esclusiva.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T19:18:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/00/00cf8c5c78b0385a21f2158af075a089-40057-oooz0000.jpeg",
+   "id": "8397695291f6"
+  },
+  {
+   "title": "UFFICIALE - Juve, ingaggio last minute: Woltemade in prestito dal Newcastle",
+   "link": "https://www.fcinternews.it/news/ufficiale-juve-colpo-last-minute-woltemade-prestito-newcastle-1017406",
+   "summary": "La Juventus chiude il suo mercato prelevando dal Newcastle United, a titolo temporaneo fino al 30 giugno 2027, Nick Woltemade a fronte di un corrispettivo di 2,8 milioni di euro, oltre ad oneri accessori pari a 800mila…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T19:05:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7a/7a895ed6d4ac560962ff2c8efb3a5ce8-14211-oooz0000.jpeg",
+   "id": "1e2cbc7ac08f",
+   "age_minutes": 593,
+   "also": [],
+   "score": 9.697
+  },
+  {
+   "title": "Il bilancio di Bergomi dopo il mercato: \"Inter e Roma le squadre che mi piacciono di più\"",
+   "link": "https://www.fcinternews.it/focus/bilancio-bergomi-mercato-inter-roma-squadre-piacciono-piu-1017407",
+   "summary": "Beppe Bergomi non sa eleggere la vera regina del calciomercato italiano, che si è chiuso oggi alle 20 per quanto riguarda la Serie A: \"Faccio fatica a dire quale club si sia mosso meglio sul mercato perché ogni rosa ha…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T18:50:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1e168c8fa356a31bd9613f3f9232e919-25980-oooz0000.jpeg",
+   "id": "d6ede3c49508",
+   "age_minutes": 609,
+   "also": [],
+   "score": 5.66
+  },
+  {
+   "title": "Kamate: \"Inter, è stato un onore immenso. Dire grazie non è abbastanza\"",
+   "link": "https://www.fcinternews.it/focus/kamate-inter-onore-immenso-abbastanza-1017408",
+   "summary": "Negli ultimi minuti della sessione di calciomercato appena conclusa, Issiaka Kamate si è trasferito all'Atletico Madrid, a titolo definitivo, con diritto di riacquisto in favore dell'Inter.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T18:35:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f2/f2d84630a656bbd09102e6351e0fe7c6-43668-oooz0000.jpeg",
+   "id": "169dae9c0f9b",
+   "age_minutes": 623,
+   "also": [],
+   "score": 5.225
+  },
+  {
+   "title": "Parma-Cremonese 0-2, colpo a sorpresa dei lombardi in Coppa Italia",
+   "link": "https://www.fcinternews.it/news/parma-cremonese-0-2-colpo-sorpresa-lombardi-coppa-italia-1017405",
+   "summary": "Colpo a sorpresa della Cremonese in Coppa Italia. La compagine lombarda guidata da Giampaolo conquista la vittoria tra le mura del Tardini ed elimina il Parma dalla coppa nazionale per 0-2.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T18:20:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6e/6e5ccd22b7e846e472c03e5b447ea438-02008-192o0o1680o1488z0d20.jpeg",
+   "id": "7e9d93a3fe42",
+   "age_minutes": 639,
+   "also": [],
+   "score": 4.789
+  },
+  {
+   "title": "Dagli episodi di Black Mirror alla Brentry: Inter, mercato completato",
+   "link": "https://www.fcinternews.it/in-primo-piano/episodi-black-mirror-i-brentry-i-inter-mercato-completato-1017320",
+   "summary": "In estrema sintesi, il mercato estivo dell'Inter, quello da non sbagliare, può essere riassunto con una sola espressione: Brentry. Proprio con l'uso di un gioco di parole che tanto piace ai sudditi di sua Maestà.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T18:05:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/450ad28d72586e0726412d0055ed4384-76909-oooz0000.jpeg",
+   "id": "c95b9aae62df",
+   "age_minutes": 654,
+   "also": [],
+   "score": 4.756
+  },
+  {
+   "title": "UFFICIALE - Como, colpo Kean: \"Ottimo progetto, Fabregas ha grandi idee\"",
+   "link": "https://www.fcinternews.it/il-resto-del-mercato/ufficiale-como-colpo-kean-ottimo-progetto-fabregas-grandi-idee-1017401",
+   "summary": "Alla fine, la telenovela Moise Kean si è risolta proprio nelle ultimissime ore di mercato: l'attaccante della Nazionale italiana passa dalla Fiorentina al Como in prestito con obbligo di riscatto.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T17:50:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ef/ef604bbe3f678952f9221771202d0115-77950-771o132o1614o975z0da4.jpeg",
+   "id": "e8500b928ff4",
+   "age_minutes": 669,
+   "also": [],
+   "score": 9.922
+  },
+  {
+   "title": "UFFICIALE - Kamate all'Atletico a titolo definitivo. L'Inter mantiene la recompra",
+   "link": "https://www.fcinternews.it/focus/ufficiale-kamate-atletico-definitivo-inter-mantiene-recompra-1017402",
+   "summary": "A pochi minuti dalla fine del calciomercato estivo, l'Inter ha comunicato ufficialmente la cessione di Issiaka Kamate all'Atlético Madrid.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T17:35:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c140e5501033caf885800e0c69480ddf-21167-469o72o1372o975z0b48.jpeg",
+   "id": "5fc8611c5553",
+   "age_minutes": 684,
+   "also": [],
+   "score": 7.089
+  },
+  {
+   "title": "Inter de Limeira, approvata la vendita dell'80%: tra gli investitori Ronaldo e Roberto Carlos",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/inter-de-limeira-approvata-vendita-80-investitori-ronaldo-roberto-carlos-1017398",
+   "summary": "Un gruppo di investitori, tra cui Ronaldo il Fenomeno e Roberto Carlos, ha acquistato l'80% dell'Inter de Limeira, squadra che oggi milita nella Serie C brasiliana.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-01T17:21:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/ace6f02e9f0f4dac6cdfd819f20d6826-90127-469o277o1542o1349z0e35.jpeg",
+   "id": "2081421f0e28"
   },
   {
    "title": "Official: Milan loan Fofana to Sevilla without purchase option",
