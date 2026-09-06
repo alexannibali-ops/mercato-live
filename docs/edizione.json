@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T23:09:40.564274+02:00",
+ "generated_at": "2026-09-07T01:01:18.852004+02:00",
  "articles": [
   {
    "title": "Juventus, futuro ribaltato: dall’addio al nuovo contratto | CM",
@@ -11,11 +11,64 @@
    "published": "2026-09-05T12:06:27+00:00",
    "image": "",
    "id": "ff55b13ad156",
-   "age_minutes": 1983,
+   "age_minutes": 2094,
    "also": [],
-   "score": 7.628,
+   "score": 7.594,
    "occhiello": "Juventus",
    "eta": "1 g fa"
+  },
+  {
+   "title": "UFFICIALE - Arriva il primo esonero della Serie A: Grosso via dalla Fiorentina",
+   "link": "https://www.fcinternews.it/il-resto-della-a/ufficiale-arriva-esonero-serie-a-grosso-via-fiorentina-1017830",
+   "summary": "Tre sconfitte nelle prime tre partite e zero punti in classifica costano caro a Fabio Grosso, che viene esonerato dalla Fiorentina. Si tratta del primo esonero della stagione.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T21:47:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9f/9f2fc965374aa663e7ad8dd521582752-08078-oooz0000.jpeg",
+   "id": "4a49113a2863",
+   "age_minutes": 73,
+   "also": [
+    {
+     "source": "Calciomercato.it",
+     "link": "https://www.calciomercato.it/2026/09/06/ufficiale-esonerato-grosso-comunicato-della-fiorentina/"
+    }
+   ],
+   "score": 7.395,
+   "occhiello": "Fiorentina",
+   "eta": "1 h fa"
+  },
+  {
+   "title": "De Winter in conferenza: \"Con Gila o con Terracciano per noi non cambia. Sul centrale dal mercato...\"",
+   "link": "https://www.milannews.it/news/de-winter-conferenza-con-gila-terracciano-cambia-centrale-mercato-629077",
+   "summary": "Koni De Winter, difensore del Milan, è presente in conferenza stampa al termine di Juventus-Milan, sfida valida per la terza giornata di Serie A e terminata 1-1.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T22:04:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e5/e5951e3ac6bfc551884e644ee28ecfd4-77854-oooz0000.jpeg",
+   "id": "67de5ac353ef",
+   "age_minutes": 57,
+   "also": [],
+   "score": 6.883,
+   "occhiello": "Juventus · Milan",
+   "eta": "57 min fa"
+  },
+  {
+   "title": "Juventus-Milan, Bergomi: “Il fischio sul gol del Milan ci poteva stare”",
+   "link": "https://www.calciomercato.it/2026/09/06/juventus-milan-bergomi-il-fischio-sul-gol-del-milan-ci-poteva-stare/",
+   "summary": "L'articolo Juventus-Milan, Bergomi: “Il fischio sul gol del Milan ci poteva stare” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-06T21:25:34+00:00",
+   "image": "",
+   "id": "ed13cebeaf42",
+   "age_minutes": 95,
+   "also": [],
+   "score": 6.883,
+   "occhiello": "Juventus · Milan",
+   "eta": "1 h fa"
   },
   {
    "title": "Juve, clamorosa decisione su Milik: adesso è ufficiale",
@@ -27,11 +80,11 @@
    "published": "2026-09-06T11:00:48+00:00",
    "image": "",
    "id": "a08fbc599e18",
-   "age_minutes": 608,
+   "age_minutes": 720,
    "also": [],
-   "score": 7.06,
+   "score": 6.813,
    "occhiello": "Mercato",
-   "eta": "10 h fa"
+   "eta": "12 h fa"
   },
   {
    "title": "Atletico Madrid, colpo di scena David: cos’è successo",
@@ -43,27 +96,11 @@
    "published": "2026-09-06T09:40:47+00:00",
    "image": "",
    "id": "d5ace0360055",
-   "age_minutes": 688,
+   "age_minutes": 800,
    "also": [],
-   "score": 6.879,
+   "score": 6.659,
    "occhiello": "Mercato",
-   "eta": "11 h fa"
-  },
-  {
-   "title": "Legrottaglie: \"Mercatouve molto intelligente, Woltemade aiuterà Kolo Muani. Alajbegovic? Un talento. Inter favorita\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/legrottaglie-mercatouve-intelligente-woltemade-aiutera-kolo-muani-alajbegovic-talento-inter-favorita-791987",
-   "summary": "Nicola Legrottaglie promuove il mercato della Juventus e guarda con fiducia alla nuova squadra costruita dal club bianconero.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T19:45:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/42/42fd6b63ca9c47fa4a74355c17163ad8-25514-oooz0000.jpeg",
-   "id": "5145ce6dafcd",
-   "age_minutes": 84,
-   "also": [],
-   "score": 6.74,
-   "occhiello": "Juventus · Inter",
-   "eta": "1 h fa"
+   "eta": "13 h fa"
   },
   {
    "title": "Voti Bologna-Sassuolo 2-2, i rossoblu evitano il terzo ko in extremis",
@@ -75,75 +112,27 @@
    "published": "2026-09-06T18:00:11+00:00",
    "image": "",
    "id": "cb47f28fed0e",
-   "age_minutes": 189,
-   "also": [],
-   "score": 6.442,
-   "occhiello": "Bologna · Sassuolo",
-   "eta": "3 h fa"
-  },
-  {
-   "title": "Bomba Woltemade, l’annuncio manda in visibilio i tifosi della Juventus",
-   "link": "https://www.calciomercato.it/2026/09/06/bomba-woltemade-lannuncio-manda-in-visibilio-i-tifosi-della-juventus/",
-   "summary": "L'articolo Bomba Woltemade, l’annuncio manda in visibilio i tifosi della Juventus proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-06T16:08:36+00:00",
-   "image": "",
-   "id": "3fed44d82980",
    "age_minutes": 301,
    "also": [],
-   "score": 5.99,
-   "occhiello": "Juventus",
+   "score": 5.989,
+   "occhiello": "Bologna · Sassuolo",
    "eta": "5 h fa"
   },
   {
-   "title": "Ciarravano: “Woltemade ama essere una mina vagante e…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/ciarravano-woltemade-ama-mina-vagante-e-791981",
-   "summary": "La Juventus nel finale di mercato ha preso Nick Woltemade.",
-   "source": "TuttoJuve",
+   "title": "Kamate, che esordio con l'Atletico Madrid: gol e vittoria",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/kamate-esordio-atletico-madrid-gol-vittoria-1017831",
+   "summary": "Non poteva sperare in un esordio migliore Issiaka Kamate, che negli ultimi giorni di mercato si è trasferito all'Atletico Madrid dall'Inter.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T21:00:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1b/1b2e9bf17e636d87be6bf0abbde80c36-81449-oooz0000.jpeg",
-   "id": "314bcbc40e87",
-   "age_minutes": 9,
+   "scope": "Inter",
+   "published": "2026-09-06T22:42:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/27/2785feea280961163341ee433a964e32-26695-oooz0000.jpeg",
+   "id": "fefb605681bc",
+   "age_minutes": 18,
    "also": [],
-   "score": 5.948,
-   "occhiello": "Juventus",
-   "eta": "9 min fa"
-  },
-  {
-   "title": "De Giovanni sorpreso: “Napoli quasi alla pari dell’Inter, cambi decisivi! Il mercato…”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-giovanni-jj-655574",
-   "summary": "Il Napoli esce da San Siro sconfitto, ma con una prestazione che lascia indicazioni contrastanti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T16:45:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5db425c3b550287e769ab226db50744-92200-oooz0000.jpeg",
-   "id": "697f2e94cfd4",
-   "age_minutes": 264,
-   "also": [],
-   "score": 5.93,
-   "occhiello": "Inter · Napoli",
-   "eta": "4 h fa"
-  },
-  {
-   "title": "Woltemade, arriva la frecciata di Marianella: “Non mi è mai piaciuto e vi dico perché”",
-   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-arriva-frecciata-marianella-non-piaciuto-dico-perche-791978",
-   "summary": "Negli ultimi giorni di mercato la Juventus si è assicurata Nick Woltemade. Un colpo arrivato quasi in zona Cesarini, chiuso dalla dirigenza bianconera con decisione nelle ultime ore di trattative.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:15:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3ecbea277b9a97d2cc9ffc1b6a0b49fd-71534-oooz0000.jpeg",
-   "id": "80fce0f0d829",
-   "age_minutes": 174,
-   "also": [],
-   "score": 5.909,
-   "occhiello": "Juventus",
-   "eta": "2 h fa"
+   "score": 5.893,
+   "occhiello": "Inter",
+   "eta": "18 min fa"
   },
   {
    "title": "Voti Roma-Atalanta 2-1, rimonta all’Olimpico: Hermoso e Soulé firmano il successo dei giallorossi",
@@ -155,11 +144,43 @@
    "published": "2026-09-05T20:43:29+00:00",
    "image": "",
    "id": "356d61d20d27",
-   "age_minutes": 1466,
+   "age_minutes": 1577,
    "also": [],
-   "score": 5.881,
+   "score": 5.81,
    "occhiello": "Roma · Atalanta",
    "eta": "1 g fa"
+  },
+  {
+   "title": "Contatto De Winter-Kolo Muani, Calvarese: \"Corretto non annullare il gol, non c'è un vero e proprio contatto falloso, è più una pizzicata\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/contatto-de-winter-kolo-muani-calvarese-corretto-annullare-gol-vero-contatto-falloso-pizzicata-792023",
+   "summary": "Il gol realizzato dal Milan contro la Juventus ha acceso il dibattito per quanto accaduto all'inizio dell'azione. Sotto la lente è finito il contatto tra De Winter e Kolo Muani, avvenuto prima della rete firmata da…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T21:57:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b4/b4b1750c9349643638cf76d893a32949-07261-oooz0000.jpeg",
+   "id": "ee74a0e9fdce",
+   "age_minutes": 63,
+   "also": [],
+   "score": 5.65,
+   "occhiello": "Juventus · Milan",
+   "eta": "1 h fa"
+  },
+  {
+   "title": "Bomba Woltemade, l’annuncio manda in visibilio i tifosi della Juventus",
+   "link": "https://www.calciomercato.it/2026/09/06/bomba-woltemade-lannuncio-manda-in-visibilio-i-tifosi-della-juventus/",
+   "summary": "L'articolo Bomba Woltemade, l’annuncio manda in visibilio i tifosi della Juventus proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-06T16:08:36+00:00",
+   "image": "",
+   "id": "3fed44d82980",
+   "age_minutes": 412,
+   "also": [],
+   "score": 5.604,
+   "occhiello": "Juventus",
+   "eta": "6 h fa"
   },
   {
    "title": "Frosinone-Venezia 3-2 e Parma-Monza 1-1, volano gli uomini di Alvini",
@@ -171,11 +192,11 @@
    "published": "2026-09-06T15:08:36+00:00",
    "image": "",
    "id": "129dda3cc0bd",
-   "age_minutes": 361,
+   "age_minutes": 472,
    "also": [],
-   "score": 5.775,
+   "score": 5.421,
    "occhiello": "Parma",
-   "eta": "6 h fa"
+   "eta": "7 h fa"
   },
   {
    "title": "Altra tegola per Juric: va KO prima di Parma-Monza",
@@ -187,11 +208,11 @@
    "published": "2026-09-06T13:56:56+00:00",
    "image": "",
    "id": "9e83f3a38c16",
-   "age_minutes": 432,
+   "age_minutes": 544,
    "also": [],
-   "score": 5.541,
+   "score": 5.222,
    "occhiello": "Parma",
-   "eta": "7 h fa"
+   "eta": "9 h fa"
   },
   {
    "title": "Juve-Milan, le ultime: solo panchina per due nomi eccellenti",
@@ -203,11 +224,11 @@
    "published": "2026-09-06T13:01:08+00:00",
    "image": "",
    "id": "61c53f431a6a",
-   "age_minutes": 488,
+   "age_minutes": 600,
    "also": [],
-   "score": 5.375,
+   "score": 5.081,
    "occhiello": "Milan",
-   "eta": "8 h fa"
+   "eta": "10 h fa"
   },
   {
    "title": "Arriva lo svincolato Belotti in attacco: dove giocherà",
@@ -219,11 +240,11 @@
    "published": "2026-09-05T21:20:33+00:00",
    "image": "",
    "id": "79a747fc9347",
-   "age_minutes": 1429,
+   "age_minutes": 1540,
    "also": [],
-   "score": 4.908,
+   "score": 4.832,
    "occhiello": "Mercato",
-   "eta": "23 h fa"
+   "eta": "1 g fa"
   },
   {
    "title": "Jashari-Juve, clamoroso annuncio: spunta la verità",
@@ -235,11 +256,11 @@
    "published": "2026-09-06T06:58:27+00:00",
    "image": "",
    "id": "786f5029e9f0",
-   "age_minutes": 851,
+   "age_minutes": 962,
    "also": [],
-   "score": 4.57,
+   "score": 4.396,
    "occhiello": "Mercato",
-   "eta": "14 h fa"
+   "eta": "16 h fa"
   },
   {
    "title": "Juve-Milan, forfait dell’ultimo minuto: infortunio alla caviglia",
@@ -251,11 +272,11 @@
    "published": "2026-09-06T05:23:57+00:00",
    "image": "",
    "id": "7e4c55f43153",
-   "age_minutes": 945,
+   "age_minutes": 1057,
    "also": [],
-   "score": 4.421,
+   "score": 4.269,
    "occhiello": "Milan",
-   "eta": "15 h fa"
+   "eta": "17 h fa"
   },
   {
    "title": "Voti Inter-Napoli 3-2, rimonta nerazzurra: secondo ko di fila per allegri",
@@ -267,9 +288,9 @@
    "published": "2026-09-05T17:58:59+00:00",
    "image": "",
    "id": "814646611b42",
-   "age_minutes": 1630,
+   "age_minutes": 1742,
    "also": [],
-   "score": 3.78,
+   "score": 3.723,
    "occhiello": "Inter · Napoli",
    "eta": "1 g fa"
   },
@@ -283,9 +304,9 @@
    "published": "2026-09-05T16:30:36+00:00",
    "image": "",
    "id": "9610b525ba5e",
-   "age_minutes": 1719,
+   "age_minutes": 1830,
    "also": [],
-   "score": 3.734,
+   "score": 3.684,
    "occhiello": "Lazio",
    "eta": "1 g fa"
   },
@@ -299,9 +320,9 @@
    "published": "2026-09-05T15:14:33+00:00",
    "image": "",
    "id": "5a6a0858a30a",
-   "age_minutes": 1795,
+   "age_minutes": 1906,
    "also": [],
-   "score": 3.699,
+   "score": 3.655,
    "occhiello": "Juventus · Milan",
    "eta": "1 g fa"
   },
@@ -315,26 +336,10 @@
    "published": "2026-09-05T14:59:14+00:00",
    "image": "",
    "id": "351ad47f5256",
-   "age_minutes": 1810,
+   "age_minutes": 1922,
    "also": [],
-   "score": 3.693,
+   "score": 3.649,
    "occhiello": "Fiorentina · Torino",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Roma-Atalanta, le ultimissime: la decisione su Dybala e Kessie",
-   "link": "https://www.calciomercato.it/2026/09/05/roma-atalanta-le-ultimissime-la-decisione-su-dybala-e-kessie/",
-   "summary": "L'articolo Roma-Atalanta, le ultimissime: la decisione su Dybala e Kessie proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-05T10:55:08+00:00",
-   "image": "",
-   "id": "474de511e9a6",
-   "age_minutes": 2054,
-   "also": [],
-   "score": 3.606,
-   "occhiello": "Roma · Atalanta",
    "eta": "1 g fa"
   }
  ]
