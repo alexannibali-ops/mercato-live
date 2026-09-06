@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T20:33:27.705282+02:00",
+ "generated_at": "2026-09-06T23:09:40.564274+02:00",
  "articles": [
   {
    "title": "Juventus, futuro ribaltato: dall’addio al nuovo contratto | CM",
@@ -11,9 +11,9 @@
    "published": "2026-09-05T12:06:27+00:00",
    "image": "",
    "id": "ff55b13ad156",
-   "age_minutes": 1827,
+   "age_minutes": 1983,
    "also": [],
-   "score": 7.686
+   "score": 7.628
   },
   {
    "title": "Juve, clamorosa decisione su Milik: adesso è ufficiale",
@@ -25,9 +25,9 @@
    "published": "2026-09-06T11:00:48+00:00",
    "image": "",
    "id": "a08fbc599e18",
-   "age_minutes": 452,
+   "age_minutes": 608,
    "also": [],
-   "score": 7.481
+   "score": 7.06
   },
   {
    "title": "Atletico Madrid, colpo di scena David: cos’è successo",
@@ -39,9 +39,23 @@
    "published": "2026-09-06T09:40:47+00:00",
    "image": "",
    "id": "d5ace0360055",
-   "age_minutes": 532,
+   "age_minutes": 688,
    "also": [],
-   "score": 7.254
+   "score": 6.879
+  },
+  {
+   "title": "Legrottaglie: \"Mercatouve molto intelligente, Woltemade aiuterà Kolo Muani. Alajbegovic? Un talento. Inter favorita\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/legrottaglie-mercatouve-intelligente-woltemade-aiutera-kolo-muani-alajbegovic-talento-inter-favorita-791987",
+   "summary": "Nicola Legrottaglie promuove il mercato della Juventus e guarda con fiducia alla nuova squadra costruita dal club bianconero.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:45:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/42/42fd6b63ca9c47fa4a74355c17163ad8-25514-oooz0000.jpeg",
+   "id": "5145ce6dafcd",
+   "age_minutes": 84,
+   "also": [],
+   "score": 6.74
   },
   {
    "title": "Voti Bologna-Sassuolo 2-2, i rossoblu evitano il terzo ko in extremis",
@@ -53,51 +67,9 @@
    "published": "2026-09-06T18:00:11+00:00",
    "image": "",
    "id": "cb47f28fed0e",
-   "age_minutes": 33,
+   "age_minutes": 189,
    "also": [],
-   "score": 7.212
-  },
-  {
-   "title": "Esposito: \"Il rinnovo un'emozione. Ripagherò la fiducia di Chivu\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/esposito-rinnovo-emozione-fiducia-chivu-1017804",
-   "summary": "Dopo che l'Inter ha uffiicializzato il rinnovo del contratto fino al 2032, Pio Esposito ha parlato in esclusiva ai microfoni di Inter TV raccontando le sue sensazioni per questo passaggio importante della sua carriera…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T14:50:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/59/5903b176e1f75e31375b2b3f5b159c47-79067-734o88o1487o841z0c4e.jpeg",
-   "id": "a3ec93fb610c",
-   "age_minutes": 222,
-   "also": [],
-   "score": 6.899
-  },
-  {
-   "title": "Adzic protagonista al Dall'Ara: il montenegrino firma il gol del 2-1 del Sassuolo contro il Bologna",
-   "link": "https://www.tuttojuve.com/altre-notizie/adzic-protagonista-ara-gol-2-1-sassuolo-bologna-791988",
-   "summary": "Vasilije Adzic si prende la scena allo Stadio Dall'Ara. Il talento montenegrino di proprietà della Juventus ha realizzato la rete che ha permesso al Sassuolo di riportarsi in vantaggio sul Bologna, con i neroverdi…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:30:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/25/25c06e6a01313cc33fbe37b8c16298dc-98376-oooz0000.jpeg",
-   "id": "df7e517b9e22",
-   "age_minutes": 62,
-   "also": [],
-   "score": 6.853
-  },
-  {
-   "title": "Woltemade, arriva la frecciata di Marianella: “Non mi è mai piaciuto e vi dico perché”",
-   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-arriva-frecciata-marianella-non-piaciuto-dico-perche-791978",
-   "summary": "Negli ultimi giorni di mercato la Juventus si è assicurata Nick Woltemade. Un colpo arrivato quasi in zona Cesarini, chiuso dalla dirigenza bianconera con decisione nelle ultime ore di trattative.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:15:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3ecbea277b9a97d2cc9ffc1b6a0b49fd-71534-oooz0000.jpeg",
-   "id": "80fce0f0d829",
-   "age_minutes": 18,
-   "also": [],
-   "score": 6.695
+   "score": 6.442
   },
   {
    "title": "Bomba Woltemade, l’annuncio manda in visibilio i tifosi della Juventus",
@@ -109,9 +81,23 @@
    "published": "2026-09-06T16:08:36+00:00",
    "image": "",
    "id": "3fed44d82980",
-   "age_minutes": 144,
+   "age_minutes": 301,
    "also": [],
-   "score": 6.645
+   "score": 5.99
+  },
+  {
+   "title": "Ciarravano: “Woltemade ama essere una mina vagante e…”",
+   "link": "https://www.tuttojuve.com/altre-notizie/ciarravano-woltemade-ama-mina-vagante-e-791981",
+   "summary": "La Juventus nel finale di mercato ha preso Nick Woltemade.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T21:00:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1b/1b2e9bf17e636d87be6bf0abbde80c36-81449-oooz0000.jpeg",
+   "id": "314bcbc40e87",
+   "age_minutes": 9,
+   "also": [],
+   "score": 5.948
   },
   {
    "title": "De Giovanni sorpreso: “Napoli quasi alla pari dell’Inter, cambi decisivi! Il mercato…”",
@@ -123,93 +109,23 @@
    "published": "2026-09-06T16:45:05+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5db425c3b550287e769ab226db50744-92200-oooz0000.jpeg",
    "id": "697f2e94cfd4",
-   "age_minutes": 108,
+   "age_minutes": 264,
    "also": [],
-   "score": 6.621
+   "score": 5.93
   },
   {
-   "title": "Il nuovo San Siro rischia nuovi rallentamenti: Comune citato in giudizio per la cessione",
-   "link": "https://www.milannews.it/news/san-siro-rischia-rallentamenti-comune-citato-giudizio-cessione-629032",
-   "summary": "Non c'è pace per il progetto del nuovo stadio nella zona di San Siro per Milan e Inter.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T16:24:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c8/c86b2f3bad29fbe8c94d47d45a1554b4-32747-oooz0000.jpeg",
-   "id": "ae1a5eb90f04",
-   "age_minutes": 128,
-   "also": [],
-   "score": 6.522
-  },
-  {
-   "title": "Frosinone-Venezia 3-2 e Parma-Monza 1-1, volano gli uomini di Alvini",
-   "link": "https://www.calciomercato.it/2026/09/06/frosinone-venezia-3-2-e-parma-monza-1-1-volano-gli-uomini-di-alvini/",
-   "summary": "L'articolo Frosinone-Venezia 3-2 e Parma-Monza 1-1, volano gli uomini di Alvini proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-06T15:08:36+00:00",
-   "image": "",
-   "id": "129dda3cc0bd",
-   "age_minutes": 204,
-   "also": [],
-   "score": 6.376
-  },
-  {
-   "title": "Borghi promuove Carnevali e Massara: “Squadra trasformata, ecco i voti agli acquisti per Spalletti”",
-   "link": "https://www.tuttojuve.com/altre-notizie/borghi-promuove-carnevali-massara-squadra-trasformata-voti-acquisti-spalletti-791979",
-   "summary": "Il calciomercato si è concluso da poco meno di una settimana e si stanno già tirando le somme del lavoro fatto dai vari dirigenti.",
+   "title": "Woltemade, arriva la frecciata di Marianella: “Non mi è mai piaciuto e vi dico perché”",
+   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-arriva-frecciata-marianella-non-piaciuto-dico-perche-791978",
+   "summary": "Negli ultimi giorni di mercato la Juventus si è assicurata Nick Woltemade. Un colpo arrivato quasi in zona Cesarini, chiuso dalla dirigenza bianconera con decisione nelle ultime ore di trattative.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-06T17:00:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a45f053cc1df5adc8b7b6b8032ff6020-05313-oooz0000.jpeg",
-   "id": "d8ad72050dad",
-   "age_minutes": 93,
+   "published": "2026-09-06T18:15:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3ecbea277b9a97d2cc9ffc1b6a0b49fd-71534-oooz0000.jpeg",
+   "id": "80fce0f0d829",
+   "age_minutes": 174,
    "also": [],
-   "score": 6.296
-  },
-  {
-   "title": "Altra tegola per Juric: va KO prima di Parma-Monza",
-   "link": "https://www.calciomercato.it/2026/09/06/altra-tegola-per-juric-va-ko-prima-di-parma-monza/",
-   "summary": "L'articolo Altra tegola per Juric: va KO prima di Parma-Monza proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-06T13:56:56+00:00",
-   "image": "",
-   "id": "9e83f3a38c16",
-   "age_minutes": 276,
-   "also": [],
-   "score": 6.083
-  },
-  {
-   "title": "MN - La Curva Sud torna all'Allianz Stadium dopo gli ultimi anni di assenza",
-   "link": "https://www.milannews.it/news/mn-curva-sud-torna-allianz-stadium-ultimi-assenza-629044",
-   "summary": "Come appreso dall'inviato di MilanNews.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:00:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/05/0541254fa31f77119297f77622e96054-62317-oooz0000.jpeg",
-   "id": "aafdb21a2106",
-   "age_minutes": 33,
-   "also": [],
-   "score": 6.012
-  },
-  {
-   "title": "Buonfiglio: \"Cosa mi aspetto dalla Serie A? Soldi del mercato spesi meglio\"",
-   "link": "https://www.fcinternews.it/news/buonfiglio-cosa-aspetto-serie-a-soldi-mercato-spesi-meglio-1017801",
-   "summary": "\"Il calcio italiano? Ce la metteremo tutta e son convinto che, non subito perché guai a pensare che ci sia la bacchetta magica, ma il lavoro premia\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T14:27:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/92/920ac0ddb40dd9611d3119cfbda23e66-44225-oooz0000.jpeg",
-   "id": "c58bcee73ce0",
-   "age_minutes": 246,
-   "also": [],
-   "score": 6.004
+   "score": 5.909
   },
   {
    "title": "Voti Roma-Atalanta 2-1, rimonta all’Olimpico: Hermoso e Soulé firmano il successo dei giallorossi",
@@ -221,9 +137,37 @@
    "published": "2026-09-05T20:43:29+00:00",
    "image": "",
    "id": "356d61d20d27",
-   "age_minutes": 1309,
+   "age_minutes": 1466,
    "also": [],
-   "score": 6.003
+   "score": 5.881
+  },
+  {
+   "title": "Frosinone-Venezia 3-2 e Parma-Monza 1-1, volano gli uomini di Alvini",
+   "link": "https://www.calciomercato.it/2026/09/06/frosinone-venezia-3-2-e-parma-monza-1-1-volano-gli-uomini-di-alvini/",
+   "summary": "L'articolo Frosinone-Venezia 3-2 e Parma-Monza 1-1, volano gli uomini di Alvini proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-06T15:08:36+00:00",
+   "image": "",
+   "id": "129dda3cc0bd",
+   "age_minutes": 361,
+   "also": [],
+   "score": 5.775
+  },
+  {
+   "title": "Altra tegola per Juric: va KO prima di Parma-Monza",
+   "link": "https://www.calciomercato.it/2026/09/06/altra-tegola-per-juric-va-ko-prima-di-parma-monza/",
+   "summary": "L'articolo Altra tegola per Juric: va KO prima di Parma-Monza proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-06T13:56:56+00:00",
+   "image": "",
+   "id": "9e83f3a38c16",
+   "age_minutes": 432,
+   "also": [],
+   "score": 5.541
   },
   {
    "title": "Juve-Milan, le ultime: solo panchina per due nomi eccellenti",
@@ -235,51 +179,9 @@
    "published": "2026-09-06T13:01:08+00:00",
    "image": "",
    "id": "61c53f431a6a",
-   "age_minutes": 332,
+   "age_minutes": 488,
    "also": [],
-   "score": 5.875
-  },
-  {
-   "title": "Inter, triplo rinnovo in arrivo: Baccin al lavoro per chiudere",
-   "link": "https://www.calciomercato.it/2026/09/05/inter-triplo-rinnovo-in-arrivo-baccin-al-lavoro-per-chiudere/",
-   "summary": "L'articolo Inter, triplo rinnovo in arrivo: Baccin al lavoro per chiudere proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-05T08:10:04+00:00",
-   "image": "",
-   "id": "033e48079da3",
-   "age_minutes": 2063,
-   "also": [],
-   "score": 5.603
-  },
-  {
-   "title": "Pavlovic vicino al rinnovo con il Milan: i rossoneri hanno fretta",
-   "link": "https://www.calciomercato.it/2026/09/05/pavlovic-vicino-al-rinnovo-con-il-milan-i-rossoneri-hanno-fretta/",
-   "summary": "L'articolo Pavlovic vicino al rinnovo con il Milan: i rossoneri hanno fretta proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-05T06:58:53+00:00",
-   "image": "",
-   "id": "f57159944409",
-   "age_minutes": 2134,
-   "also": [],
-   "score": 5.583
-  },
-  {
-   "title": "Kimi Antonelli trionfa al GP d'Italia, l'Inter esulta: \"Che fenomeno\"",
-   "link": "https://www.fcinternews.it/inter-social-club/kimi-antonelli-trionfa-gp-italia-inter-esulta-che-fenomeno-1017809",
-   "summary": "A 60 anni di distanza dall'ultima volta firmata da Giorgio Scarfiotti, un pilota italiano trionfa nel Gran Premio d'Italia a Monza: è Kimi Antonelli, che partito dalla 19esima posizione in griglia ha completato una…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:15:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/acf7d8b4fbdc3f0bcbf3366d768eacbd-83060-oooz0000.jpeg",
-   "id": "86508eaa5c41",
-   "age_minutes": 138,
-   "also": [],
-   "score": 5.277
+   "score": 5.375
   },
   {
    "title": "Arriva lo svincolato Belotti in attacco: dove giocherà",
@@ -291,9 +193,9 @@
    "published": "2026-09-05T21:20:33+00:00",
    "image": "",
    "id": "79a747fc9347",
-   "age_minutes": 1272,
+   "age_minutes": 1429,
    "also": [],
-   "score": 5.036
+   "score": 4.908
   },
   {
    "title": "Jashari-Juve, clamoroso annuncio: spunta la verità",
@@ -305,23 +207,9 @@
    "published": "2026-09-06T06:58:27+00:00",
    "image": "",
    "id": "786f5029e9f0",
-   "age_minutes": 695,
+   "age_minutes": 851,
    "also": [],
-   "score": 4.866
-  },
-  {
-   "title": "Milan Futuro, Pittarella: \"Stiamo riuscendo a creare un bel gruppo\"",
-   "link": "https://www.milannews.it/milan-futuro/milan-futuro-pittarella-stiamo-riuscendo-creare-bel-gruppo-629034",
-   "summary": "Il portiere di Milan Futuro, il classe 2008 Matteo Pittarella, è stato intervistato dai canali ufficiali rossoneri dopo la vittoria all'esordio in Serie D contro il Caldiero Terme per 4-3.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T16:12:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cf/cf1ab9529011ef15cf8b092190d82415-20817-oooz0000.jpeg",
-   "id": "257fc08266c9",
-   "age_minutes": 141,
-   "also": [],
-   "score": 4.862
+   "score": 4.57
   },
   {
    "title": "Juve-Milan, forfait dell’ultimo minuto: infortunio alla caviglia",
@@ -333,9 +221,9 @@
    "published": "2026-09-06T05:23:57+00:00",
    "image": "",
    "id": "7e4c55f43153",
-   "age_minutes": 789,
+   "age_minutes": 945,
    "also": [],
-   "score": 4.679
+   "score": 4.421
   },
   {
    "title": "Voti Inter-Napoli 3-2, rimonta nerazzurra: secondo ko di fila per allegri",
@@ -347,9 +235,9 @@
    "published": "2026-09-05T17:58:59+00:00",
    "image": "",
    "id": "814646611b42",
-   "age_minutes": 1474,
+   "age_minutes": 1630,
    "also": [],
-   "score": 3.876
+   "score": 3.78
   },
   {
    "title": "Lazio, l’ultima idea per il centrocampo si chiama Brozovic: i dettagli",
@@ -361,9 +249,9 @@
    "published": "2026-09-05T16:30:36+00:00",
    "image": "",
    "id": "9610b525ba5e",
-   "age_minutes": 1562,
+   "age_minutes": 1719,
    "also": [],
-   "score": 3.819
+   "score": 3.734
   },
   {
    "title": "Juventus, Spalletti lancia l’allarme prima del Milan: “Abbiamo 7 infortunati”",
@@ -375,9 +263,9 @@
    "published": "2026-09-05T15:14:33+00:00",
    "image": "",
    "id": "5a6a0858a30a",
-   "age_minutes": 1638,
+   "age_minutes": 1795,
    "also": [],
-   "score": 3.775
+   "score": 3.699
   },
   {
    "title": "Incubo viola, Fiorentina ko col Torino: esonero Grosso, le ultime",
@@ -389,9 +277,9 @@
    "published": "2026-09-05T14:59:14+00:00",
    "image": "",
    "id": "351ad47f5256",
-   "age_minutes": 1654,
+   "age_minutes": 1810,
    "also": [],
-   "score": 3.767
+   "score": 3.693
   },
   {
    "title": "Roma-Atalanta, le ultimissime: la decisione su Dybala e Kessie",
@@ -403,12 +291,194 @@
    "published": "2026-09-05T10:55:08+00:00",
    "image": "",
    "id": "474de511e9a6",
-   "age_minutes": 1898,
+   "age_minutes": 2054,
    "also": [],
-   "score": 3.658
+   "score": 3.606
   }
  ],
  "raw": [
+  {
+   "title": "Modric conquista anche i tifosi della Juventus: standing ovation al momento del cambio",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-milan-pagelle-bianconeri-791976",
+   "summary": "Una serata da ricordare per Luka Modric all'Allianz Stadium.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T21:03:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/99/999f011125ed0ffdae96d035a41fa49f-79414-oooz0000.jpeg",
+   "id": "050df57cfede"
+  },
+  {
+   "title": "Ciarravano: “Woltemade ama essere una mina vagante e…”",
+   "link": "https://www.tuttojuve.com/altre-notizie/ciarravano-woltemade-ama-mina-vagante-e-791981",
+   "summary": "La Juventus nel finale di mercato ha preso Nick Woltemade.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T21:00:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1b/1b2e9bf17e636d87be6bf0abbde80c36-81449-oooz0000.jpeg",
+   "id": "314bcbc40e87",
+   "age_minutes": 9,
+   "also": [],
+   "score": 5.948
+  },
+  {
+   "title": "Serie A, Juventus e Milan costrette già ad inseguire. La classifica aggiornata",
+   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-juventus-milan-costrette-inseguire-classifica-aggiornata-792008",
+   "summary": "La Juventus evita la sconfitta contro il Milan trovando il pareggio in pieno recupero e impedisce ai rossoneri di raggiungere Roma e Inter in testa alla Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:50:52+00:00",
+   "image": "",
+   "id": "907fc59fe2a2"
+  },
+  {
+   "title": "La Juve pareggia ma meritava di più, episodi discussi",
+   "link": "https://www.tuttojuve.com/primo-piano/juve-pareggia-meritava-792006",
+   "summary": "La Juventus evita la sconfitta nel recupero, ma lascia il campo con la sensazione di aver raccolto meno di quanto prodotto.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:50:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/15/153b4a81c673db19348014eb7f16d551-46539-oooz0000.jpeg",
+   "id": "e709e83438a6"
+  },
+  {
+   "title": "Juventus-Milan, parata di stelle all'Allianz Stadium: da Jonh Elkann a Sinner, fino a Ramazzotti e Bolle",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-milan-parata-stelle-allianz-stadium-jonh-elkann-sinner-ramazzotti-bolle-792005",
+   "summary": "Non soltanto calcio e spettacolo sul terreno di gioco.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:45:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e1/e165e73db08e7e76bb34dcb04202cd57-60704-oooz0000.jpeg",
+   "id": "00292da4eee5"
+  },
+  {
+   "title": "Juventus-Milan, 1-1: in extremis Gatti risponde a Cisse",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-milan-0-0-inizia-il-secondo-tempo-allallianz-stadium-791975",
+   "summary": "22:42 - Triplice fischio finale. 95' Giallo a Cisse e a Gatti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:43:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cf/cf326e6e3f21c0f350ed90d1943ce45d-96671-oooz0000.jpeg",
+   "id": "f1b79dc7255b"
+  },
+  {
+   "title": "Juventus Next Gen, Brambilla: \"Partita equilibrata, potevamo fare meglio. Far crescere i ragazzi e mantenere la categoria gli obiettivi principali\"",
+   "link": "https://www.tuttojuve.com/juventus-u23/brambilla-792004",
+   "summary": "Il tecnico della Next Gen Massimo Brambilla commenta il pari con la Pergolettese ai microfoni di Juventus.com.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:30:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8a/8acd39f84c5d73ac626021e6e307c9ea-60630-oooz0000.jpeg",
+   "id": "cfbff5987f07"
+  },
+  {
+   "title": "Montolivo: \"Inter sopra tutti, Roma e Como pronte a competere. Juve e Milan invece...\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/montolivo-inter-tutti-roma-como-pronte-competere-juve-milan-invece-791998",
+   "summary": "Riccardo Montolivo mette l'Inter davanti a tutte nella sua analisi delle attuali gerarchie del campionato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:15:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/36/36d07a963cca4d9542415f0a054aa4cf-56418-oooz0000.jpeg",
+   "id": "7c7f917dc326"
+  },
+  {
+   "title": "Milik resta alla Juventus ma finisce fuori lista: cosa può succedere adesso",
+   "link": "https://www.tuttojuve.com/calciomercato/milik-resta-juventus-finisce-lista-succedere-791984",
+   "summary": "Il futuro di Arek Milik alla Juventus si presenta particolarmente complicato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T20:00:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ae/aea2fe3654a78512573c150b90527e59-65454-oooz0000.jpeg",
+   "id": "f52bd7d90eec"
+  },
+  {
+   "title": "Locatelli a DAZN: \"Dobbiamo fafre di più\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/locatelli-dazn-dobbiamo-fafre-piu-792003",
+   "summary": "Manuel Locatelli è intervenuto ai microfoni di DAZN al termine del primo tempo di Juventus-Milan.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:52:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/da/da8bd2ac34022ed1821add22463d004a-97252-oooz0000.jpeg",
+   "id": "f4a0ca81a8b4"
+  },
+  {
+   "title": "Legrottaglie: \"Mercatouve molto intelligente, Woltemade aiuterà Kolo Muani. Alajbegovic? Un talento. Inter favorita\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/legrottaglie-mercatouve-intelligente-woltemade-aiutera-kolo-muani-alajbegovic-talento-inter-favorita-791987",
+   "summary": "Nicola Legrottaglie promuove il mercato della Juventus e guarda con fiducia alla nuova squadra costruita dal club bianconero.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:45:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/42/42fd6b63ca9c47fa4a74355c17163ad8-25514-oooz0000.jpeg",
+   "id": "5145ce6dafcd",
+   "age_minutes": 84,
+   "also": [],
+   "score": 6.74
+  },
+  {
+   "title": "L'Allianz Stadium ricorda Franco Baresi prima di Juve-Milan",
+   "link": "https://www.tuttojuve.com/altre-notizie/allianz-stadium-ricorda-franco-baresi-juve-milan-792002",
+   "summary": "(ANSA) - TORINO, 06 SET - A pochi minuti dal big-match tra Juventus e Milan, tutto l'Allianz Stadium si è unito nel ricordo di Franco Baresi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:33:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0c/0c9c1ad7b4066918633472fd26b03f5e-43834-oooz0000.jpeg",
+   "id": "a2fa6538795b"
+  },
+  {
+   "title": "Palermo, Perin verso il debutto da titolare al Barbera",
+   "link": "https://www.tuttojuve.com/altre-notizie/palermo-perin-debutto-titolare-barbera-791989",
+   "summary": "L'abbondanza rappresenta una risorsa importante per Inzaghi, ma rende allo stesso tempo meno prevedibili le scelte del Palermo in vista della sfida di domani contro la Sampdoria.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:30:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/31/31b58ba92264612ed57792a5fd5e45d6-11814-oooz0000.jpeg",
+   "id": "08f72aeb499c"
+  },
+  {
+   "title": "Real Madrid-Inter, designato Oliver: otto anni dopo torna al Bernabeu l'arbitro che fece infuriare Buffon e la Juventus",
+   "link": "https://www.tuttojuve.com/altre-notizie/real-madrid-inter-designato-oliver-torna-bernabeu-arbitro-infuriare-buffon-juventus-791990",
+   "summary": "Michael Oliver tornerà ad arbitrare una squadra italiana al Santiago Bernabeu a distanza di otto anni e mezzo da una delle serate più controverse della sua carriera.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:15:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7c/7cc6301b99e38a4f65d6d1e1a75bf9a7-39104-oooz0000.jpeg",
+   "id": "cd7107fb2ea6"
+  },
+  {
+   "title": "Niente Arabia Saudita: Zhegrova verso la conferma",
+   "link": "https://www.tuttojuve.com/calciomercato/arabia-saudita-zhegrova-conferma-791986",
+   "summary": "L'esclusione di Edon Zhegrova dalla lista UEFA della Juventus aveva alimentato le indiscrezioni su una possibile separazione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T19:00:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32ff53dfbfa18bf150ed9f1aa300db13-07751-oooz0000.jpeg",
+   "id": "4a9ec1f5236a"
+  },
+  {
+   "title": "Juventus-Milan, Sinner all'Allianz Stadium: Cardinale gli regala la maglia numero 1",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-milan-sinner-allianz-stadium-cardinale-regala-maglia-numero-1-792001",
+   "summary": "Ospite d'eccezione all'Allianz Stadium in occasione di Juventus-Milan. Prima del calcio d'inizio, Jannik Sinner ha raggiunto il bordo campo, dove ha incontrato Gerry Cardinale durante le fasi che hanno preceduto il match.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-06T18:45:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a163fc759e78a8fc1554ca8994913d62-08545-oooz0000.jpeg",
+   "id": "1b14b9fe1cf2"
+  },
   {
    "title": "Condò sicuro: “Se Woltemade ingrana la Juventus…”",
    "link": "https://www.tuttojuve.com/altre-notizie/condo-sicuro-se-woltemade-ingrana-juventus-791983",
@@ -421,7 +491,7 @@
    "id": "f61234a3a659"
   },
   {
-   "title": "Spalletti a DAZN: \"Mi aspetto una gara molto vivace e molto vera\"",
+   "title": "Spalletti a DAZN: \"Mi aspetto una gara molto vivace e molto vera. I cinque cambi saranno probabilmente determinanti\"",
    "link": "https://www.tuttojuve.com/altre-notizie/spalletti-dazn-mi-aspetto-gara-vivace-vera-792000",
    "summary": "Il tecnico della Juventus, Luciano Spalletti, è intervenuto ai microfoni di DAZN prima del match contro il Milan. Le sue parole: Chissà se Sinner dopo aver lavorato tanto al Jmedical tiferà un pochino anche per la Juventus.",
    "source": "TuttoJuve",
@@ -452,649 +522,130 @@
    "published": "2026-09-06T18:15:07+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3ecbea277b9a97d2cc9ffc1b6a0b49fd-71534-oooz0000.jpeg",
    "id": "80fce0f0d829",
-   "age_minutes": 18,
+   "age_minutes": 174,
    "also": [],
-   "score": 6.695
+   "score": 5.909
   },
   {
-   "title": "L'Arsenal vince 2-1 il derby col Chelsea, vetta insieme al City",
-   "link": "https://www.tuttojuve.com/altre-notizie/arsenal-vince-2-1-derby-chelsea-vetta-city-791997",
-   "summary": "(ANSA) - ROMA, 06 SET - L'Arsenal vince 2-1 il derby di Londra contro il Chelsea e torna in testa alla Premier League a punteggio pieno assieme al Manchester City.",
-   "source": "TuttoJuve",
+   "title": "Kvernadze incanta col Frosinone: tre gol e due assist, poi l'omaggio a Kvaratskhelia",
+   "link": "https://www.tuttonapoli.net/serie-a/kvernadze-incanta-frosinone-gol-assist-omaggio-kvaratskhelia-655586",
+   "summary": "Comincia nel migliore dei modi la stagione di Giorgi Kvernadze.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:11:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b1/b193a65716e60da36e49cba40b9eb75d-52586-oooz0000.jpeg",
-   "id": "5e791e414332"
+   "scope": "Napoli",
+   "published": "2026-09-06T21:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/267696d909af272e5cacd7f5f3f5f169-75287-oooz0000.jpeg",
+   "id": "a1af0fd05750"
   },
   {
-   "title": "Serie A, la classifica aggiornata dopo Bologna-Sassuolo",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-classifica-aggiornata-bologna-sassuolo-791996",
-   "summary": "Il Bologna evita la sconfitta nel finale contro il Sassuolo e conquista il primo punto della propria stagione in Serie A.",
-   "source": "TuttoJuve",
+   "title": "Gatti in mischia salva la Juve! Milan raggiunto 1-1 allo Stadium",
+   "link": "https://www.tuttonapoli.net/serie-a/gatti-mischia-salva-juve-milan-raggiunto-1-1-stadium-655598",
+   "summary": "Finisce in parità il big match della domenica sera di serie A tra Juventus e Milan: apre le marcature Cissè a metà del secondo tempo con un bellissimo goal.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:09:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/25/25c06e6a01313cc33fbe37b8c16298dc-98376-oooz0000.jpeg",
-   "id": "2191f1fb53b5"
+   "scope": "Napoli",
+   "published": "2026-09-06T20:45:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6a/6a2532c87e9bd1c6581753502015c67a-14486-oooz0000.jpeg",
+   "id": "6b98e5860d03"
   },
   {
-   "title": "Serie A: Dovbyk la riacciuffa nel recupero, 2-2 tra Bologna e Sassuolo. In gol anche Adzic",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-dovbyk-riacciuffa-recupero-2-2-bologna-sassuolo-791995",
-   "summary": "(ANSA) - ROMA, 06 SET - Pareggiano 2-2 Bologna e Sassuolo nel derby emiliano al Dall'Ara, in una partita della terza giornata di Serie A. Ospiti in vantaggio con Doig al 19' pt, poi pareggia Piccoli al 5' st.",
-   "source": "TuttoJuve",
+   "title": "Inter-Napoli, Sabatini ammette: “Capita raramente, ma Allegri ha sbagliato i cambi”",
+   "link": "https://www.tuttonapoli.net/le-interviste/inter-napoli-sabatini-ammette-capita-raramente-allegri-sbagliato-cambi-655595",
+   "summary": "All'interno di \"3-5-2 sport\", Sandro Sabatini ha commentato assieme a Nicolo Schira la sconfitta del Napoli contro l'Inter nel sabato di Serie A.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:07:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/36/36dd4db1432d2fa0df6b97369cc39a88-74908-oooz0000.jpeg",
-   "id": "a6fc1f0eba99"
+   "scope": "Napoli",
+   "published": "2026-09-06T20:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a4/a43632cff8ebcccf3aea0f7e06753134-41603-oooz0000.jpeg",
+   "id": "0aeecec9da88"
   },
   {
-   "title": "De Winter a DAZN: \"Amorim vuole un gioco dominante, vogliamo vincere più gare possibile\"",
-   "link": "https://www.tuttojuve.com/l-avversario/de-winter-dazn-amorim-vuole-gioco-dominante-vogliamo-vincere-gare-possibile-791994",
-   "summary": "Koni De Winter ritrova la Juventus da avversario.",
-   "source": "TuttoJuve",
+   "title": "Allegri, incubo remuntada: in un altro caso accadde... e fu esonerato al Milan",
+   "link": "https://www.tuttonapoli.net/notizie/allegri-incubo-remuntada-seconda-carriera-perde-2-gol-vantaggio-655546",
+   "summary": "Per la seconda volta in carriera, Massimiliano Allegri perde una partita in cui la sua squadra era in vantaggio di due gol.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:00:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/75/755567036ff5d68691f4fab2fdbe11a9-24689-oooz0000.jpeg",
-   "id": "1ae9d104db1b"
+   "scope": "Napoli",
+   "published": "2026-09-06T20:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fa/fa2c3e88b98a6be772a1b707b2934374-27717-oooz0000.jpeg",
+   "id": "ec072b349dbf"
   },
   {
-   "title": "Next Gen-Pergolettese 0-0, finale: pari senza reti. Gol annullato a Melegoni, Corradi espulso nel finale",
-   "link": "https://www.tuttojuve.com/settore-giovanile/next-gen-pergolettese-0-0-gol-annullato-melegoni-elimoghale-merola-791968",
-   "summary": "52' – Finisce al Moccagatta: 0-0 tra Next Gen e Pergolettese. 51' – Occasione Pergolettese: Pavanello di testa per poco non trova il vantaggio.",
-   "source": "TuttoJuve",
+   "title": "Ferrara: “Il Napoli esce da questa sconfitta con più certezze. L’hanno decisa i cambi”",
+   "link": "https://www.tuttonapoli.net/le-interviste/ferrara-il-napoli-esce-sconfitta-certezze-l-hanno-decisa-cambi-655566",
+   "summary": "Il Napoli può guardare al 3-2 di San Siro anche con qualche certezza in più. È questa la lettura di Ciro Ferrara, che ai microfoni di Dazn ha promosso la prestazione degli azzurri nonostante la rimonta subita contro l’Inter.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T18:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f8/f88a24d7b1e548b9015e56367216ee38-62681-657o204o1801o1349z0fab.jpeg",
-   "id": "66827bc62950"
+   "scope": "Napoli",
+   "published": "2026-09-06T20:00:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a0c65da355d010382ccea741a1202b21-95898-oooz0000.jpeg",
+   "id": "29a00a2fb6d9"
   },
   {
-   "title": "Vicario a DAZN: \"Vibrazioni positive, siamo un gruppo forte e unito. Non vedevo l'ora di arrivare allo stadio\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/vicario-dazn-vibrazioni-positive-forte-unito-791993",
-   "summary": "Il portiere della Juventus Guglielmo Vicario è stato intervistato da DAZN prima della sfida contro il Milan. Le sue parole: Sette giocatori che l'anno scorso non vestivano la maglia della Juventus nella formazione titolare.",
-   "source": "TuttoJuve",
+   "title": "Il match analyst Galardo: “Problema di gestione sul 2-1! Cambio modulo e Badiashile...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/match-analyst-galardo-655578",
+   "summary": "Il Napoli esce da San Siro con una sconfitta che lascia più di qualche rimpianto. Gli azzurri erano avanti 2-0, hanno creato tanto, ma hanno subito la rimonta dell’Inter anche per alcune scelte nella gestione del match.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:50:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/8462c4b8fa4f38768d28e3947ae0c3e1-18500-oooz0000.jpeg",
-   "id": "994165023130"
+   "scope": "Napoli",
+   "published": "2026-09-06T19:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f9/f9061b059f7b7b70305de38fc8d75eb6-41356-oooz0000.jpeg",
+   "id": "6f4e8dcb283e"
   },
   {
-   "title": "Juventus-Milan: formazioni ufficiali: Alajbegovic dal 1'",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-milan-formazioni-ufficiali-791992",
-   "summary": "È tutto pronto all'Allianz Stadium per Juventus-Milan, uno degli appuntamenti più attesi della terza giornata della Serie A 2026/2027.",
-   "source": "TuttoJuve",
+   "title": "Da 0 a 10: il mistero dei tre cartellini, le previsioni catastrofiche, la confessione di Allegri e l'inaccettabile scelta del club",
+   "link": "https://www.tuttonapoli.net/copertina/0-10-mistero-cartellini-previsioni-catastrofiche-confessione-allegri-inaccettabile-scelta-club-655553",
+   "summary": "Zero al giustizialismo che si percepisce in giro, che penetra dal web e pure nei salotti televisivi.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:45:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/38/38ec7f02ba652e5dec2fe1ac40184617-53781-oooz0000.jpeg",
-   "id": "f8897f8e61c1"
+   "scope": "Napoli",
+   "published": "2026-09-06T19:44:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/99/995cf55d5cb869674cd3604d0cb89a0e-35224-oooz0000.jpeg",
+   "id": "298e281c0857"
   },
   {
-   "title": "Manita del Barcellona a Valencia, blaugrana primi in solitaria",
-   "link": "https://www.tuttojuve.com/altre-notizie/manita-barcellona-valencia-blaugrana-primi-solitaria-791991",
-   "summary": "(ANSA) - ROMA, 06 SET - Barcellona inarrestabile in questo inizio di stagione. Per la terza volta in quattro partite di campionato, i catalani segnano 5 reti nel 5-0 esterno ottenuto a Valencia.",
-   "source": "TuttoJuve",
+   "title": "Serie A Women's Cup, definite le quattro semifinaliste: il Napoli vince ma non basta",
+   "link": "https://www.tuttonapoli.net/napoli-femminile/serie-women-s-cup-definite-semifinaliste-napoli-women-vince-655587",
+   "summary": "Si è chiusa oggi pomeriggio la fase a gironi della Serie A Women's Cup, che ha delineato il quadro delle quattro squadre che si contenderanno l'accesso alla finale.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:40:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/47/47c5a0006f4353899ca484167ac8fcc4-31274-oooz0000.jpeg",
-   "id": "9bb25328f031"
+   "scope": "Napoli",
+   "published": "2026-09-06T19:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/72/7297a41a8cebb62e9981ae536b31f7d0-55394-oooz0000.jpeg",
+   "id": "18e6ac8c1b62"
   },
   {
-   "title": "Juventus-Milan - Formazioni ufficiali: Conceicao, Nico Gonzalez e Alajbegovic alle spalle di Kolo Muani. Confermato Lucumì",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-milan-fischio-inizio-breve-formazioni-ufficiali-791975",
-   "summary": "20:07 - Boato del pubblico: in campo anche i bianconeri. 20:05 - Il Milan fa il suo ingresso sul terreno di gioco.",
-   "source": "TuttoJuve",
+   "title": "Arsenal, ritiro di lusso a Nola: ecco la struttura che ospiterà i gunners",
+   "link": "https://www.tuttonapoli.net/brevi/arsenal-ritiro-lusso-nola-gunners-voco-hotel-vulcano-655594",
+   "summary": "In vista dell'impegno di Champions League contro il Napoli, l'Arsenal ha individuato la propria base per il ritiro nell'hotel extra lusso del Vulcano Buono di Nola, il Voco Hotel.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:34:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/95a52b790c5678f67b4f5be7e314532f-62073-oooz0000.jpeg",
-   "id": "6896f112d23d"
+   "scope": "Napoli",
+   "published": "2026-09-06T19:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d7/d76a3fc80dad0c726d6a9b7058a197bb-82975-oooz0000.jpeg",
+   "id": "b4f8e99a0be3"
   },
   {
-   "title": "Adzic protagonista al Dall'Ara: il montenegrino firma il gol del 2-1 del Sassuolo contro il Bologna",
-   "link": "https://www.tuttojuve.com/altre-notizie/adzic-protagonista-ara-gol-2-1-sassuolo-bologna-791988",
-   "summary": "Vasilije Adzic si prende la scena allo Stadio Dall'Ara. Il talento montenegrino di proprietà della Juventus ha realizzato la rete che ha permesso al Sassuolo di riportarsi in vantaggio sul Bologna, con i neroverdi…",
-   "source": "TuttoJuve",
+   "title": "L'Atalanta risponde alla Roma: \"Chiariremo davanti alla giustizia sportiva\"",
+   "link": "https://www.tuttonapoli.net/notizie/atalanta-roma-chiariremo-giustizia-sportiva-655585",
+   "summary": "(ANSA) - BERGAMO, 06 SET - L'Atalanta si dice \"assolutamente disponibile\", \"fin da subito\", a ricorrere alla giustizia sportiva per stabilire quando accaduto all'Olimpico di Roma tra l'ad del club bergamasco, Luca Perc ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:30:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/25/25c06e6a01313cc33fbe37b8c16298dc-98376-oooz0000.jpeg",
-   "id": "df7e517b9e22",
-   "age_minutes": 62,
-   "also": [],
-   "score": 6.853
+   "scope": "Napoli",
+   "published": "2026-09-06T19:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/73/73bd81a412b540b8b9d1f6ef1b3d0baa-44013-oooz0000.jpeg",
+   "id": "05d33a85a45d"
   },
   {
-   "title": "Juventus-Milan, pullman delle due squadre arrivati all’Allianz Stadium",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-milan-pullman-squadre-arrivati-all-allianz-stadium-791974",
-   "summary": "Manca sempre meno alla sfida tra la Juventus e il Milan delle 20:45. Le due squadre poco fa sono arrivate allo Stadium, dove tra poco scenderanno in campo per una partita molto attesa.",
-   "source": "TuttoJuve",
+   "title": "Comunicato Roma contro Percassi jr: “Inaccettabile, segnalato alla giustizia sportiva”",
+   "link": "https://www.tuttonapoli.net/serie-a/as-roma-comportamento-percassi-amico-inaccettabile-655577",
+   "summary": "(V. \"Calcio: tensione dopo Roma-Atalanta.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:25:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db1ba3afe6f2f148b517deaae6a5f158-20732-oooz0000.jpeg",
-   "id": "94990d9ce926"
-  },
-  {
-   "title": "Zancan: “Kolo Muani è avanti nelle gerarchie della Juve, ma sono curioso di vedere come Spalletti…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/zancan-kolo-muani-gerarchie-juve-curioso-vedere-spalletti-791980",
-   "summary": "La Juventus, oggi, ha convocato per la prima volta Nick Woltemade che sarà a disposizione per il match contro il Milan.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:15:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/57/57b022170369d20a5be66e8eeb38b077-64059-oooz0000.jpeg",
-   "id": "e903d32de947"
-  },
-  {
-   "title": "Borghi promuove Carnevali e Massara: “Squadra trasformata, ecco i voti agli acquisti per Spalletti”",
-   "link": "https://www.tuttojuve.com/altre-notizie/borghi-promuove-carnevali-massara-squadra-trasformata-voti-acquisti-spalletti-791979",
-   "summary": "Il calciomercato si è concluso da poco meno di una settimana e si stanno già tirando le somme del lavoro fatto dai vari dirigenti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T17:00:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a45f053cc1df5adc8b7b6b8032ff6020-05313-oooz0000.jpeg",
-   "id": "d8ad72050dad",
-   "age_minutes": 93,
-   "also": [],
-   "score": 6.296
-  },
-  {
-   "title": "Infortunio Volpato, ansia Sassuolo verso la Juve: ecco come sta il giocatore neroverde",
-   "link": "https://www.tuttojuve.com/altre-notizie/infortunio-volpato-ansia-sassuolo-juve-attaccante-791985",
-   "summary": "In casa neroverde, infatti, c’è grande apprensione per le condizioni fisiche di Cristian Volpato.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T16:45:11+00:00",
-   "image": "",
-   "id": "067b32d09295"
-  },
-  {
-   "title": "Juventus-Milan, è già febbre da derby d’Italia: lo Stadium si riempie in anticipo e il club lancia un messaggio a sorpresa sui social",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-milan-febbre-derby-d-italia-stadium-riempie-club-lancia-messaggio-sorpresa-social-791977",
-   "summary": "Cresce l’attesa per la sfida tra la Juventus e il Milan.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T16:30:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7b/7b9a467f3c42d1d084a7e230921a7345-63456-oooz0000.jpeg",
-   "id": "c21323167600"
-  },
-  {
-   "title": "Le avversarie olandesi di Europa League: AZ schiacciasassi, il NEC cade col Feyenoord",
-   "link": "https://www.tuttojuve.com/l-avversario/avversarie-olandesi-europa-league-az-schiacciasassi-nec-cade-feyenoord-791971",
-   "summary": "Giovedì 17 settembre la Juventus darà il via alla sua campagna in Europa League ospitando gli olandesi del NEC allo Stadium.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-06T16:15:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/66/667d30979d01839045d6ffef4ab4028c-55885-1259o467o1943o1151z12d4.jpeg",
-   "id": "bf84426d46b9"
-  },
-  {
-   "title": "Spalletti a DAZN: \"Mi aspetto una partita molto vivace: entrambe le squadre hanno giocatori che creano la fiammata\"",
-   "link": "https://www.milannews.it/news/spalletti-dazn-mi-aspetto-partita-vivace-entrambe-squadre-giocatori-creano-fiammata-629050",
-   "summary": "L'allenatore bianconero Luciano Spalletti è intervenuto ai microfoni di DAZN nel pre-gara del big match di questa sera tra Juventus e Milan che si giocherà all'Allianz Stadium di Torino.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:28:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/11/11834754e7e0a2aac2d0f2f34558a1e8-25649-oooz0000.jpeg",
-   "id": "e00698cec6b5"
-  },
-  {
-   "title": "MN - Cardinale a colloquio con Sinner. Jannik ha ricevuto dal proprietario la maglia del Milan",
-   "link": "https://www.milannews.it/news/mn-cardinale-colloquio-sinner-jannik-ricevuto-proprietario-maglia-milan-629049",
-   "summary": "Gerry Cardinale, come ormai solito in questa stagione, è presente sin dal pre-riscaldamento a bordo campo dell'Allianz Stadium prima del calcio d'inizio di Juventus-Milan.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:25:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a8/a8772509295f72e2a2e032f7946bde6f-91268-oooz0000.jpeg",
-   "id": "cd28ea12431e"
-  },
-  {
-   "title": "Marchegiani: \"Credo che oggi contro la Juventus il Milan farà la sua partita, cercando di aggredire l'avversario\"",
-   "link": "https://www.milannews.it/news/marchegiani-credo-juventus-milan-partita-cercando-aggredire-avversario-629047",
-   "summary": "Nel pre partita di Juventus-Milan, sfida valida per la terza giornata di Serie A Enilive 2026/27, l'ex portiere Luca Marchegiani ha parlato negli studi di sky Sport 24 della formazione di Ruben Amorim, chiamata oggi a una grande prova di forza e ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:24:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/de/ded9c1724ad85967ad9eb277834dde21-90024-oooz0000.jpeg",
-   "id": "111aec85370d"
-  },
-  {
-   "title": "Amorim a DAZN: \"Moreira è pronto, è coraggioso. Possiamo vincere qualsiasi partita\"",
-   "link": "https://www.milannews.it/primo-piano/amorim-dazn-moreira-pronto-coraggioso-possiamo-vincere-qualsiasi-partita-629046",
-   "summary": "Il tecnico rossonero Ruben Amorim è intervenuto ai microfoni di DAZN nel pre-gara del big match di questa sera tra Juventus e Milan che si giocherà all'Allianz Stadium di Torino.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:18:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3d/3dffdeac2b0c92e123899e742c60c0cf-71504-oooz0000.jpeg",
-   "id": "0759cc6538a6"
-  },
-  {
-   "title": "Behrami: \"Juve-Milan importantissima per definire a che punto sono queste due squadre\"",
-   "link": "https://www.milannews.it/news/behrami-juve-milan-importantissima-definire-punto-squadre-629039",
-   "summary": "Il commento di Valon Behrami a DAZN su cosa si aspetta dalla sfida di questa sera tra Juventus e Milan a Torino: \"L'inizio di campionato determina molto di quella che può essere l'energia durante la stagione.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1f/1f2c62ced46c0b35384054d368e04e25-54714-oooz0000.jpeg",
-   "id": "f4d737c39410"
-  },
-  {
-   "title": "MN - La Curva Sud torna all'Allianz Stadium dopo gli ultimi anni di assenza",
-   "link": "https://www.milannews.it/news/mn-curva-sud-torna-allianz-stadium-ultimi-assenza-629044",
-   "summary": "Come appreso dall'inviato di MilanNews.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:00:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/05/0541254fa31f77119297f77622e96054-62317-oooz0000.jpeg",
-   "id": "aafdb21a2106",
-   "age_minutes": 33,
-   "also": [],
-   "score": 6.012
-  },
-  {
-   "title": "De Winter a DAZN: \"Amorim vuole un gioco dominante e intenso: ci piace\"",
-   "link": "https://www.milannews.it/news/de-winter-dazn-amorim-vuole-gioco-dominante-intenso-piace-629045",
-   "summary": "Il centrale rossonero Koni De Winter, ex della partita, è intervenuto ai microfoni di DAZN nel pre-gara della sfida dell'Allianz Stadium tra Juventus e Milan. Le sue dichiarazioni complete nel pre-partita.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T18:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/56/569d1129338213d7aadc8dd897b87a58-02827-oooz0000.jpeg",
-   "id": "1693fdd51a92"
-  },
-  {
-   "title": "Vicario a DAZN: \"Stasera troviamo un avversario di grande qualità come noi\"",
-   "link": "https://www.milannews.it/news/vicario-dazn-stasera-troviamo-avversario-qualita-noi-629042",
-   "summary": "Il portiere della Juventus Guglielmo Vicario è intervenuto ai microfoni di DAZN nel pre-partita del big match contro il Milan che si gioca questa sera all'Allianz Stadium di Torino. Le sue dichiarazioni.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:50:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/18/189da32b5e35ff256b845f4d6728070c-11482-oooz0000.jpeg",
-   "id": "6d55d9c53a2c"
-  },
-  {
-   "title": "Marinozzi: \"Nel pronostico parte leggermente avanti la Juve, ma ho tanta fiducia in Amorim\"",
-   "link": "https://www.milannews.it/news/marinozzi-nel-pronostico-leggermente-juve-tanta-fiducia-amorim-629015",
-   "summary": "Andrea Marinozzi, giornalista, si è così espresso su Cronache di Spogliatoio cercando di pronosticare il risultato di Juventus-Milan: \"Non mi aspetto uno 0-0.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:48:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/20/204debd500354c06da2c88b06bce3f15-02952-oooz0000.jpeg",
-   "id": "af3f26d49ecf"
-  },
-  {
-   "title": "Serafini: \"Da Milanello le voci parlano di un'atmosfera distesa, serena, di un gruppo convinto, unito, compatto intorno ad Amorim\"",
-   "link": "https://www.milannews.it/news/serafini-da-milanello-voci-parlano-atmosfera-distesa-serena-convinto-unito-compatto-amorim-629007",
-   "summary": "Nel corso del suo editoriale per MilanNews.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:36:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5e/5e8c497f6d3cb4599199f194974df39b-03190-oooz0000.jpeg",
-   "id": "0d0048af1e2c"
-  },
-  {
-   "title": "Juventus-Milan, le formazioni ufficiali: titolari Moreira ed Estupinan, nuova trequarti",
-   "link": "https://www.milannews.it/primo-piano/juventus-milan-formazioni-ufficiali-629036",
-   "summary": "Tutto pronto all'Allianz Stadium di Torino dove tra pochi minuti si giocherà la sfida tra Juventus e Milan, valevole per la terza giornata del campionato di Serie A Enilive.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:26:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c6/c6c2df40e5cbc1789578b8f65c3cac41-17426-oooz0000.jpeg",
-   "id": "9ca22194d89f"
-  },
-  {
-   "title": "LIVE MN - Verso Juventus-Milan: gioca Moreira! Rabiot-Saele sulla trequarti",
-   "link": "https://www.milannews.it/primo-piano/live-mn-juventus-milan-trequarti-inedita-possibile-chance-moreira-1-628998",
-   "summary": "19.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:25:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bd/bd48a4e693f809db5b1f3b77202159cd-53014-oooz0000.jpeg",
-   "id": "cef6c156e809"
-  },
-  {
-   "title": "Montolivo: \"Inter sopra tutti, poi Roma e Como. apoli, Milan e Juve invece sono in costruzione\"",
-   "link": "https://www.milannews.it/news/montolivo-inter-tutti-roma-como-apoli-milan-juve-costruzione-629024",
-   "summary": "Riccardo Montolivo, ex calciatore e attuale opinionista, si è così espresso a SkySport dopo il successo dell’Inter contro il Napoli, indicando i nerazzurri come la squadra più completa del momento.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:24:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0c/0c1e64a58a50728cba9eaad6cda46895-34056-oooz0000.jpeg",
-   "id": "132fc23f7863"
-  },
-  {
-   "title": "VIDEO MN - Il Milan è arrivato all'Allianz Stadium di Torino",
-   "link": "https://www.milannews.it/news/video-mn-milan-arrivato-allianz-stadium-torino-629037",
-   "summary": "Cresce l'attesa per il grande big match di questa sera tra Juventus e Milan. Il pullman della formazione rossonera è arrivato in questi minuti presso l'Allianz Stadium di Torino dove alle 20.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d7/d77a9a8b761a78299a185f122ac2a75a-09999-oooz0000.jpeg",
-   "id": "b0cb93deb894"
-  },
-  {
-   "title": "Secondo Sarri, allenatore dell'Atalanta, la Roma lotterà per vincere lo Scudetto",
-   "link": "https://www.milannews.it/news/serie-a-sarri-distanti-roma-lotteranno-629002",
-   "summary": "(ANSA) - ROMA, 05 SET - \"La nostra è stata una prestazione di sofferenza, ma usciamo con la convinzione di aver messo in difficoltà una squadra che oggi è impressionante\".",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/00/003b983fed2d65838c71c11099d4a849-27121-oooz0000.jpeg",
-   "id": "3865e13a3cf6"
-  },
-  {
-   "title": "Milan Futuro, Mancioppi: \"Davvero bravi a recuperare e vincere\"",
-   "link": "https://www.milannews.it/milan-futuro/milan-futuro-mancioppi-davvero-bravi-recuperare-vincere-629035",
-   "summary": "Tommaso Mancioppi, centrocampista di Milan Futuro, ha parlato ai microfoni del club al termine della prima partita del campionato di Serie D che la formazione di Navarro ha vinto per 4-3 contro il Caldiero Terme.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T17:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2bcd6f00955bb3c7ffa4267d2afd6469-24445-oooz0000.jpeg",
-   "id": "1dedd12ff519"
-  },
-  {
-   "title": "Roma, Gasperini: \"Numericamente non siamo migliorati, non abbiamo una rosa da Champions\"",
-   "link": "https://www.milannews.it/news/serie-a-gasperini-vittoria-vale-segnale-roma-crede-628994",
-   "summary": "(ANSA) - ROMA, 05 SET - \"Questa vittoria vale tanto perché giocavamo contro una squadra forte, ci siamo trovati in svantaggio al primo tiro e dopo un primo tempo a senso unico.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T16:48:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/8d/8d290b0ff679a5ab43323c7ac1dc8669-92295-oooz0000.jpeg",
-   "id": "aec24053e244"
-  },
-  {
-   "title": "Milan Femminile, Bakker: \"La strada è quella giusta\"",
-   "link": "https://www.milannews.it/milan-femminile/milan-femminile-bakker-la-strada-giusta-629031",
-   "summary": "Il Milan Femminile cede il passo alla Juventus per 1-0 e viene eliminato dalla Serie A Women's Cup, torneo che apre la stagione.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T16:36:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/12/12edfdca286b58e0b69949268af53bf7-07453-oooz0000.jpeg",
-   "id": "a09bbcab2422"
-  },
-  {
-   "title": "Il nuovo San Siro rischia nuovi rallentamenti: Comune citato in giudizio per la cessione",
-   "link": "https://www.milannews.it/news/san-siro-rischia-rallentamenti-comune-citato-giudizio-cessione-629032",
-   "summary": "Non c'è pace per il progetto del nuovo stadio nella zona di San Siro per Milan e Inter.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T16:24:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c8/c86b2f3bad29fbe8c94d47d45a1554b4-32747-oooz0000.jpeg",
-   "id": "ae1a5eb90f04",
-   "age_minutes": 128,
-   "also": [],
-   "score": 6.522
-  },
-  {
-   "title": "Milan Futuro, Pittarella: \"Stiamo riuscendo a creare un bel gruppo\"",
-   "link": "https://www.milannews.it/milan-futuro/milan-futuro-pittarella-stiamo-riuscendo-creare-bel-gruppo-629034",
-   "summary": "Il portiere di Milan Futuro, il classe 2008 Matteo Pittarella, è stato intervistato dai canali ufficiali rossoneri dopo la vittoria all'esordio in Serie D contro il Caldiero Terme per 4-3.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-06T16:12:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cf/cf1ab9529011ef15cf8b092190d82415-20817-oooz0000.jpeg",
-   "id": "257fc08266c9",
-   "age_minutes": 141,
-   "also": [],
-   "score": 4.862
-  },
-  {
-   "title": "Napoli, Politano: \"Resta una grande amarezza per una sconfitta del genere\"",
-   "link": "https://www.fcinternews.it/l-avversario/napoli-politano-resta-amarezza-sconfitta-genere-1017782",
-   "summary": "Dopo la sconfitta per 3-2 contro l’Inter a San Siro, l'attaccante azzurro Matteo Politano affida a Instagram un messaggio rivolto all’ambiente azzurro.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T18:16:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/05/05888d4249f90546bc5c6387227afe3f-15423-493o60o1384o951z0b48.jpeg",
-   "id": "483fdd52740d"
-  },
-  {
-   "title": "Bologna-Sassuolo 2-2, i felsinei recuperano due volte i neroverdi",
-   "link": "https://www.fcinternews.it/il-resto-della-a/bologna-sassuolo-2-2-felsinei-recuperano-neroverdi-1017826",
-   "summary": "Il Bologna recupera per due volte il Sassuolo e trova il primo punto del proprio campionato: il risultato finale dello stadio dall'Ara è 2-2.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T18:02:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fddf4a77c0a6a437e0fd6653d12d303e-04970-0o0o1559o1559z0c2e.jpeg",
-   "id": "adfc2f34e2e7"
-  },
-  {
-   "title": "Real-Inter, Mbappè lancia la sfida a Thuram: \"Ci vediamo martedì\"",
-   "link": "https://www.fcinternews.it/news/real-inter-mbappe-lancia-sfida-thuram-ci-vediamo-martedi-1017825",
-   "summary": "Sfida ufficialmente lanciata.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T17:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cc/cc39906205441675495f435d70dc6973-38635-47o83o1607o1643z0d34.jpeg",
-   "id": "0ce1a9fed964"
-  },
-  {
-   "title": "Viviano: \"Mani Lobotka, ho perso ogni speranza. Chivu mal riportato\"",
-   "link": "https://www.fcinternews.it/news/viviano-mani-lobotka-perso-speranza-chivu-mal-riportato-1017791",
-   "summary": "Anche Emiliano Viviano, nel corso dell'odierna puntata di Sport Mediaset XXL, è voluto tornare sulle dichiarazioni di Cristian Chivu della vigilia di Inter-Napoli a proposito degli scontri diretti e della corsa Scudetto e del brutto equivo ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T17:33:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1ee2f2513bfda6cc074086f3a212e041-09197-oooz0000.jpeg",
-   "id": "9b4eabd337bd"
-  },
-  {
-   "title": "Real Madrid-Inter Clasico d'Europa. Sempre più stregato per i nerazzurri",
-   "link": "https://www.fcinternews.it/in-primo-piano/real-madrid-inter-i-clasico-i-europa-stregato-nerazzurri-1017793",
-   "summary": "Quella tra Real Madrid e Inter si può definire tranquillamente una grande classica del calcio europeo che martedì andrà in scena per la ventesima volta nella storia.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T17:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8c/8c856c87e340d113c5e7980bd705988e-20364-733o86o2048o1401z10ac.jpeg",
-   "id": "49805409af35"
-  },
-  {
-   "title": "L'Atalanta risponde alla Roma: \"Respingiamo le valutazioni giallorosse\"",
-   "link": "https://www.fcinternews.it/il-resto-della-a/atalanta-risponde-roma-respingiamo-valutazioni-giallorosse-1017810",
-   "summary": "La risposta dell'Atalanta non si è fatta attendere.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T17:05:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ba/ba4bd13588588db9ea8879db75fa43b7-95488-397o216o1493o1312z0d5a.jpeg",
-   "id": "65c1f0b4184f"
-  },
-  {
-   "title": "Sassarini: \"Una settimana fantastica. Non c'è squadra A e squadra B\"",
-   "link": "https://www.fcinternews.it/inter-femminile/sassarini-una-settimana-fantastica-squadra-squadra-b-1017815",
-   "summary": "La qualificazione in Women's Champions League e le semifinali della Serie A Women's Cup.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:50:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/63/63b5f1010bf4c7f9af5767bcea79ca9e-06113-oooz0000.jpeg",
-   "id": "47d9da773b71"
-  },
-  {
-   "title": "Inter-Napoli, i nerazzurri celebrano il MOTM Lautaro Martinez",
-   "link": "https://www.fcinternews.it/news/inter-napoli-nerazzurri-celebrano-motm-lautaro-martinez-1017814",
-   "summary": "Attraverso i propri profili social, l'Inter ha celebrato capitan Lautaro Martinez, nominato \"Man of The Match\" alla conclusione della sfida vinta in rimonta contro il Napoli.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c5/c5bf6f6266789c56089a11ad8d0fadf3-99018-1104o107o1800o803z0ee6.jpeg",
-   "id": "989ae6629e94"
-  },
-  {
-   "title": "Il gol preferito di Esposito? I compagni scelgono, Thuram 'profetizza'",
-   "link": "https://www.fcinternews.it/inter-social-club/gol-preferito-esposito-compagni-scelgono-thuram-profetizza-1017812",
-   "summary": "Ma qual è stato il gol più bello segnato sin qui da Pio Esposito con l'Inter? La domanda è stata posta ai suoi compagni alla Pinetina.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:30:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fc/fce20f208081525bd4f7912ac49ceac6-27265-590o120o1433o963z0c22.jpeg",
-   "id": "6d7420a52f5a"
-  },
-  {
-   "title": "Serie A, Frosinone ok col Venezia e pari per Parma e Monza",
-   "link": "https://www.fcinternews.it/il-resto-della-a/serie-a-frosinone-ok-venezia-pari-parma-monza-1017813",
-   "summary": "Si concludono altri due incontri valevoli per la 3ª giornata di Serie A. Sorride il Frosinone, reduce dalla seconda vittoria consecutiva a seguito del combattutissimo match casalingo vinto contro il Venezia per 3-2.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-624o120o2196o1692z1218.jpeg",
-   "id": "2f586f0b0975"
-  },
-  {
-   "title": "Kimi Antonelli trionfa al GP d'Italia, l'Inter esulta: \"Che fenomeno\"",
-   "link": "https://www.fcinternews.it/inter-social-club/kimi-antonelli-trionfa-gp-italia-inter-esulta-che-fenomeno-1017809",
-   "summary": "A 60 anni di distanza dall'ultima volta firmata da Giorgio Scarfiotti, un pilota italiano trionfa nel Gran Premio d'Italia a Monza: è Kimi Antonelli, che partito dalla 19esima posizione in griglia ha completato una…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:15:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/acf7d8b4fbdc3f0bcbf3366d768eacbd-83060-oooz0000.jpeg",
-   "id": "86508eaa5c41",
-   "age_minutes": 138,
-   "also": [],
-   "score": 5.277
-  },
-  {
-   "title": "Chivu: \"Vogliamo dimostrare ancora di essere la squadra da battere\"",
-   "link": "https://www.fcinternews.it/focus/chivu-vogliamo-dimostrare-squadra-battere-1017811",
-   "summary": "\"È stata una bella partita da vedere, il Napoli è una grande squadra. Penso sia stata una grande pubblicità per la Serie A, perché partite così sono molto belle per i tifosi da vedere\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T16:05:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f1/f1c7055dde64b0bbb6ef78eb5f863729-19305-oooz0000.jpeg",
-   "id": "80075e1c1e80"
-  },
-  {
-   "title": "Asllani esulta sui social: \"Prima vittoria e primo gol con questa maglia\"",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/asllani-esulta-social-prima-vittoria-gol-maglia-1017788",
-   "summary": "Prima vittoria e primo gol per Kristjan Asllani con la maglia dell’Al Jazira.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T15:54:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f0/f09775bf5fd9de2f65d606c0e1a8902e-43806-779o23o2194o1438z1152.jpeg",
-   "id": "d4fe8b4283f5"
-  },
-  {
-   "title": "Cagliari, Pisacane: \"Sono fiducioso su Massolin, però va aspettato\"",
-   "link": "https://www.fcinternews.it/news/cagliari-pisacane-sono-fiducioso-massolin-aspettato-1017808",
-   "summary": "Fabio Pisacane, allenatore del Cagliari, nel corso della conferenza stampa della vigilia della gara contro il Lecce ha parlato anche di uno degli ultimi arrivati in casa rossoblu, vale a dire il centrocampista Yanis Massolin prelevato dall'Inter: ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T15:40:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a9/a9b9c0210a03f7d03b70e082d02712c7-52420-oooz0000.jpeg",
-   "id": "83f97a7bddbb"
-  },
-  {
-   "title": "Supercoppa Italiana, a breve la scelta sulla sede: due le alternative",
-   "link": "https://www.fcinternews.it/focus/supercoppa-italiana-scelta-sede-alternative-1017806",
-   "summary": "Ancora poche ore e poi l’Inter e la Lazio sapranno la sede della prossima Supercoppa Italiana, che disputerà prima di Natale contro la Lazio.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T15:25:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8c/8c3ab286eb9d01dde98a5fe8f62a3f8b-22585-995o635o2086o1726z1542.jpeg",
-   "id": "74b1233806c6"
-  },
-  {
-   "title": "Anche l'Inter Women vince in rimonta: Lazio sconfitta 3-1 all'Arena",
-   "link": "https://www.fcinternews.it/inter-femminile/inter-women-vince-rimonta-lazio-sconfitta-3-1-arena-1017805",
-   "summary": "Prosegue il magico inizio di stagione dell'Inter Women di David Sassarini: dopo la storica rimonta contro il Wolfsburg e l'ingresso in UEFA Women's Champions League, completano la loro marcia a punteggio pieno nel Girone A di Serie A Wome ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T15:11:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/df/df4ff9e7f6bff2b7f66a07c30f29a9fb-27874-oooz0000.jpeg",
-   "id": "aa31a50e78c7"
-  },
-  {
-   "title": "Gattuso: \"Frattesi ha voluto la Lazio. Io gli parlavo della situazione all'Inter\"",
-   "link": "https://www.fcinternews.it/news/gattuso-frattesi-voluto-lazio-parlavo-situazione-inter-1017803",
-   "summary": "Parlando nel corso del media day della Lazio, il tecnico Gennaro Gattuso è tornato sull'arrivo di Davide Frattesi e sul ruolo giocato nel convincere il giocatore a lasciare l'Inter per tornare in biancoceleste.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T14:56:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8f/8f1754c49774d5485abe7831d10c7940-07135-930o52o1610o732z0cfc.jpeg",
-   "id": "df7c871a0adb"
-  },
-  {
-   "title": "Esposito: \"Il rinnovo un'emozione. Ripagherò la fiducia di Chivu\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/esposito-rinnovo-emozione-fiducia-chivu-1017804",
-   "summary": "Dopo che l'Inter ha uffiicializzato il rinnovo del contratto fino al 2032, Pio Esposito ha parlato in esclusiva ai microfoni di Inter TV raccontando le sue sensazioni per questo passaggio importante della sua carriera…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T14:50:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/59/5903b176e1f75e31375b2b3f5b159c47-79067-734o88o1487o841z0c4e.jpeg",
-   "id": "a3ec93fb610c",
-   "age_minutes": 222,
-   "also": [],
-   "score": 6.899
-  },
-  {
-   "title": "Roma, Soulé: \"Noi l'anti-Inter? Siamo alla terza giornata, è presto\"",
-   "link": "https://www.fcinternews.it/news/roma-soule-noi-anti-inter-terza-giornata-presto-1017786",
-   "summary": "Dopo aver segnato il gol della vittoria nella rimonta della Roma ai danni dell'Atalanta, che ha permesso ai capitolini di restare a contatto con l'Inter a quota nove, Matias Soulé, intervistato da Sky Sport, ha elogiato le virtù ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T14:42:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/68/68eade7fc54d852fe54cadbef3e677e2-76181-756o131o1860o1235z0f8e.jpeg",
-   "id": "99575058555f"
-  },
-  {
-   "title": "Buonfiglio: \"Cosa mi aspetto dalla Serie A? Soldi del mercato spesi meglio\"",
-   "link": "https://www.fcinternews.it/news/buonfiglio-cosa-aspetto-serie-a-soldi-mercato-spesi-meglio-1017801",
-   "summary": "\"Il calcio italiano? Ce la metteremo tutta e son convinto che, non subito perché guai a pensare che ci sia la bacchetta magica, ma il lavoro premia\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-06T14:27:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/92/920ac0ddb40dd9611d3119cfbda23e66-44225-oooz0000.jpeg",
-   "id": "c58bcee73ce0",
-   "age_minutes": 246,
-   "also": [],
-   "score": 6.004
+   "scope": "Napoli",
+   "published": "2026-09-06T18:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/90/90989ac4616f43b9aac6866f84b66574-33756-oooz0000.jpeg",
+   "id": "29e9faf5a959"
   },
   {
    "title": "Allegri rievoca Pjanic e la frase non va giù ai tifosi: “Come il 3-2 Scudetto, segnammo noi della Juve”",
@@ -1104,7 +655,7 @@
    "source_weight": 0.8,
    "scope": "Napoli",
    "published": "2026-09-06T18:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/37/37a3d75a06659a8786761fd90141d4cb-33084-oooz0000.jpeg",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/35/35a3a2e7146f03cdfd56471a1c5e8c5d-26521-oooz0000.jpeg",
    "id": "eabc3b5fae16"
   },
   {
@@ -1183,9 +734,9 @@
    "published": "2026-09-06T16:45:05+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5db425c3b550287e769ab226db50744-92200-oooz0000.jpeg",
    "id": "697f2e94cfd4",
-   "age_minutes": 108,
+   "age_minutes": 264,
    "also": [],
-   "score": 6.621
+   "score": 5.93
   },
   {
    "title": "Montolivo: “De Bruyne è il grande equivoco del Napoli! Con questo modulo fatico a collocarlo\"",
@@ -1199,125 +750,15 @@
    "id": "54ef33978286"
   },
   {
-   "title": "Jovanotti a Napoli: omaggio da brividi a Maradona davanti a 60mila persone",
-   "link": "https://www.tuttonapoli.net/dai-social/jovanotti-brividi-omaggia-maradona-60mila-655557",
-   "summary": "Un momento toccante ed emozionante quello vissuto all'Ippodromo di Agnano dove Lorenzo Cherubini, in arte \"Jovanotti\", ha omaggiato il più grande calciatore di sempre Diego Armando Maradona suonando con la sua band la nota \" ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T16:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8a5c9fec045f3841bbcdba3107b234f8-90890-oooz0000.jpeg",
-   "id": "31309ff99856"
-  },
-  {
-   "title": "Inter-Napoli, Tmw: “I cambi hanno evidenziato differenza di coraggio tra Allegri e Chivu”",
-   "link": "https://www.tuttonapoli.net/notizie/inter-napoli-tmw-i-cambi-evidenziato-differenza-coraggio-allegri-chivu-655564",
-   "summary": "La rimonta dell’Inter passa anche dalle panchine. Il Napoli, avanti 2-0, ha infatti finito per perdere 3-2 a San Siro, subendo tre gol nella parte finale della gara.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T16:00:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fa/fa2c3e88b98a6be772a1b707b2934374-27717-oooz0000.jpeg",
-   "id": "a89330b07f44"
-  },
-  {
-   "title": "Inter-Napoli, bordocampista Dazn: “Non ho capito ingresso Badiashile. Forse neanche Allegri…”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/inter-napoli-bordocampista-dazn-655572",
-   "summary": "Il Napoli torna da San Siro con una sconfitta amara, ma anche con qualche certezza in più.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T15:45:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e9/e96ab467458cd27d3a4791825be9cd3e-60907-oooz0000.jpeg",
-   "id": "1c4f1ceac7b9"
-  },
-  {
-   "title": "Lautaro-Rafa Marin, Calvarese promuove Sozza: “Non c’erano gli estremi per il secondo giallo”",
-   "link": "https://www.tuttonapoli.net/le-interviste/lautaro-rafa-marin-calvarese-promuove-sozza-non-c-erano-estremi-giallo-655569",
-   "summary": "Il contatto tra Lautaro Martinez e Rafa Marin è uno degli episodi arbitrali più discussi dopo Inter-Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T15:30:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b4/b4b1750c9349643638cf76d893a32949-07261-oooz0000.jpeg",
-   "id": "551768fb9347"
-  },
-  {
-   "title": "Bologna-Sassuolo, le formazioni ufficiali: le scelte di Tedesco e Aquilani",
-   "link": "https://www.tuttonapoli.net/serie-a/bologna-sassuolo-formazioni-ufficiali-scelte-tedesco-aquilani-655581",
-   "summary": "Alle 18 il Bologna ospita il Sassuolo allo stadio Dall’Ara per la terza giornata di Serie A. Domenico Tedesco e Alberto Aquilani hanno ufficializzato i rispettivi undici titolari per il derby emiliano.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T15:13:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/5523707fc8fc557112e9e0ed416d36c5-76239-oooz0000.jpeg",
-   "id": "6d9f0253dbef"
-  },
-  {
-   "title": "Serie A, i risultati delle 15: altra vittoria del Frosinone, pari tra Parma e Monza",
-   "link": "https://www.tuttonapoli.net/serie-a/serie-a-risultati-15-altra-vittoria-frosinone-pari-parma-monza-655580",
-   "summary": "Gol, rimonte ed emozioni nelle due sfide delle 15 della terza giornata di Serie A. Il Parma recupera il Monza e pareggia 1-1 al Tardini, mentre il Frosinone supera 3-2 il Venezia allo Stirpe.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T15:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9b/9b6c540d44ba1a79cf66547bc7455da9-02365-oooz0000.jpeg",
-   "id": "1b8ad1efecd9"
-  },
-  {
-   "title": "Premier, l’Arsenal sfida il Chelsea: le formazioni ufficiali e le scelte di Arteta e Xabi Alonso",
-   "link": "https://www.tuttonapoli.net/champions-league/premier-l-arsenal-sfida-chelsea-formazioni-ufficiali-scelte-arteta-xabi-alonso-655579",
-   "summary": "Sei punti in due giornate e un avvio di stagione a punteggio pieno: Arsenal e Chelsea si affrontano oggi alle 17:30 all’Emirates Stadium per il primo grande derby londinese della Premier League 2026/27.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T14:42:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/62/6229a8d6854252c5ecacb7e1fe8905e0-74045-oooz0000.jpeg",
-   "id": "f6f5dc059e96"
-  },
-  {
-   "title": "Bargiggia critica Allegri: “Badiashile per Alisson: dopo il Milan, sta demolendo anche il Napoli!”",
-   "link": "https://www.tuttonapoli.net/dai-social/bargiggia-critica-allegri-badiashile-alisson-milan-demolendo-napoli-655562",
-   "summary": "Il Napoli si fa rimontare dall’Inter e perde 3-2 dopo essere stato avanti di due gol.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T14:30:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c0/c0d46d9407e9062b75da6ec4816eccb6-71209-oooz0000.jpeg",
-   "id": "939d8f8341f9"
-  },
-  {
-   "title": "Nervi tesi all’Olimpico, Percassi insulta D’Amico: cosa è successo dopo Roma-Atalanta",
-   "link": "https://www.tuttonapoli.net/serie-a/nervi-tesi-all-olimpico-luca-percassi-insulta-d-amico-successo-roma-atalanta-655567",
-   "summary": "Il finale di Roma-Atalanta 2-1 non si è esaurito al triplice fischio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T14:15:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/54/54c8edf0fd42c7f5c9fac564fbaee412-78791-oooz0000.jpeg",
-   "id": "5894da77356e"
-  },
-  {
-   "title": "Inter-Napoli, Capuano critica Sozza: “Si è perso un rigore per l’Inter e due gialli a Lautaro”",
-   "link": "https://www.tuttonapoli.net/dai-social/inter-napoli-capuano-critica-sozza-si-perso-rigore-l-inter-gialli-lautaro-655561",
-   "summary": "Un possibile rigore non concesso, due ammonizioni mancate a Lautaro Martinez e una trattenuta non sanzionata nell’azione del primo gol dell’Inter. Sono questi gli episodi finiti sotto la lente di Giovanni Capuano dopo Inter-Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T14:00:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6e/6e7a46eaca6ad40e210c7b83ed7aad23-59273-oooz0000.jpeg",
-   "id": "bc8676996c29"
-  },
-  {
-   "title": "Flop Fiorentina, Grosso già in bilico: fiducia a tempo, decisive le prossime tre gare",
-   "link": "https://www.tuttonapoli.net/serie-a/flop-fiorentina-grosso-bilico-fiducia-tempo-decisive-prossime-gare-655573",
-   "summary": "Tre partite per cambiare passo e allontanare le nubi sulla panchina. La sconfitta contro il Torino ha fatto scattare i primi campanelli d’allarme in casa Fiorentina e Fabio Grosso è inevitabilmente finito al centro delle critiche.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-06T13:45:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f0/f0e455453c8b80c3697154d8159b5f18-57207-oooz0000.jpeg",
-   "id": "79e80fd93124"
+   "title": "PAGELLE e TABELLINO Juventus-Milan 1-1: disastro Kolo Muani, Cisse da veterano",
+   "link": "https://www.calciomercato.it/2026/09/06/pagelle-e-tabellino-juventus-milan-1-1-disastro-kolo-muani-cisse-da-veterano/",
+   "summary": "L'articolo PAGELLE e TABELLINO Juventus-Milan 1-1: disastro Kolo Muani, Cisse da veterano proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-06T20:41:10+00:00",
+   "image": "",
+   "id": "6e9826d08b14"
   },
   {
    "title": "Voti Bologna-Sassuolo 2-2, i rossoblu evitano il terzo ko in extremis",
@@ -1329,9 +770,9 @@
    "published": "2026-09-06T18:00:11+00:00",
    "image": "",
    "id": "cb47f28fed0e",
-   "age_minutes": 33,
+   "age_minutes": 189,
    "also": [],
-   "score": 7.212
+   "score": 6.442
   },
   {
    "title": "Bomba Woltemade, l’annuncio manda in visibilio i tifosi della Juventus",
@@ -1343,9 +784,9 @@
    "published": "2026-09-06T16:08:36+00:00",
    "image": "",
    "id": "3fed44d82980",
-   "age_minutes": 144,
+   "age_minutes": 301,
    "also": [],
-   "score": 6.645
+   "score": 5.99
   },
   {
    "title": "Frosinone-Venezia 3-2 e Parma-Monza 1-1, volano gli uomini di Alvini",
@@ -1357,9 +798,9 @@
    "published": "2026-09-06T15:08:36+00:00",
    "image": "",
    "id": "129dda3cc0bd",
-   "age_minutes": 204,
+   "age_minutes": 361,
    "also": [],
-   "score": 6.376
+   "score": 5.775
   },
   {
    "title": "Altra tegola per Juric: va KO prima di Parma-Monza",
@@ -1371,9 +812,9 @@
    "published": "2026-09-06T13:56:56+00:00",
    "image": "",
    "id": "9e83f3a38c16",
-   "age_minutes": 276,
+   "age_minutes": 432,
    "also": [],
-   "score": 6.083
+   "score": 5.541
   },
   {
    "title": "Juve-Milan, le ultime: solo panchina per due nomi eccellenti",
@@ -1385,9 +826,9 @@
    "published": "2026-09-06T13:01:08+00:00",
    "image": "",
    "id": "61c53f431a6a",
-   "age_minutes": 332,
+   "age_minutes": 488,
    "also": [],
-   "score": 5.875
+   "score": 5.375
   },
   {
    "title": "Juve, clamorosa decisione su Milik: adesso è ufficiale",
@@ -1399,9 +840,9 @@
    "published": "2026-09-06T11:00:48+00:00",
    "image": "",
    "id": "a08fbc599e18",
-   "age_minutes": 452,
+   "age_minutes": 608,
    "also": [],
-   "score": 7.481
+   "score": 7.06
   },
   {
    "title": "Atletico Madrid, colpo di scena David: cos’è successo",
@@ -1413,9 +854,9 @@
    "published": "2026-09-06T09:40:47+00:00",
    "image": "",
    "id": "d5ace0360055",
-   "age_minutes": 532,
+   "age_minutes": 688,
    "also": [],
-   "score": 7.254
+   "score": 6.879
   },
   {
    "title": "Jashari-Juve, clamoroso annuncio: spunta la verità",
@@ -1427,9 +868,9 @@
    "published": "2026-09-06T06:58:27+00:00",
    "image": "",
    "id": "786f5029e9f0",
-   "age_minutes": 695,
+   "age_minutes": 851,
    "also": [],
-   "score": 4.866
+   "score": 4.57
   },
   {
    "title": "Juve-Milan, forfait dell’ultimo minuto: infortunio alla caviglia",
@@ -1441,9 +882,9 @@
    "published": "2026-09-06T05:23:57+00:00",
    "image": "",
    "id": "7e4c55f43153",
-   "age_minutes": 789,
+   "age_minutes": 945,
    "also": [],
-   "score": 4.679
+   "score": 4.421
   },
   {
    "title": "Arriva lo svincolato Belotti in attacco: dove giocherà",
@@ -1455,9 +896,9 @@
    "published": "2026-09-05T21:20:33+00:00",
    "image": "",
    "id": "79a747fc9347",
-   "age_minutes": 1272,
+   "age_minutes": 1429,
    "also": [],
-   "score": 5.036
+   "score": 4.908
   },
   {
    "title": "Voti Roma-Atalanta 2-1, rimonta all’Olimpico: Hermoso e Soulé firmano il successo dei giallorossi",
@@ -1469,9 +910,9 @@
    "published": "2026-09-05T20:43:29+00:00",
    "image": "",
    "id": "356d61d20d27",
-   "age_minutes": 1309,
+   "age_minutes": 1466,
    "also": [],
-   "score": 6.003
+   "score": 5.881
   },
   {
    "title": "Voti Inter-Napoli 3-2, rimonta nerazzurra: secondo ko di fila per allegri",
@@ -1483,9 +924,9 @@
    "published": "2026-09-05T17:58:59+00:00",
    "image": "",
    "id": "814646611b42",
-   "age_minutes": 1474,
+   "age_minutes": 1630,
    "also": [],
-   "score": 3.876
+   "score": 3.78
   },
   {
    "title": "Lazio, l’ultima idea per il centrocampo si chiama Brozovic: i dettagli",
@@ -1497,9 +938,9 @@
    "published": "2026-09-05T16:30:36+00:00",
    "image": "",
    "id": "9610b525ba5e",
-   "age_minutes": 1562,
+   "age_minutes": 1719,
    "also": [],
-   "score": 3.819
+   "score": 3.734
   },
   {
    "title": "Juventus, Spalletti lancia l’allarme prima del Milan: “Abbiamo 7 infortunati”",
@@ -1511,9 +952,9 @@
    "published": "2026-09-05T15:14:33+00:00",
    "image": "",
    "id": "5a6a0858a30a",
-   "age_minutes": 1638,
+   "age_minutes": 1795,
    "also": [],
-   "score": 3.775
+   "score": 3.699
   },
   {
    "title": "Incubo viola, Fiorentina ko col Torino: esonero Grosso, le ultime",
@@ -1525,9 +966,9 @@
    "published": "2026-09-05T14:59:14+00:00",
    "image": "",
    "id": "351ad47f5256",
-   "age_minutes": 1654,
+   "age_minutes": 1810,
    "also": [],
-   "score": 3.767
+   "score": 3.693
   },
   {
    "title": "Juventus, futuro ribaltato: dall’addio al nuovo contratto | CM",
@@ -1539,9 +980,9 @@
    "published": "2026-09-05T12:06:27+00:00",
    "image": "",
    "id": "ff55b13ad156",
-   "age_minutes": 1827,
+   "age_minutes": 1983,
    "also": [],
-   "score": 7.686
+   "score": 7.628
   },
   {
    "title": "Roma-Atalanta, le ultimissime: la decisione su Dybala e Kessie",
@@ -1553,9 +994,9 @@
    "published": "2026-09-05T10:55:08+00:00",
    "image": "",
    "id": "474de511e9a6",
-   "age_minutes": 1898,
+   "age_minutes": 2054,
    "also": [],
-   "score": 3.658
+   "score": 3.606
   },
   {
    "title": "Inter-Napoli probabili formazioni, Chivu fa fuori due big",
@@ -1577,10 +1018,7 @@
    "scope": "generalista",
    "published": "2026-09-05T08:10:04+00:00",
    "image": "",
-   "id": "033e48079da3",
-   "age_minutes": 2063,
-   "also": [],
-   "score": 5.603
+   "id": "033e48079da3"
   },
   {
    "title": "Pavlovic vicino al rinnovo con il Milan: i rossoneri hanno fretta",
@@ -1591,10 +1029,7 @@
    "scope": "generalista",
    "published": "2026-09-05T06:58:53+00:00",
    "image": "",
-   "id": "f57159944409",
-   "age_minutes": 2134,
-   "also": [],
-   "score": 5.583
+   "id": "f57159944409"
   },
   {
    "title": "Monza, Juric nei guai: il bomber KO nello scontro salvezza",
@@ -1696,15 +1131,499 @@
    "id": "fb66ff241da6"
   },
   {
-   "title": "Tegola McTominay, stop più lungo del previsto: quando rientra",
-   "link": "https://www.calciomercato.it/2026/09/04/tegola-mctominay-stop-piu-lungo-del-previsto-quando-rientra/",
-   "summary": "L'articolo Tegola McTominay, stop più lungo del previsto: quando rientra proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
+   "title": "Dallo Stadium: parla Spalletti dopo la partita contro il Milan. Segui qui le sue dichiarazioni",
+   "link": "https://www.milannews.it/news/stadium-parla-spalletti-partita-milan-segui-dichiarazioni-629023",
+   "summary": "Luciano Spalletti, allenatore della Juventus, è presente in conferenza stampa al termine di Juventus-Milan, sfida valida per la terza giornata di Serie A e terminata 1-1.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T21:03:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e7/e741a973ec93e15cd63ab1342218f9e8-89020-oooz0000.jpeg",
+   "id": "45c742547448"
+  },
+  {
+   "title": "Dallo Stadium: Amorim atteso in conferenza dopo Juventus-Milan. QUI la diretta",
+   "link": "https://www.milannews.it/news/amorim-conferenza-juventus-milan-diretta-live-parole-629022",
+   "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Juventus-Milan, sfida valida per la terza giornata di Serie A e terminata 1-1.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T21:00:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6f/6f64e692c17c82c1d15d64b7e64fd0d2-71723-oooz0000.jpeg",
+   "id": "d91282a134fc"
+  },
+  {
+   "title": "Ambrosini a caldo: \"Milan o Juve? Nessuna delle due: partita poco esaltante\"",
+   "link": "https://www.milannews.it/news/ambrosini-caldo-milan-juve-due-partita-esaltante-629064",
+   "summary": "Il big match tra Juventus e Milan finisce 1-1. Non una bella partita, in linea con quanto visto tra queste due squadre negli ultimi anni.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T21:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/33/336d93ed73f4c3ef41faeafc1f693c00-13342-oooz0000.jpeg",
+   "id": "0a3344b40210"
+  },
+  {
+   "title": "Juventus-Milan 1-1, voti e pagelle: we love Cisse, 7.5. Koni da 7. Tanti da 5",
+   "link": "https://www.milannews.it/pagelle/juventus-milan-1-1-voti-pagelle-we-love-cisse-7-5-koni-7-tanti-5-629067",
+   "summary": "Il Milan esce con un punto dall’Allianz Stadium dopo la partita contro la Juventus, con i rossoneri che scappano sullo 0-1, ma la sensazione obiettiva è che il pareggio sia il risultato più giusto.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:58:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1e/1e62da17e5dd86f2a5d184b845b1d3a6-88759-oooz0000.jpeg",
+   "id": "f63c6f3fb0f4"
+  },
+  {
+   "title": "Juventus-Milan 1-1, il tabellino della partita dello Stadium",
+   "link": "https://www.milannews.it/i-tabellini/juventus-milan-1-1-tabellino-partita-stadium-629063",
+   "summary": "Juventus-Milan finisce 1-1 allo Stadium con i gol dei subentrati Alphadjo Cisse, che porta in vantaggio i rossoneri ma poi arriva il pareggio di Federico Gatti, che brucia sul tempo un pigro, in marcatura, Loftus-Cheek trovando il pareggio nel recupe ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:43:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d7/d78ebf069a354c4f922dcff9eaac0450-79355-oooz0000.jpeg",
+   "id": "0a8b1ea3de71"
+  },
+  {
+   "title": "Juventus-Milan (1-1): fine. Gatti riprende il Diavolo allo scadere: un punto per il Milan",
+   "link": "https://www.milannews.it/primo-piano/juventus-milan-1-1-fine-gatti-riprende-diavolo-scadere-punto-milan-629038",
+   "summary": "JUVENTUS-MILAN 1-1, FINE PARTITA.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:42:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/91/910c62d5fb89ba5f59da051fe27ecfa0-14833-oooz0000.jpeg",
+   "id": "378cf6988f67"
+  },
+  {
+   "title": "Serie A, Juventus-Milan 1-1: il tabellino del match",
+   "link": "https://www.milannews.it/i-tabellini/serie-a-juventus-milan-1-1-tabellino-match-629062",
+   "summary": "Di seguito il tabellino di Juventus-Milan, sfida terminata e valida per la terza giornata del campionato di Serie A Enilive 2026/2027.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:41:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d7/d78ebf069a354c4f922dcff9eaac0450-79355-oooz0000.jpeg",
+   "id": "a9c3936c30fb"
+  },
+  {
+   "title": "JUV-MIL (1-1): l'ha pareggiata allo scadere la Juventus, gol di Gatti",
+   "link": "https://www.milannews.it/news/juv-mil-1-1-pareggiata-scadere-juventus-gol-gatti-629061",
+   "summary": "Sugli sviluppi di un calcio piazzato la Juventus ha trovato la rete del pari, meritato, con Federico Gatti.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:37:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a2/a206aa71fbf0151baac197903e1dd5f3-11905-oooz0000.jpeg",
+   "id": "6152e0e08908"
+  },
+  {
+   "title": "MN - Standing ovation dello Stadium per Modric al momento della sostituzione",
+   "link": "https://www.milannews.it/news/mn-standing-ovation-stadium-modric-sostituzione-629059",
+   "summary": "Al momento della sostituzione l'Allianz Stadium ha deciso di omaggiare Luka Modric con una bellissima standing ovation. Anche oggi, nonostante le quasi 41 primavere, il croato è stato monumentale in mezzo al campo, dettando ritmi e gioco.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:36:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
+   "id": "480213761c5a"
+  },
+  {
+   "title": "JUV-MIL (0-1): ultima sostituzione per il Milan, dentro Terracciano per Gila",
+   "link": "https://www.milannews.it/news/juv-mil-0-1-ultima-sostituzione-milan-terracciano-gila-629060",
+   "summary": "Quando mancano poco meno di 2 minuti al recupero, Amorim ha scelto di sfruttare anche l'ultimo slot di cambi facendo entrare Filippo Terracciano per Mario Gila.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:31:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3a/3a4f339ceb705cc51b9f61527bf30a05-49863-oooz0000.jpeg",
+   "id": "ecb124b1cb6c"
+  },
+  {
+   "title": "JUV-MIL (0-1): altro cambio nel Milan, dentro Jashari per Modric",
+   "link": "https://www.milannews.it/news/juv-mil-0-1-cambio-milan-jashari-modric-629058",
+   "summary": "Quando mancano poco meno di 10 minuti alla fine della partita, Ruben Amorim ha deciso di mettere nuovamente mano alla panchina optando per una sostituzione di contenimento e gestione.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:28:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e6/e65bf231ab214754cea1f51ebf255016-99316-oooz0000.jpeg",
+   "id": "52b38b75f0fa"
+  },
+  {
+   "title": "Quando Cisse gioca a Torino significa solo una cosa: gol",
+   "link": "https://www.milannews.it/news/cisse-gioca-torino-significa-cosa-gol-629057",
+   "summary": ".",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:24:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bf/bfbf03be48f5ee1ff0296adc0103991c-50070-oooz0000.jpeg",
+   "id": "9053eb94aeaf"
+  },
+  {
+   "title": "JUV-MIL (0-1): si sblocca il risultato all'Allianz Stadium, gran gol di Cissé",
+   "link": "https://www.milannews.it/news/juv-mil-0-1-sblocca-risultato-allianz-stadium-gran-gol-cisse-629056",
+   "summary": "I cambi di Ruben Amorim hanno subito dato i loro frutti.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:15:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d4/d455790fee03bc0153bc5ef0d77b857d-97731-oooz0000.jpeg",
+   "id": "d5eec04893fb"
+  },
+  {
+   "title": "JUV-MIL (0-0): triplo cambio per il Milan all'ora di gioco, dentro Loftus, Cisse e Chukwueze",
+   "link": "https://www.milannews.it/news/juv-mil-0-0-cambio-milan-gioco-loftus-cisse-chukwueze-629055",
+   "summary": "Arrivati all'ora di gioco Ruben Amorim ha deciso di mettere mano alla panchina per cercare di dare una scossa alla sua squadra.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:06:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d4/d455790fee03bc0153bc5ef0d77b857d-97731-oooz0000.jpeg",
+   "id": "28fcd484f6dc"
+  },
+  {
+   "title": "MN - Juventus-Milan, il dato sulle presenze del settore ospiti",
+   "link": "https://www.milannews.it/news/mn-juventus-milan-dato-presenze-settore-ospiti-629054",
+   "summary": "La Juventus ha comunicato il dato definitivo degli spettatori presenti questa sera all'Allianz Stadium, per la gara contro il Milan, valida per la 3^ giornata di Serie A: sono stati venduti 39.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T20:00:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0a/0ae14c0eb58f9f87f4dc7408842ee41f-97787-oooz0000.jpeg",
+   "id": "caea39ac0016"
+  },
+  {
+   "title": "MN - Non solo Sinner, presente allo Stadium anche il presidente della FIA",
+   "link": "https://www.milannews.it/news/mn-sinner-presente-stadium-presidente-fia-629053",
+   "summary": "Serata di grandi ospiti quella di oggi all'Allianz Stadium per Juventus-Milan. Apprende la redazione di MilanNews.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T19:36:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b8/b8847cdb0a2bc5ebe465fbdcb215b6e2-54305-oooz0000.jpeg",
+   "id": "14e00c232169"
+  },
+  {
+   "title": "Marchegiani: \"Il fatto che Amorim recuperi giocatori come Rabiot dovrebbe far crescere ulteriormente la squadra in queste partite\"",
+   "link": "https://www.milannews.it/news/marchegiani-il-amorim-recuperi-giocatori-rabiot-dovrebbe-far-crescere-ulteriormente-squadra-partite-629048",
+   "summary": "Nel pre partita di Juventus-Milan, sfida valida per la terza giornata di Serie A Enilive 2026/27, l'ex portiere Luca Marchegiani ha parlato negli studi di sky Sport 24 della formazione di Ruben Amorim, chiamata oggi a una grande prova di forza e ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T19:24:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/92/92c220664e0c15e6b2bb1efe65ab2d79-56925-oooz0000.jpeg",
+   "id": "53d0811d7fff"
+  },
+  {
+   "title": "Stramaccioni: \"Ci auguriamo l'intensità che abbiamo visto ieri a San Siro\"",
+   "link": "https://www.milannews.it/news/stramaccioni-ci-auguriamo-intensita-san-siro-629040",
+   "summary": "Le dichiarazioni di Andrea Stramaccioni a DAZN nel pre-partita di Juventus-Milan sul gioco espresso dal tecnico rossonero Ruben Amorim: \"Per quanto riguarda il calcio, le sue idee sono chiare, ha traiettorie di gioco definite.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T19:00:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/37/37eac47e1460d7148e911e5b23c2fd06-39848-oooz0000.jpeg",
+   "id": "42abc736bb02"
+  },
+  {
+   "title": "Striscione dei tifosi della Juve per Baresi: \"07-03-1990: grazie Baresi\". Cosa successe",
+   "link": "https://www.milannews.it/news/striscione-tifosi-juve-baresi-07-03-1990-baresi-successe-629052",
+   "summary": "Al minuto 6 di Juventus-Milan, il settore ospiti rossonero presente all'Allianz Stadium ha urlato un coro in onore di Franco Baresi.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T18:54:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bc/bc50979321b5b3fbc2da48af5b2677eb-20396-oooz0000.jpeg",
+   "id": "8ed3131667c7"
+  },
+  {
+   "title": "Buffon intrigato dal nuovo Milan di Amorim: \"Nuovo progetto, nuovo allenatore, nuovi giocatori e può vivere sulle ali dell'entusiasmo\"",
+   "link": "https://www.milannews.it/news/buffon-intrigato-milan-amorim-nuovo-progetto-allenatore-giocatori-vivere-ali-entusiasmo-628993",
+   "summary": "Intervistato questa mattina dai colleghi de La Gazzetta dello Sport, l'ex portiere Gianluigi Buffon ha presentato l'importante sfida in programma questa sera all'Allianz Stadium tra la \"sua\" Juventus ed il Milan.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-06T18:48:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e6/e692b85fa617b76c26e6a3ed41371534-10919-oooz0000.jpeg",
+   "id": "135b3c954c01"
+  },
+  {
+   "title": "Lo Shakhtar si riscatta in campionato: battuto 2-1 il Karpaty Lviv fuori casa",
+   "link": "https://www.fcinternews.it/eurorivali/shakhtar-riscatta-campionato-battuto-2-1-karpaty-lviv-1017818",
+   "summary": "Lo Shakhtar Donetsk è un avversario dell'Inter in Champions e ieri si è riscattato in campionato dopo aver perso una settimana fa.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T20:52:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f6/f69fb024fdfaddbe547a81cd92480591-52985-oooz0000.jpeg",
+   "id": "4775da4f5748"
+  },
+  {
+   "title": "Gatti risponde a Cisse: finisce 1-1 tra Juventus e Milan allo Stadium",
+   "link": "https://www.fcinternews.it/news/juve-milan-1017823",
+   "summary": "Una gara tutt'altro che irreprensibile sul piano delle emozioni: finisce 1-1 all'Allianz Stadium tra Juventus e Milan.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T20:44:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6a/6a2532c87e9bd1c6581753502015c67a-14486-oooz0000.jpeg",
+   "id": "fc97d12b3eed"
+  },
+  {
+   "title": "Nerazzurri, che rimonta! E c'è una statistica molto interessante sul doppio svantaggio...",
+   "link": "https://www.fcinternews.it/stats/nerazzurri-rimonta-statistica-interessante-svantaggio-1017821",
+   "summary": "Il finale di gara di ieri sera è stato a dir poco epico: l'Inter ha spinto a più non posso, tra legni colpiti, episodi dubbi, l'occasione di Anguissa e poi il timbro decisivo di Lautaro Martinez.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T20:24:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/32/32a7a62b1b98efbccb7d47da963b0dc0-34067-oooz0000.jpeg",
+   "id": "4b2df0857706"
+  },
+  {
+   "title": "Tomasevic: \"Contenta per il primo gol in stagione, voglio continuare così\"",
+   "link": "https://www.fcinternews.it/inter-femminile/tomasevic-contenta-gol-stagione-voglio-continuare-cosi-1017816",
+   "summary": "Masa Tomasevic, una delle tre marcatrici della vittoria dell'Inter Women contro la Lazio nell'ultima gara del girone della Serie A Women's Cup, parla così ai microfoni di Inter TV: \"Sono molto contenta della nostra vittoria e ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T20:10:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c9/c935005b622a0ba1af621f8a58221290-28654-oooz0000.jpeg",
+   "id": "fe492041f9cd"
+  },
+  {
+   "title": "Napoli, Alisson non ci sta: \"Deluso, era una gara destinata a noi\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/napoli-alisson-sta-deluso-gara-destinata-noi-1017819",
+   "summary": "Molto deluso Alisson, esterno d'attacco del Napoli, dopo la sconfitta maturata sul campo dell'Inter.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T19:56:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fe/fee6b0b5034a4fe2b7b5f26901252434-25378-oooz0000.jpeg",
+   "id": "dc0645e8e41a"
+  },
+  {
+   "title": "Gullit: \"Le delusioni capitano, ma l'Inter sa come si arriva in fondo\"",
+   "link": "https://www.fcinternews.it/news/gullit-le-delusioni-capitano-inter-sa-arriva-fondo-1017794",
+   "summary": "Ruud Gullit, ex attaccante della Nazionale olandese nonché ex Milan, ai microfoni de La Gazzetta dello Sport analizza così le chance di fare bene in Europa per l'Inter: \"Le delusioni capitano, però Lautaro e comp ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T19:42:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5c/5c6e905a44e8695ac16e0fa5a6f1e465-25011-623o107o2111o1595z1154.jpeg",
+   "id": "678f1a27b7f1"
+  },
+  {
+   "title": "Vittoria da grande squadra, ora arriva il bello: l'Inter è pronta più che mai",
+   "link": "https://www.fcinternews.it/in-primo-piano/vittoria-squadra-inizia-forcing-settembrino-inter-pronta-1017822",
+   "summary": "Ci sono partite che definiscono i contorni e la sostanza tecnica di una squadra. Quella di ieri contro il Napoli ha sicuramente fornito indicazioni importanti a Cristian Chivu.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T19:28:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f9/f96f9a9a49fbe35d46738744942c0fe4-14072-oooz0000.jpeg",
+   "id": "0c3b22aae814"
+  },
+  {
+   "title": "Lautaro aggancia Nyers nella classifica dei migliori marcatori della storia dell'Inter",
+   "link": "https://www.fcinternews.it/focus/lautaro-aggancia-nyers-classifica-migliori-marcatori-storia-inter-1017820",
+   "summary": "Il gol alla fine che ha fatto esplodere San Siro. Ma non solo: c'è tantissima sostanza nella prestazione del capitano Lautaro Martinez, sempre più determinato a sposare a vita il progetto nerazzurro.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T19:14:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2a/2aa6aaa0835d916c0653b5fede3645d0-77708-oooz0000.jpeg",
+   "id": "9b22a3fd9c4f"
+  },
+  {
+   "title": "Padovano: \"La Juventus può essere la vera anti-Inter\"",
+   "link": "https://www.fcinternews.it/news/padovano-la-juventus-vera-anti-inter-1017827",
+   "summary": "Nel presentare il big match della domenica sera tra Juventus e Milan durante un'intervista rilasciata a Tuttosport, l'ex attaccante bianconero Michele Padovano ha dichiarato a sorpresa come possa essere proprio la compagine torinese la princi ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T18:59:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1a/1afaed09f46a13f8878a11595b2ef789-32168-0o0o678o678z054c.jpeg",
+   "id": "310915a8aade"
+  },
+  {
+   "title": "Real Madrid-Inter a Oliver: coi nerazzurri quattro precedenti con tre vittorie",
+   "link": "https://www.fcinternews.it/copertina/real-madrid-inter-oliver-nerazzurri-precedenti-vittorie-1017795",
+   "summary": "Tocca a Michael Oliver, uno degli arbitri più esperti e apprezzati a livello internazionale, la direzione di gara di Real Madrid-Inter, partita di cartello della giornata inaugurale della League Phase della Champions League.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T18:45:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ba/ba7f3a7b101fa242229b7b6000b906c7-72948-382o93o1064o775z090a.jpeg",
+   "id": "090d389bc558"
+  },
+  {
+   "title": "Secondo successo per l'U18 di Dellafiore: Roma battuta 4-2",
+   "link": "https://www.fcinternews.it/giovanili/successo-u18-dellafiore-roma-battuta-4-2-1017798",
+   "summary": "Bella vittoria esterna per l'Inter Under 18 di Paolo Dellafiore che sbanca il campo della Roma vincendo per 4-2 nella seconda giornata del campionato di categoria.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T18:31:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a2/a2f44754946d9193594f1a8de1e48c89-18311-1476o1151o2184o1859z1a0e.jpeg",
+   "id": "23e940063052"
+  },
+  {
+   "title": "Napoli, Politano: \"Resta una grande amarezza per una sconfitta del genere\"",
+   "link": "https://www.fcinternews.it/l-avversario/napoli-politano-resta-amarezza-sconfitta-genere-1017782",
+   "summary": "Dopo la sconfitta per 3-2 contro l’Inter a San Siro, l'attaccante azzurro Matteo Politano affida a Instagram un messaggio rivolto all’ambiente azzurro.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T18:16:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/05/05888d4249f90546bc5c6387227afe3f-15423-493o60o1384o951z0b48.jpeg",
+   "id": "483fdd52740d"
+  },
+  {
+   "title": "Bologna-Sassuolo 2-2, i felsinei recuperano due volte i neroverdi",
+   "link": "https://www.fcinternews.it/il-resto-della-a/bologna-sassuolo-2-2-felsinei-recuperano-neroverdi-1017826",
+   "summary": "Il Bologna recupera per due volte il Sassuolo e trova il primo punto del proprio campionato: il risultato finale dello stadio dall'Ara è 2-2.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T18:02:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fddf4a77c0a6a437e0fd6653d12d303e-04970-0o0o1559o1559z0c2e.jpeg",
+   "id": "adfc2f34e2e7"
+  },
+  {
+   "title": "Real-Inter, Mbappè lancia la sfida a Thuram: \"Ci vediamo martedì\"",
+   "link": "https://www.fcinternews.it/focus/real-inter-mbappe-lancia-sfida-thuram-ci-vediamo-martedi-1017825",
+   "summary": "Sfida ufficialmente lanciata.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T17:48:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cc/cc39906205441675495f435d70dc6973-38635-47o83o1607o1643z0d34.jpeg",
+   "id": "5be246c80742"
+  },
+  {
+   "title": "Viviano: \"Mani Lobotka, ho perso ogni speranza. Chivu mal riportato\"",
+   "link": "https://www.fcinternews.it/news/viviano-mani-lobotka-perso-speranza-chivu-mal-riportato-1017791",
+   "summary": "Anche Emiliano Viviano, nel corso dell'odierna puntata di Sport Mediaset XXL, è voluto tornare sulle dichiarazioni di Cristian Chivu della vigilia di Inter-Napoli a proposito degli scontri diretti e della corsa Scudetto e del brutto equivo ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T17:33:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1ee2f2513bfda6cc074086f3a212e041-09197-oooz0000.jpeg",
+   "id": "9b4eabd337bd"
+  },
+  {
+   "title": "Real Madrid-Inter Clasico d'Europa. Sempre più stregato per i nerazzurri",
+   "link": "https://www.fcinternews.it/in-primo-piano/real-madrid-inter-i-clasico-i-europa-stregato-nerazzurri-1017793",
+   "summary": "Quella tra Real Madrid e Inter si può definire tranquillamente una grande classica del calcio europeo che martedì andrà in scena per la ventesima volta nella storia.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T17:20:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8c/8c856c87e340d113c5e7980bd705988e-20364-733o86o2048o1401z10ac.jpeg",
+   "id": "49805409af35"
+  },
+  {
+   "title": "L'Atalanta risponde alla Roma: \"Respingiamo le valutazioni giallorosse\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/atalanta-risponde-roma-respingiamo-valutazioni-giallorosse-1017810",
+   "summary": "La risposta dell'Atalanta non si è fatta attendere.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T17:05:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ba/ba4bd13588588db9ea8879db75fa43b7-95488-397o216o1493o1312z0d5a.jpeg",
+   "id": "65c1f0b4184f"
+  },
+  {
+   "title": "Sassarini: \"Una settimana fantastica. Non c'è squadra A e squadra B\"",
+   "link": "https://www.fcinternews.it/inter-femminile/sassarini-una-settimana-fantastica-squadra-squadra-b-1017815",
+   "summary": "La qualificazione in Women's Champions League e le semifinali della Serie A Women's Cup.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T16:50:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/63/63b5f1010bf4c7f9af5767bcea79ca9e-06113-oooz0000.jpeg",
+   "id": "47d9da773b71"
+  },
+  {
+   "title": "Inter-Napoli, i nerazzurri celebrano il MOTM Lautaro Martinez",
+   "link": "https://www.fcinternews.it/news/inter-napoli-nerazzurri-celebrano-motm-lautaro-martinez-1017814",
+   "summary": "Attraverso i propri profili social, l'Inter ha celebrato capitan Lautaro Martinez, nominato \"Man of The Match\" alla conclusione della sfida vinta in rimonta contro il Napoli.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T16:40:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c5/c5bf6f6266789c56089a11ad8d0fadf3-99018-1104o107o1800o803z0ee6.jpeg",
+   "id": "989ae6629e94"
+  },
+  {
+   "title": "Il gol preferito di Esposito? I compagni scelgono, Thuram 'profetizza'",
+   "link": "https://www.fcinternews.it/inter-social-club/gol-preferito-esposito-compagni-scelgono-thuram-profetizza-1017812",
+   "summary": "Ma qual è stato il gol più bello segnato sin qui da Pio Esposito con l'Inter? La domanda è stata posta ai suoi compagni alla Pinetina.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-06T16:30:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fc/fce20f208081525bd4f7912ac49ceac6-27265-590o120o1433o963z0c22.jpeg",
+   "id": "6d7420a52f5a"
+  },
+  {
+   "title": "Player Ratings: Juventus 1-1 Milan – Italians in the spotlight",
+   "link": "https://football-italia.net/player-ratings-juventus-1-1-milan-italians/",
+   "summary": "Players coming off the bench made the difference for both Juventus and Milan tonight as...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
    "scope": "generalista",
-   "published": "2026-09-04T11:13:02+00:00",
+   "published": "2026-09-06T21:00:00+00:00",
    "image": "",
-   "id": "487cdd7f599d"
+   "id": "77972b633af3"
+  },
+  {
+   "title": "Live: Juventus vs. Milan post-match show from the Allianz Stadium",
+   "link": "https://football-italia.net/live-juventus-v-milan-post-match-show/",
+   "summary": "Lorenzo Bettoni reports from the Allianz Stadium in Turin alongside SempreMilan’s Ben Dixon to examine...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-09-06T20:55:11+00:00",
+   "image": "",
+   "id": "286ad5f0cd76"
+  },
+  {
+   "title": "Serie A | Juventus 1-1 Milan: Gatti late to ruin Cisse party",
+   "link": "https://football-italia.net/serie-a-juventus-1-1-milan-gatti-ruin-cisse/",
+   "summary": "Federico Gatti in stoppages cancelled out the Alphadjo Cisse opener, as Juventus and Milan shared...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-09-06T20:46:16+00:00",
+   "image": "",
+   "id": "9d1e0026f18e"
+  },
+  {
+   "title": "Juventus fans pay tribute to Baresi ahead of Milan match: ‘With infinite respect’",
+   "link": "https://football-italia.net/juventus-fans-pay-tribute-to-baresi-milan/",
+   "summary": "Juventus fans paid tribute to Milan legend Franco Baresi ahead of this evening’s Serie A...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-09-06T19:17:30+00:00",
+   "image": "",
+   "id": "e6ac0e54c3bc"
+  },
+  {
+   "title": "Italy star Calafiori hailed as ‘best left-back in Premier League’ for Arsenal winner",
+   "link": "https://football-italia.net/italy-calafiori-best-lb-premier-league-arsenal/",
+   "summary": "Italy international Riccardo Calafiori was denied a goal by VAR in Arsenal’s 2-1 victory over...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-09-06T18:47:59+00:00",
+   "image": "",
+   "id": "9826150f57c5"
   },
   {
    "title": "Serie A Liveblog: Sunday’s Round 3 games, including Juventus vs. Milan",
@@ -1870,66 +1789,11 @@
    "published": "2026-09-06T14:18:44+00:00",
    "image": "",
    "id": "820cbe78fa80"
-  },
-  {
-   "title": "Official: Inter lock Pio Esposito down to new contract until June 2032",
-   "link": "https://football-italia.net/official-inter-pio-esposito-new-contract-2032/",
-   "summary": "Inter have officially extended the contract of striker Francesco Pio Esposito to June 2032, locking...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-06T14:12:53+00:00",
-   "image": "",
-   "id": "93a8c2197673"
-  },
-  {
-   "title": "Video: Diogo Leite arrives in Rome ahead of Lazio move",
-   "link": "https://football-italia.net/video-diogo-leite-arrives-lazio-move/",
-   "summary": "Portuguese defender Diogo Leite has arrived at Rome’s Fiumicino Airport on Sunday afternoon, ahead of...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-06T12:52:07+00:00",
-   "image": "",
-   "id": "bd8f3257aa11"
-  },
-  {
-   "title": "McTominay surgery scheduled in London as Napoli anticipate October return",
-   "link": "https://football-italia.net/mctominay-surgery-scheduled-in-london-napoli/",
-   "summary": "Scott McTominay is set to undergo surgery in London on Monday as Napoli begin the...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-06T12:30:46+00:00",
-   "image": "",
-   "id": "8c01eb22b11e"
-  },
-  {
-   "title": "Official: Juventus squad list for Milan with eight unavailable players",
-   "link": "https://football-italia.net/official-juventus-squad-list-milan-8-players/",
-   "summary": "Juventus have confirmed their squad list for tonight’s Serie A match against Milan, with eight...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-06T11:57:19+00:00",
-   "image": "",
-   "id": "fd232ad2765d"
-  },
-  {
-   "title": "Official: English referee Oliver and Scottish VAR appointed for Real Madrid vs. Inter",
-   "link": "https://football-italia.net/official-referee-oliver-real-madrid-v-inter/",
-   "summary": "English referee Michael Oliver has been appointed for Inter’s opening Champions League game of the...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-06T11:37:58+00:00",
-   "image": "",
-   "id": "c40e011893a9"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 29
+  "in_edizione": 21
  }
 }
