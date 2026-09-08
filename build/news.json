@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T02:05:06.211270+02:00",
+ "generated_at": "2026-09-08T07:03:29.890535+02:00",
  "articles": [
   {
    "title": "Juventus-Milan, Beccantini: \"Un 1-1 firmato da quattro panchinari. Kolo Muani e Gonçalo Ramos nove falsi e non falsi nove\"",
@@ -11,9 +11,9 @@
    "published": "2026-09-07T20:40:42+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/22/22422d4ebef9d0ffe844763463c4dc17-58097-oooz0000.jpeg",
    "id": "219d32bdd930",
-   "age_minutes": 204,
+   "age_minutes": 502,
    "also": [],
-   "score": 8.178
+   "score": 7.135
   },
   {
    "title": "Serena: \"Inter, sul mercato distanza enorme dal Real. Ma in campo se la gioca\"",
@@ -25,9 +25,9 @@
    "published": "2026-09-07T21:47:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/38/38ca9204ad5f7c62fc31373825bfbf69-02850-493o84o1385o975z0b79.jpeg",
    "id": "00c15b42a62a",
-   "age_minutes": 137,
+   "age_minutes": 435,
    "also": [],
-   "score": 6.481
+   "score": 5.332
   },
   {
    "title": "Colpo Lazio a Udine! Gattuso rimonta nel finale e va a punteggio pieno",
@@ -39,23 +39,9 @@
    "published": "2026-09-07T20:45:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fd60cc6992c6c33d185f4bc577f84d5-98380-oooz0000.jpeg",
    "id": "0ff6271bc8a9",
-   "age_minutes": 200,
+   "age_minutes": 498,
    "also": [],
-   "score": 6.196
-  },
-  {
-   "title": "Alaba, niente United, ecco dove potrebbe andare",
-   "link": "https://www.tuttojuve.com/calciomercato/alaba-united-andare-792133",
-   "summary": "David Alaba non vestirà la maglia del Manchester United. Il difensore austriaco, svincolato dal 30 giugno dopo la conclusione del contratto con il Real Madrid, era stato accostato ai Red Devils come possibile rinforzo a…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-07T23:00:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/20/201541eee1b0af6c1eabd725533636cd-92573-oooz0000.jpeg",
-   "id": "8bf538f6eb2f",
-   "age_minutes": 64,
-   "also": [],
-   "score": 6.043
+   "score": 5.147
   },
   {
    "title": "A Madrid operazione riscatto per l'Inter. Anche perché l'anno scorso...",
@@ -67,9 +53,23 @@
    "published": "2026-09-07T20:04:16+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/91a5d558f69cb3d4ca90657abcf857a9-40677-oooz0000.jpeg",
    "id": "bc777e3741b7",
-   "age_minutes": 240,
+   "age_minutes": 539,
    "also": [],
-   "score": 6.025
+   "score": 5.036
+  },
+  {
+   "title": "Alaba, niente United, ecco dove potrebbe andare",
+   "link": "https://www.tuttojuve.com/calciomercato/alaba-united-andare-792133",
+   "summary": "David Alaba non vestirà la maglia del Manchester United. Il difensore austriaco, svincolato dal 30 giugno dopo la conclusione del contratto con il Real Madrid, era stato accostato ai Red Devils come possibile rinforzo a…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-07T23:00:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/20/201541eee1b0af6c1eabd725533636cd-92573-oooz0000.jpeg",
+   "id": "8bf538f6eb2f",
+   "age_minutes": 363,
+   "also": [],
+   "score": 4.768
   },
   {
    "title": "Juventus, Spalletti prova a recuperare Pape Sarr e McKennie",
@@ -81,9 +81,9 @@
    "published": "2026-09-07T22:45:08+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5e948fe2248754fbcf9deb3143debd08-16629-oooz0000.jpeg",
    "id": "4d7daf30c657",
-   "age_minutes": 79,
+   "age_minutes": 378,
    "also": [],
-   "score": 5.564
+   "score": 4.316
   },
   {
    "title": "Grosso esonerato, Martorelli: \"Mi ricorda Allegri al Cagliari, ma gli diedero fiducia\"",
@@ -95,9 +95,9 @@
    "published": "2026-09-07T21:00:48+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/07/07580fffd9259204a140349c59a226d8-56902-oooz0000.jpeg",
    "id": "f45231d59da4",
-   "age_minutes": 184,
+   "age_minutes": 482,
    "also": [],
-   "score": 5.065
+   "score": 3.992
   },
   {
    "title": "Bucchioni: \"Milan, difficoltà normali: tanti giocatori da rieducare o inserire\"",
@@ -109,23 +109,9 @@
    "published": "2026-09-07T20:12:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/90/905f6e5c2e2a39921d51972cfa9d65b5-83518-oooz0000.jpeg",
    "id": "f46e777d2e97",
-   "age_minutes": 232,
+   "age_minutes": 531,
    "also": [],
-   "score": 4.858
-  },
-  {
-   "title": "Folorunsho non al top, Juric: \"Fisicamente lontano da quello che può essere\"",
-   "link": "https://www.tuttonapoli.net/serie-a/folorunsho-top-juric-fisicamente-essere-655676",
-   "summary": "Ivan Juric, allenatore del Monza, ai microfoni di Dazn tra i vari temi ha parlato anche di Micheal Folorunsho, centrocampista arrivato in prestito dal Napoli: \"Lui è arrivato con molta umiltà, lo abbiamo messo in mezzo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T19:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5e/5e09811f4b0c80b6fdc512bf873bb72b-72413-oooz0000.jpeg",
-   "id": "1c424de8cc67",
-   "age_minutes": 264,
-   "also": [],
-   "score": 4.729
+   "score": 3.857
   },
   {
    "title": "7 settembre 1986: l'esordio in rossonero di Daniele Massaro",
@@ -137,254 +123,44 @@
    "published": "2026-09-07T19:24:03+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f1/f1f9d19e71a98f94cc6a777dd1b05366-67244-oooz0000.jpeg",
    "id": "ad06e47bd71c",
-   "age_minutes": 281,
+   "age_minutes": 579,
    "also": [],
-   "score": 4.666
-  },
-  {
-   "title": "Borsa, Juventus in rosso- Stellantis e Ferrari positive",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-juventus-rosso-stellantis-ferrari-positive-792158",
-   "summary": "Chiusura senza una tendenza uniforme per le principali Borse europee, in una seduta caratterizzata da scambi poco vivaci anche per l'assenza di Wall Street, rimasta chiusa in occasione della Festa del Lavoro negli Stati…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-07T20:12:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
-   "id": "256981380e75",
-   "age_minutes": 232,
-   "also": [],
-   "score": 4.457
+   "score": 3.732
   }
  ],
  "raw": [
   {
-   "title": "Flop Allegri? Zambardino: \"No, non condivido certe ironie su di lui! Il Napoli è usurato\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/flop-allegri-zambardino-no-condivido-ironie-lui-napoli-usurato-655662",
-   "summary": "Vittorio Zambardino, giornalista del Corriere del Mezzogiorno, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania: \"Do ...",
-   "source": "TuttoNapoli",
+   "title": "Juve altra grana, Locatelli si opera",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-altra-grana-locatelli-opera-792167",
+   "summary": "Non c'è pace per Luciano Spalletti.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-08T00:00:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2c52c2e52f3bed7cf7bdee57119d29e9-82204-oooz0000.jpeg",
-   "id": "3256687e5249"
+   "scope": "Juventus",
+   "published": "2026-09-08T04:45:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e4/e49ed97f2e90c0208c0d5bc373773d62-47929-oooz0000.jpeg",
+   "id": "372098b31304"
   },
   {
-   "title": "Napoli-Arsenal, probabili formazioni: De Bruyne scalpita, Allegri valuta 4 cambi",
-   "link": "https://www.tuttonapoli.net/zoom/napoli-arsenal-probabili-formazioni-de-bruyne-scalpita-allegri-valuta-3-cambi-655679",
-   "summary": "Il Napoli si prepara al debutto nella league phase di Champions League: mercoledì 9 settembre alle ore 21:00 gli azzurri ospiteranno l’Arsenal allo Stadio Diego Armando Maradona.",
-   "source": "TuttoNapoli",
+   "title": "Juventus, il problema è in mezzo: poche alternative e gioco troppo lento per puntare in alto",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-problema-mezzo-poche-alternative-gioco-lento-puntare-alto-792115",
+   "summary": "Il pareggio contro il Milan ha mostrato una Juventus superiore per iniziativa in diversi momenti della partita, ma ha anche evidenziato un limite che Luciano Spalletti dovrà risolvere rapidamente: la squadra continua a giocare troppo lent ...",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T23:00:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/24/241189381374bf291b9b5f646493420c-74012-oooz0000.jpeg",
-   "id": "e56f7309ccf4"
+   "scope": "Juventus",
+   "published": "2026-09-08T04:40:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32f14379d06c3758387b299237c1ff58-54224-oooz0000.jpeg",
+   "id": "5ce16f1e5e46"
   },
   {
-   "title": "Bonanni: \"Ok l'occasione di Anguissa, ma Allegri continua a non convincermi\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bonanni-ok-occasione-anguissa-allegri-convince-655677",
-   "summary": "L'ex calciatore Massimo Bonanni, oggi allenatore, è intervenuto ai microfoni di Tmw Radio per commentare i temi attuali di Serie A. Di seguito le sue dichiarazioni.",
-   "source": "TuttoNapoli",
+   "title": "Locatelli si opera",
+   "link": "https://www.tuttojuve.com/altre-notizie/locatelli-opera-792172",
+   "summary": "La Juventus perde un altro pezzo fondamentale. Manuel Locatelli dovrà sottoporsi a un intervento chirurgico al menisco e Luciano Spalletti si ritrova improvvisamente con un'emergenza pesantissima nel cuore della squadra.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T22:30:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f2/f2089295ce495ba5779e835cfcb4f6a2-42181-oooz0000.jpeg",
-   "id": "fd549ccd9950"
-  },
-  {
-   "title": "Inter-Napoli, Perillo: \"Tante note positive, pagati a caro prezzo gli errori sotto porta\"",
-   "link": "https://www.tuttonapoli.net/dai-social/inter-napoli-perillo-tante-note-positive-pagati-caro-prezzo-errori-porta-655673",
-   "summary": "Il giornalista Antonello Perillo, tramite un tweet sul suo profilo X, ha commentato la sconfitta del Napoli contro l'Inter, soffermandosi sulla prestazione degli azzurri e sui rimpianti per la rimonta subita dallo 0-2 al 3-2.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T22:15:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/db/db8dc8365f3db7e767f27c1e38e54007-32486-oooz0000.jpeg",
-   "id": "6ebe7db9359c"
-  },
-  {
-   "title": "GRATIS - Google \"Fonti preferite\", ecco come aggiungere TuttoNapoli alle tue notizie",
-   "link": "https://www.tuttonapoli.net/notizie/gratis-google-fonti-preferite-aggiungere-tuttonapoli-notizie-644100",
-   "summary": "Google ha introdotto una nuova funzione destinata a cambiare il modo in cui leggiamo le notizie: si chiama \"Fonti preferite\" e permette di scegliere direttamente quali siti far comparire più spesso nei risultati.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T22:00:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/68/685259c913bedd95942183182090f200-29917-oooz0000.jpeg",
-   "id": "f80fd0bf0b39"
-  },
-  {
-   "title": "Film Centenario Napoli, al via le riprese: ecco trama, cast e protagonisti",
-   "link": "https://www.tuttonapoli.net/notizie/film-centenario-napoli-via-riprese-trama-cast-protagonisti-655698",
-   "summary": "Sono iniziate le riprese del nuovo film sul Centenario dell’SSC Napoli prodotto da Filmauro, da un'idea di Aurelio De Laurentiis, soggetto di Mimmo Carratelli e Maurizio de Giovanni, scritto da Maurizio De Giovanni con la collaborazione di ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T21:50:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/be/bea48dcfed77dffcca3e9081dce8cf8d-71089-oooz0000.jpeg",
-   "id": "17e781758877"
-  },
-  {
-   "title": "Bologna, Dovbyk: \"Speriamo di avere un po' più di fortuna col Napoli\"",
-   "link": "https://www.tuttonapoli.net/serie-a/bologna-dovbyk-speriamo-fortuna-napoli-655674",
-   "summary": "Artem Dovbyk, attaccante del Bologna, ha rilasciato un'intervista ai microfoni di Dazn: \"Sono felicissimo di aver segnato il mio primo gol qua e il primo gol dopo un infortunio grave e una stagione difficile alla Roma.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T21:40:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/67/67d8c19939ba204d87648aacb4899260-69007-oooz0000.jpeg",
-   "id": "4e0101c1482e"
-  },
-  {
-   "title": "Bacconi ad Allegri: \"Non serve la difesa a 3! Dopo il 2-1 troppo passivi e attendisti…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/bacconi-allegri-non-serve-difesa-3-napoli-aggressivo-competitivo-1t-655696",
-   "summary": "Il match analyst Adriano Bacconi, intervenuto ai microfoni di Tele A nel corso di A Tutto Napoli, ha analizzato la sconfitta del Napoli contro l'Inter, evidenziando le differenze tra l'atteggiamento mostrato dagli azzurri nella prima parte de ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T21:30:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e5/e50a4b9de4548f6177f7d87f1c3fecae-47408-oooz0000.jpeg",
-   "id": "cc146886440d"
-  },
-  {
-   "title": "Longhi: \"Inter-Napoli gara incredibile! Allegri poteva vincerla\"",
-   "link": "https://www.tuttonapoli.net/dai-social/longhi-inter-napoli-gara-incredibile-allegri-poteva-vincerla-655671",
-   "summary": "Il giornalista Bruno Longhi, attraverso il proprio profilo X, ha commentato la rocambolesca vittoria dell’Inter sul Napoli per 3-2.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T21:20:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5b/5b921003a23247c59d94a7e5754ef54f-88203-oooz0000.jpeg",
-   "id": "03181b7d6291"
-  },
-  {
-   "title": "Bucciantini: \"Allegri ha finito malissimo al Milan, questa stagione è fondamentale per lui\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bucciantini-allegri-finito-milan-stagione-fondamentale-lui-655692",
-   "summary": "Il giornalista Marco Bucciantini, intervenuto a Canale 8 nel corso di Ne Parliamo il Lunedì, ha parlato dell'approccio di Massimiliano Allegri al Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T21:10:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ba/ba54a97e0792f717d5b2e997741f548a-94776-oooz0000.jpeg",
-   "id": "204398a40221"
-  },
-  {
-   "title": "Grosso esonerato, Martorelli: \"Mi ricorda Allegri al Cagliari, ma gli diedero fiducia\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/grosso-esonerato-martorelli-mi-ricorda-allegri-cagliari-diedero-fiducia-655672",
-   "summary": "Giocondo Martorelli, operatore di mercato, è intervenuto ai microfoni di TuttoMercatoWeb per commentare i temi principali di Serie A. Di seguito le sue dichiarazioni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T21:00:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/07/07580fffd9259204a140349c59a226d8-56902-oooz0000.jpeg",
-   "id": "f45231d59da4",
-   "age_minutes": 184,
-   "also": [],
-   "score": 5.065
-  },
-  {
-   "title": "Colpo Lazio a Udine! Gattuso rimonta nel finale e va a punteggio pieno",
-   "link": "https://www.tuttonapoli.net/serie-a/colpo-lazio-udine-gattuso-rimonta-finale-punteggio-655694",
-   "summary": "Termina sul risultato di 1-2 il match del Bluenergy Stadium tra Udinese e Lazio, posticipo della terza giornata di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T20:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fd60cc6992c6c33d185f4bc577f84d5-98380-oooz0000.jpeg",
-   "id": "0ff6271bc8a9",
-   "age_minutes": 200,
-   "also": [],
-   "score": 6.196
-  },
-  {
-   "title": "Olivera voleva andare via! Sky svela: agente chiese la cessione a gennaio",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/olivera-voleva-andare-via-sky-svela-agente-chiese-cessione-gennaio-655693",
-   "summary": "Massimo Ugolini, giornalista di Sky Sport, a Canale 8 ha svelato un retroscena sulla situazione di Mathias Olivera: \"Qui si raggancia anche un discorso di programmazione, di gestione, di lavoro che è stato fatto sul mercato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T20:40:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c957ae4a2243083e78e63b3fa0a31d6c-23053-oooz0000.jpeg",
-   "id": "d4e209a0813d"
-  },
-  {
-   "title": "Del Genio: \"Napoli pericoloso solo per 10': quando ha pressato e fatto due gol!\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/genio-napoli-pericoloso-10-pressato-gol-655691",
-   "summary": "Paolo Del Genio, intervenuto a Canale 8 nel corso di Ne Parliamo il Lunedì, ha parlato della prestazione del Napoli contro l'Inter.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T20:30:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/90/90c33149d861cd87fa730c590a106189-89267-oooz0000.jpeg",
-   "id": "896ae4eaff0f"
-  },
-  {
-   "title": "Ranocchia: \"Poche squadre sarebbero riuscite a rimontare due gol al Napoli\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/champions-ranocchia-chivu-vuole-far-capire-superato-maestro-655680",
-   "summary": "(ANSA) - MILANO, 07 SET - \"L'Inter è una squadra in grande fiducia, perché viene da una vittoria contro il Napoli che poche squadre sotto 2-0 sarebbero riuscite a fare.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T20:20:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/46/4612fcb037f9a3fc1ab021b58db79517-90891-oooz0000.jpeg",
-   "id": "fd63bbe038c6"
-  },
-  {
-   "title": "Badiashile cambio sbagliato? Santacroce: \"Era giusto, se non prendeva gol di testa...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/badiashile-cambio-sbagliato-santacroce-era-giusto-prendeva-gol-testa-655683",
-   "summary": "Fabiano Santacroce, ex difensore azzurro ha commentato così Inter-Napoli 3-2: \"Gli uomini che hai devono continuare a giocare assieme per trovare affinità migliore.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T20:10:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ac/acaf7c94c106122f6491ed3069ea9153-54156-oooz0000.jpeg",
-   "id": "ab0f29a1a5cb"
-  },
-  {
-   "title": "Caiazza: \"Hojlund, che risposta alle critiche! Ma è già 'stanco', serviva alternativa\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/caiazza-hojlund-risposta-critiche-stanco-serviva-vice-655690",
-   "summary": "Il giornalista Salvatore Caiazza, intervenuto a Canale 8 nel corso di Ne Parliamo il Lunedì, ha parlato dell'inizio di stagione positivo di Rasmus Hojlund.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T20:00:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4e/4e1fa9dc5ec1b28f5a402b73dacc83c5-53815-oooz0000.jpeg",
-   "id": "bbb0a7ec2cd5"
-  },
-  {
-   "title": "La griglia scudetto di Repice: \"Ci sono Inter e Napoli con altre due big\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/griglia-scudetto-repice-ci-inter-napoli-big-655681",
-   "summary": "Francesco Repice, radiocronista, è intervenuto ai microfoni di Tmw Radio per commentare i temi attuali di Serie A. Di seguito le sue dichiarazioni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T19:50:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ad6fe227cfb7df2904a151662d564482-19070-oooz0000.jpeg",
-   "id": "6eafbe6e1b1e"
-  },
-  {
-   "title": "Folorunsho non al top, Juric: \"Fisicamente lontano da quello che può essere\"",
-   "link": "https://www.tuttonapoli.net/serie-a/folorunsho-top-juric-fisicamente-essere-655676",
-   "summary": "Ivan Juric, allenatore del Monza, ai microfoni di Dazn tra i vari temi ha parlato anche di Micheal Folorunsho, centrocampista arrivato in prestito dal Napoli: \"Lui è arrivato con molta umiltà, lo abbiamo messo in mezzo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T19:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5e/5e09811f4b0c80b6fdc512bf873bb72b-72413-oooz0000.jpeg",
-   "id": "1c424de8cc67",
-   "age_minutes": 264,
-   "also": [],
-   "score": 4.729
-  },
-  {
-   "title": "Capuano esalta Allegri e Chivu: \"Volevano vincerla entrambi, show livello Champions!\"",
-   "link": "https://www.tuttonapoli.net/dai-social/capuano-esalta-allegri-chiv-volevano-vincerla-entrambi-show-livello-champions-655675",
-   "summary": "Il giornalista Giovanni Capuano, con un tweet sul suo profilo X, ha commentato il big match Inter-Napoli, esaltando l'intensità e la qualità di una sfida che ha regalato emozioni fino all'ultimo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-07T19:30:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/31/314bfcfb13b83d4a235f58c20af7d4be-91002-oooz0000.jpeg",
-   "id": "b3310d966463"
+   "scope": "Juventus",
+   "published": "2026-09-08T04:30:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e4/e49ed97f2e90c0208c0d5bc373773d62-47929-oooz0000.jpeg",
+   "id": "d8be943b8756"
   },
   {
    "title": "Benzema poteva tornare in Europa, ecco cosa ha bloccato tutto!",
@@ -429,9 +205,9 @@
    "published": "2026-09-07T23:00:21+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/20/201541eee1b0af6c1eabd725533636cd-92573-oooz0000.jpeg",
    "id": "8bf538f6eb2f",
-   "age_minutes": 64,
+   "age_minutes": 363,
    "also": [],
-   "score": 6.043
+   "score": 4.768
   },
   {
    "title": "Juventus, Spalletti prova a recuperare Pape Sarr e McKennie",
@@ -443,9 +219,9 @@
    "published": "2026-09-07T22:45:08+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5e948fe2248754fbcf9deb3143debd08-16629-oooz0000.jpeg",
    "id": "4d7daf30c657",
-   "age_minutes": 79,
+   "age_minutes": 378,
    "also": [],
-   "score": 5.564
+   "score": 4.316
   },
   {
    "title": "Sancho a sorpresa in Italia?",
@@ -578,45 +354,9 @@
    "published": "2026-09-07T20:40:42+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/22/22422d4ebef9d0ffe844763463c4dc17-58097-oooz0000.jpeg",
    "id": "219d32bdd930",
-   "age_minutes": 204,
+   "age_minutes": 502,
    "also": [],
-   "score": 8.178
-  },
-  {
-   "title": "Udinese, tegola Solet: problema muscolare prima della sfida con l’Inter",
-   "link": "https://www.tuttojuve.com/altre-notizie/udinese-tegola-solet-problema-muscolare-sfida-l-inter-792159",
-   "summary": "La sfida del Bluenergy Stadium tra Udinese e Lazio, posticipo del lunedì sera che ha completato la terza giornata di Serie A, ha portato due brutte notizie per la formazione bianconera già nel corso del primo tempo, terminato senza reti ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-07T20:30:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/89/89a8df83ae11d5326edb09bf277c480b-30533-oooz0000.jpeg",
-   "id": "2dc062071d79"
-  },
-  {
-   "title": "Borsa, Juventus in rosso- Stellantis e Ferrari positive",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-juventus-rosso-stellantis-ferrari-positive-792158",
-   "summary": "Chiusura senza una tendenza uniforme per le principali Borse europee, in una seduta caratterizzata da scambi poco vivaci anche per l'assenza di Wall Street, rimasta chiusa in occasione della Festa del Lavoro negli Stati…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-07T20:12:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
-   "id": "256981380e75",
-   "age_minutes": 232,
-   "also": [],
-   "score": 4.457
-  },
-  {
-   "title": "Malagò: \"Il progetto giovani va avanti, ci sono idee chiare ed energia positiva\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/malago-il-progetto-giovani-avanti-idee-chiare-energia-positiva-792147",
-   "summary": "Giovanni Malagò, presidente FIGC, a margine della giornata di benvenuto alle matricole della Luiss, ha parlato dei temi del calcio italiano: \"Sono in costante contatto con Ranieri e con tutte le persone coinvolte, stiamo parlando tantissi ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-07T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d1/d10a0b7efb7c0155a8f66a135e900242-04579-oooz0000.jpeg",
-   "id": "f9cf6e23aa8e"
+   "score": 7.135
   },
   {
    "title": "L'ex tecnico di Cisse: \"Fa cose che altri non fanno. Sono felicissimo: se lo merita\"",
@@ -782,9 +522,9 @@
    "published": "2026-09-07T20:12:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/90/905f6e5c2e2a39921d51972cfa9d65b5-83518-oooz0000.jpeg",
    "id": "f46e777d2e97",
-   "age_minutes": 232,
+   "age_minutes": 531,
    "also": [],
-   "score": 4.858
+   "score": 3.857
   },
   {
    "title": "Marinozzi deluso dal duello a distanza tra Ramos e Kolo Muani: le sue parole",
@@ -829,9 +569,9 @@
    "published": "2026-09-07T19:24:03+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f1/f1f9d19e71a98f94cc6a777dd1b05366-67244-oooz0000.jpeg",
    "id": "ad06e47bd71c",
-   "age_minutes": 281,
+   "age_minutes": 579,
    "also": [],
-   "score": 4.666
+   "score": 3.732
   },
   {
    "title": "Stramaccioni: \"Amorim mi piace, ha idee chiare. Percepisco sintonia con Cardinale\"",
@@ -865,9 +605,9 @@
    "published": "2026-09-07T21:47:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/38/38ca9204ad5f7c62fc31373825bfbf69-02850-493o84o1385o975z0b79.jpeg",
    "id": "00c15b42a62a",
-   "age_minutes": 137,
+   "age_minutes": 435,
    "also": [],
-   "score": 6.481
+   "score": 5.332
   },
   {
    "title": "AZ Picerno-Inter U23 4-1, le pagelle dei calciatori lucani",
@@ -978,9 +718,9 @@
    "published": "2026-09-07T20:04:16+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/91a5d558f69cb3d4ca90657abcf857a9-40677-oooz0000.jpeg",
    "id": "bc777e3741b7",
-   "age_minutes": 240,
+   "age_minutes": 539,
    "also": [],
-   "score": 6.025
+   "score": 5.036
   },
   {
    "title": "Solet e Piotrowski infortunati: condizioni da valutare in vista di Inter-Udinese",
@@ -1069,6 +809,232 @@
    "published": "2026-09-07T18:05:12+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/02/029657d8a82fc42970996bcd748d3426-35912-oooz0000.jpeg",
    "id": "9249d6795bf8"
+  },
+  {
+   "title": "Inter-Napoli, l'editoriale di Zito: \"La banalità del Max\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/inter-napoli-editoriale-zito-la-banalita-max-655582",
+   "summary": "Francesco Zito, analista di Kickest, commenta Inter-Napoli 3-2 nel suo editoriale per TuttoNapoli.net \"Quando abbiamo la palla bisogna far gol, quando non ce l’abbiamo bisogna non prenderne […].",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-08T04:30:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/24/241189381374bf291b9b5f646493420c-74012-oooz0000.jpeg",
+   "id": "57868e02ec68"
+  },
+  {
+   "title": "L'editoriale di Forgione: \"Allegri ha perso con questo cambio. Arsenal? Evitiamo l'imbarcata\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/editoriale-forgione-655660",
+   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Il problema non è tant ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-08T04:00:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/88/880fbe6f4f21639c16a303f78fda7fc5-89419-oooz0000.jpeg",
+   "id": "bd9a5bfb0f2f"
+  },
+  {
+   "title": "De Giovanni: \"De Bruyne è un gioiello, ma per esaltarsi va inserito in un Napoli che funziona\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-giovanni-de-bruyne-gioiello-esaltarsi-inserito-napoli-funziona-655665",
+   "summary": "Maurizio De Giovanni, scrittore, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania: \"De Bruyne è un gioiello.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-08T03:00:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e8/e841e3c3ef7d84899f1571135d62d2ce-92377-oooz0000.jpeg",
+   "id": "1b9ad32a87d5"
+  },
+  {
+   "title": "Napoli troppo attendista? Pazienza: \"Per il suo bene, spero che continui così\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-attendista-pazienza-per-bene-spero-continui-cosi-655659",
+   "summary": "Michele Pazienza, allenatore ed ex calciatore del Napoli, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania: \"Il Napo ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-08T02:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/57/574f958329466270b1554803b4f50a19-18657-oooz0000.jpeg",
+   "id": "062efe6f1f22"
+  },
+  {
+   "title": "CdS, Salvione: \"Fiducia in Allegri! Il Napoli migliorerà col tempo\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/i-cds-i-salvione-655661",
+   "summary": "Pasquale Salvione, giornalista del Corriere dello Sport, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania: \"Oggi guardare il campionat ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-08T01:00:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/80/801c4ce0093178b5002d3de94498e4eb-04846-oooz0000.jpeg",
+   "id": "a47734b14450"
+  },
+  {
+   "title": "Flop Allegri? Zambardino: \"No, non condivido certe ironie su di lui! Il Napoli è usurato\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/flop-allegri-zambardino-no-condivido-ironie-lui-napoli-usurato-655662",
+   "summary": "Vittorio Zambardino, giornalista del Corriere del Mezzogiorno, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania: \"Do ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-08T00:00:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2c52c2e52f3bed7cf7bdee57119d29e9-82204-oooz0000.jpeg",
+   "id": "3256687e5249"
+  },
+  {
+   "title": "Napoli-Arsenal, probabili formazioni: De Bruyne scalpita, Allegri valuta 4 cambi",
+   "link": "https://www.tuttonapoli.net/zoom/napoli-arsenal-probabili-formazioni-de-bruyne-scalpita-allegri-valuta-3-cambi-655679",
+   "summary": "Il Napoli si prepara al debutto nella league phase di Champions League: mercoledì 9 settembre alle ore 21:00 gli azzurri ospiteranno l’Arsenal allo Stadio Diego Armando Maradona.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T23:00:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/24/241189381374bf291b9b5f646493420c-74012-oooz0000.jpeg",
+   "id": "e56f7309ccf4"
+  },
+  {
+   "title": "Bonanni: \"Ok l'occasione di Anguissa, ma Allegri continua a non convincermi\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bonanni-ok-occasione-anguissa-allegri-convince-655677",
+   "summary": "L'ex calciatore Massimo Bonanni, oggi allenatore, è intervenuto ai microfoni di Tmw Radio per commentare i temi attuali di Serie A. Di seguito le sue dichiarazioni.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T22:30:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f2/f2089295ce495ba5779e835cfcb4f6a2-42181-oooz0000.jpeg",
+   "id": "fd549ccd9950"
+  },
+  {
+   "title": "Inter-Napoli, Perillo: \"Tante note positive, pagati a caro prezzo gli errori sotto porta\"",
+   "link": "https://www.tuttonapoli.net/dai-social/inter-napoli-perillo-tante-note-positive-pagati-caro-prezzo-errori-porta-655673",
+   "summary": "Il giornalista Antonello Perillo, tramite un tweet sul suo profilo X, ha commentato la sconfitta del Napoli contro l'Inter, soffermandosi sulla prestazione degli azzurri e sui rimpianti per la rimonta subita dallo 0-2 al 3-2.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T22:15:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/db/db8dc8365f3db7e767f27c1e38e54007-32486-oooz0000.jpeg",
+   "id": "6ebe7db9359c"
+  },
+  {
+   "title": "GRATIS - Google \"Fonti preferite\", ecco come aggiungere TuttoNapoli alle tue notizie",
+   "link": "https://www.tuttonapoli.net/notizie/gratis-google-fonti-preferite-aggiungere-tuttonapoli-notizie-644100",
+   "summary": "Google ha introdotto una nuova funzione destinata a cambiare il modo in cui leggiamo le notizie: si chiama \"Fonti preferite\" e permette di scegliere direttamente quali siti far comparire più spesso nei risultati.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T22:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/68/685259c913bedd95942183182090f200-29917-oooz0000.jpeg",
+   "id": "f80fd0bf0b39"
+  },
+  {
+   "title": "Film Centenario Napoli, al via le riprese: ecco trama, cast e protagonisti",
+   "link": "https://www.tuttonapoli.net/notizie/film-centenario-napoli-via-riprese-trama-cast-protagonisti-655698",
+   "summary": "Sono iniziate le riprese del nuovo film sul Centenario dell’SSC Napoli prodotto da Filmauro, da un'idea di Aurelio De Laurentiis, soggetto di Mimmo Carratelli e Maurizio de Giovanni, scritto da Maurizio De Giovanni con la collaborazione di ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T21:50:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/be/bea48dcfed77dffcca3e9081dce8cf8d-71089-oooz0000.jpeg",
+   "id": "17e781758877"
+  },
+  {
+   "title": "Bologna, Dovbyk: \"Speriamo di avere un po' più di fortuna col Napoli\"",
+   "link": "https://www.tuttonapoli.net/serie-a/bologna-dovbyk-speriamo-fortuna-napoli-655674",
+   "summary": "Artem Dovbyk, attaccante del Bologna, ha rilasciato un'intervista ai microfoni di Dazn: \"Sono felicissimo di aver segnato il mio primo gol qua e il primo gol dopo un infortunio grave e una stagione difficile alla Roma.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T21:40:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/67/67d8c19939ba204d87648aacb4899260-69007-oooz0000.jpeg",
+   "id": "4e0101c1482e"
+  },
+  {
+   "title": "Bacconi ad Allegri: \"Non serve la difesa a 3! Dopo il 2-1 troppo passivi e attendisti…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/bacconi-allegri-non-serve-difesa-3-napoli-aggressivo-competitivo-1t-655696",
+   "summary": "Il match analyst Adriano Bacconi, intervenuto ai microfoni di Tele A nel corso di A Tutto Napoli, ha analizzato la sconfitta del Napoli contro l'Inter, evidenziando le differenze tra l'atteggiamento mostrato dagli azzurri nella prima parte de ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T21:30:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e5/e50a4b9de4548f6177f7d87f1c3fecae-47408-oooz0000.jpeg",
+   "id": "cc146886440d"
+  },
+  {
+   "title": "Longhi: \"Inter-Napoli gara incredibile! Allegri poteva vincerla\"",
+   "link": "https://www.tuttonapoli.net/dai-social/longhi-inter-napoli-gara-incredibile-allegri-poteva-vincerla-655671",
+   "summary": "Il giornalista Bruno Longhi, attraverso il proprio profilo X, ha commentato la rocambolesca vittoria dell’Inter sul Napoli per 3-2.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T21:20:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5b/5b921003a23247c59d94a7e5754ef54f-88203-oooz0000.jpeg",
+   "id": "03181b7d6291"
+  },
+  {
+   "title": "Bucciantini: \"Allegri ha finito malissimo al Milan, questa stagione è fondamentale per lui\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bucciantini-allegri-finito-milan-stagione-fondamentale-lui-655692",
+   "summary": "Il giornalista Marco Bucciantini, intervenuto a Canale 8 nel corso di Ne Parliamo il Lunedì, ha parlato dell'approccio di Massimiliano Allegri al Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T21:10:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ba/ba54a97e0792f717d5b2e997741f548a-94776-oooz0000.jpeg",
+   "id": "204398a40221"
+  },
+  {
+   "title": "Grosso esonerato, Martorelli: \"Mi ricorda Allegri al Cagliari, ma gli diedero fiducia\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/grosso-esonerato-martorelli-mi-ricorda-allegri-cagliari-diedero-fiducia-655672",
+   "summary": "Giocondo Martorelli, operatore di mercato, è intervenuto ai microfoni di TuttoMercatoWeb per commentare i temi principali di Serie A. Di seguito le sue dichiarazioni.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T21:00:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/07/07580fffd9259204a140349c59a226d8-56902-oooz0000.jpeg",
+   "id": "f45231d59da4",
+   "age_minutes": 482,
+   "also": [],
+   "score": 3.992
+  },
+  {
+   "title": "Colpo Lazio a Udine! Gattuso rimonta nel finale e va a punteggio pieno",
+   "link": "https://www.tuttonapoli.net/serie-a/colpo-lazio-udine-gattuso-rimonta-finale-punteggio-655694",
+   "summary": "Termina sul risultato di 1-2 il match del Bluenergy Stadium tra Udinese e Lazio, posticipo della terza giornata di Serie A.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T20:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fd60cc6992c6c33d185f4bc577f84d5-98380-oooz0000.jpeg",
+   "id": "0ff6271bc8a9",
+   "age_minutes": 498,
+   "also": [],
+   "score": 5.147
+  },
+  {
+   "title": "Olivera voleva andare via! Sky svela: agente chiese la cessione a gennaio",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/olivera-voleva-andare-via-sky-svela-agente-chiese-cessione-gennaio-655693",
+   "summary": "Massimo Ugolini, giornalista di Sky Sport, a Canale 8 ha svelato un retroscena sulla situazione di Mathias Olivera: \"Qui si raggancia anche un discorso di programmazione, di gestione, di lavoro che è stato fatto sul mercato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T20:40:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c957ae4a2243083e78e63b3fa0a31d6c-23053-oooz0000.jpeg",
+   "id": "d4e209a0813d"
+  },
+  {
+   "title": "Del Genio: \"Napoli pericoloso solo per 10': quando ha pressato e fatto due gol!\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/genio-napoli-pericoloso-10-pressato-gol-655691",
+   "summary": "Paolo Del Genio, intervenuto a Canale 8 nel corso di Ne Parliamo il Lunedì, ha parlato della prestazione del Napoli contro l'Inter.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T20:30:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/90/90c33149d861cd87fa730c590a106189-89267-oooz0000.jpeg",
+   "id": "896ae4eaff0f"
+  },
+  {
+   "title": "Ranocchia: \"Poche squadre sarebbero riuscite a rimontare due gol al Napoli\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/champions-ranocchia-chivu-vuole-far-capire-superato-maestro-655680",
+   "summary": "(ANSA) - MILANO, 07 SET - \"L'Inter è una squadra in grande fiducia, perché viene da una vittoria contro il Napoli che poche squadre sotto 2-0 sarebbero riuscite a fare.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-07T20:20:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/46/4612fcb037f9a3fc1ab021b58db79517-90891-oooz0000.jpeg",
+   "id": "fd63bbe038c6"
   },
   {
    "title": "Udinese boss Runjaic: ‘We paid dearly for double injury, Lazio are a top team’",
@@ -1294,6 +1260,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 100,
-  "in_edizione": 11
+  "in_edizione": 9
  }
 }
