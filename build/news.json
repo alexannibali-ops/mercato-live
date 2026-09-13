@@ -1,24 +1,19 @@
 {
- "generated_at": "2026-09-13T23:36:14.558921+02:00",
+ "generated_at": "2026-09-14T01:58:52.347627+02:00",
  "articles": [
   {
-   "title": "Juventus, follia a Sassuolo: Adzic firma il 3-2 al 90’",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-follia-a-sassuolo-adzic-firma-il-3-2-al-90-792861",
-   "summary": "La Juventus cercava i tre punti al Mapei Stadium e torna a Torino con una sconfitta pesantissima.",
-   "source": "TuttoJuve",
+   "title": "Bergomi promuove Favasuli: \"Mi piace, è dinamico e coraggioso. È un bell’acquisto\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bergomi-promuove-favasuli-mi-piace-dinamico-coraggioso-bell-acquisto-656240",
+   "summary": "Nel corso di 'Sky Calcio Club', l'ex difensore dell'Inter Beppe Bergomi ha parlato di Costantino Favasuli, protagonista nella vittoria del Napoli contro il Bologna.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:45:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/93/930334f266f9387ecf883f531e749685-83548-oooz0000.jpeg",
-   "id": "63715a42c72f",
-   "age_minutes": 51,
-   "also": [
-    {
-     "source": "TuttoNapoli",
-     "link": "https://www.tuttonapoli.net/serie-a/juventus-ko-95-adzic-gela-spalletti-sassuolo-vince-partita-folle-656228"
-    }
-   ],
-   "score": 7.516
+   "scope": "Napoli",
+   "published": "2026-09-13T22:50:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4e/4e5cb4a4620d49763c78f47f2784dabe-78203-oooz0000.jpeg",
+   "id": "1401aeaa3f6f",
+   "age_minutes": 68,
+   "also": [],
+   "score": 6.824
   },
   {
    "title": "L’Inter guarda in casa Cagliari, non solo Romano nel mirino dei nerazzurri",
@@ -30,51 +25,23 @@
    "published": "2026-09-13T21:30:51+00:00",
    "image": "",
    "id": "15b8b2049fee",
-   "age_minutes": 5,
+   "age_minutes": 148,
    "also": [],
-   "score": 7.369
+   "score": 6.63
   },
   {
-   "title": "De Grandis: “Kolo Muani si vede pochissimo. La scorsa settimana c’è stata la firma in calce sul fatto che…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/de-grandis-kolo-muani-vede-pochissimo-scorsa-settimana-c-e-firma-calce-che-792869",
-   "summary": "Per la Juventus è arrivata la prima sconfitta stagionale e di certo adesso Spalletti dovrà trovare delle contromisure. Anche nel match contro il Sassuolo Randal Kolo Muani ha fatto fatica ad esprimersi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T21:30:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c51f2746c5836c1165c1c4737c31cd96-74727-oooz0000.jpeg",
-   "id": "9500a34cf6f6",
-   "age_minutes": 5,
-   "also": [],
-   "score": 7.17
-  },
-  {
-   "title": "Arthur, nuova vita al Santos: impatto positivo dopo l'addio alla Juventus",
-   "link": "https://www.tuttojuve.com/altre-notizie/arthur-nuova-santos-impatto-positivo-addio-juventus-792860",
-   "summary": "Il ritorno in Brasile sembra aver restituito ad Arthur una dimensione ideale per rilanciarsi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:30:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f5/f552ac737b13e43d07fefec7c7e579c7-13533-oooz0000.jpeg",
-   "id": "c84c53ea2d9a",
-   "age_minutes": 65,
-   "also": [],
-   "score": 6.839
-  },
-  {
-   "title": "Lipsia, Nkunku in gol nella vittoria per 5-0 contro l'Amburgo",
-   "link": "https://www.milannews.it/news/lipsia-nkunku-gol-vittoria-5-0-amburgo-629734",
-   "summary": "Nel pomeriggio Christopher Nkunku ha segnato il suo primo gol in Bundesliga dopo il ritorno al Lipsia in prestito con diritto di riscatto dal Milan.",
+   "title": "Milan, finora tutti i gol segnati portano la firma di un subentrato",
+   "link": "https://www.milannews.it/news/milan-finora-gol-segnati-portano-firma-subentrato-629743",
+   "summary": "Statistica abbastanza particolare, ma che rispecchia comunque l'attualità del Milan di Amorim: i rossoneri hanno segnato solo nella ripresa in questo avvio di campionato e solo sfruttando giocate di calciatori…",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-09-13T21:24:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/19/19e2642a3f0944b5a3b7d8d1dff7f63a-57985-oooz0000.jpeg",
-   "id": "b602f819e55d",
-   "age_minutes": 11,
+   "published": "2026-09-13T21:48:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6f/6f7a4b3b7ed18f5929eb53dd28168732-70987-oooz0000.jpeg",
+   "id": "144698c4f617",
+   "age_minutes": 130,
    "also": [],
-   "score": 6.734
+   "score": 6.512
   },
   {
    "title": "Tiago Gabriel piace sempre più, il Milan tornerà alla carica a gennaio",
@@ -86,37 +53,23 @@
    "published": "2026-09-13T19:19:35+00:00",
    "image": "",
    "id": "252fa0f1ae17",
-   "age_minutes": 136,
+   "age_minutes": 279,
    "also": [],
-   "score": 6.684
+   "score": 6.072
   },
   {
-   "title": "Addio a Giusy Achilli, fu presidentessa del Pavia di Allegri e Massara",
-   "link": "https://www.tuttojuve.com/altre-notizie/addio-giusy-achilli-presidentessa-pavia-allegri-massara-792857",
-   "summary": "Il calcio pavese è in lutto per la scomparsa di Giusy Achilli, storica presidentessa del Pavia dal 1989 al 1994. Aveva 72 anni ed è morta a Milano, città nella quale viveva, dopo essere stata malata da tempo.",
-   "source": "TuttoJuve",
+   "title": "Lipsia, Nkunku in gol nella vittoria per 5-0 contro l'Amburgo",
+   "link": "https://www.milannews.it/news/lipsia-nkunku-gol-vittoria-5-0-amburgo-629734",
+   "summary": "Nel pomeriggio Christopher Nkunku ha segnato il suo primo gol in Bundesliga dopo il ritorno al Lipsia in prestito con diritto di riscatto dal Milan.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:00:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d2/d29c70a77126adc5073a4ce2310bb7f4-52804-oooz0000.jpeg",
-   "id": "19decebf7d39",
-   "age_minutes": 96,
+   "scope": "Milan",
+   "published": "2026-09-13T21:24:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/19/19e2642a3f0944b5a3b7d8d1dff7f63a-57985-oooz0000.jpeg",
+   "id": "b602f819e55d",
+   "age_minutes": 154,
    "also": [],
-   "score": 6.682
-  },
-  {
-   "title": "Inter, il Barcellona insiste per Dimarco: pronto un nuovo assalto",
-   "link": "https://www.calciomercato.it/2026/09/13/inter-il-barcellona-insiste-per-dimarco-pronto-un-nuovo-assalto/",
-   "summary": "L'articolo Inter, il Barcellona insiste per Dimarco: pronto un nuovo assalto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-13T16:23:42+00:00",
-   "image": "",
-   "id": "94e1dacf65fb",
-   "age_minutes": 312,
-   "also": [],
-   "score": 5.947
+   "score": 6.002
   },
   {
    "title": "Napoli, altro colpo di scena Lang: la scelta di Allegri",
@@ -128,9 +81,9 @@
    "published": "2026-09-12T14:06:08+00:00",
    "image": "",
    "id": "f065548f341e",
-   "age_minutes": 1890,
+   "age_minutes": 2032,
    "also": [],
-   "score": 5.661
+   "score": 5.612
   },
   {
    "title": "Juve, sfuma un altro acquisto: indosserà la maglia del Santos",
@@ -142,9 +95,51 @@
    "published": "2026-09-12T12:23:08+00:00",
    "image": "",
    "id": "e06c76d61ea8",
-   "age_minutes": 1993,
+   "age_minutes": 2135,
    "also": [],
-   "score": 5.625
+   "score": 5.583
+  },
+  {
+   "title": "Un tassello mancante per l’Europa",
+   "link": "https://www.fcinternews.it/editoriale/editoriale-inter-news-1018336",
+   "summary": "La sconfitta all’esordio in Champions League contro il Real Madrid ha inevitabilmente riacceso il dibattito sulle possibilità europee dell’Inter di Cristian Chivu.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-13T22:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e1/e1b6d1a5f90850c78d7b9de232304ac6-45166-oooz0000.jpeg",
+   "id": "182ee67b4fdd",
+   "age_minutes": 118,
+   "also": [],
+   "score": 5.569
+  },
+  {
+   "title": "Inter, il Barcellona insiste per Dimarco: pronto un nuovo assalto",
+   "link": "https://www.calciomercato.it/2026/09/13/inter-il-barcellona-insiste-per-dimarco-pronto-un-nuovo-assalto/",
+   "summary": "L'articolo Inter, il Barcellona insiste per Dimarco: pronto un nuovo assalto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-13T16:23:42+00:00",
+   "image": "",
+   "id": "94e1dacf65fb",
+   "age_minutes": 455,
+   "also": [],
+   "score": 5.473
+  },
+  {
+   "title": "La Pro Ref spiega l'errore di arbitro e VAR nel gol convalidato ad Haaland nel derby di Manchester",
+   "link": "https://www.milannews.it/dall-estero/pro-ref-spiega-errore-arbitro-var-gol-convalidato-haaland-derby-manchester-629744",
+   "summary": "Il gol decisivo di Erling Haaland nel derby di Manchester era da annullare: lo ha comunicato la ProRef inglese con una nota ufficiale, ammettendo l'errore commesso dalla squadra arbitrale ad Old Trafford questo…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T22:11:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/13/139c19db4e0c70720548dc119ecff81c-64058-oooz0000.jpeg",
+   "id": "6f4ccb274513",
+   "age_minutes": 107,
+   "also": [],
+   "score": 5.423
   },
   {
    "title": "Inter, l’annuncio di Chivu: “Torna Dimarco”. La conferma su Spence",
@@ -156,9 +151,9 @@
    "published": "2026-09-13T14:47:14+00:00",
    "image": "",
    "id": "6fd00c820e98",
-   "age_minutes": 409,
+   "age_minutes": 551,
    "also": [],
-   "score": 5.616
+   "score": 5.203
   },
   {
    "title": "Juventus sempre interessata a Ismael Koné, le ultimissime",
@@ -170,23 +165,37 @@
    "published": "2026-09-13T14:43:47+00:00",
    "image": "",
    "id": "b417ee0e404c",
-   "age_minutes": 412,
+   "age_minutes": 555,
    "also": [],
-   "score": 5.605
+   "score": 5.194
   },
   {
-   "title": "Possesso, duelli vinti e tiri tentati: i dati che esaltano i risultati di Chivu",
-   "link": "https://www.fcinternews.it/focus/possesso-duelli-vinti-tiri-tentati-dati-esaltano-risultati-chivu-1018369",
-   "summary": "Costruire gioco e colpire gli avversari in velocità: la ricetta di Chivu è ormai chiara a tutti e, come evidenzia il sito ufficiale nerazzurro, i campioni d'Italia hanno iniziato il campionato con numeri decisamente…",
-   "source": "FcInterNews",
+   "title": "Kalulu regge per un’ora, poi affonda nel caos della Juventus",
+   "link": "https://www.tuttojuve.com/altre-notizie/kalulu-regge-un-ora-affonda-caos-juventus-792878",
+   "summary": "La partita di Pierre Kalulu contro il Sassuolo contiene due prestazioni differenti. Per buona parte dell’incontro il difensore francese mantiene ordine e attenzione, accompagnando la manovra senza esporsi troppo.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-13T20:19:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f9/f96f9a9a49fbe35d46738744942c0fe4-14072-oooz0000.jpeg",
-   "id": "3dc162a5bc3a",
-   "age_minutes": 76,
+   "scope": "Juventus",
+   "published": "2026-09-13T22:40:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7f125f60da30f9fad3ff0c1a299d6e17-16997-oooz0000.jpeg",
+   "id": "eec50220d566",
+   "age_minutes": 78,
    "also": [],
-   "score": 5.58
+   "score": 5.172
+  },
+  {
+   "title": "Juventus ko al 95'! L'ex Adzic gela Spalletti: il Sassuolo vince una partita folle",
+   "link": "https://www.tuttonapoli.net/serie-a/juventus-ko-95-adzic-gela-spalletti-sassuolo-vince-partita-folle-656228",
+   "summary": "Il Sassuolo firma un'incredibile vittoria per 3-2 contro la Juventus al termine di una sfida esplosa nella ripresa dopo lo 0-0 dei primi 45 minuti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:41:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/62/62aa81ff6a6ee9274b17d3a2c31f74db-13946-oooz0000.jpeg",
+   "id": "d2f605190103",
+   "age_minutes": 196,
+   "also": [],
+   "score": 5.01
   },
   {
    "title": "Clamoroso Dodo, la decisione della Fiorentina scuote i tifosi",
@@ -198,23 +207,23 @@
    "published": "2026-09-13T13:00:45+00:00",
    "image": "",
    "id": "f26d7d39b43b",
-   "age_minutes": 515,
+   "age_minutes": 658,
    "also": [],
-   "score": 5.3
+   "score": 4.946
   },
   {
-   "title": "Pioli verso la Turchia? Il Trabzonspor sonda il tecnico emiliano",
-   "link": "https://www.milannews.it/gli-ex/pioli-turchia-trabzonspor-sonda-tecnico-emiliano-629716",
-   "summary": "Mister Stefano Pioli, attualmente svincolato, secondo Gianluca Di Marzio è finito nel mirino del Trabzonspor: il club turco è attualmente alla ricerca di un nuovo allenatore e c'è stato un sondaggio per il tecnico…",
-   "source": "MilanNews",
+   "title": "Possesso, duelli vinti e tiri tentati: i dati che esaltano i risultati di Chivu",
+   "link": "https://www.fcinternews.it/focus/possesso-duelli-vinti-tiri-tentati-dati-esaltano-risultati-chivu-1018369",
+   "summary": "Costruire gioco e colpire gli avversari in velocità: la ricetta di Chivu è ormai chiara a tutti e, come evidenzia il sito ufficiale nerazzurro, i campioni d'Italia hanno iniziato il campionato con numeri decisamente…",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T18:35:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/65/654ecbeb2a9ccced60a79e67e0908364-90987-oooz0000.jpeg",
-   "id": "daa2084b3c5e",
-   "age_minutes": 180,
+   "scope": "Inter",
+   "published": "2026-09-13T20:19:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f9/f96f9a9a49fbe35d46738744942c0fe4-14072-oooz0000.jpeg",
+   "id": "3dc162a5bc3a",
+   "age_minutes": 219,
    "also": [],
-   "score": 5.081
+   "score": 4.913
   },
   {
    "title": "Gundogan via dal Galatasaray: la Serie A ora sogna",
@@ -226,23 +235,9 @@
    "published": "2026-09-13T11:09:20+00:00",
    "image": "",
    "id": "63e25fcad5d8",
-   "age_minutes": 626,
+   "age_minutes": 769,
    "also": [],
-   "score": 5.018
-  },
-  {
-   "title": "Festa a Busto Arsizio per Zanetti: \"Bambini, non smettete di sognare\"",
-   "link": "https://www.fcinternews.it/news/busto-arsizio-festa-zanetti-bambini-smettete-sognare-1018379",
-   "summary": "Accoglienza da stadio, oggi pomeriggio, per il vicepresidente dell'Inter Javier Zanetti, super ospite della quinta edizione di BA Cuori Insieme, la grande giornata del volontariato promossa dall’assessorato…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-13T19:22:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/77/775a7a1925869dbd54aef99af42c8268-83141-oooz0000.jpeg",
-   "id": "721d08cf4de2",
-   "age_minutes": 134,
-   "also": [],
-   "score": 4.896
+   "score": 4.717
   },
   {
    "title": "Prestazione horror all’Olimpico, per Estupinan futuro in bilico",
@@ -254,9 +249,9 @@
    "published": "2026-09-13T08:02:35+00:00",
    "image": "",
    "id": "9a949bc73bbd",
-   "age_minutes": 813,
+   "age_minutes": 956,
    "also": [],
-   "score": 4.635
+   "score": 4.405
   },
   {
    "title": "Milan, c’è una lacuna da colmare: a gennaio serve un nuovo centravanti",
@@ -268,9 +263,23 @@
    "published": "2026-09-13T06:55:12+00:00",
    "image": "",
    "id": "c307053316d3",
-   "age_minutes": 881,
+   "age_minutes": 1023,
    "also": [],
-   "score": 4.521
+   "score": 4.312
+  },
+  {
+   "title": "Festa a Busto Arsizio per Zanetti: \"Bambini, non smettete di sognare\"",
+   "link": "https://www.fcinternews.it/news/busto-arsizio-festa-zanetti-bambini-smettete-sognare-1018379",
+   "summary": "Accoglienza da stadio, oggi pomeriggio, per il vicepresidente dell'Inter Javier Zanetti, super ospite della quinta edizione di BA Cuori Insieme, la grande giornata del volontariato promossa dall’assessorato…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-13T19:22:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/77/775a7a1925869dbd54aef99af42c8268-83141-oooz0000.jpeg",
+   "id": "721d08cf4de2",
+   "age_minutes": 276,
+   "also": [],
+   "score": 4.283
   },
   {
    "title": "Dimarco recupera per Inter-Udinese? Le ultime da Appiano Gentile",
@@ -282,9 +291,9 @@
    "published": "2026-09-13T05:19:16+00:00",
    "image": "",
    "id": "8308aeec7312",
-   "age_minutes": 976,
+   "age_minutes": 1119,
    "also": [],
-   "score": 4.376
+   "score": 4.194
   },
   {
    "title": "Icardi-Lazio, non è finita: la situazione | CM",
@@ -296,9 +305,9 @@
    "published": "2026-09-12T21:35:54+00:00",
    "image": "",
    "id": "e051e2f47a82",
-   "age_minutes": 1440,
+   "age_minutes": 1582,
    "also": [],
-   "score": 3.9
+   "score": 3.807
   },
   {
    "title": "Voti Atalanta-Cagliari 1-2, colpaccio rossoblu a Bergamo",
@@ -310,9 +319,9 @@
    "published": "2026-09-12T20:47:28+00:00",
    "image": "",
    "id": "23f13bc3a21e",
-   "age_minutes": 1488,
+   "age_minutes": 1631,
    "also": [],
-   "score": 3.866
+   "score": 3.779
   },
   {
    "title": "Voti Lazio-Milan 2-2, rimonta rossonera dopo un primo tempo horror",
@@ -324,9 +333,9 @@
    "published": "2026-09-12T18:16:11+00:00",
    "image": "",
    "id": "bf4ef02d4005",
-   "age_minutes": 1640,
+   "age_minutes": 1782,
    "also": [],
-   "score": 3.775
+   "score": 3.705
   },
   {
    "title": "Palladino ha detto no, clamorosa decisione: c’entra il Napoli",
@@ -338,9 +347,9 @@
    "published": "2026-09-12T16:23:13+00:00",
    "image": "",
    "id": "58df1b77b8de",
-   "age_minutes": 1753,
+   "age_minutes": 1895,
    "also": [],
-   "score": 3.718
+   "score": 3.659
   },
   {
    "title": "La Juve trema, emissari del Manchester United in Italia per Kalulu",
@@ -352,9 +361,9 @@
    "published": "2026-09-12T15:29:32+00:00",
    "image": "",
    "id": "af494626b3d4",
-   "age_minutes": 1806,
+   "age_minutes": 1949,
    "also": [],
-   "score": 3.694
+   "score": 3.64
   },
   {
    "title": "Spalletti rilancia Koopmeiners: “Non voleva lasciare la Juve”. La scelta su McKennie",
@@ -366,26 +375,106 @@
    "published": "2026-09-12T14:58:57+00:00",
    "image": "",
    "id": "a86a61e3fa26",
-   "age_minutes": 1837,
+   "age_minutes": 1979,
    "also": [],
-   "score": 3.682
-  },
-  {
-   "title": "Choc in Serie A: rottura del crociato e 6 mesi di stop",
-   "link": "https://www.calciomercato.it/2026/09/12/choc-in-serie-a-rottura-del-crociato-e-6-mesi-di-stop/",
-   "summary": "L'articolo Choc in Serie A: rottura del crociato e 6 mesi di stop proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-12T11:00:29+00:00",
-   "image": "",
-   "id": "a43d5d13f0ee",
-   "age_minutes": 2075,
-   "also": [],
-   "score": 3.6
+   "score": 3.629
   }
  ],
  "raw": [
+  {
+   "title": "Costacurta: \"Nel primo tempo contro la Lazio il Milan aveva poca connessione fra esterni e braccetti\"",
+   "link": "https://www.milannews.it/news/costacurta-nel-lazio-milan-poca-connessione-esterni-braccetti-629736",
+   "summary": "La differenza nella prestazione del Milan contro la Lazio tra primo e secondo tempo è stata veramente come il giorno e la notte.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T23:00:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b9/b9e2786c9c638da0d644ea1edfe19c4f-33206-oooz0000.jpeg",
+   "id": "3252780ca682"
+  },
+  {
+   "title": "Pastore: \"Doppietta alla Theo Hernandez di Moreira. Sono quelle giocate potentissime che aveva Theo nei suoi momenti migliori\"",
+   "link": "https://www.milannews.it/news/pastore-doppietta-theo-hernandez-moreira-giocate-potentissime-theo-momenti-migliori-629738",
+   "summary": "L'impatto di Diego Moreira contro la Lazio è stato strepitoso: i due gol del belga hanno sicuramente smosso qualcosa nell'animo e nei ricordi dei tifosi rossoneri visto che i gesti tecnici, potenti e \"strafottenti\", hanno ric ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T22:48:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ef/efe99bc765ca44fd038f559461620c30-28954-oooz0000.jpeg",
+   "id": "f487e33999ab"
+  },
+  {
+   "title": "Daniel Maldini positivo all'etilometro, ritirata patente dopo incidente",
+   "link": "https://www.milannews.it/news/daniel-maldini-positivo-etilometro-ritirata-patente-incidente-629739",
+   "summary": "(ANSA) - MILANO, 13 SET - E' risultato positivo all'etilometro Daniel Maldini, a cui è stata ritirata la patente dopo l'incidente con la sua Porsche Carrera in cui è rimasto coinvolto questa mattina a Milano.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T22:36:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5e/5e29b3c86ecfd6c2fba11ce96c2762dc-91944-oooz0000.jpeg",
+   "id": "767a262263dc"
+  },
+  {
+   "title": "VIDEO - Pulisic show, entra in campo ed il Milan cambia",
+   "link": "https://www.milannews.it/news/video-pulisic-show-entra-campo-milan-cambia-629741",
+   "summary": "Lo aspettavano tutti e lui non ha tradito le aspettative: i 45 minuti di Christian Pulisic in Lazio-Milan sono stati di alto livello. Un assist, un gol sfiorato e tantissime giocate utili in vari momenti della manovra offensiva rossonera.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T22:24:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/46/46f0a2aabc6c69fa515079e69a08c831-84691-396o72o1464o1140z0c00.jpeg",
+   "id": "9f37ef1a7b1b"
+  },
+  {
+   "title": "La Pro Ref spiega l'errore di arbitro e VAR nel gol convalidato ad Haaland nel derby di Manchester",
+   "link": "https://www.milannews.it/dall-estero/pro-ref-spiega-errore-arbitro-var-gol-convalidato-haaland-derby-manchester-629744",
+   "summary": "Il gol decisivo di Erling Haaland nel derby di Manchester era da annullare: lo ha comunicato la ProRef inglese con una nota ufficiale, ammettendo l'errore commesso dalla squadra arbitrale ad Old Trafford questo…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T22:11:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/13/139c19db4e0c70720548dc119ecff81c-64058-oooz0000.jpeg",
+   "id": "6f4ccb274513",
+   "age_minutes": 107,
+   "also": [],
+   "score": 5.423
+  },
+  {
+   "title": "Le verità dell’Olimpico: chi può e chi non può giocare. Milan cantiere ancora aperto, anche in dirigenza",
+   "link": "https://www.milannews.it/editoriale/verita-dell-olimpico-giocare-milan-cantiere-aperto-dirigenza-629719",
+   "summary": "Il pareggio di Roma contro la Lazio ci ha detto tante cose attorno allo stato di questo Milan.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T22:00:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d872ba90c2a59e3a506b727f39e97afd-40275-oooz0000.jpeg",
+   "id": "cc7b23c33fcd"
+  },
+  {
+   "title": "Milan, finora tutti i gol segnati portano la firma di un subentrato",
+   "link": "https://www.milannews.it/news/milan-finora-gol-segnati-portano-firma-subentrato-629743",
+   "summary": "Statistica abbastanza particolare, ma che rispecchia comunque l'attualità del Milan di Amorim: i rossoneri hanno segnato solo nella ripresa in questo avvio di campionato e solo sfruttando giocate di calciatori…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T21:48:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6f/6f7a4b3b7ed18f5929eb53dd28168732-70987-oooz0000.jpeg",
+   "id": "144698c4f617",
+   "age_minutes": 130,
+   "also": [],
+   "score": 6.512
+  },
+  {
+   "title": "VIDEO - Rivedi i due gol di Moreira negli highlights di Lazio-Milan 2-2",
+   "link": "https://www.milannews.it/news/video-rivedi-gol-moreira-highlights-lazio-milan-2-2-629737",
+   "summary": "Due gol strepitosi di Moreira e un secondo tempo giocato come si deve fanno da contraltare ad una prima frazione di gioco regalata alla squadra di Gattuso: Lazio-Milan è stata una partita piena di emozioni, errori e grandi giocate.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-13T21:36:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4d/4dba791a8136c5ec73d9a92f625954ad-28983-oooz0000.jpeg",
+   "id": "84a40e14e899"
+  },
   {
    "title": "Lipsia, Nkunku in gol nella vittoria per 5-0 contro l'Amburgo",
    "link": "https://www.milannews.it/news/lipsia-nkunku-gol-vittoria-5-0-amburgo-629734",
@@ -396,9 +485,9 @@
    "published": "2026-09-13T21:24:44+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/19/19e2642a3f0944b5a3b7d8d1dff7f63a-57985-oooz0000.jpeg",
    "id": "b602f819e55d",
-   "age_minutes": 11,
+   "age_minutes": 154,
    "also": [],
-   "score": 6.734
+   "score": 6.002
   },
   {
    "title": "Compagnoni: \"Moreira, 50 milioni per quello che ha dimostrato in carriera sono troppi, ma per quello che potrebbe dimostrare non lo sono\"",
@@ -522,556 +611,227 @@
    "id": "17eb4b5e71e0"
   },
   {
-   "title": "Milan, bisogna giocare anche il primo tempo: il dato nei primi 45' è inquietante",
-   "link": "https://www.milannews.it/news/milan-bisogna-giocare-tempo-dato-primi-45-inquietante-629717",
-   "summary": "Come abbiamo visto, il Milan che ieri ha giocato e pareggiato all'Olimpico contro la Lazio è stata una squadra a due facce.",
-   "source": "MilanNews",
+   "title": "LA JUVENTUS SCONFITTA DAL SASSUOLO PECCA DI RESPONSABILITA'",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juventus-sconfitta-sassuolo-pecca-responsabilita-792899",
+   "summary": "La Juventus perde a Sassuolo per 3-2 malamente, lasciando campo ai padroni di casa che segnano in contropiede.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T19:00:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/39/3982ee662b828a433e690d2d7ddaa8f5-47693-oooz0000.jpeg",
-   "id": "7d8381dea212"
+   "scope": "Juventus",
+   "published": "2026-09-13T23:45:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
+   "id": "54c00a4f728b"
   },
   {
-   "title": "Ravezzani: \"Nel secondo tempo il Milan ha preso la Lazio a pallate\"",
-   "link": "https://www.milannews.it/news/ravezzani-nel-milan-preso-lazio-pallate-629715",
-   "summary": "E' un Milan a due facce quello visto sabato sera all'Olimpico contro la Lazio. Dopo un primo tempo disastroso, nella ripresa i ragazzi di Ruben Amorim hanno saputo rialzare la testa rimontando l'iniziale 2-0 biancoceleste.",
-   "source": "MilanNews",
+   "title": "Juve, un suicidio tattico",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-suicidio-tattico-792898",
+   "summary": "La sconfitta della Juventus contro il Sassuolo non nasce soltanto da errori individuali.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T18:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/46/46f0a2aabc6c69fa515079e69a08c831-84691-oooz0000.jpeg",
-   "id": "61b87e7ac7c8"
+   "scope": "Juventus",
+   "published": "2026-09-13T23:30:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e0/e0c2f80ef121a23afe27d33824b2fcef-16467-oooz0000.jpeg",
+   "id": "2f62c0c9d2a8"
   },
   {
-   "title": "Pioli verso la Turchia? Il Trabzonspor sonda il tecnico emiliano",
-   "link": "https://www.milannews.it/gli-ex/pioli-turchia-trabzonspor-sonda-tecnico-emiliano-629716",
-   "summary": "Mister Stefano Pioli, attualmente svincolato, secondo Gianluca Di Marzio è finito nel mirino del Trabzonspor: il club turco è attualmente alla ricerca di un nuovo allenatore e c'è stato un sondaggio per il tecnico…",
-   "source": "MilanNews",
+   "title": "Bremer, il finale cancella la sufficienza",
+   "link": "https://www.tuttojuve.com/altre-notizie/bremer-finale-cancella-sufficienza-792894",
+   "summary": "Gleison Bremer non è il principale responsabile della sconfitta della Juventus contro il Sassuolo, ma non riesce neppure a sottrarsi al giudizio negativo riservato alla fase difensiva bianconera.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T18:35:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/65/654ecbeb2a9ccced60a79e67e0908364-90987-oooz0000.jpeg",
-   "id": "daa2084b3c5e",
-   "age_minutes": 180,
+   "scope": "Juventus",
+   "published": "2026-09-13T23:20:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2a/2a4f848038bac2d7bea1a374f53d23d3-30178-oooz0000.jpeg",
+   "id": "ec2515f3845a"
+  },
+  {
+   "title": "Alajbegovic non si nasconde: Muric gli nega il gol, ma la prova è positiva",
+   "link": "https://www.tuttojuve.com/altre-notizie/alajbegovic-nasconde-muric-nega-gol-prova-positiva-792895",
+   "summary": "Kerim Alajbegovic è una delle poche note incoraggianti nella sconfitta della Juventus contro il Sassuolo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-13T23:10:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a2/a287809151dd4ee990a328280b8239ec-15670-oooz0000.jpeg",
+   "id": "4204b7eae9a1"
+  },
+  {
+   "title": "Woltemade rimandato",
+   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-rimandato-792879",
+   "summary": "Nick Woltemade entra nella ripresa di Sassuolo-Juventus con il compito di dare peso, presenza e imprevedibilità a un reparto offensivo fino a quel momento impalpabile.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-13T23:00:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/15/153b4a81c673db19348014eb7f16d551-46539-oooz0000.jpeg",
+   "id": "f7309de970c6"
+  },
+  {
+   "title": "Pavanello durissimo sulla Juve: \"Nessuna possibilità di raggiungere il quarto posto\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/pavanello-durissimo-juve-nessuna-possibilita-raggiungere-posto-792892",
+   "summary": "La sconfitta della Juventus sul campo del Sassuolo provoca la dura reazione di Roberto Pavanello.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-13T22:50:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6b/6bf5f92cc0fb7c4bf6103da9c83806bd-82559-oooz0000.jpeg",
+   "id": "46ff23f060bb"
+  },
+  {
+   "title": "Kalulu regge per un’ora, poi affonda nel caos della Juventus",
+   "link": "https://www.tuttojuve.com/altre-notizie/kalulu-regge-un-ora-affonda-caos-juventus-792878",
+   "summary": "La partita di Pierre Kalulu contro il Sassuolo contiene due prestazioni differenti. Per buona parte dell’incontro il difensore francese mantiene ordine e attenzione, accompagnando la manovra senza esporsi troppo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-13T22:40:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7f125f60da30f9fad3ff0c1a299d6e17-16997-oooz0000.jpeg",
+   "id": "eec50220d566",
+   "age_minutes": 78,
    "also": [],
-   "score": 5.081
+   "score": 5.172
   },
   {
-   "title": "Serie A, il Napoli torna a vincere: Bologna battuto 1-0. La classifica aggiornata",
-   "link": "https://www.milannews.it/news/serie-a-napoli-torna-vincere-bologna-battuto-1-0-classifica-aggiornata-629729",
-   "summary": "Il Napoli trova la prima vittoria casalinga della stagione battendo 1-0 un modesto Bologna: ad Allegri basta la rete di Lobotka al minuto 66. Nei primi minuti del match annullato un gol degli emiliani per fuorigioco.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T18:23:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/db/dbc354ce52c5dcf76556830e0dde7047-86646-oooz0000.jpeg",
-   "id": "828119cb3c00"
-  },
-  {
-   "title": "Ex Milan, Abate ammette: \"Questa Roma è da scudetto\"",
-   "link": "https://www.milannews.it/gli-ex/abate-roma-scudetto-torino-vuole-provarci-629713",
-   "summary": "(ANSA) - TORINO, 13 SET - \"La Roma è da scudetto e ha ambizioni altissime, ma possiamo colpirli con le nostre armi: sarà un bel banco di prova, siamo pronti dopo una settimana positiva\": così il tecnico del Torino, Igna ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T18:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/dd/dd3b058b0c685738b142ab0ab03c8ee8-82997-oooz0000.jpeg",
-   "id": "a9e254a8e86b"
-  },
-  {
-   "title": "È bastato un tempo per capire che Pulisic è già indispensabile per Amorim",
-   "link": "https://www.milannews.it/primo-piano/bastato-capire-pulisic-indispensabile-amorim-629722",
-   "summary": "Alla vigilia di Lazio-Milan mister Amorim è stato quasi profetico parlando di Christian Pulisic.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T18:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/46/46f0a2aabc6c69fa515079e69a08c831-84691-468o120o1464o1116z0c60.jpeg",
-   "id": "927350dcbef7"
-  },
-  {
-   "title": "Diddi svela dei dati sulla partita contro la Lazio che evidenziano diverse e gravi problematiche nei rossoneri",
-   "link": "https://www.milannews.it/news/diddi-svela-dati-partita-lazio-evidenziano-diverse-gravi-problematiche-rossoneri-629712",
-   "summary": "Nel canale YouTube di Carlo Pellegatti, Luca Diddi ha analizzato e commentato la prestazione dei rossoneri nel match di ieri sera contro la Lazio. Questo un estratto delle sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T17:48:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ea/ea2f73236deffeaecf031b2eeabb6cd9-86108-oooz0000.jpeg",
-   "id": "607b4084ad44"
-  },
-  {
-   "title": "Tacchinardi: \"Milan a un bivio: andare avanti con Modric oppure lasciarlo fuori\"",
-   "link": "https://www.milannews.it/news/tacchinardi-milan-bivio-andare-modric-lasciarlo-fuori-629714",
-   "summary": "Uno dei temi più discussi dopo la trasferta del Milan a Roma contro la Lazio è sicuramente la posizione tattica di Luka Modric, apparso in chiara difficoltà in un centrocampo composto da soli due giocatori.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-13T17:36:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e6/e65bf231ab214754cea1f51ebf255016-99316-oooz0000.jpeg",
-   "id": "ca3308495781"
-  },
-  {
-   "title": "L'editoriale di Chiariello: \"Ho difeso Allegri nella sconfitta, lo critico fortemente nella vittoria\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-ho-difeso-allegri-sconfitta-critico-fortemente-vittoria-656232",
-   "summary": "Nel corso di 'Campania Sport', il giornalista Umberto Chiariello ha commentato la vittoria del Napoli contro il Bologna nel suo consueto editoriale: \"Non c'è affatto da essere allegri e non è affatto un gioco di parole, ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T21:30:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
-   "id": "7e2d09bde9e7"
-  },
-  {
-   "title": "Eurorivali, tris del Brugge: Vetlesen protagonista con una doppietta",
-   "link": "https://www.tuttonapoli.net/champions-league/eurorivali-tris-brugge-vetlesen-protagonista-doppietta-656231",
-   "summary": "Successo in campionato per il Club Brugge, eurorivale del Napoli in Champions League, che al Jan Breydel Stadium ha battuto 3-1 il Royal Antwerp nella sesta giornata della Jupiler Pro League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T21:20:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/69/69e9997277283fefc6c18918878831a4-58585-oooz0000.jpeg",
-   "id": "bdf85ac7fa61"
-  },
-  {
-   "title": "Rrahmani esalta Favasuli: \"Gli va bene sempre tutto quello che fa\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/rrahmani-esalta-favasuli-gli-fa-656230",
-   "summary": "Amir Rrahmani, difensore del Napoli, ha parlato ai microfoni di DAZN al termine della vittoria per 1-0 contro il Bologna, sottolineando la reazione degli azzurri dopo le tre sconfitte consecutive: \"Dopo tre sconfitte è stato mol ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T21:10:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/eb/eb93e3ed4c441bd93d242c62ab7eea41-62197-oooz0000.jpeg",
-   "id": "02c459ac863f"
-  },
-  {
-   "title": "Napoli-Bologna, Hamsik esplode di gioia al gol di Lobotka: esultanza con Decibel Bellini",
-   "link": "https://www.tuttonapoli.net/serie-a/napoli-bologna-hamsik-esplode-gioia-gol-lobotka-esultanza-decibel-bellini-656227",
-   "summary": "Giornata speciale per i tifosi azzurri al Centro Commerciale La Cartiera di Pompei, dove l'ex capitano del Napoli Marek Hamsik è stato protagonista dell'evento \"Un giorno col Capitano\".",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T21:00:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/88/88974f8ed1f7f2a862e0a9262a2deb06-37734-oooz0000.jpeg",
-   "id": "3566f1181506"
-  },
-  {
-   "title": "Primo ko per la Juventus, il Napoli accorcia a -1: la classifica di Serie A aggiornata",
-   "link": "https://www.tuttonapoli.net/serie-a/ko-juventus-napoli-accorcia-1-classifica-serie-aggiornata-656229",
-   "summary": "Partita pazzesca al Mapei Stadium e prima sconfitta in questo campionato per la Juventus di Luciano Spalletti, battuta 3-2 dal Sassuolo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T20:50:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/12/12a58891f841bd898d91f7745d95eacc-94386-oooz0000.jpeg",
-   "id": "a5f1523a963c"
-  },
-  {
-   "title": "Juventus ko al 95'! L'ex Adzic gela Spalletti: il Sassuolo vince una partita folle",
-   "link": "https://www.tuttonapoli.net/serie-a/juventus-ko-95-adzic-gela-spalletti-sassuolo-vince-partita-folle-656228",
-   "summary": "Il Sassuolo firma un'incredibile vittoria per 3-2 contro la Juventus al termine di una sfida esplosa nella ripresa dopo lo 0-0 dei primi 45 minuti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T20:41:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/62/62aa81ff6a6ee9274b17d3a2c31f74db-13946-oooz0000.jpeg",
-   "id": "d2f605190103",
-   "_kw": 0.8,
-   "_fresh": 0.9245049809544125,
-   "_fp": "juventus adzic gela spalletti sassuolo vince partita folle",
-   "age_minutes": 54
-  },
-  {
-   "title": "Politano sui social: \"Era importante rialzarsi e vincere\"",
-   "link": "https://www.tuttonapoli.net/dai-social/politano-social-era-importante-rialzarsi-vincere-656226",
-   "summary": "Matteo Politano ha affidato ai social il suo commento dopo la vittoria del Napoli per 1-0 contro il Bologna al Maradona.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T20:30:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/56/5691f2a50079116d3cbeba4bfe7f5dcf-77007-oooz0000.jpeg",
-   "id": "7dc9a57c4a55"
-  },
-  {
-   "title": "Lobotka a DAZN: \"Neres mi aveva detto che avrei fatto gol. Per questa stagione sono a posto\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/lobotka-dazn-neres-gol-stagione-posto-656225",
-   "summary": "Stanislav Lobotka, man of the match di Napoli-Bologna, ha parlato nel post-partita ai microfoni di Dazn: \"E' solo l'inizio della stagione. Sono contento dei tre punti e di come sono arrivati\".",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T20:20:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2cd86e9780f0bb37d15c570f9e8b1c56-33955-oooz0000.jpeg",
-   "id": "8d57eb0ee1b6"
-  },
-  {
-   "title": "Favasuli, debutto da record col Napoli: eguagliati Cannavaro e Grava",
-   "link": "https://www.tuttonapoli.net/notizie/favasuli-debutto-record-napoli-eguagliati-cannavaro-grava-656210",
-   "summary": "Esordio in Serie A con la maglia del Napoli da ricordare per Costantino Favasuli, subito protagonista con un assist vincente.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T20:10:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e1/e1e593b2430d970243e32be35953398e-79235-oooz0000.jpeg",
-   "id": "07c81aad32be"
-  },
-  {
-   "title": "Napoli Basket, vittoria nel derby e terzo posto al Trofeo Basilicata: Scafati ko",
-   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basket-vittoria-derby-trofeo-basilicata-scafati-ko-656224",
-   "summary": "Il Napoli Basketball chiude al terzo posto il Trofeo Basilicata, disputato al PalaSassi di Matera.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T20:00:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9e/9e720276e9382b19a0697c1b52719a85-79078-oooz0000.jpeg",
-   "id": "20944e3e645c"
-  },
-  {
-   "title": "Bologna, il vice Tarozzi a DAZN: \"Non possiamo creare così poco. Ma i principi di gioco s'iniziano a vedere\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bologna-vice-tarozzi-dazn-non-possiamo-creare-poco-principi-gioco-iniziano-vedere-656223",
-   "summary": "Andrea Tarozzi, vice-allenatore del Bologna, ha parlato ai microfoni di Dazn nel post-partita contro il Napoli: \"La strada è lunga, dobbiamo trovare l'equilibrio che ora stiamo faticando a trovare tra i vari componenti della squadra.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:50:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/37/375ed2e2720e29aeccce8057a1fc0430-58155-oooz0000.jpeg",
-   "id": "68ce7c06179e"
-  },
-  {
-   "title": "Bologna, Ferguson a Sky: \"l Napoli ha giocato bene. Un punto in quattro partite non basta\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bologna-ferguson-sky-l-napoli-giocato-bene-punto-partite-basta-656219",
-   "summary": "Il centrocampista del Bologna, Lewis Ferguson, dopo la sconfitta rimediata contro il Napoli al Maradona, ha parlato ai microfoni di Sky Sport commentando la prestazione della sua squadra, che ha ottenuto soltanto un punto nelle prime quattro gio ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:40:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8c/8c52ba15aa99d7d722828a1a3037e3d9-44816-oooz0000.jpeg",
-   "id": "320783e48f9b"
-  },
-  {
-   "title": "Spinazzola sorpreso da Favasuli: \"È un ragazzo giusto, mi ha impressionato\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/spinazzola-sorpreso-favasuli-e-ragazzo-giusto-impressionato-656221",
-   "summary": "Leonardo Spinazzola, esterno del Napoli, ha parlato ai microfono di Dazn nel post-partita contro il Bologna: \"Il calcio è così. Qui c'è una piazza calorosa ed emozionale.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:30:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/de/de765224ee97e1595c1f0af41826aca3-37647-oooz0000.jpeg",
-   "id": "3574b90a620a"
-  },
-  {
-   "title": "Bologna, il vice Tarozzi a Sky : \"Napoli con più qualità, noi abbiamo fatto troppo poco\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bologna-vice-tarozzi-sky-napoli-qualita-poco-656222",
-   "summary": "Con Domenico Tedesco squalificato, contro il Napoli si è seduto sulla panchina del Bologna il suo vice, Andrea Tarozzi. L'allenatore in seconda rossoblù ai microfoni di Sky Sport ha commentato il ko di misura per 1-0.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:20:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/33/33626bd857afef600dde4226406a5daa-83086-oooz0000.jpeg",
-   "id": "a56b0af42d0b"
-  },
-  {
-   "title": "Spinazzola a Sky: \"Era una partita da vincere con le buone o con le cattive\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/spinazzola-sky-era-partita-vincere-buone-cattive-656220",
-   "summary": "Leonardo Spinazzola, tra i migliori in campo nel successo del Napoli contro il Bologna, ha commentato ai microfoni di Sky Sport l'1-0 conquistato dagli azzurri al Maradona.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:10:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/99/992e57023755cf60dd287d9bc85c5f18-39718-oooz0000.jpeg",
-   "id": "a8824ac52bfe"
-  },
-  {
-   "title": "Bologna, Ferguson in conferenza: \"Il Napoli ha meritato la vittoria. McTominay? È incredibile\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bologna-ferguson-conferenza-il-napoli-meritato-vittoria-mctominay-incredibile-656218",
-   "summary": "Al termine di Napoli-Bologna, gara valida per il campionato di Serie A, Lewis Ferguson è intervenuto in conferenza stampa per analizzare la prestazione della formazione rossoblù e il momento attraversato dalla squadr ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:04:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f2/f227d3ecaa50b4a2b54e1ee32ac6e317-77568-oooz0000.jpeg",
-   "id": "1fc1fb864e35"
-  },
-  {
-   "title": "Allegri a Sky: \"De Bruyne è totalmente diverso, discuterlo è impossibile. Su Favasuli...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/allegri-sky-de-bruyne-totalmente-diverso-discuterlo-impossibile-favasuli-656217",
-   "summary": "Massimiliano Allegri, allenatore del Napoli, ha commentato il successo degli contro il Bologna ai microfoni di Sky Sport: Sull'arrabbiatura in certi momenti della partita \"Perché alla fine potevamo gestire meglio alcune situazioin ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T19:01:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8a73d4b64cb3586ea8420acfd222ac60-68719-oooz0000.jpeg",
-   "id": "e0a6e6b7dfe3"
-  },
-  {
-   "title": "Bologna, il vice Tarozzi in conferenza: \"Iniziato e finito bene, in mezzo tanto Napoli. Avversario davvero forte\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bologna-tedesco-conferenza-stampa-seguila-live-tn-656191",
-   "summary": "Al termine del match valido per la quarta giornata di campionato contro il Napoli, il vice allenatore del Bologna Andrea Tarozzi interverrà nella sala conferenze dallo Stadio Diego Armando Maradona per rispondere alle domande della s ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T18:55:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/33/33626bd857afef600dde4226406a5daa-83086-oooz0000.jpeg",
-   "id": "0e8ffe4115dd"
-  },
-  {
-   "title": "Favasuli in conferenza: \"Sto vivendo un sogno! Il mio modello? Ce l'ho in casa\"",
-   "link": "https://www.tuttonapoli.net/zoom/favasuli-conferenza-sto-vivendo-sogno-modello-ce-casa-656216",
-   "summary": "Al termine del match vinto contro il Bologna, l'eterno del Napoli Costantino Favasuli è intervenuto in conferenza stampa dallo Stadio Diego Armando Maradona: \"Sto vivendo un sogno, sono contento però è un punto di parten ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T18:50:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e1/e1e593b2430d970243e32be35953398e-79235-oooz0000.jpeg",
-   "id": "3665e99d2dba"
-  },
-  {
-   "title": "Vittoria convincente? Il post Napoli-Bologna in corso su Radio Tutto Napoli",
-   "link": "https://www.tuttonapoli.net/radio-tn/vivi-partite-napoli-con-noi-su-radio-tutto-napoli-dalle-17-c-e-napoli-in-campo-645096",
-   "summary": "Anche oggi puoi vivere tutti i commenti sulla gara del Napoli su Radio TuttoNapoli, prima radio tematica sul Napoli, in onda tutti i giorni dalle 8.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-13T18:44:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/50/50409def7bdd42e95830b3f4dcdbbd85-11997-oooz0000.jpeg",
-   "id": "3b193d2290d8"
-  },
-  {
-   "title": "Adzic a DAZN: \"Due occasioni fallite, alla terza non potevo sbagliare. Emozioni indimenticabili\"",
-   "link": "https://www.tuttojuve.com/l-avversario/adzic-dazn-due-occasioni-fallite-terza-potevo-sbagliare-emozioni-indimenticabili-792877",
-   "summary": "È Vasilije Adzic l'uomo che decide Sassuolo-Juventus.",
+   "title": "Falci (Corsera): \"Spalletti non è un tecnico da Juventus. La società inizi a pensare ad Antonio Conte\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/falci-corsera-spalletti-tecnico-juventus-societa-inizi-pensare-antonio-conte-792900",
+   "summary": "La sconfitta per 3-2 contro il Sassuolo riapre il dibattito sulla Juventus e sul lavoro di Luciano Spalletti.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T21:31:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/51540b88e3c044c5efa74b9e1ef832ce-71220-oooz0000.jpeg",
-   "id": "fd8154e29539"
+   "published": "2026-09-13T22:34:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/90438829aae9ab61e6236378b325fad1-55551-oooz0000.jpeg",
+   "id": "52d8f4232c2b"
   },
   {
-   "title": "De Grandis: “Kolo Muani si vede pochissimo. La scorsa settimana c’è stata la firma in calce sul fatto che…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/de-grandis-kolo-muani-vede-pochissimo-scorsa-settimana-c-e-firma-calce-che-792869",
-   "summary": "Per la Juventus è arrivata la prima sconfitta stagionale e di certo adesso Spalletti dovrà trovare delle contromisure. Anche nel match contro il Sassuolo Randal Kolo Muani ha fatto fatica ad esprimersi.",
+   "title": "Adzic da 7,5, castiga la Juve",
+   "link": "https://www.tuttojuve.com/l-avversario/adzic-7-5-castiga-juve-792891",
+   "summary": "Vasilije Adzic diventa il protagonista più inatteso di Sassuolo-Juventus.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T21:30:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c51f2746c5836c1165c1c4737c31cd96-74727-oooz0000.jpeg",
-   "id": "9500a34cf6f6",
-   "age_minutes": 5,
-   "also": [],
-   "score": 7.17
+   "published": "2026-09-13T22:30:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ac/ac1ac3d27f2d7dd59d253af9731a2057-30791-oooz0000.jpeg",
+   "id": "252b76887680"
   },
   {
-   "title": "Spalletti a Sky: “La squadra aveva meritato di ribaltare la partita ma abbiamo lasciato troppo campo”",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-sky-la-squadra-meritato-ribaltare-partita-campo-792874",
-   "summary": "Luciano Spalletti ha parlato ai microfoni di Sky Sport dopo la gara contro il Sassuolo: Inevitabilmente si deve partire da quei due gol subiti, che non sono da Juventus. Penso che l’abbiano fatta molto arrabbiare.",
+   "title": "Juventus, così non sei una squadra: gestione finale inaccettabile a Sassuolo",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-squadra-gestione-finale-inaccettabile-sassuolo-792870",
+   "summary": "La sconfitta per 3-2 contro il Sassuolo non può essere archiviata come una semplice partita storta. La Juventus ha perso perché, nel momento decisivo, ha dimostrato di non essere ancora una squadra.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T21:26:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e6/e690a57c08f980cbe1e90c7a98c0f8ab-64628-oooz0000.jpeg",
-   "id": "0571fe884183"
+   "published": "2026-09-13T22:25:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e0/e0c2f80ef121a23afe27d33824b2fcef-16467-oooz0000.jpeg",
+   "id": "c156955d763a"
   },
   {
-   "title": "Aquilani a DAZN: \"Contro la Juve serviva coraggio. Adzic poteva fare la differenza con le squadre più stanche\"",
-   "link": "https://www.tuttojuve.com/l-avversario/aquilani-dazn-contro-juve-serviva-coraggio-adzic-poteva-differenza-squadre-stanche-792875",
-   "summary": "Grande soddisfazione per Alberto Aquilani dopo il successo del Sassuolo contro la Juventus. I neroverdi si sono imposti per 3-2 e, al termine della partita, il tecnico ha analizzato la prestazione della sua squadra ai microfoni di DAZN.",
+   "title": "Kolo Muani, occasione persa, prestazione insufficiente",
+   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-occasione-persa-prestazione-insufficiente-792872",
+   "summary": "La fiducia di Luciano Spalletti non è servita a sbloccare Randal Kolo Muani. Confermato al centro dell’attacco della Juventus, il francese ha attraversato la partita contro il Sassuolo senza riuscire a incidere.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T21:22:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/84c73e53d389e88b8e4142b7d712fa0c-23179-oooz0000.jpeg",
-   "id": "f0531e692d9b"
+   "published": "2026-09-13T22:20:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/26/26948eac4d7c7707586e3ba453c6c228-28122-oooz0000.jpeg",
+   "id": "cf7e944b73c5"
   },
   {
-   "title": "Matri boccia la difesa della Juve: \"Dietro male, male. Oggi si è vista l'importanza di Locatelli\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/matri-boccia-difesa-juve-dietro-male-male-vista-importanza-locatelli-792867",
-   "summary": "La doppietta di Zhegrova non evita alla Juventus una sconfitta particolarmente amara al Mapei Stadium.",
+   "title": "Zhegrova, primi gol e grande rammarico su INSTAGRAM: «Aspettavo questo momento»",
+   "link": "https://www.tuttojuve.com/altre-notizie/zhegrova-primi-gol-rammarico-instagram-aspettavo-momento-792890",
+   "summary": "Edon Zhegrova ha dovuto attendere il momento giusto per lasciare il primo segno importante con la maglia della Juventus.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T21:20:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e6/e6cdeaaf8061652fb98fd5993c9d0527-07009-oooz0000.jpeg",
-   "id": "24a2d57d11cf"
-  },
-  {
-   "title": "Marchegiani: “La Juventus è stata sterile nel primo tempo. L’ultimo contropiede è stato clamoroso, devi avere la percezione di…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/marchegiani-la-juventus-sterile-tempo-l-ultimo-contropiede-clamoroso-devi-percezione-di-792866",
-   "summary": "Per la Juventus è srsts una serata amara e la squadra non è stata in grado di accontersi del 2-2. I bianconeri hanno preso diversi contropiedi e gli ultimi die sono costati davvero cari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T21:10:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0ff9f1ca82d03d799bc81b14615f103c-99715-oooz0000.jpeg",
-   "id": "b973624cb887"
-  },
-  {
-   "title": "Spalletti a DAZN: \"Sconfitta che brucia perchè meritavamo di poter ribaltare la partita. Dobbiamo giocare di più su Kolo Muani, ma lui deve essere più cattivo. Zhegrova incredibile...\"",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-dazn-sconfitta-brucia-meritavamo-poter-ribaltare-partita-792868",
-   "summary": "Luciano Spalletti commenta la brutta sconfitta del Mapei Stadium ai microfoni di DAZN. Le parole del tecnico della Juventus: Che cosa è successo anche nell'ultima azione, perchè la squadra era sfilacciata.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T21:01:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e6/e690a57c08f980cbe1e90c7a98c0f8ab-64628-oooz0000.jpeg",
-   "id": "430757a73c43"
-  },
-  {
-   "title": "Marocchi: “La Juventus è peggiorata. Spalletti ha sempre creato delle squadre ma i bianconeri…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/marocchi-la-juventus-peggiorata-spalletti-creato-squadre-bianconeri-792863",
-   "summary": "La Juventus ha perso per 3-2 e la squadra di Spalletti ha messo in evidenza diversi problemi. La squadra non riesce a segnare e in difesa questa sera ci sono stati evidenti errori.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T21:00:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1a/1a66c5d66aaa0aab10cc14dfd81076e6-86701-oooz0000.jpeg",
-   "id": "ef8d510b7d41"
-  },
-  {
-   "title": "Sassuolo-Juventus 3-2, le pagelle dei bianconeri: un super-Zhegrova non basta, la difesa affonda",
-   "link": "https://www.tuttojuve.com/il-pagellone-dei-campioni/sassuolo-juventus-pagelle-bianconeri-792835",
-   "summary": "Vicario 6 - Decisamente più impegnato rispetto al match contro il Milan, risponde sempre presente nel primo tempo. Nella ripresa cade tre volte sotto i colpi degli attaccanti neroverdi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:58:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/88/887b7b3e0b5e3ed9829a063a0e9cd569-37615-oooz0000.jpeg",
-   "id": "d53cfc15818d"
-  },
-  {
-   "title": "Behrami: \"La Juve non ha mai avuto il controllo della partita. E' una squadra senza leader\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/behrami-la-juve-controllo-partita-squadra-leader-792864",
-   "summary": "La sconfitta per 3-2 contro il Sassuolo porta con sé una pesante bocciatura per la Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:55:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/99/99520fc3556c2414c2c0e4947aa99b56-15012-oooz0000.jpeg",
-   "id": "b27124972417"
-  },
-  {
-   "title": "Juventus ko contro il Sassuolo: la classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-ko-sassuolo-classifica-aggiornata-792865",
-   "summary": "La Juventus ha perso per 3-2 contro il Sassuolo e adesso per la squadra di Spalletti le difficoltà in classifica sono già evidenti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:55:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5b/5bfcf0f53844448ad37705b29ef73ea8-13864-oooz0000.jpeg",
-   "id": "8449aa3bd637"
-  },
-  {
-   "title": "Brozovic sceglie il Qatar: l'ex Inter raggiunge Romagnoli all'Al-Sadd",
-   "link": "https://www.tuttojuve.com/calciomercato/brozovic-sceglie-qatar-inter-raggiunge-romagnoli-al-sadd-792862",
-   "summary": "Nuova tappa della carriera per Marcelo Brozovic. Il centrocampista croato ha scelto di proseguire in Qatar, diventando ufficialmente un nuovo giocatore dell'Al-Sadd.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:45:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e2/e24e09ff226651c5aea0fde8069b7c57-19729-oooz0000.jpeg",
-   "id": "134038081b46"
-  },
-  {
-   "title": "Juventus, follia a Sassuolo: Adzic firma il 3-2 al 90’",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-follia-a-sassuolo-adzic-firma-il-3-2-al-90-792861",
-   "summary": "La Juventus cercava i tre punti al Mapei Stadium e torna a Torino con una sconfitta pesantissima.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:45:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/93/930334f266f9387ecf883f531e749685-83548-oooz0000.jpeg",
-   "id": "63715a42c72f",
-   "age_minutes": 51,
-   "also": [
-    {
-     "source": "TuttoNapoli",
-     "link": "https://www.tuttonapoli.net/serie-a/juventus-ko-95-adzic-gela-spalletti-sassuolo-vince-partita-folle-656228"
-    }
-   ],
-   "score": 7.516
-  },
-  {
-   "title": "Sassuolo-Juventus, 3-2: Zhegrova show, ma l'ex Adzic punisce i bianconeri allo scadere",
-   "link": "https://www.tuttojuve.com/primo-piano/sassuolo-juventus-formazioni-ufficiali-match-792834",
-   "summary": "22:38 - Triplice fischio finale. 94' GOAL SASSUOLO! Laurientè pesca Adzic che, nuovamente solo in area bianconera, stavolta non sbaglia e con un tiro a giro fissa il risultato finale sul 3-2 per i padroni di casa.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-13T20:39:00+00:00",
+   "published": "2026-09-13T22:10:15+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32ff53dfbfa18bf150ed9f1aa300db13-07751-oooz0000.jpeg",
-   "id": "993ac09d5aa3"
+   "id": "cafada796743"
   },
   {
-   "title": "Arthur, nuova vita al Santos: impatto positivo dopo l'addio alla Juventus",
-   "link": "https://www.tuttojuve.com/altre-notizie/arthur-nuova-santos-impatto-positivo-addio-juventus-792860",
-   "summary": "Il ritorno in Brasile sembra aver restituito ad Arthur una dimensione ideale per rilanciarsi.",
+   "title": "David si sblocca con l'Atletico Madrid: gran gol mentre la Juve continua a faticare in attacco",
+   "link": "https://www.tuttojuve.com/altre-notizie/david-sblocca-atletico-madrid-gran-gol-juve-continua-faticare-attacco-792889",
+   "summary": "Destini opposti per gli attaccanti della Juventus e per uno degli ex bianconeri. Nella serata in cui la squadra di Spalletti incassa la prima sconfitta stagionale, arrivano ancora segnali poco incoraggianti dal reparto offensivo.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T20:30:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f5/f552ac737b13e43d07fefec7c7e579c7-13533-oooz0000.jpeg",
-   "id": "c84c53ea2d9a",
-   "age_minutes": 65,
-   "also": [],
-   "score": 6.839
+   "published": "2026-09-13T22:03:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7d/7dda01f5bb09097ed05040367d94491e-61770-553o0o1348o794z0a87.jpeg",
+   "id": "f9fc6dbf4e71"
   },
   {
-   "title": "Juventus, prima volta nella storia: nessun italiano tra i titolari di movimento",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-storia-italiano-titolari-movimento-792859",
-   "summary": "La sfida contro il Sassuolo consegna alla Juventus un dato senza precedenti nella sua storia in Serie A.",
+   "title": "Zhegrova illumina la Juventus: doppietta da applausi contro il Sassuolo",
+   "link": "https://www.tuttojuve.com/altre-notizie/zhegrova-illumina-juventus-doppietta-applausi-sassuolo-792876",
+   "summary": "Nella serata più confusa della Juventus, Edon Zhegrova è stato il giocatore capace di accendere la luce.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T20:15:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a6/a65aecc627db215c7f53e3e2d44ec178-69921-oooz0000.jpeg",
-   "id": "6ec4ea6f48f5"
+   "published": "2026-09-13T22:00:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/54/545715b1738c2ffe7c16b77dbc936b22-65295-oooz0000.jpeg",
+   "id": "c9fccb8b3641"
   },
   {
-   "title": "Addio a Giusy Achilli, fu presidentessa del Pavia di Allegri e Massara",
-   "link": "https://www.tuttojuve.com/altre-notizie/addio-giusy-achilli-presidentessa-pavia-allegri-massara-792857",
-   "summary": "Il calcio pavese è in lutto per la scomparsa di Giusy Achilli, storica presidentessa del Pavia dal 1989 al 1994. Aveva 72 anni ed è morta a Milano, città nella quale viveva, dopo essere stata malata da tempo.",
+   "title": "Aquilani: “Non so se la Juve è stata ingenua, io sposto il focus sul coraggio del Sassuolo. Adzic ha un grande potenziale”",
+   "link": "https://www.tuttojuve.com/altre-notizie/aquilani-non-so-juve-ingenua-sposto-focus-coraggio-sassuolo-adzic-potenziale-792888",
+   "summary": "Alberto Aquilani ha parlato in conferenza stampa al termine della gara contro la Juventus. Ecco le sue parole riprese da Tmw: Adzic ha messo il sigillo a una partita pazza.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T20:00:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d2/d29c70a77126adc5073a4ce2310bb7f4-52804-oooz0000.jpeg",
-   "id": "19decebf7d39",
-   "age_minutes": 96,
-   "also": [],
-   "score": 6.682
+   "published": "2026-09-13T22:00:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5d/5d17a415615c8ac5107eaeba0c8eb076-10386-oooz0000.jpeg",
+   "id": "4b0d80deba17"
   },
   {
-   "title": "Cinquegrano a DAZN: \"Il mister ci ha detto di sfruttare ripartenze e cercare la vittoria\"",
-   "link": "https://www.tuttojuve.com/l-avversario/cinquegrano-dazn-il-mister-sfruttare-ripartenze-cercare-vittoria-792858",
-   "summary": "Simone Cinquegrano, difensore del Sassuolo, è intervenuto ai microfoni di DAZN nell'intervallo della sfida del Mapei Stadium contro la Juventus.",
+   "title": "Adzic: “Ho fatto gol contro la mia Juve, ma sono contento per il Sassuolo”",
+   "link": "https://www.tuttojuve.com/altre-notizie/adzic-ho-gol-juve-contento-sassuolo-792887",
+   "summary": "Vasilije Adzic ha parlato in conferenza stampa dopo la vittoria del Sassuolo contro la Juventus. Ecco le sue parole riprese da Tmw: \"Ho fatto gol contro la mia Juve, posso dirlo, ma sono contento per questa vittoria con il Sassuolo.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T19:54:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c578166d8bb3bbdabdde868e18aee932-01844-oooz0000.jpeg",
-   "id": "c159130214b7"
+   "published": "2026-09-13T21:58:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8b/8b9c79aa66418e84d09c1c9d7fe87ef9-02187-oooz0000.jpeg",
+   "id": "33c5312114c2"
   },
   {
-   "title": "Allegri: \"Abbiamo fatto una bella partita\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/allegri-abbiamo-bella-partita-792856",
-   "summary": "Massimiliano Allegri, allenatore del Napoli, ha commentato ai microfoni di DAZN la vittoria conquistata contro il Bologna.",
+   "title": "Vicario in conferenza: “Il mister in settimana ci aveva detto di non perdere l’equilibrio. Sento grande senso di appartenenza”",
+   "link": "https://www.tuttojuve.com/altre-notizie/vicario-conferenza-il-mister-settimana-perdere-l-equilibrio-sento-senso-appartenenza-792885",
+   "summary": "Guglielmo Vicafio ha parlato in conferenza al termine della gara contro il Sassuolo.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T19:45:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5b446fd15338b778320c5f134b6193b-27658-oooz0000.jpeg",
-   "id": "c23d5cb83e20"
+   "published": "2026-09-13T21:57:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b9/b985cba10784b7d92354681bd12232df-41499-oooz0000.jpeg",
+   "id": "a83bb79ec74c"
   },
   {
-   "title": "Primavera Napoli, Nocerino attacca l'ex Juve Baridò",
-   "link": "https://www.tuttojuve.com/settore-giovanile/primavera-napoli-nocerino-attacca-juve-barido-792853",
-   "summary": "Continua il momento complicato della Primavera del Napoli guidata da Antonio Nocerino. Gli azzurri hanno incassato la terza sconfitta consecutiva, arrendendosi per 3-2 al Catanzaro nella sfida disputata a Cercola.",
+   "title": "Bowie a DAZN: \"Felice per i tre punti, partita ricca di emozioni\"",
+   "link": "https://www.tuttojuve.com/l-avversario/bowie-dazn-felice-punti-partita-ricca-emozioni-792886",
+   "summary": "Il Sassuolo si prende una vittoria prestigiosa contro la Juventus, superata per 3-2 a Reggio Emilia al termine di una partita completamente esplosa nella ripresa.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-13T19:30:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4b/4be19cd4f4deffd782f7e5c3b5ee8a25-93708-oooz0000.jpeg",
-   "id": "4542a846a404"
+   "published": "2026-09-13T21:56:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7b/7b860b01fae9ef089d79a17625145834-17647-oooz0000.jpeg",
+   "id": "369e0eba8b18"
+  },
+  {
+   "title": "Spalletti in conferenza: “Mi porto via la voglia di vincere della squadra. Abbiamo concesso troppo, ma la partita poteva andare anche all’opposto”",
+   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-conferenza-mi-porto-via-voglia-vincere-squadra-concesso-troppo-partita-poteva-andare-all-o-792883",
+   "summary": "Luciano Spalletti ha parlato in conferenza stampa al termine della gara contro il Sassuolo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-13T21:53:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c1/c158c36b0607a347b17c9819fc3d9d9f-44687-oooz0000.jpeg",
+   "id": "37d637ff794e"
+  },
+  {
+   "title": "Esposito a DAZN: \"Contentissimo per la vittoria ottenuta contro una grandissima squadra. È stata dura, ho ricevuto tanta m****\"",
+   "link": "https://www.tuttojuve.com/l-avversario/esposito-dazn-contentissimo-vittoria-ottenuta-grandissima-squadra-dura-ricevuto-tanta-m-792884",
+   "summary": "Una serata dal sapore particolare per Sebastiano Esposito. L'attaccante ha trovato il suo primo gol con la maglia del Sassuolo nella prestigiosa vittoria per 3-2 contro la Juventus, lasciandosi alle spalle un periodo non semplice.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-13T21:49:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/ed09877d60c25fcda36554c49fcb6f0d-54482-oooz0000.jpeg",
+   "id": "9ada2ad589a9"
   },
   {
    "title": "L’Inter guarda in casa Cagliari, non solo Romano nel mirino dei nerazzurri",
@@ -1083,9 +843,9 @@
    "published": "2026-09-13T21:30:51+00:00",
    "image": "",
    "id": "15b8b2049fee",
-   "age_minutes": 5,
+   "age_minutes": 148,
    "also": [],
-   "score": 7.369
+   "score": 6.63
   },
   {
    "title": "PAGELLE e TABELLINO Sassuolo-Juventus 3-2: l’ex Adzic punisce Spalletti all’ultimo respiro",
@@ -1108,9 +868,9 @@
    "published": "2026-09-13T19:19:35+00:00",
    "image": "",
    "id": "252fa0f1ae17",
-   "age_minutes": 136,
+   "age_minutes": 279,
    "also": [],
-   "score": 6.684
+   "score": 6.072
   },
   {
    "title": "Pagelle Napoli-Bologna 1-0, voti e tabellino della sfida",
@@ -1133,9 +893,9 @@
    "published": "2026-09-13T16:23:42+00:00",
    "image": "",
    "id": "94e1dacf65fb",
-   "age_minutes": 312,
+   "age_minutes": 455,
    "also": [],
-   "score": 5.947
+   "score": 5.473
   },
   {
    "title": "Inter, l’annuncio di Chivu: “Torna Dimarco”. La conferma su Spence",
@@ -1147,9 +907,9 @@
    "published": "2026-09-13T14:47:14+00:00",
    "image": "",
    "id": "6fd00c820e98",
-   "age_minutes": 409,
+   "age_minutes": 551,
    "also": [],
-   "score": 5.616
+   "score": 5.203
   },
   {
    "title": "Juventus sempre interessata a Ismael Koné, le ultimissime",
@@ -1161,9 +921,9 @@
    "published": "2026-09-13T14:43:47+00:00",
    "image": "",
    "id": "b417ee0e404c",
-   "age_minutes": 412,
+   "age_minutes": 555,
    "also": [],
-   "score": 5.605
+   "score": 5.194
   },
   {
    "title": "Clamoroso Dodo, la decisione della Fiorentina scuote i tifosi",
@@ -1175,9 +935,9 @@
    "published": "2026-09-13T13:00:45+00:00",
    "image": "",
    "id": "f26d7d39b43b",
-   "age_minutes": 515,
+   "age_minutes": 658,
    "also": [],
-   "score": 5.3
+   "score": 4.946
   },
   {
    "title": "Gundogan via dal Galatasaray: la Serie A ora sogna",
@@ -1189,9 +949,9 @@
    "published": "2026-09-13T11:09:20+00:00",
    "image": "",
    "id": "63e25fcad5d8",
-   "age_minutes": 626,
+   "age_minutes": 769,
    "also": [],
-   "score": 5.018
+   "score": 4.717
   },
   {
    "title": "Sassuolo-Juve, probabili formazioni: Spalletti ha scelto il trequartista",
@@ -1214,9 +974,9 @@
    "published": "2026-09-13T08:02:35+00:00",
    "image": "",
    "id": "9a949bc73bbd",
-   "age_minutes": 813,
+   "age_minutes": 956,
    "also": [],
-   "score": 4.635
+   "score": 4.405
   },
   {
    "title": "Milan, c’è una lacuna da colmare: a gennaio serve un nuovo centravanti",
@@ -1228,9 +988,9 @@
    "published": "2026-09-13T06:55:12+00:00",
    "image": "",
    "id": "c307053316d3",
-   "age_minutes": 881,
+   "age_minutes": 1023,
    "also": [],
-   "score": 4.521
+   "score": 4.312
   },
   {
    "title": "Dimarco recupera per Inter-Udinese? Le ultime da Appiano Gentile",
@@ -1242,9 +1002,9 @@
    "published": "2026-09-13T05:19:16+00:00",
    "image": "",
    "id": "8308aeec7312",
-   "age_minutes": 976,
+   "age_minutes": 1119,
    "also": [],
-   "score": 4.376
+   "score": 4.194
   },
   {
    "title": "Icardi-Lazio, non è finita: la situazione | CM",
@@ -1256,9 +1016,9 @@
    "published": "2026-09-12T21:35:54+00:00",
    "image": "",
    "id": "e051e2f47a82",
-   "age_minutes": 1440,
+   "age_minutes": 1582,
    "also": [],
-   "score": 3.9
+   "score": 3.807
   },
   {
    "title": "Voti Atalanta-Cagliari 1-2, colpaccio rossoblu a Bergamo",
@@ -1270,9 +1030,9 @@
    "published": "2026-09-12T20:47:28+00:00",
    "image": "",
    "id": "23f13bc3a21e",
-   "age_minutes": 1488,
+   "age_minutes": 1631,
    "also": [],
-   "score": 3.866
+   "score": 3.779
   },
   {
    "title": "Voti Lazio-Milan 2-2, rimonta rossonera dopo un primo tempo horror",
@@ -1284,9 +1044,9 @@
    "published": "2026-09-12T18:16:11+00:00",
    "image": "",
    "id": "bf4ef02d4005",
-   "age_minutes": 1640,
+   "age_minutes": 1782,
    "also": [],
-   "score": 3.775
+   "score": 3.705
   },
   {
    "title": "Palladino ha detto no, clamorosa decisione: c’entra il Napoli",
@@ -1298,9 +1058,9 @@
    "published": "2026-09-12T16:23:13+00:00",
    "image": "",
    "id": "58df1b77b8de",
-   "age_minutes": 1753,
+   "age_minutes": 1895,
    "also": [],
-   "score": 3.718
+   "score": 3.659
   },
   {
    "title": "La Juve trema, emissari del Manchester United in Italia per Kalulu",
@@ -1312,9 +1072,9 @@
    "published": "2026-09-12T15:29:32+00:00",
    "image": "",
    "id": "af494626b3d4",
-   "age_minutes": 1806,
+   "age_minutes": 1949,
    "also": [],
-   "score": 3.694
+   "score": 3.64
   },
   {
    "title": "Spalletti rilancia Koopmeiners: “Non voleva lasciare la Juve”. La scelta su McKennie",
@@ -1326,9 +1086,9 @@
    "published": "2026-09-12T14:58:57+00:00",
    "image": "",
    "id": "a86a61e3fa26",
-   "age_minutes": 1837,
+   "age_minutes": 1979,
    "also": [],
-   "score": 3.682
+   "score": 3.629
   },
   {
    "title": "Napoli, altro colpo di scena Lang: la scelta di Allegri",
@@ -1340,9 +1100,9 @@
    "published": "2026-09-12T14:06:08+00:00",
    "image": "",
    "id": "f065548f341e",
-   "age_minutes": 1890,
+   "age_minutes": 2032,
    "also": [],
-   "score": 5.661
+   "score": 5.612
   },
   {
    "title": "Juve, sfuma un altro acquisto: indosserà la maglia del Santos",
@@ -1354,9 +1114,9 @@
    "published": "2026-09-12T12:23:08+00:00",
    "image": "",
    "id": "e06c76d61ea8",
-   "age_minutes": 1993,
+   "age_minutes": 2135,
    "also": [],
-   "score": 5.625
+   "score": 5.583
   },
   {
    "title": "Choc in Serie A: rottura del crociato e 6 mesi di stop",
@@ -1367,10 +1127,7 @@
    "scope": "generalista",
    "published": "2026-09-12T11:00:29+00:00",
    "image": "",
-   "id": "a43d5d13f0ee",
-   "age_minutes": 2075,
-   "also": [],
-   "score": 3.6
+   "id": "a43d5d13f0ee"
   },
   {
    "title": "Lazio-Milan, le ultimissime: la decisione su Gila e Rabiot",
@@ -1461,6 +1218,42 @@
    "id": "2e0d2832ebcc"
   },
   {
+   "title": "Un tassello mancante per l’Europa",
+   "link": "https://www.fcinternews.it/editoriale/editoriale-inter-news-1018336",
+   "summary": "La sconfitta all’esordio in Champions League contro il Real Madrid ha inevitabilmente riacceso il dibattito sulle possibilità europee dell’Inter di Cristian Chivu.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-13T22:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e1/e1b6d1a5f90850c78d7b9de232304ac6-45166-oooz0000.jpeg",
+   "id": "182ee67b4fdd",
+   "age_minutes": 118,
+   "also": [],
+   "score": 5.569
+  },
+  {
+   "title": "Transfermarkt - Le rose della Serie A per fedeltà dei giocatori: Inter in testa",
+   "link": "https://www.fcinternews.it/stats/i-transfermarkt-i-rose-serie-fedelta-giocatori-inter-testa-1018377",
+   "summary": "Bandiere. Ce ne sono ancora? Transfermarkt ha voluto tracciare la classifica delle rose della Serie A per fedeltà.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-13T21:57:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/60/602e1697586693da0836642a26a1bc71-58926-oooz0000.jpeg",
+   "id": "92cc514b1f9d"
+  },
+  {
+   "title": "Adzic: \"L'anno scorso gol all'Inter, ora contro la mia Juve. Emozioni strane\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/adzic-l-gol-inter-juve-emozioni-strane-1018381",
+   "summary": "Vasilije Adzic, trequartista del Sassuolo, ha parlato a DAZN dopo il gol decisivo messo a segno contro la Juventus: \"Le emozioni sono strane, ho sbagliato due volte vicino alla porta ma alla terza non potevo sbagliare perché questa &egrav ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-13T21:45:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/9333460f4b1041b60ce1292611f94a78-49276-oooz0000.jpeg",
+   "id": "3579cab7f49e"
+  },
+  {
    "title": "Juve Women, D'Auria: \"Inter ottima squadra, è stata dura\"",
    "link": "https://www.fcinternews.it/l-avversario/juve-women-auria-inter-ottima-squadra-dura-1018367",
    "summary": "Tra le protagoniste del successo della Juve Women contro l'Inter c'è Federica D'Auria, che ha parlato così ai canali bianconeri: \"Ho lavorato duramente in ogni allenamento cercando di dare sempre il massimo.",
@@ -1536,9 +1329,9 @@
    "published": "2026-09-13T20:19:21+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f9/f96f9a9a49fbe35d46738744942c0fe4-14072-oooz0000.jpeg",
    "id": "3dc162a5bc3a",
-   "age_minutes": 76,
+   "age_minutes": 219,
    "also": [],
-   "score": 5.58
+   "score": 4.913
   },
   {
    "title": "Pressione alta: l'Udinese ha una predilezione particolare. E la profondità interista...",
@@ -1583,9 +1376,9 @@
    "published": "2026-09-13T19:22:12+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/77/775a7a1925869dbd54aef99af42c8268-83141-oooz0000.jpeg",
    "id": "721d08cf4de2",
-   "age_minutes": 134,
+   "age_minutes": 276,
    "also": [],
-   "score": 4.896
+   "score": 4.283
   },
   {
    "title": "Reel, video, approfondimenti e curiosità sul mondo Inter: segui FcInterNews anche su Tik Tok",
@@ -1654,37 +1447,252 @@
    "id": "9b5e4af6f805"
   },
   {
-   "title": "Crotone, Greco: \"I ragazzi dell'Inter U23 non c'entrano nulla con la C\"",
-   "link": "https://www.fcinternews.it/l-avversario/crotone-greco-i-ragazzi-inter-u23-entrano-c-1018353",
-   "summary": "Leandro Greco, allenatore del Crotone, dopo aver conquistato il primo punto del suo campionato grazie al pareggio in casa del Savoia si dice soddisfatto della crescita mostrata dai suoi uomini: \"Oggi abbiamo trovato qualche difficoltà in ...",
-   "source": "FcInterNews",
+   "title": "Napoli-Bologna, Alvino: \"Vittoria meritatissima! Folle l’Allegri out, racconto tossico\"",
+   "link": "https://www.tuttonapoli.net/dai-social/napoli-bologna-alvino-vittoria-meritatissima-folle-l-allegri-out-racconto-tossico-656241",
+   "summary": "Carlo Alvino ha commentato attraverso il proprio profilo Instagram la vittoria del Napoli per 1-0 contro il Bologna.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-13T17:40:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/59/592c852dd4bd025274141125d93fba8b-90411-oooz0000.jpeg",
-   "id": "50986e8d5147"
+   "scope": "Napoli",
+   "published": "2026-09-13T23:00:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3053329b7bdb03f58d745ab9f4d227e-21434-oooz0000.jpeg",
+   "id": "ff9bd3acb941"
   },
   {
-   "title": "Incidente per Daniel Maldini: positivo all'etilometro, patente ritirata",
-   "link": "https://www.fcinternews.it/il-resto-della-a/incidente-daniel-maldini-positivo-etilometro-patente-ritirata-1018362",
-   "summary": "Dopo la gioia per il gol vittoria contro l'Atalanta, l'apprensione per l'incidente stradale in cui Daniel Maldini è rimasto coinvolto all'alba di quest'oggi in centro a Milano: l'attaccante del Cagliari, finito con la s ...",
-   "source": "FcInterNews",
+   "title": "Bergomi promuove Favasuli: \"Mi piace, è dinamico e coraggioso. È un bell’acquisto\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bergomi-promuove-favasuli-mi-piace-dinamico-coraggioso-bell-acquisto-656240",
+   "summary": "Nel corso di 'Sky Calcio Club', l'ex difensore dell'Inter Beppe Bergomi ha parlato di Costantino Favasuli, protagonista nella vittoria del Napoli contro il Bologna.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-13T17:26:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/70/70ca6d152485ba3e06850e8367a56af1-95491-710o60o1421o771z0b92.jpeg",
-   "id": "e1cd15b153ba"
+   "scope": "Napoli",
+   "published": "2026-09-13T22:50:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4e/4e5cb4a4620d49763c78f47f2784dabe-78203-oooz0000.jpeg",
+   "id": "1401aeaa3f6f",
+   "age_minutes": 68,
+   "also": [],
+   "score": 6.824
   },
   {
-   "title": "È ciclone Feyenoord: Zwolle umiliato con un 7-0 a domicilio",
-   "link": "https://www.fcinternews.it/eurorivali/ciclone-feyenoord-zwolle-umiliato-7-0-domicilio-1018365",
-   "summary": "Il Feyenoord si abbatte senza pietà sul PEC Zwolle, che viene travolto da sette reti.",
-   "source": "FcInterNews",
+   "title": "Marchegiani: \"Calendario del Napoli quasi proibitivo. Favasuli? Una cosa fa la differenza\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/marchegiani-calendario-napoli-proibitivo-favasuli-differenza-656239",
+   "summary": "Nel corso di 'Sky Calcio Club', l'ex portiere Luca Marchegiani ha analizzato il momento del Napoli, sottolineando le difficoltà incontrate dalla squadra di Massimiliano Allegri in questo avvio di stagione.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-13T17:12:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/df/df5f1967a7259e78b1f49b199d9b4bbd-10916-oooz0000.jpeg",
-   "id": "48fe1c035a77"
+   "scope": "Napoli",
+   "published": "2026-09-13T22:40:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26df2cecb1fc465efec91069b3919149-66168-oooz0000.jpeg",
+   "id": "ed92a597f234"
+  },
+  {
+   "title": "Day-after Napoli-Bologna su Radio Tutto Napoli, il palinsesto di oggi: live dalle 8",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-tuttonapoli-palinsesto-oggi-live-dirette-8-653343",
+   "summary": "Inizia un'altra lunga giornata insieme con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T22:30:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "cce857878d19"
+  },
+  {
+   "title": "Sky, Caressa: \"De Bruyne che numeri! Favasuli è un bel prospetto anche per la Nazionale\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/sky-caressa-de-bruyne-numeri-favasuli-bel-prospetto-nazionale-656238",
+   "summary": "Nel corso di 'Sky Calcio Club', il conduttore e telecronista Fabio Caressa ha analizzato la prestazione del Napoli contro il Bologna, soffermandosi in particolare sul rendimento di Kevin De Bruyne: \"De Bruyne ha giocato benissimo in una ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T22:30:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/56/56a0e8f7b149cb9094723c6695b9c40b-85811-oooz0000.jpeg",
+   "id": "f133371f3a9c"
+  },
+  {
+   "title": "Rafa Marin: \"Il lavoro duro ripaga sempre, continuiamo a crescere tutti insieme\"",
+   "link": "https://www.tuttonapoli.net/dai-social/rafa-marin-il-lavoro-duro-ripaga-sempre-continuiamo-crescere-insieme-656237",
+   "summary": "Rafa Marin, difensore del Napoli, ha affidato a Instagram il suo messaggio dopo la vittoria conquistata dagli azzurri contro il Bologna al Maradona.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T22:20:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/25/251b16f5b4445a3a72cf9f0e10fc857c-89060-oooz0000.jpeg",
+   "id": "fb1f27f5b181"
+  },
+  {
+   "title": "Hojlund: \"Il club in cui preferisco giocare? Napoli! Il Maradona tra gli stadi più belli\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/hojlund-il-club-preferisco-giocare-napoli-maradona-stadi-belli-656236",
+   "summary": "Rasmus Hojlund, attaccante del Napoli e della Danimarca, ha risposto alle domande e alle curiosità di otto piccoli tifosi direttamente ai canali ufficiali della Federazione danese.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T22:10:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b1/b16aee32222984a97fb23aa7129b8595-28914-oooz0000.jpeg",
+   "id": "21ab9adc1b47"
+  },
+  {
+   "title": "Napoli-Bologna, Gaito: \"Favasuli l’ha cambiata. Ma a Firenze servirà far meglio…”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/punto-direttore-favasuli-cambiato-gara-firenze-bisogna-giocare-cosi-meglio-656235",
+   "summary": "Dopo tre sconfitte consecutive, il Napoli torna alla vittoria battendo il Bologna al Maradona di corto muso. 1-0 il risultato in favore dei ragazzi di Massimiliano Allegri, che trova la prima vittoria in casa sulla panchina azzurra.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T22:00:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c9e2d6cf318f69043a3deb24a27c942d-93341-oooz0000.jpeg",
+   "id": "a3ef261be1a1"
+  },
+  {
+   "title": "Juventus, Spalletti: \"Ho chiesto di andarla a vincere, preso troppo alla lettera\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/juventus-spalletti-ho-chiesto-andarla-vincere-preso-lettera-656234",
+   "summary": "Luciano Spalletti, allenatore della Juventus, ha parlato ai microfoni di DAZN al termine della gara persa per 3-2 contro il Sassuolo: \"Brucia eccessivamente perché da ultimo meritavamo di poter ribaltare la partita, abbiamo perso degli eq ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T21:50:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a66c5d66aaa0aab10cc14dfd81076e6-86701-oooz0000.jpeg",
+   "id": "6e307f287e77"
+  },
+  {
+   "title": "Napoli-Bologna 1-0, le pagelle di Caporale: “Lobotka il migliore, Favasuli è un fattore”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-bologna-1-0-pagelle-caporale-lobotka-migliore-favasuli-fattore-656233",
+   "summary": "Nel post-partita di Napoli-Bologna, il giornalista e conduttore Carlo Caporale è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e&n ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T21:40:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a02463d5ffba12e42e2351d28631354-36371-oooz0000.jpeg",
+   "id": "826c82448b1e"
+  },
+  {
+   "title": "L'editoriale di Chiariello: \"1T indecente! Un disastro, così quante ne vinci? Ho difeso Allegri nelle sconfitte…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-ho-difeso-allegri-sconfitta-critico-fortemente-vittoria-656232",
+   "summary": "Nel corso di 'Campania Sport', il giornalista Umberto Chiariello ha commentato la vittoria del Napoli contro il Bologna nel suo consueto editoriale: \"Non c'è affatto da essere allegri e non è affatto un gioco di parole, ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T21:30:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
+   "id": "7e2d09bde9e7"
+  },
+  {
+   "title": "Eurorivali, tris del Brugge: Vetlesen protagonista con una doppietta",
+   "link": "https://www.tuttonapoli.net/champions-league/eurorivali-tris-brugge-vetlesen-protagonista-doppietta-656231",
+   "summary": "Successo in campionato per il Club Brugge, eurorivale del Napoli in Champions League, che al Jan Breydel Stadium ha battuto 3-1 il Royal Antwerp nella sesta giornata della Jupiler Pro League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T21:20:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/69/69e9997277283fefc6c18918878831a4-58585-oooz0000.jpeg",
+   "id": "bdf85ac7fa61"
+  },
+  {
+   "title": "Rrahmani esalta Favasuli: \"Gli va bene sempre tutto quello che fa\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/rrahmani-esalta-favasuli-gli-fa-656230",
+   "summary": "Amir Rrahmani, difensore del Napoli, ha parlato ai microfoni di DAZN al termine della vittoria per 1-0 contro il Bologna, sottolineando la reazione degli azzurri dopo le tre sconfitte consecutive: \"Dopo tre sconfitte è stato mol ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T21:10:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/eb/eb93e3ed4c441bd93d242c62ab7eea41-62197-oooz0000.jpeg",
+   "id": "02c459ac863f"
+  },
+  {
+   "title": "Napoli-Bologna, Hamsik esplode di gioia al gol di Lobotka: esultanza con Decibel Bellini",
+   "link": "https://www.tuttonapoli.net/serie-a/napoli-bologna-hamsik-esplode-gioia-gol-lobotka-esultanza-decibel-bellini-656227",
+   "summary": "Giornata speciale per i tifosi azzurri al Centro Commerciale La Cartiera di Pompei, dove l'ex capitano del Napoli Marek Hamsik è stato protagonista dell'evento \"Un giorno col Capitano\".",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T21:00:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/88/88974f8ed1f7f2a862e0a9262a2deb06-37734-oooz0000.jpeg",
+   "id": "3566f1181506"
+  },
+  {
+   "title": "Primo ko per la Juventus, il Napoli accorcia a -1: la classifica di Serie A aggiornata",
+   "link": "https://www.tuttonapoli.net/serie-a/ko-juventus-napoli-accorcia-1-classifica-serie-aggiornata-656229",
+   "summary": "Partita pazzesca al Mapei Stadium e prima sconfitta in questo campionato per la Juventus di Luciano Spalletti, battuta 3-2 dal Sassuolo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:50:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/12/12a58891f841bd898d91f7745d95eacc-94386-oooz0000.jpeg",
+   "id": "a5f1523a963c"
+  },
+  {
+   "title": "Juventus ko al 95'! L'ex Adzic gela Spalletti: il Sassuolo vince una partita folle",
+   "link": "https://www.tuttonapoli.net/serie-a/juventus-ko-95-adzic-gela-spalletti-sassuolo-vince-partita-folle-656228",
+   "summary": "Il Sassuolo firma un'incredibile vittoria per 3-2 contro la Juventus al termine di una sfida esplosa nella ripresa dopo lo 0-0 dei primi 45 minuti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:41:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/62/62aa81ff6a6ee9274b17d3a2c31f74db-13946-oooz0000.jpeg",
+   "id": "d2f605190103",
+   "age_minutes": 196,
+   "also": [],
+   "score": 5.01
+  },
+  {
+   "title": "Politano sui social: \"Era importante rialzarsi e vincere\"",
+   "link": "https://www.tuttonapoli.net/dai-social/politano-social-era-importante-rialzarsi-vincere-656226",
+   "summary": "Matteo Politano ha affidato ai social il suo commento dopo la vittoria del Napoli per 1-0 contro il Bologna al Maradona.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:30:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/56/5691f2a50079116d3cbeba4bfe7f5dcf-77007-oooz0000.jpeg",
+   "id": "7dc9a57c4a55"
+  },
+  {
+   "title": "Lobotka a Dazn: \"Neres mi aveva detto che avrei fatto gol. Per quest'anno sono a posto\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/lobotka-dazn-neres-gol-stagione-posto-656225",
+   "summary": "Stanislav Lobotka, man of the match di Napoli-Bologna, ha parlato nel post-partita ai microfoni di Dazn: \"E' solo l'inizio della stagione. Sono contento dei tre punti e di come sono arrivati\".",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:20:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2cd86e9780f0bb37d15c570f9e8b1c56-33955-oooz0000.jpeg",
+   "id": "8d57eb0ee1b6"
+  },
+  {
+   "title": "Favasuli, debutto da record col Napoli: eguagliati Cannavaro e Grava",
+   "link": "https://www.tuttonapoli.net/notizie/favasuli-debutto-record-napoli-eguagliati-cannavaro-grava-656210",
+   "summary": "Esordio in Serie A con la maglia del Napoli da ricordare per Costantino Favasuli, subito protagonista con un assist vincente.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:10:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e1/e1e593b2430d970243e32be35953398e-79235-oooz0000.jpeg",
+   "id": "07c81aad32be"
+  },
+  {
+   "title": "Napoli Basket, vittoria nel derby e terzo posto al Trofeo Basilicata: Scafati ko",
+   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basket-vittoria-derby-trofeo-basilicata-scafati-ko-656224",
+   "summary": "Il Napoli Basketball chiude al terzo posto il Trofeo Basilicata, disputato al PalaSassi di Matera.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-13T20:00:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9e/9e720276e9382b19a0697c1b52719a85-79078-oooz0000.jpeg",
+   "id": "20944e3e645c"
+  },
+  {
+   "title": "Vicario furious at Juventus teammates after dramatic 3-2 defeat",
+   "link": "https://football-italia.net/vicario-furious-juventus-teammates-3-2-defeat/",
+   "summary": "Guglielmo Vicario was furious with his Juventus teammates after the last-gasp 3-2 defeat to Sassuolo....",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-09-13T22:01:26+00:00",
+   "image": "",
+   "id": "f41b3be6b2de"
+  },
+  {
+   "title": "Adzic: ‘Unforgettable’ winner against Juventus exactly one year on from first goal",
+   "link": "https://football-italia.net/adzic-unforgettable-winner-against-juventus/",
+   "summary": "Sassuolo’s Vasilije Adzic admits scoring with the last kick to beat his parent club Juventus,...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-09-13T21:43:23+00:00",
+   "image": "",
+   "id": "4e53cd3874e8"
   },
   {
    "title": "Aquilani: ‘Sassuolo showed courage and Matic is a champion’ after 3-2 victory over Juventus",
@@ -1883,28 +1891,6 @@
    "published": "2026-09-13T15:32:51+00:00",
    "image": "",
    "id": "42438048b660"
-  },
-  {
-   "title": "Serie A | Lecce 3-2 Monza: Salentini continue super start",
-   "link": "https://football-italia.net/serie-a-lecce-3-2-monza-salentini-super-start/",
-   "summary": "Lecce continued their remarkable start to the season by beating troubled Monza 3-2, including a...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-13T15:00:43+00:00",
-   "image": "",
-   "id": "ed5b73eb1b9d"
-  },
-  {
-   "title": "Serie A official line-ups: Napoli vs. Bologna",
-   "link": "https://football-italia.net/serie-a-official-line-ups-napoli-vs-bologna-w4/",
-   "summary": "Napoli in crisis after three defeats in all competition cling to Rasmus Hojlund, Kevin De...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-09-13T14:58:54+00:00",
-   "image": "",
-   "id": "a88074164d7d"
   }
  ],
  "stats": {
