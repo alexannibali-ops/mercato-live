@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-15T23:03:24.797693+02:00",
+ "generated_at": "2026-09-16T01:36:51.130839+02:00",
  "articles": [
+  {
+   "title": "Atalanta su Zhegrova, possibile affare per gennaio",
+   "link": "https://www.calciomercato.it/2026/09/15/atalanta-su-zhegrova-possibile-affare-per-gennaio/",
+   "summary": "L'articolo Atalanta su Zhegrova, possibile affare per gennaio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T21:03:13+00:00",
+   "image": "",
+   "id": "53b847556df9",
+   "age_minutes": 153,
+   "also": [],
+   "score": 8.604
+  },
   {
    "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
    "link": "https://www.calciomercato.it/2026/09/15/dal-milan-allal-nassr-colpo-di-scena-improvviso-i-dettagli/",
@@ -11,23 +25,23 @@
    "published": "2026-09-15T18:00:39+00:00",
    "image": "",
    "id": "fc83d3079ce1",
-   "age_minutes": 182,
+   "age_minutes": 336,
    "also": [],
-   "score": 8.472
+   "score": 7.862
   },
   {
-   "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
-   "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
-   "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T19:43:38+00:00",
-   "image": "",
-   "id": "2e4dbc8df828",
-   "age_minutes": 79,
+   "title": "Juventus, doppio assalto inglese per Kalulu: rinnovo per respingere la Premier",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-assalto-inglese-kalulu-rinnovo-respingere-premier-793139",
+   "summary": "La Juventus vuole blindare Pierre Kalulu, diventato uno degli elementi più importanti del progetto tecnico di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:00:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aabde936609d05e0ec0ef868f01d6663-04674-oooz0000.jpeg",
+   "id": "fb08ab27bf92",
+   "age_minutes": 96,
    "also": [],
-   "score": 6.965
+   "score": 6.681
   },
   {
    "title": "Chivu perde i pezzi: Calhanoglu dopo la sosta, tripla assenza con la Roma",
@@ -39,14 +53,28 @@
    "published": "2026-09-15T12:29:42+00:00",
    "image": "",
    "id": "adb366dae3c4",
-   "age_minutes": 513,
+   "age_minutes": 667,
    "also": [
     {
      "source": "Calciomercato.it",
      "link": "https://www.calciomercato.it/2026/09/14/chivu-perde-calhanoglu-a-rischio-anche-per-la-roma-le-ultime-di-inter-udinese/"
     }
    ],
-   "score": 6.905
+   "score": 6.526
+  },
+  {
+   "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
+   "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
+   "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T19:43:38+00:00",
+   "image": "",
+   "id": "2e4dbc8df828",
+   "age_minutes": 233,
+   "also": [],
+   "score": 6.256
   },
   {
    "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
@@ -58,23 +86,9 @@
    "published": "2026-09-15T19:31:48+00:00",
    "image": "",
    "id": "54f2c7d6618d",
-   "age_minutes": 91,
+   "age_minutes": 245,
    "also": [],
-   "score": 6.904
-  },
-  {
-   "title": "James Rodriguez dice addio alla nazionale colombiana",
-   "link": "https://www.tuttojuve.com/altre-notizie/james-rodriguez-addio-nazionale-colombiana-793169",
-   "summary": "(ANSA) - ROMA, 15 SET - James Rodriguez non giocherà più con la maglia della nazionale colombiana.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:58:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5ae90da927cc44fe82181db3d5698df-67408-oooz0000.jpeg",
-   "id": "48d7c66532dd",
-   "age_minutes": 65,
-   "also": [],
-   "score": 6.841
+   "score": 6.208
   },
   {
    "title": "Auriemma: “Mercato Napoli incomprensibile. Io avrei ceduto Lang e tenuto Rao”",
@@ -86,9 +100,9 @@
    "published": "2026-09-15T19:30:39+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6d/6d6283da97cf85914070ae860cd31afd-13948-oooz0000.jpeg",
    "id": "04c8633445d1",
-   "age_minutes": 92,
+   "age_minutes": 246,
    "also": [],
-   "score": 6.699
+   "score": 6.003
   },
   {
    "title": "Nations League: cambia sistema di promozione e retrocessione per l'edizione 2026-'27",
@@ -100,28 +114,23 @@
    "published": "2026-09-15T19:12:33+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
    "id": "184c3d38c975",
-   "age_minutes": 110,
+   "age_minutes": 264,
    "also": [],
-   "score": 6.608
+   "score": 5.931
   },
   {
-   "title": "Arbitri-tecnici Serie A, lunedì incontro a Lissone con Orsato",
-   "link": "https://www.tuttojuve.com/altre-notizie/arbitri-tecnici-serie-a-lunedi-incontro-lissone-orsato-793153",
-   "summary": "Il designatore arbitrale della CAN Daniele Orsato incontrerà lunedì prossimo a Lissone gli allenatori di Serie A per fare il punto sull’avvio di stagione e confrontarsi sulle principali indicazioni date agli arbitri…",
-   "source": "TuttoJuve",
+   "title": "Bucchioni: \"Il Napoli deve crescere, mi aspetto di più. Serie A, primi 3 posti già assegnati\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bucchioni-mi-aspetto-napoli-crescere-serie-a-primi-3-posti-assegnati-656415",
+   "summary": "Costantino Favasuli ha convinto fin dalle prime apparizioni con il Napoli e il suo impatto non è passato inosservato.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/25/25c56666ba36ccd01b1c79d687f77ebd-27702-oooz0000.jpeg",
-   "id": "58fedaec4bc7",
-   "age_minutes": 53,
-   "also": [
-    {
-     "source": "TuttoNapoli",
-     "link": "https://www.tuttonapoli.net/notizie/orsato-fissato-incontro-lissone-allenatori-serie-a-temi-tavolo-656403"
-    }
-   ],
-   "score": 6.503
+   "scope": "Napoli",
+   "published": "2026-09-15T22:30:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
+   "id": "4abd76e743fa",
+   "age_minutes": 66,
+   "also": [],
+   "score": 5.835
   },
   {
    "title": "Juventus, Bremer fuori: la decisione di Spalletti",
@@ -133,65 +142,23 @@
    "published": "2026-09-15T16:27:28+00:00",
    "image": "",
    "id": "92e0232d9aae",
-   "age_minutes": 275,
+   "age_minutes": 429,
    "also": [],
-   "score": 6.085
+   "score": 5.552
   },
   {
-   "title": "Gosens, che attacco a Grosso: \"Io via ma ora il tecnico della Fiorentina è già stato licenziato\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/gosens-attacco-grosso-io-via-tecnico-fiorentina-licenziato-793140",
-   "summary": "Sul proprio profilo LinkedIn, Robin Gosens è tornato a parlare del suo addio alla Fiorentina in estate, dopo che già al momento della sua cessione era stato critico nei confronti della società viola: \"Il calcio è una ...",
+   "title": "Moggi: \"La Juventus va rifondata e rimodernata. Conte? Ora non credo avrebbe voglia di tornare. Sul mio incontro con Gasperini...\"",
+   "link": "https://www.tuttojuve.com/primo-piano/moggi-la-juventus-rifondata-rimodernata-conte-credo-voglia-tornare-incontro-gasperini-793176",
+   "summary": "Un incontro a Torino tra Gian Piero Gasperini e Luciano Moggi ha inevitabilmente acceso la curiosità.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-15T18:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/05/059815bfc4eb0daa5ba226d8ef8ebc05-33413-oooz0000.jpeg",
-   "id": "3dbdba3db1cb",
-   "age_minutes": 143,
+   "published": "2026-09-15T21:20:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4ab86bb0696f108e60e5468c408469a-60540-oooz0000.jpeg",
+   "id": "8b2b12e9ff1e",
+   "age_minutes": 136,
    "also": [],
-   "score": 6.052
-  },
-  {
-   "title": "Borsa, in rosso Juventus e Stellantis, lieve rialzo per Ferrari",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-793170",
-   "summary": "Seduta debole per Piazza Affari e per le principali Borse europee, penalizzate dalla nuova accelerazione del petrolio e dall'aumento dei rendimenti sul mercato obbligazionario.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:50:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
-   "id": "874fa5031991",
-   "age_minutes": 12,
-   "also": [],
-   "score": 5.927
-  },
-  {
-   "title": "Cardinale vuole investire in Arabia? Dossier Al Nassr sul tavolo, ma le possibilità sono basse",
-   "link": "https://www.milannews.it/news/cardinale-vuole-investire-arabia-dossier-nassr-tavolo-possibilita-basse-629915",
-   "summary": "L’ipotesi di un ingresso di RedBird nell’Al-Nassr, uno dei principali club dell’Arabia Saudita e squadra di Cristiano Ronaldo, è emersa nelle ultime ore nell’ambito della strategia di espansione del fondo di Gerry Cardi…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:11:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
-   "id": "a1e5e3b554fb",
-   "age_minutes": 52,
-   "also": [],
-   "score": 5.91
-  },
-  {
-   "title": "Vagli: \"La Juve sprofonda alle prime difficoltà. Serve una risposta già in coppa\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/vagli-la-juve-sprofonda-prime-difficolta-serve-risposta-coppa-793167",
-   "summary": "A Ieri e Oggi, trasmissione di Radio Bianconera, ha parlato Filippo Vagli, in particolar modo del ko rimediato col Sassuolo: \"Ho dato un'occhiata, basta andare su qualche sito specializzato in quotazioni di mercato per…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2b/2ba1336de47677f8f6bba8f9282ce0ae-01662-oooz0000.jpeg",
-   "id": "2cd45d626033",
-   "age_minutes": 43,
-   "also": [],
-   "score": 5.757
+   "score": 5.486
   },
   {
    "title": "Napoli, allarme Lobotka: cambia il futuro del centrocampista",
@@ -203,332 +170,23 @@
    "published": "2026-09-15T14:53:02+00:00",
    "image": "",
    "id": "0d131cff394f",
-   "age_minutes": 370,
+   "age_minutes": 523,
    "also": [],
-   "score": 5.743
+   "score": 5.277
   },
   {
-   "title": "Gravina: \"Assurdo pensare a commissariare la Federcalcio\"",
-   "link": "https://www.milannews.it/news/gravina-assurdo-pensare-commissariare-federcalcio-629906",
-   "summary": "(ANSA) - ROMA, 15 SET - \"L'assegnazione della finale di Conference League a Torino è un ottimo risultato per il calcio italiano, a cui peraltro tenevo in modo particolare perché sono stato io ad avviare la candidatura…",
+   "title": "15 settembre 1999: la prima in rossonero di Rino Gattuso",
+   "link": "https://www.milannews.it/gli-ex/15-settembre-1999-rossonero-rino-gattuso-629904",
+   "summary": "Il 15 settembre 1999, in occasione di un match di Champions League in casa del Chelsea, Rino Gattuso ha fatto il suo esordio ufficiale con la maglia del Milan: l'ex centrocampista rossonero venne schierato in campo dal…",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-09-15T19:36:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/171b7c4f329c21f5e4d4ce060ea732a9-03918-oooz0000.jpeg",
-   "id": "21daa6d073e1",
-   "age_minutes": 87,
-   "also": [
-    {
-     "source": "FcInterNews",
-     "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521"
-    }
-   ],
-   "score": 5.727
-  },
-  {
-   "title": "MN - Pastore non ha dubbi: \"Modric non potrà mai essere un problema\"",
-   "link": "https://www.milannews.it/news/mn-pastore-dubbi-modric-potra-problema-629898",
-   "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:36:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
-   "id": "e376070c7275",
-   "age_minutes": 27,
+   "published": "2026-09-15T21:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
+   "id": "376f1012be10",
+   "age_minutes": 156,
    "also": [],
-   "score": 5.446
-  },
-  {
-   "title": "ASSOCAPP, Ferrato: \"Fondo di Fine Carriera, riscontrate un'opacità e un'assenza di trasparenza\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/assocapp-ferrato-fondo-carriera-riscontrate-opacita-assenza-trasparenza-793147",
-   "summary": "C'era anche ASSOCAPP, l’Associazione dei Calciatori e Calciatrici, Allenatori e Allenatrici, Preparatori e Preparatrici Patrocinati, a parlare alla 7ª Commissione del Senato sul disegno di legge in materia di sistema…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T18:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/73/7389d131a504c67f2b5fc930132c7234-13219-oooz0000.jpeg",
-   "id": "1b9b65619e88",
-   "age_minutes": 153,
-   "also": [],
-   "score": 5.405
-  },
-  {
-   "title": "De Rossi-Genoa, arriva la decisione definitiva: le ultime",
-   "link": "https://www.calciomercato.it/2026/09/15/de-rossi-genoa-arriva-la-decisione-definitiva-le-ultime/",
-   "summary": "L'articolo De Rossi-Genoa, arriva la decisione definitiva: le ultime proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T13:05:10+00:00",
-   "image": "",
-   "id": "01dcc4f5fc0c",
-   "age_minutes": 478,
-   "also": [],
-   "score": 5.405
-  },
-  {
-   "title": "Diritti tv esteri, sul tavolo di JP Morgan arrivate sei proposte dai fondi",
-   "link": "https://www.fcinternews.it/news/diritti-tv-esteri-tavolo-jp-morgan-arrivate-proposte-fondi-1018529",
-   "summary": "Si è svolta questo pomeriggio, a Milano, l’assemblea tra i rappresentanti dei venti club di Serie A.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T19:48:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
-   "id": "4696a452e077",
-   "age_minutes": 75,
-   "also": [],
-   "score": 5.188
-  },
-  {
-   "title": "Conte pronto a tornare in panchina: beffata la Juve",
-   "link": "https://www.calciomercato.it/2026/09/15/conte-pronto-a-tornare-in-panchina-beffata-la-juve/",
-   "summary": "L'articolo Conte pronto a tornare in panchina: beffata la Juve proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T11:30:08+00:00",
-   "image": "",
-   "id": "ff74d530d967",
-   "age_minutes": 573,
-   "also": [],
-   "score": 5.148
-  },
-  {
-   "title": "Braglia: \"Martinez ha bisogno di tempo. Provedel al suo posto? No, ecco perché\"",
-   "link": "https://www.fcinternews.it/news/braglia-martinez-provedel-inter-news-1018515",
-   "summary": "Intervenuto ai microfoni di Tuttomercatoweb, l'ex portiere Simone Braglia ha parlato della situazione tra i pali della porta nerazzurra, dopo le prestazioni di Josep Martinez contro Real Madrid e Udinese.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T18:08:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/11/11167e2f4c43005bb2137436cf407e8f-91905-oooz0000.jpeg",
-   "id": "9393a48294e6",
-   "age_minutes": 175,
-   "also": [],
-   "score": 5.105
-  },
-  {
-   "title": "Vasquez all'87esimo: il Genoa vola agli ottavi di Coppa Italia con l'Inter",
-   "link": "https://www.fcinternews.it/news/vasquez-87esimo-genoa-vola-ottavi-coppa-italia-inter-1018530",
-   "summary": "Basta un colpo di testa a tre minuti dalla fine di Johan Vasquez al Genoa per superare il Sudtirol nella gara dei sedicesimi di finale di Coppa Italia e regalarsi l'accesso agli ottavi dove i rossoblu sfideranno l'Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T17:53:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b25f12df0b83fe92551e80fbe8bdbb03-32707-oooz0000.jpeg",
-   "id": "f6de6215c540",
-   "age_minutes": 190,
-   "also": [],
-   "score": 5.039
-  },
-  {
-   "title": "Abankwah: \"Nonostante il risultato, grato a Dio per questo momento\"",
-   "link": "https://www.fcinternews.it/l-avversario/abankwah-nonostante-risultato-grato-dio-momento-1018503",
-   "summary": "La sua squadra ha perso dopo aver cullato il sogno di mettere a segno un gran colpo in casa dei campioni d'Italia, come accaduto la scorsa stagione.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T17:22:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/75/75bddde8c6e819d779adac3276619b6e-43572-590o192o1674o1277z0e95.jpeg",
-   "id": "a7d62d36135f",
-   "age_minutes": 221,
-   "also": [],
-   "score": 4.907
-  },
-  {
-   "title": "Roma-Inter, che tegola: salta la super sfida dell’Olimpico",
-   "link": "https://www.calciomercato.it/2026/09/15/roma-inter-che-tegola-salta-la-super-sfida-dellolimpico/",
-   "summary": "L'articolo Roma-Inter, che tegola: salta la super sfida dell’Olimpico proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T09:22:29+00:00",
-   "image": "",
-   "id": "1bf617effc08",
-   "age_minutes": 700,
-   "also": [],
-   "score": 4.854
-  },
-  {
-   "title": "Adzic senza pietà: torna alla Juve per meno di 2 milioni",
-   "link": "https://www.calciomercato.it/2026/09/15/adzic-senza-pieta-torna-alla-juve-per-meno-di-2-milioni/",
-   "summary": "L'articolo Adzic senza pietà: torna alla Juve per meno di 2 milioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T07:21:55+00:00",
-   "image": "",
-   "id": "31496de463b0",
-   "age_minutes": 821,
-   "also": [],
-   "score": 4.621
-  },
-  {
-   "title": "Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva",
-   "link": "https://www.calciomercato.it/2026/09/15/bologna-tedesco-a-rischio-esonero-contro-il-torino-sara-decisiva/",
-   "summary": "L'articolo Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T07:03:44+00:00",
-   "image": "",
-   "id": "223c68573f07",
-   "age_minutes": 839,
-   "also": [],
-   "score": 4.59
-  },
-  {
-   "title": "MN - Pastore pungente: \"Loftus-Cheek giocatore inspiegabile\"",
-   "link": "https://www.milannews.it/news/mn-pastore-pungente-loftus-cheek-giocatore-inspiegabile-629900",
-   "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T17:36:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c6/c6d6817e3082ba33f2da4e4c152f9e40-93335-oooz0000.jpeg",
-   "id": "b007c824b25a",
-   "age_minutes": 207,
-   "also": [],
-   "score": 4.565
-  },
-  {
-   "title": "Amorim rivoluziona la formazione: cambio totale in campo",
-   "link": "https://www.calciomercato.it/2026/09/15/amorim-rivoluziona-la-formazione-cambio-totale-in-campo/",
-   "summary": "L'articolo Amorim rivoluziona la formazione: cambio totale in campo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T05:22:51+00:00",
-   "image": "",
-   "id": "fd80f5127376",
-   "age_minutes": 940,
-   "also": [],
-   "score": 4.428
-  },
-  {
-   "title": "Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo”",
-   "link": "https://www.calciomercato.it/2026/09/15/inter-chivu-dopo-calha-perde-anche-stones-e-alza-la-voce-su-martinez-vi-do-il-titolo/",
-   "summary": "L'articolo Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T22:42:17+00:00",
-   "image": "",
-   "id": "faa99e7930fc",
-   "age_minutes": 1341,
-   "also": [],
-   "score": 3.977
-  },
-  {
-   "title": "Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo",
-   "link": "https://www.calciomercato.it/2026/09/14/il-messaggio-di-diouf-a-chivu-il-francese-vuole-cambiare-ruolo/",
-   "summary": "L'articolo Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T21:30:31+00:00",
-   "image": "",
-   "id": "c5402d265b80",
-   "age_minutes": 1412,
-   "also": [],
-   "score": 3.92
-  },
-  {
-   "title": "Icardi-Lazio, contatti continui: decide Gattuso",
-   "link": "https://www.calciomercato.it/2026/09/14/icardi-lazio-contatti-continui-decide-gattuso/",
-   "summary": "L'articolo Icardi-Lazio, contatti continui: decide Gattuso proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T19:28:01+00:00",
-   "image": "",
-   "id": "ac71b72897f8",
-   "age_minutes": 1535,
-   "also": [],
-   "score": 3.836
-  },
-  {
-   "title": "Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa",
-   "link": "https://www.calciomercato.it/2026/09/14/juventus-ora-e-rimpianto-zhegrova-e-fuori-dalla-lista-per-leuropa/",
-   "summary": "L'articolo Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T18:25:43+00:00",
-   "image": "",
-   "id": "3df4fae0220d",
-   "age_minutes": 1597,
-   "also": [],
-   "score": 3.798
-  },
-  {
-   "title": "L’Arsenal lo regala a gennaio: c’è la Juve",
-   "link": "https://www.calciomercato.it/2026/09/14/larsenal-lo-regala-a-gennaio-ce-la-juve/",
-   "summary": "L'articolo L’Arsenal lo regala a gennaio: c’è la Juve proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T17:00:42+00:00",
-   "image": "",
-   "id": "b32560a59c00",
-   "age_minutes": 1682,
-   "also": [],
-   "score": 3.752
-  },
-  {
-   "title": "Inter, assalto a due stelline della Serie A: i nomi",
-   "link": "https://www.calciomercato.it/2026/09/14/inter-assalto-a-due-stelline-della-serie-a-i-nomi/",
-   "summary": "L'articolo Inter, assalto a due stelline della Serie A: i nomi proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T14:21:53+00:00",
-   "image": "",
-   "id": "f9402f8959bf",
-   "age_minutes": 1841,
-   "also": [],
-   "score": 3.68
-  }
- ],
- "raw": [
-  {
-   "title": "Piano anti Lotito, tifosi laziali proseguono la protesta contro la società",
-   "link": "https://www.milannews.it/news/piano-anti-lotito-tifosi-laziali-proseguono-protesta-societa-629929",
-   "summary": "(ANSA) - ROMA, 15 SET - I tifosi della Lazio, nonostante tutto, proseguono compatti la loro protesta contro la dirigenza.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:48:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/23/23e2d65c1b3b08568ce6910ec7cd72c9-59613-oooz0000.jpeg",
-   "id": "db50d5b1ce6e"
-  },
-  {
-   "title": "MN - Pastore non ha dubbi: \"Modric non potrà mai essere un problema\"",
-   "link": "https://www.milannews.it/news/mn-pastore-dubbi-modric-potra-problema-629898",
-   "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:36:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
-   "id": "e376070c7275",
-   "age_minutes": 27,
-   "also": [],
-   "score": 5.446
-  },
-  {
-   "title": "Brasile, il ct Ancelotti conferma la fine del ciclo Neymar in nazionale",
-   "link": "https://www.milannews.it/news/calcio-brasile-ancelotti-conferma-ciclo-neymar-nazionale-629788",
-   "summary": "(ANSA) - RIO DE JANEIRO, 14 SET - Il commissario tecnico della nazionale di calcio brasiliana, Carlo Ancelotti, ha ribadito che darà \"priorità ai giovani\" nel ricostruire la squadra e confermato la fine del ciclo di Neymar, og ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:24:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d9/d9375fdef5ac7bb32ca79b49ef26c72d-01885-oooz0000.jpeg",
-   "id": "32b8a7325b05"
+   "score": 5.19
   },
   {
    "title": "Cardinale vuole investire in Arabia? Dossier Al Nassr sul tavolo, ma le possibilità sono basse",
@@ -540,31 +198,23 @@
    "published": "2026-09-15T20:11:23+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
    "id": "a1e5e3b554fb",
-   "age_minutes": 52,
+   "age_minutes": 205,
    "also": [],
-   "score": 5.91
+   "score": 5.173
   },
   {
-   "title": "Gonçalo Ramos: \"Mi piace sentirmi importante. So di poter dare il mio contributo, non solo segnando gol\"",
-   "link": "https://www.milannews.it/news/goncalo-ramos-mi-piace-sentirmi-importante-so-poter-dare-contributo-segnando-gol-629866",
-   "summary": "Ai microfoni dei canali ufficiali della UEFA, Gonçalo Ramos ha commentato così il suo arrivo al Milan: \"È impossibile dire di no a un club di queste dimensioni.",
-   "source": "MilanNews",
+   "title": "Borsa, in rosso Juventus e Stellantis, lieve rialzo per Ferrari",
+   "link": "https://www.tuttojuve.com/altre-notizie/borsa-793170",
+   "summary": "Seduta debole per Piazza Affari e per le principali Borse europee, penalizzate dalla nuova accelerazione del petrolio e dall'aumento dei rendimenti sul mercato obbligazionario.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:00:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/18/18ad63ea4c9fd3ca83a724c8730e92be-44765-oooz0000.jpeg",
-   "id": "c3545860e01e"
-  },
-  {
-   "title": "15 settembre 2010: Ibra segna il suo primo gol con la maglia del Milan",
-   "link": "https://www.milannews.it/news/15-settembre-2010-ibra-segna-gol-maglia-milan-629905",
-   "summary": "Il 15 settembre 2010, Zlatan Ibrahimovic ha segnato la sua prima rete con la maglia del Milan: era un match di Champions League contro i francesi dell'Auxerre a San Siro e l'ex attaccante svedese, che attualmente ricopre il ruolo di Senior Ad ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T19:48:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/48/4849378b3d1478771f6386c1a2a89376-40401-oooz0000.jpeg",
-   "id": "95453cb35bbd"
+   "scope": "Juventus",
+   "published": "2026-09-15T20:50:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
+   "id": "874fa5031991",
+   "age_minutes": 166,
+   "also": [],
+   "score": 5.146
   },
   {
    "title": "Gravina: \"Assurdo pensare a commissariare la Federcalcio\"",
@@ -576,163 +226,425 @@
    "published": "2026-09-15T19:36:16+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/171b7c4f329c21f5e4d4ce060ea732a9-03918-oooz0000.jpeg",
    "id": "21daa6d073e1",
-   "age_minutes": 87,
+   "age_minutes": 240,
    "also": [
     {
      "source": "FcInterNews",
      "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521"
     }
    ],
-   "score": 5.727
+   "score": 5.026
   },
   {
-   "title": "Savicevic racconta: \"La sera prima della finale col Barcellona, il presidente Berlusconi...\"",
-   "link": "https://www.milannews.it/news/savicevic-rivela-il-gol-barcellona-1994-bello-vita-sera-presidente-berlusconi-629790",
-   "summary": "Ai microfoni della Gazzetta dello Sport, Dejan Savicevic ha commentato la sua esperienza al Milan e ha rivelato anche qual è stato il gol più bello che ha segnato nella sua vita: \"È sempre nel mio cuore.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T19:24:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/de/dee2b9e0d43a584ba21e43d6b64aee44-99580-oooz0000.jpeg",
-   "id": "9c86d0fc8193"
-  },
-  {
-   "title": "Nations League: cambia sistema di promozione e retrocessione per l'edizione 2026-'27",
-   "link": "https://www.milannews.it/news/nations-league-cambia-sistema-promozione-retrocessione-edizione-2026-27-629874",
-   "summary": "(ANSA) - ROMA, 15 SET - Il Comitato Esecutivo Uefa, riunitosi a Salonicco, ha approvato alcune modifiche al sistema di promozione e retrocessione della Nations League 2026-'27, al fine di consentire una transizione…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T19:12:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
-   "id": "184c3d38c975",
-   "age_minutes": 110,
+   "title": "De Rossi-Genoa, arriva la decisione definitiva: le ultime",
+   "link": "https://www.calciomercato.it/2026/09/15/de-rossi-genoa-arriva-la-decisione-definitiva-le-ultime/",
+   "summary": "L'articolo De Rossi-Genoa, arriva la decisione definitiva: le ultime proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T13:05:10+00:00",
+   "image": "",
+   "id": "01dcc4f5fc0c",
+   "age_minutes": 631,
    "also": [],
-   "score": 6.608
+   "score": 5.007
   },
   {
-   "title": "Pronostico Milan-Benfica, inedito in Europa League. I lusitani non hanno mai battuto il Diavolo",
-   "link": "https://www.milannews.it/scommesse/pronostici/pronostico-milan-benfica-inedito-europa-league-lusitani-battuto-diavolo-629832",
-   "summary": "Dopo i due pareggi sui campi di Juventus e Lazio, il Milan torna a San Siro e fa il suo esordio in Europa League: l'avversario è fra i più prestigiosi, il Benfica di Marco Silva.",
-   "source": "MilanNews",
+   "title": "Fiorentina-Pisa, 6,5 per Rao: “Grandi giocate e contributo in copertura. Poi cala nel 2T”",
+   "link": "https://www.tuttonapoli.net/notizie/fiorentina-pisa-6-5-rao-grandi-giocate-contributo-copertura-cala-ripresa-656422",
+   "summary": "Emanuele Rao è tra i pochi giocatori del Pisa a lasciare il campo con una valutazione positiva nonostante la netta sconfitta contro la Fiorentina.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T19:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f37e40df744c39841abf2f5b3dfb7333-14659-oooz0000.jpeg",
-   "id": "a76c6e867631"
+   "scope": "Napoli",
+   "published": "2026-09-15T21:15:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5048584729470498ff8d413e42726a2-21265-492o60o1716o1284z0de0.jpeg",
+   "id": "2298e576dc06",
+   "age_minutes": 141,
+   "also": [],
+   "score": 4.863
   },
   {
-   "title": "Zancan: “Hutchinson non è ancora pronto, Moreira bocciato troppo presto. Ramos ha bisogno di trequartisti che lo aiutino”",
-   "link": "https://www.milannews.it/news/zancan-hutchinson-pronto-moreira-bocciato-presto-ramos-bisogno-trequartisti-aiutano-629925",
-   "summary": "Durante l'ultima diretta di Sky Sport, nell'analizzare le due squadre che si affronteranno domani a San Siro, Milan e Benfica, Federico Zancan ha parlato così di alcuni componenti della rosa dei rossoneri.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:48:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bf/bf33482e80bd7e47c6b88a0733d442b8-73051-oooz0000.jpeg",
-   "id": "59f145a7e791"
+   "title": "Conte pronto a tornare in panchina: beffata la Juve",
+   "link": "https://www.calciomercato.it/2026/09/15/conte-pronto-a-tornare-in-panchina-beffata-la-juve/",
+   "summary": "L'articolo Conte pronto a tornare in panchina: beffata la Juve proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T11:30:08+00:00",
+   "image": "",
+   "id": "ff74d530d967",
+   "age_minutes": 726,
+   "also": [],
+   "score": 4.801
   },
   {
-   "title": "MN - Benfica, Silva in conferenza: \"Mi aspetto un Milan che muta. Per Amorim è facile...\"",
-   "link": "https://www.milannews.it/news/mn-benfica-silva-conferenza-milan-amorim-629924",
-   "summary": "Marco Silva, allenatore del Benfica, è presente in conferenza stampa da San Siro alla vigilia della sfida contro il Milan, valida per la prima giornata della fase campionato di Europa League.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:44:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/05/05bfa3556e26a1e05cdb115540f9fc4f-45720-839o743o1595o1499z1244.jpeg",
-   "id": "0e5f297fbfa3"
-  },
-  {
-   "title": "Amorim: \"Partita speciale col Benfica? Speciale è solo quando vince il Milan\"",
-   "link": "https://www.milannews.it/news/amorim-partita-speciale-benfica-speciale-vince-milan-629916",
-   "summary": "Mister Ruben Amorim ha parlato a Milan TV alla vigilia di Milan-Benfica di Europa League. Queste tutte le sue dichiarazioni: Sulla partita di domani: “Un club come il nostro deve stare in Champions League.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:36:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fa/fa2a52648db778162b08641dea096468-01305-oooz0000.jpeg",
-   "id": "f753ff34890e"
-  },
-  {
-   "title": "MN - Benfica, Circati in conferenza: \"Sarà una sfida intensa. A Parma giocavo per salvarmi, qui per vincere\"",
-   "link": "https://www.milannews.it/news/mn-benfica-circati-conferenza-sara-sfida-intensa-parma-giocavo-salvarmi-vincere-629923",
-   "summary": "Alessandro Circati, difensore del Benfica, è presente in conferenza stampa da San Siro alla vigilia della sfida contro il Milan, valida per la prima giornata della fase campionato di Europa League.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:25:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6e/6ec430eabbecf2a49d9bbce48cab89d9-18665-oooz0000.jpeg",
-   "id": "05c1fe618069"
-  },
-  {
-   "title": "VIDEO MN - L’arrivo del Milan all’hotel Double Tree per il ritiro pre-Benfica",
-   "link": "https://www.milannews.it/news/video-mn-l-arrivo-milan-all-hotel-double-tree-ritiro-benfica-629922",
-   "summary": "Domani i rossoneri esordiarono nel proprio stadio, a San Siro, in Europa League contro il Benfica, una delle squadre più accreditate per la vittoria finale della coppa.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:20:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1f/1f2c62ced46c0b35384054d368e04e25-54714-oooz0000.jpeg",
-   "id": "8a99502d8acf"
-  },
-  {
-   "title": "Milan, Gonçalo Ramos: \"Benfica la mia casa, se segno non esulto\"",
-   "link": "https://www.milannews.it/news/europa-league-ramos-benfica-casa-segno-esulto-629901",
-   "summary": "(ANSA) - MILANO, 15 SET - \"Se segno non esulto perché il Benfica è la mia casa e la mia famiglia\": lo dice Goncalo Ramos al fianco di Ruben Amorim per la presentazione della partita europea del Milan con i portoghesi.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:12:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/df/df4e5e972c5212217a9a938194ff2281-43652-oooz0000.jpeg",
-   "id": "3ecbe5dec8db"
-  },
-  {
-   "title": "Probabile formazione Milan: Hutchinson verso una maglia da titolare. Sorprese in difesa e a centrocampo",
-   "link": "https://www.milannews.it/primo-piano/probabile-formazione-milan-hutchinson-maglia-titolare-sorprese-difesa-centrocampo-629919",
-   "summary": "Ci siamo per l'esordio europeo del Milan di Ruben Amorim.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T18:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e0/e03c079ed13b9477ab280bfbd01e258a-71684-oooz0000.jpeg",
-   "id": "6741cddf6d6d"
-  },
-  {
-   "title": "Amorim: \"Nessuna conclusione affrettata su Modric, non so se giocherà domani\"",
-   "link": "https://www.milannews.it/news/amorim-nessuna-affrettata-modric-so-giochera-domani-629899",
-   "summary": "(ANSA) - ROMA, 15 SET - \"Dopo la partita contro la Lazio ho fatto le mie valutazioni. Abbiamo giocato un secondo tempo diverso rispetto al primo, ma non è questioni di singoli o di tre-quattro nomi ma di atteggiamento di tutti.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T17:47:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e6/e6b953ff39dc91a1574e04770e53d517-74268-oooz0000.jpeg",
-   "id": "5f134a1b544e"
-  },
-  {
-   "title": "MN - Pastore pungente: \"Loftus-Cheek giocatore inspiegabile\"",
-   "link": "https://www.milannews.it/news/mn-pastore-pungente-loftus-cheek-giocatore-inspiegabile-629900",
+   "title": "MN - Pastore non ha dubbi: \"Modric non potrà mai essere un problema\"",
+   "link": "https://www.milannews.it/news/mn-pastore-dubbi-modric-potra-problema-629898",
    "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-09-15T17:36:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c6/c6d6817e3082ba33f2da4e4c152f9e40-93335-oooz0000.jpeg",
-   "id": "b007c824b25a",
-   "age_minutes": 207,
+   "published": "2026-09-15T20:36:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
+   "id": "e376070c7275",
+   "age_minutes": 180,
+   "also": [],
+   "score": 4.682
+  },
+  {
+   "title": "Roma-Inter, che tegola: salta la super sfida dell’Olimpico",
+   "link": "https://www.calciomercato.it/2026/09/15/roma-inter-che-tegola-salta-la-super-sfida-dellolimpico/",
+   "summary": "L'articolo Roma-Inter, che tegola: salta la super sfida dell’Olimpico proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T09:22:29+00:00",
+   "image": "",
+   "id": "1bf617effc08",
+   "age_minutes": 854,
    "also": [],
    "score": 4.565
   },
   {
-   "title": "Caso Maldini, Giulini: \"Crediamo alla buona fede del ragazzo che ci ha detto di avere bevuto un paio di cocktail. Gli esami fatti sono tutti negativi\"",
-   "link": "https://www.milannews.it/news/giulini-maldini-tracce-stupefacenti-giornali-629885",
-   "summary": "(ANSA) - MILANO, 15 SET - \"Non capiamo come possano uscire notizie di questo tipo, a me sembra che ad oggi le tracce di stupefacenti siano più sui giornali che da altre parti e questo secondo noi è molto grave\": È la ri ...",
-   "source": "MilanNews",
+   "title": "Diritti tv esteri, sul tavolo di JP Morgan arrivate sei proposte dai fondi",
+   "link": "https://www.fcinternews.it/news/diritti-tv-esteri-tavolo-jp-morgan-arrivate-proposte-fondi-1018529",
+   "summary": "Si è svolta questo pomeriggio, a Milano, l’assemblea tra i rappresentanti dei venti club di Serie A.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T17:24:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/83/8393a5e095d02bf611071e4dd3b533b7-17999-oooz0000.jpeg",
-   "id": "c4fbc3761ef4"
+   "scope": "Inter",
+   "published": "2026-09-15T19:48:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "4696a452e077",
+   "age_minutes": 228,
+   "also": [],
+   "score": 4.475
+  },
+  {
+   "title": "Adzic senza pietà: torna alla Juve per meno di 2 milioni",
+   "link": "https://www.calciomercato.it/2026/09/15/adzic-senza-pieta-torna-alla-juve-per-meno-di-2-milioni/",
+   "summary": "L'articolo Adzic senza pietà: torna alla Juve per meno di 2 milioni proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T07:21:55+00:00",
+   "image": "",
+   "id": "31496de463b0",
+   "age_minutes": 974,
+   "also": [],
+   "score": 4.379
+  },
+  {
+   "title": "Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva",
+   "link": "https://www.calciomercato.it/2026/09/15/bologna-tedesco-a-rischio-esonero-contro-il-torino-sara-decisiva/",
+   "summary": "L'articolo Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T07:03:44+00:00",
+   "image": "",
+   "id": "223c68573f07",
+   "age_minutes": 993,
+   "also": [],
+   "score": 4.353
+  },
+  {
+   "title": "Amorim rivoluziona la formazione: cambio totale in campo",
+   "link": "https://www.calciomercato.it/2026/09/15/amorim-rivoluziona-la-formazione-cambio-totale-in-campo/",
+   "summary": "L'articolo Amorim rivoluziona la formazione: cambio totale in campo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T05:22:51+00:00",
+   "image": "",
+   "id": "fd80f5127376",
+   "age_minutes": 1094,
+   "also": [],
+   "score": 4.224
+  },
+  {
+   "title": "Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo”",
+   "link": "https://www.calciomercato.it/2026/09/15/inter-chivu-dopo-calha-perde-anche-stones-e-alza-la-voce-su-martinez-vi-do-il-titolo/",
+   "summary": "L'articolo Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T22:42:17+00:00",
+   "image": "",
+   "id": "faa99e7930fc",
+   "age_minutes": 1494,
+   "also": [],
+   "score": 3.862
+  },
+  {
+   "title": "Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo",
+   "link": "https://www.calciomercato.it/2026/09/14/il-messaggio-di-diouf-a-chivu-il-francese-vuole-cambiare-ruolo/",
+   "summary": "L'articolo Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T21:30:31+00:00",
+   "image": "",
+   "id": "c5402d265b80",
+   "age_minutes": 1566,
+   "also": [],
+   "score": 3.817
+  },
+  {
+   "title": "Icardi-Lazio, contatti continui: decide Gattuso",
+   "link": "https://www.calciomercato.it/2026/09/14/icardi-lazio-contatti-continui-decide-gattuso/",
+   "summary": "L'articolo Icardi-Lazio, contatti continui: decide Gattuso proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T19:28:01+00:00",
+   "image": "",
+   "id": "ac71b72897f8",
+   "age_minutes": 1688,
+   "also": [],
+   "score": 3.749
+  },
+  {
+   "title": "Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa",
+   "link": "https://www.calciomercato.it/2026/09/14/juventus-ora-e-rimpianto-zhegrova-e-fuori-dalla-lista-per-leuropa/",
+   "summary": "L'articolo Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T18:25:43+00:00",
+   "image": "",
+   "id": "3df4fae0220d",
+   "age_minutes": 1751,
+   "also": [],
+   "score": 3.719
+  },
+  {
+   "title": "L’Arsenal lo regala a gennaio: c’è la Juve",
+   "link": "https://www.calciomercato.it/2026/09/14/larsenal-lo-regala-a-gennaio-ce-la-juve/",
+   "summary": "L'articolo L’Arsenal lo regala a gennaio: c’è la Juve proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T17:00:42+00:00",
+   "image": "",
+   "id": "b32560a59c00",
+   "age_minutes": 1836,
+   "also": [],
+   "score": 3.682
+  },
+  {
+   "title": "Inter, assalto a due stelline della Serie A: i nomi",
+   "link": "https://www.calciomercato.it/2026/09/14/inter-assalto-a-due-stelline-della-serie-a-i-nomi/",
+   "summary": "L'articolo Inter, assalto a due stelline della Serie A: i nomi proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T14:21:53+00:00",
+   "image": "",
+   "id": "f9402f8959bf",
+   "age_minutes": 1994,
+   "also": [],
+   "score": 3.624
+  },
+  {
+   "title": "Spalletti-Juve, deciso il futuro: le parole di Carnevali",
+   "link": "https://www.calciomercato.it/2026/09/14/spalletti-juve-deciso-il-futuro-le-parole-di-carnevali/",
+   "summary": "L'articolo Spalletti-Juve, deciso il futuro: le parole di Carnevali proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T12:51:45+00:00",
+   "image": "",
+   "id": "97f60e4a5796",
+   "age_minutes": 2085,
+   "also": [],
+   "score": 3.597
+  },
+  {
+   "title": "Infortunio Anguissa, novità in casa Napoli: quando rientra",
+   "link": "https://www.calciomercato.it/2026/09/14/infortunio-anguissa-novita-in-casa-napoli-quando-rientra/",
+   "summary": "L'articolo Infortunio Anguissa, novità in casa Napoli: quando rientra proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T12:28:53+00:00",
+   "image": "",
+   "id": "8994cd58e84b",
+   "age_minutes": 2107,
+   "also": [],
+   "score": 3.591
+  }
+ ],
+ "raw": [
+  {
+   "title": "Juventus-NEC, la probabile formazione: Spalletti pensa al 3-4-2-1",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nec-probabile-formazione-spalletti-pensa-3-4-2-1-793148",
+   "summary": "La Juventus prepara il debutto europeo contro il NEC con la necessità di voltare immediatamente pagina dopo la sconfitta maturata sul campo del Sassuolo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T23:30:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/edf1b61a6862d861c189c934772a7010-60846-oooz0000.jpeg",
+   "id": "475dc746beea"
+  },
+  {
+   "title": "Anche Motta come candidato per una panchina importante",
+   "link": "https://www.tuttojuve.com/calciomercato/motta-candidato-panchina-importante-793146",
+   "summary": "L’esperienza di Dino Toppmöller sulla panchina del Lens si è conclusa dopo appena sei partite ufficiali.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T23:15:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/dbff3226f91d382a111e61b6c3d1ea8e-61361-oooz0000.jpeg",
+   "id": "6432c10f78f8"
+  },
+  {
+   "title": "Juventus, ora serve Pape Matar Sarr: più spazio dopo l’esordio di Sassuolo",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-serve-pape-matar-sarr-spazio-l-esordio-sassuolo-793145",
+   "summary": "L’attesa è terminata e adesso può cominciare la vera esperienza di Pape Matar Sarr con la Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T23:00:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5e948fe2248754fbcf9deb3143debd08-16629-oooz0000.jpeg",
+   "id": "baf0c0a0af5e"
+  },
+  {
+   "title": "Haaland, possibile grossa novità",
+   "link": "https://www.tuttojuve.com/calciomercato/haaland-possibile-grossa-novita-793142",
+   "summary": "Erling Haaland torna al centro dei programmi futuri del Real Madrid.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:45:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0fdfd2a7e892673a9cbd748244b48549-50115-oooz0000.jpeg",
+   "id": "87ddb5b2c094"
+  },
+  {
+   "title": "Juventus, la difesa a tre può rilanciare Gatti: occasione in Europa",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-difesa-rilanciare-gatti-occasione-europa-793143",
+   "summary": "Il possibile ritorno della Juventus al 3-4-2-1 può cambiare radicalmente la posizione di Federico Gatti nelle gerarchie di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:30:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c942d3a8b5507dc866df2c6b7cf18685-82716-oooz0000.jpeg",
+   "id": "92615253cc92"
+  },
+  {
+   "title": "Juventus, tornano Cambiaso e McKennie: contro il NEC partiranno dalla panchina",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-tornano-cambiaso-mckennie-nec-partiranno-panchina-793141",
+   "summary": "Luciano Spalletti ritrova Andrea Cambiaso e Weston McKennie per l’esordio della Juventus in Europa League contro il NEC Nimega. Entrambi saranno a disposizione, ma non sembrano destinati a partire dal primo minuto.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:15:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
+   "id": "c9bbd97a933c"
+  },
+  {
+   "title": "Conte alla Juve? Adesso sarebbe la scelta sbagliata: ecco perché",
+   "link": "https://www.tuttojuve.com/primo-piano/conte-alla-juve-adesso-sarebbe-la-scelta-sbagliata-ecco-perch-793116",
+   "summary": "Antonio Conte è il nome più semplice da pronunciare quando la Juventus entra in difficoltà.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:05:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
+   "id": "a4d0c0b8b4dd"
+  },
+  {
+   "title": "Juve già costretta a rivedere tutto?",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juve-costretta-rivedere-tutto-793079",
+   "summary": "Dopo solo quattro turni, alla Continassa siamo già ai faccia a faccia, ai confronti, alle rese dei conti… È il film già visto e rivisto negli ultimi anni alla Juventus, con tutti i tentativi di avviare un nuovo progetto pu ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:01:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c9e6fb37a5d40129d91ad2282146093f-75443-oooz0000.jpeg",
+   "id": "a6492310140b"
+  },
+  {
+   "title": "Juventus, doppio assalto inglese per Kalulu: rinnovo per respingere la Premier",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-assalto-inglese-kalulu-rinnovo-respingere-premier-793139",
+   "summary": "La Juventus vuole blindare Pierre Kalulu, diventato uno degli elementi più importanti del progetto tecnico di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:00:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aabde936609d05e0ec0ef868f01d6663-04674-oooz0000.jpeg",
+   "id": "fb08ab27bf92",
+   "age_minutes": 96,
+   "also": [],
+   "score": 6.681
+  },
+  {
+   "title": "Bologna, via libera dall'Atalanta per Palladino: domani il primo allenamento",
+   "link": "https://www.tuttojuve.com/calciomercato/bologna-via-libera-atalanta-palladino-domani-allenamento-793180",
+   "summary": "L'avventura di Domenico Tedesco è al capolinea. Raffaele Palladino è ormai a un passo dal diventare il nuovo allenatore del Bologna.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:50:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f2/f2ceeb8322dab2dce82944c313e976b3-45371-oooz0000.jpeg",
+   "id": "497e71dedeb4"
+  },
+  {
+   "title": "Savelli (Libero): \"Savelli: \"A Spalletti è arrivato un invito a darsi una mossa. Conte libero è una bomba a orologeria\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/savelli-libero-savelli-a-spalletti-arrivato-invito-darsi-mossa-conte-libero-bomba-orologeria-793178",
+   "summary": "La conferma pubblica di Luciano Spalletti da parte della Juventus non allontana completamente le pressioni intorno alla panchina bianconera.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:40:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/dbbf0e2cb10dac906661a6e6870e51b4-48999-oooz0000.jpeg",
+   "id": "ef8bfeebf191"
+  },
+  {
+   "title": "Juve, Kolo Muani non si sblocca: 890 minuti senza gol. E gli ex volano in Europa",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-kolo-muani-sblocca-890-minuti-gol-volano-europa-793177",
+   "summary": "La Juventus aspetta ancora i gol di Randal Kolo Muani, mentre alcuni degli attaccanti lasciati partire durante l'estate hanno già iniziato a ritrovare continuità realizzativa lontano da Torino.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:30:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f3/f38dc3616ff545bd0892e0f8355a0656-73836-oooz0000.jpeg",
+   "id": "2516973790ee"
+  },
+  {
+   "title": "Coppa Italia: la Fiorentina batte 3-0 il Pisa e va gli ottavi",
+   "link": "https://www.tuttojuve.com/altre-notizie/coppa-italia-fiorentina-batte-3-0-pisa-ottavi-793179",
+   "summary": "(ANSA) - FIRENZE, 15 SET - La Fiorentina batte 3-0 il Pisa nel derby di Coppa Italia e si qualifica per gli ottavi dove affronterà il Napoli. In gol Pellegrino al 40' del primo tempo; Gnonto e Pote al 26' e al 47' della ripresa.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:25:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
+   "id": "b6f2c079a065"
+  },
+  {
+   "title": "Moggi: \"La Juventus va rifondata e rimodernata. Conte? Ora non credo avrebbe voglia di tornare. Sul mio incontro con Gasperini...\"",
+   "link": "https://www.tuttojuve.com/primo-piano/moggi-la-juventus-rifondata-rimodernata-conte-credo-voglia-tornare-incontro-gasperini-793176",
+   "summary": "Un incontro a Torino tra Gian Piero Gasperini e Luciano Moggi ha inevitabilmente acceso la curiosità.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:20:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4ab86bb0696f108e60e5468c408469a-60540-oooz0000.jpeg",
+   "id": "8b2b12e9ff1e",
+   "age_minutes": 136,
+   "also": [],
+   "score": 5.486
+  },
+  {
+   "title": "Inter-Udinese, dal Veneto stoccata a DAZN: \"Come si fa a togliere l'audio a 'InterChannel'?\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-udinese-veneto-stoccata-dazn-come-togliere-audio-interchannel-793175",
+   "summary": "La sconfitta per 5-3 contro l'Inter lascia all'Udinese non soltanto il rammarico per una partita ricca di gol, ma anche diversi interrogativi in vista del prossimo impegno contro il Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:10:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6c/6ce68480ed47c451ed4d751a23deb2ac-73810-oooz0000.jpeg",
+   "id": "d4a2638e5f9a"
   },
   {
    "title": "La \"profezia\" di Ordine: \"Tra qualche anno il Como ritornerà in Serie C. Ecco perché\"",
@@ -755,9 +667,9 @@
    "published": "2026-09-15T20:50:38+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
    "id": "874fa5031991",
-   "age_minutes": 12,
+   "age_minutes": 166,
    "also": [],
-   "score": 5.927
+   "score": 5.146
   },
   {
    "title": "Juve, la forza dell'allenatore sta anche nel saperlo difendere",
@@ -793,425 +705,109 @@
    "id": "78d3a16967c8"
   },
   {
-   "title": "Vagli: \"La Juve sprofonda alle prime difficoltà. Serve una risposta già in coppa\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/vagli-la-juve-sprofonda-prime-difficolta-serve-risposta-coppa-793167",
-   "summary": "A Ieri e Oggi, trasmissione di Radio Bianconera, ha parlato Filippo Vagli, in particolar modo del ko rimediato col Sassuolo: \"Ho dato un'occhiata, basta andare su qualche sito specializzato in quotazioni di mercato per…",
-   "source": "TuttoJuve",
+   "title": "Jacomuzzi: “Lucca è un buon giocatore, l’ha dimostrato. Va aiutato e supportato”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/jacomuzzi-lucca-buon-giocatore-l-ha-dimostrato-aiutato-supportato-656410",
+   "summary": "Il Napoli prova a lasciarsi alle spalle le prime difficoltà della stagione e a ritrovare continuità dopo la vittoria contro il Bologna.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2b/2ba1336de47677f8f6bba8f9282ce0ae-01662-oooz0000.jpeg",
-   "id": "2cd45d626033",
-   "age_minutes": 43,
+   "scope": "Napoli",
+   "published": "2026-09-15T23:00:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4d/4d60fadf29fca1a24c9711d29e1ac7dd-40907-oooz0000.jpeg",
+   "id": "ad4037251ab0"
+  },
+  {
+   "title": "Bucchioni: \"Il Napoli deve crescere, mi aspetto di più. Serie A, primi 3 posti già assegnati\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bucchioni-mi-aspetto-napoli-crescere-serie-a-primi-3-posti-assegnati-656415",
+   "summary": "Costantino Favasuli ha convinto fin dalle prime apparizioni con il Napoli e il suo impatto non è passato inosservato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-15T22:30:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
+   "id": "4abd76e743fa",
+   "age_minutes": 66,
    "also": [],
-   "score": 5.757
+   "score": 5.835
   },
   {
-   "title": "Arbitri-tecnici Serie A, lunedì incontro a Lissone con Orsato",
-   "link": "https://www.tuttojuve.com/altre-notizie/arbitri-tecnici-serie-a-lunedi-incontro-lissone-orsato-793153",
-   "summary": "Il designatore arbitrale della CAN Daniele Orsato incontrerà lunedì prossimo a Lissone gli allenatori di Serie A per fare il punto sull’avvio di stagione e confrontarsi sulle principali indicazioni date agli arbitri…",
-   "source": "TuttoJuve",
+   "title": "Radio Tutto Napoli, il palinsesto di oggi: le trasmissioni partiranno dalle 8",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-8-656424",
+   "summary": "Inizia un'altra lunga giornata insieme con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/25/25c56666ba36ccd01b1c79d687f77ebd-27702-oooz0000.jpeg",
-   "id": "58fedaec4bc7",
-   "age_minutes": 53,
-   "also": [
-    {
-     "source": "TuttoNapoli",
-     "link": "https://www.tuttonapoli.net/notizie/orsato-fissato-incontro-lissone-allenatori-serie-a-temi-tavolo-656403"
-    }
-   ],
-   "score": 6.503
+   "scope": "Napoli",
+   "published": "2026-09-15T22:15:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "f9d5b1cf5080"
   },
   {
-   "title": "Carraro (Pres. JOFC Colosseo): \"Da tempo non siamo la Juve. Serve chiarezza all'interno\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/carraro-pres-jofc-colosseo-da-juve-serve-chiarezza-interno-793162",
-   "summary": "Ospite di Fuori di Juve, trasmissione di Radio Bianconera, è stato Paolo Carraro, presidente JOFC Colosseo e coordinatore dei club del Lazio: \"Che Spalletti sia un grande allenatore non c'è dubbio, che arrivi alla Juve nel ...",
-   "source": "TuttoJuve",
+   "title": "Morata: \"Poca sintonia con Conte, non mi ha aiutato molto. Con lui periodo complicato\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/morata-poca-sintonia-conte-aiutato-molto-periodo-complicato-656401",
+   "summary": "Álvaro Morata ha ripercorso la propria carriera negli studi di El Partidazo de COPE, soffermandosi anche sulla sua esperienza alla Juventus e sul rapporto con Antonio Conte.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
-   "id": "7fdfc49831b6"
+   "scope": "Napoli",
+   "published": "2026-09-15T22:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7b/7bdf250d743ea6111ab959628c9be526-71757-oooz0000.jpeg",
+   "id": "89f5427f7693"
   },
   {
-   "title": "James Rodriguez dice addio alla nazionale colombiana",
-   "link": "https://www.tuttojuve.com/altre-notizie/james-rodriguez-addio-nazionale-colombiana-793169",
-   "summary": "(ANSA) - ROMA, 15 SET - James Rodriguez non giocherà più con la maglia della nazionale colombiana.",
-   "source": "TuttoJuve",
+   "title": "Fiorentina, Oulai: “Napoli? Vogliamo batterli in campionato e passare in Coppa Italia”",
+   "link": "https://www.tuttonapoli.net/serie-a/fiorentina-oulai-napoli-vogliamo-batterli-campionato-passare-coppa-italia-656423",
+   "summary": "Dopo il successo per 3-0 sul Pisa in Coppa Italia, il centrocampista della Fiorentina, Christ Inao Oulai ha parlato ai microfoni di Mediaset sottolineando l'importanza dei due imminenti confronti contro il Napoli, uno in campionato e l'a ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:58:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5ae90da927cc44fe82181db3d5698df-67408-oooz0000.jpeg",
-   "id": "48d7c66532dd",
-   "age_minutes": 65,
+   "scope": "Napoli",
+   "published": "2026-09-15T21:45:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/67/673653d710101c2f7c70717384ca25f2-51487-oooz0000.jpeg",
+   "id": "da1409aba1e2"
+  },
+  {
+   "title": "Fabregas show al Como, dalla Spagna: ci pensa il Barcellona per il post Flick",
+   "link": "https://www.tuttonapoli.net/notizie/fabregas-show-como-spagna-pensa-barcellona-post-flick-656369",
+   "summary": "Il lavoro di Cesc Fabregas al Como non è passato inosservato al Barcellona.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-15T21:40:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c929069016151f1cbad9d2aea51e0b55-01387-oooz0000.jpeg",
+   "id": "2baa82c7b717"
+  },
+  {
+   "title": "Santacroce sbotta: “Visto cosa chiede Allegri in fase offensiva? Basta dire che è difensivista!”",
+   "link": "https://www.tuttonapoli.net/le-interviste/santacroce-furioso-visto-chiede-allegri-fase-offensiva-difensivista-656378",
+   "summary": "Fabiano Santacroce prende le difese di Massimiliano Allegri dopo la vittoria del Napoli contro il Bologna.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-15T21:30:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/86/869363b14e0ea0da9b6e5e6855108915-31102-oooz0000.jpeg",
+   "id": "2974ca451700"
+  },
+  {
+   "title": "Fiorentina-Pisa, 6,5 per Rao: “Grandi giocate e contributo in copertura. Poi cala nel 2T”",
+   "link": "https://www.tuttonapoli.net/notizie/fiorentina-pisa-6-5-rao-grandi-giocate-contributo-copertura-cala-ripresa-656422",
+   "summary": "Emanuele Rao è tra i pochi giocatori del Pisa a lasciare il campo con una valutazione positiva nonostante la netta sconfitta contro la Fiorentina.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-15T21:15:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5048584729470498ff8d413e42726a2-21265-492o60o1716o1284z0de0.jpeg",
+   "id": "2298e576dc06",
+   "age_minutes": 141,
    "also": [],
-   "score": 6.841
+   "score": 4.863
   },
   {
-   "title": "Nesti: \"Spalletti-Conte? Non sono i tempi assolutamente per un avvicendamento\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/nesti-spalletti-conte-tempi-assolutamente-avvicendamento-793158",
-   "summary": "A Radio Sportiva, il giornalista Carlo Nesti è tornato sul ko dei bianconeri col Sassuolo: \"Quando la Juve naturalmente o non vince oppure perde una partita contro una squadra soprattutto piccola o medio-piccola come il Sassuolo, &eg ...",
-   "source": "TuttoJuve",
+   "title": "Coppa Italia, il Napoli sfiderà la Fiorentina agli ottavi: il tabellone completo",
+   "link": "https://www.tuttonapoli.net/notizie/coppa-italia-napoli-sfidera-fiorentina-ottavi-tabellone-completo-656420",
+   "summary": "Sarà Napoli-Fiorentina agli ottavi di finale di Coppa Italia. La squadra viola ha completato il quadro dei sedicesimi superando 3-0 il Pisa nel derby toscano del Franchi.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5edfd29d631edf606ffc1fa2974d1ecc-01240-oooz0000.jpeg",
-   "id": "1a406f7288a4"
-  },
-  {
-   "title": "L'assistente arbitro Vigile: \"Una fotografia in bikini non cancella dieci anni di sport\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/assistente-arbitro-vigile-una-fotografia-bikini-cancella-dieci-sport-793157",
-   "summary": "E' un caso quello relativo a Giuliana Vigile, 23enne assistente arbitrale della sezione AIA di Cesena da questa stagione promossa in Serie D, presa di mira sui social per le sue foto personali pubblicate sui social: \"Mi dissocio profondament ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9f/9fd18dbfd482e6932b98b5b6add94db9-68347-oooz0000.jpeg",
-   "id": "f0937e56b4d0"
-  },
-  {
-   "title": "Braglia \"boccia\" il Napoli di Allegri: \"Rosa valida ma non mi dà garanzie\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/braglia-boccia-napoli-allegri-rosa-valida-da-garanzie-793135",
-   "summary": "L'ex portiere Simone Braglia, ai microfoni di TMW Radio, ha parlato del Napoli dell'ex Juve Massimiliano Allegri, è si è detto pessimista sulle chance di un rientro nella lotta Scudetto quest'anno: \"Se devo giudicare da ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/09/09d307ba9c6059f8e2d8282d14e166f6-09686-oooz0000.jpeg",
-   "id": "c863baa1c17e"
-  },
-  {
-   "title": "L'ex Juve Morata: \"Bene ovunque perché ho sempre stretto amicizie vere\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juve-morata-bene-ovunque-stretto-amicizie-vere-793156",
-   "summary": "A El Partidazo de COPE, l'ex Juve Alvaro Morata ha ripercorso la propria esperienza in Italia, in particolare l'ultima al Como: \"Quando ho lasciato il Como ho visto 23, 24 uomini adulti con le lacrime agli occhi, e questo per m ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3a/3abe1398d169dcd391f907e1b971bc55-99924-oooz0000.jpeg",
-   "id": "0b14b16d3a50"
-  },
-  {
-   "title": "Marocchino: \"Juve, puoi migliorare ma se ti mancano certi attaccanti è dura. E su Gatti dico...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/marocchino-juve-puoi-migliorare-mancano-attaccanti-gatti-dico-793163",
-   "summary": "A Cose di Calcio, trasmissione di Radio Bianconera, Domenico Marocchino ha parlato del momento della squadra: \"Il calcio non ti dà certezza assoluta, nel senso che c'è possibilità per chi è dietro di migliorare.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2b/2b0239f5fd7bc7a82246427b1302b9d0-79261-oooz0000.jpeg",
-   "id": "eaccc94d864a"
-  },
-  {
-   "title": "Oreggia: \"Juve, a una mediocrità di fondo si aggiunge la confusione di Spalletti\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/oreggia-juve-mediocrita-fondo-aggiunge-confusione-spalletti-793151",
-   "summary": "Vittorio Oreggia è intervenuto a Radio Bianconera. \"Questa Juventus è figlia della Juve sbagliata del passato – ha detto il direttore di Gea Agency –.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T19:00:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e6/e690a57c08f980cbe1e90c7a98c0f8ab-64628-oooz0000.jpeg",
-   "id": "1e51c50ce972"
-  },
-  {
-   "title": "Rampulla e il gol di Adzic: \"Vicario avrebbe dovuto richiamare i suoi compagni di reparto\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/rampulla-gol-adzic-vicario-avrebbe-dovuto-richiamare-compagni-reparto-793144",
-   "summary": "Michelangelo Rampulla, ex portiere della Juventus, ha parlato a Cose di calcio su Radio Bianconera. \"Non è un bel vedere questa Juventus – ha detto –.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T18:50:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ad/ad3406c1d3c041c0f16945f5c1a8f46b-82002-1535o923o2615o2003z1ba4.jpeg",
-   "id": "ec11c08387c1"
-  },
-  {
-   "title": "Cristiano Ronaldo, che ko per l'ex Juve alla prima nella Champions asiatica",
-   "link": "https://www.tuttojuve.com/altre-notizie/cristiano-ronaldo-ko-juve-champions-asiatica-793164",
-   "summary": "L'Al-Nassr di Cristiano Ronaldo parte molto male nella AFC Champions League. La squadra campione d'Arabia Saudita è stata sconfitta per 4-0 dall'Al-Ain nella prima giornata del torneo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T18:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1e/1e0baac5c5125856b49970795f99dad9-88007-oooz0000.jpeg",
-   "id": "b26dfd5364a9"
-  },
-  {
-   "title": "Gosens, che attacco a Grosso: \"Io via ma ora il tecnico della Fiorentina è già stato licenziato\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/gosens-attacco-grosso-io-via-tecnico-fiorentina-licenziato-793140",
-   "summary": "Sul proprio profilo LinkedIn, Robin Gosens è tornato a parlare del suo addio alla Fiorentina in estate, dopo che già al momento della sua cessione era stato critico nei confronti della società viola: \"Il calcio è una ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T18:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/05/059815bfc4eb0daa5ba226d8ef8ebc05-33413-oooz0000.jpeg",
-   "id": "3dbdba3db1cb",
-   "age_minutes": 143,
-   "also": [],
-   "score": 6.052
-  },
-  {
-   "title": "ASSOCAPP, Ferrato: \"Fondo di Fine Carriera, riscontrate un'opacità e un'assenza di trasparenza\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/assocapp-ferrato-fondo-carriera-riscontrate-opacita-assenza-trasparenza-793147",
-   "summary": "C'era anche ASSOCAPP, l’Associazione dei Calciatori e Calciatrici, Allenatori e Allenatrici, Preparatori e Preparatrici Patrocinati, a parlare alla 7ª Commissione del Senato sul disegno di legge in materia di sistema…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T18:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/73/7389d131a504c67f2b5fc930132c7234-13219-oooz0000.jpeg",
-   "id": "1b9b65619e88",
-   "age_minutes": 153,
-   "also": [],
-   "score": 5.405
-  },
-  {
-   "title": "Palladini: \"Con Dybala al meglio e Malen la Roma parte dal 2-0\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/palladini-con-dybala-al-meglio-e-malen-la-roma-parte-dal-2-0-793132",
-   "summary": "\"La Roma è l'anti Inter, perchè ha alle spalle un indotto diverso rispetto al Como – le parole di Enzo Palladini a Tmw Radio parlando di corsa scudetto durante la tramissione Maracanà –.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T18:20:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a3b227a8a9969de8d06d96d59c92649c-80908-oooz0000.jpeg",
-   "id": "2652c4517fd3"
-  },
-  {
-   "title": "Coppa Italia, Fiorentina ultima qualificata agli ottavi: Pisa battuto 2-0",
-   "link": "https://www.fcinternews.it/news/coppa-italia-fiorentina-ultima-qualificata-ottavi-pisa-battuto-2-0-1018542",
-   "summary": "Con un gol per tempo, la Fiorentina di Paolo Vanoli fa suo il derby contro il Pisa e accede agli ottavi di finale di Coppa Italia, dove è attesa dal Napoli di Massimiliano Allegri.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T21:00:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/06/06d9f32559e769a436f9a36c1c0b1119-60654-oooz0000.jpeg",
-   "id": "acf0cc0e4b39"
-  },
-  {
-   "title": "Ravanelli: \"Inter superiore a tutte le altre, non c'è partita\"",
-   "link": "https://www.fcinternews.it/news/ravanelli-inter-superiore-altre-partita-1018540",
-   "summary": "Dagli studi del 'Processo del Lunedì' su RAI2, Fabrizio Ravanelli commenta così la vittoria dell'Inter di ieri contro l'Udinese. \"Questa vittoria dimostra uno strapotere tecnico, tattico, fisico e di qualità.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T20:50:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c729ea16770f3b576592f0dd0ade3777-76500-oooz0000.jpeg",
-   "id": "e3dd4feef97a"
-  },
-  {
-   "title": "Esposito a RAI Sport: \"Ogni partita è a sé, credo contino più i 90 minuti\"",
-   "link": "https://www.fcinternews.it/news/esposito-i-rai-sport-i-ogni-partita-se-credo-contino-90-minuti-1018539",
-   "summary": "\"Problema di approccio? Ma no, ogni partita è a sé.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T20:40:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/57/57148773f3054622bc21b2b1be5cb7f8-23591-oooz0000.jpeg",
-   "id": "0b657de082b4"
-  },
-  {
-   "title": "Orsato promuove il nuovo corso: \"Se il buongiorno si vede dal mattino...\"",
-   "link": "https://www.fcinternews.it/news/orsato-promuove-corso-se-buongiorno-vede-mattino-1018534",
-   "summary": "E' un Daniele Orsato positivo quello che è intervenuto oggi a Rai Italia.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T20:36:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7e/7eecb7bebbc48224867b7c19fe6bcc0b-12318-578o48o1313o783z0aa2.jpeg",
-   "id": "20fae8ab6415"
-  },
-  {
-   "title": "Argentina, Scaloni scioglie le riserve: Lautaro Martinez è tra i convocati",
-   "link": "https://www.fcinternews.it/focus/argentina-scaloni-scioglie-riserve-lautaro-martinez-convocati-1018538",
-   "summary": "Alla fine, Lionel Scaloni, CT della Nazionale argentina, decide di non rinunciare a Lautaro Martinez nemmeno per le prossime amichevoli che i vicecampioni del mondo dovranno affrontare Bolivia, Burkina Faso e Benin.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T20:22:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8bb87095fbd6e9657d2f0e618fec349f-47368-oooz0000.jpeg",
-   "id": "ceebc903de60"
-  },
-  {
-   "title": "FcIN - Calhanoglu, rischio convocazione per la Nations League: il punto",
-   "link": "https://www.fcinternews.it/in-primo-piano/fcin-calhanoglu-rischio-convocazione-nations-league-1017861",
-   "summary": "Niente Roma-Inter per Hakan Calhanoglu a causa di un risentimento muscolare all'adduttore della coscia destra. Impossibile che il calciatore affronti i giallorossi e appuntamento con la maglia nerazzurra per Inter-Parma del 10 ottobre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T20:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8e/8e37ce0fda2daaf6288e3c829edddebc-20371-oooz0000.jpeg",
-   "id": "9f38e6650711"
-  },
-  {
-   "title": "Dall'Inter italiana all'Inter... di Messi: Kily Gonzalez nuovo tecnico a Miami",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/inter-italiana-inter-messi-kily-gonzalez-tecnico-miami-1018523",
-   "summary": "L'Inter Miami ha annunciato l'arrivo di Christian 'Kily' Gonzalez come nuovo allenatore della franchigia MLS di Lionel Messi.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T20:02:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1b/1ba92f8b0f6a19dbfc7d6d7ef7389eb9-97408-oooz0000.jpeg",
-   "id": "90661af4fa16"
-  },
-  {
-   "title": "Diritti tv esteri, sul tavolo di JP Morgan arrivate sei proposte dai fondi",
-   "link": "https://www.fcinternews.it/news/diritti-tv-esteri-tavolo-jp-morgan-arrivate-proposte-fondi-1018529",
-   "summary": "Si è svolta questo pomeriggio, a Milano, l’assemblea tra i rappresentanti dei venti club di Serie A.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T19:48:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
-   "id": "4696a452e077",
-   "age_minutes": 75,
-   "also": [],
-   "score": 5.188
-  },
-  {
-   "title": "Gravina: \"Rispetto per Malagò. Commissariare la FIGC sarebbe assurdo\"",
-   "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521",
-   "summary": "\"L'assegnazione della finale di Conference League a Torino è un ottimo risultato per il calcio italiano, a cui peraltro tenevo in modo particolare perché sono stato io ad avviare la candidatura dello Juventus Stadium in qualit& ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T19:34:10+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e664ee214a97e8f2aef0299a6b9c0b54-17226-578o96o1313o831z0b02.jpeg",
-   "id": "5f5fd572af42",
-   "_kw": 0.4,
-   "_fresh": 0.8790837276606441,
-   "_fp": "gravina rispetto malago commissariare figc sarebbe assurdo",
-   "age_minutes": 89
-  },
-  {
-   "title": "WhoScored.com - Top XI della quarta giornata, 4 gli interisti in formazione",
-   "link": "https://www.fcinternews.it/news/i-whoscored-com-i-top-xi-quarta-giornata-4-interisti-formazione-1018532",
-   "summary": "Quattro dei cinque marcatori dell'Inter nella partita contro l'Udinese finiscono dritti nella Top 11 della quarta giornata del campionato di Serie A stilata da WhoScored.com.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T19:19:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/33/33565982bd38084a68aa0bd93fb7c81f-13781-oooz0000.jpeg",
-   "id": "3eb46242fc20"
-  },
-  {
-   "title": "Crotone-Inter U23, le pagelle: Mancuso, gol e qualità. Fiammata di Lavelli",
-   "link": "https://www.fcinternews.it/focus/crotone-inter-u23-pagelle-1018519",
-   "summary": "Inter U23 batte Crotone 0-2: è questo il verdetto dello stadio Scida dopo i gol di Mancuso e Lavelli. Ecco le pagelle dei giocatori nerazzurri dopo la bella vittoria nella quinta giornata del girone C di Serie C.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T19:05:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d0/d04928ebf39733dfb9f9881f1260a1c3-80011-oooz0000.jpeg",
-   "id": "128345253b63"
-  },
-  {
-   "title": "De Rossi: \"Chivu dal fare bene a Parma al Double, succederà poche volte\"",
-   "link": "https://www.fcinternews.it/copertina/de-rossi-chivu-parma-i-double-i-succedera-poche-volte-1018533",
-   "summary": "Il Genoa batte il Südtirol 1-0 e vola agli ottavi di finale di Coppa Italia, dove affronterà l'Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T18:50:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/30/3035791dc24652564d9611d787219a4d-15071-oooz0000.jpeg",
-   "id": "f624f542964e"
-  },
-  {
-   "title": "Capocannoniere, Malen continua a volare in lavagna. Lautaro staccato a 6",
-   "link": "https://www.fcinternews.it/news/capocannoniere-malen-continua-volare-lautaro-1018527",
-   "summary": "Quattro giornate di Serie A ed è già tempo di verdetti – almeno secondo i bookmaker - per il titolo di capocannoniere.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T18:37:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/40/40dbac4a2e8e0949853910b58e2662f0-04179-1067o35o1990o959z0fd3.jpeg",
-   "id": "65273327a6f4"
-  },
-  {
-   "title": "Due perle di Mancuso e Lavelli: l'Inter U23 vince 2-0 a Crotone",
-   "link": "https://www.fcinternews.it/in-primo-piano/crotone-inter-u23-2-0-1018516",
-   "summary": "Festa Inter U23 a Crotone: la seconda squadra nerazzurra passa 0-2 allo Scida e si toglie un'altra soddisfazione importante dopo la vittoria a Catania. A decidere la partita Mancuso e Lavelli.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T18:25:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e4/e40f98ded096e3ade812aff3c946d84d-95996-oooz0000.jpeg",
-   "id": "9d556daf30f3"
-  },
-  {
-   "title": "Genoa, El Shaarawy: \"Vittoria importante, contenti di giocare a San Siro\"",
-   "link": "https://www.fcinternews.it/news/genoa-el-shaaawy-vittoria-importante-contenti-giocare-san-siro-1018531",
-   "summary": "Al termine della partita vinta contro il Südtirol che vale al Genoa la qualificazione agli ottavi di Coppa Italia dove sfiderà l'Inter a San Siro, Stephan El Shaarawy ha parlato ai microfoni di Sport Mediaset per commentare quest ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T18:22:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/94/941f2535c6294ad2e525227643278ed7-58466-1295o227o2087o1019z1214.jpeg",
-   "id": "f82f356b089f"
-  },
-  {
-   "title": "Braglia: \"Martinez ha bisogno di tempo. Provedel al suo posto? No, ecco perché\"",
-   "link": "https://www.fcinternews.it/news/braglia-martinez-provedel-inter-news-1018515",
-   "summary": "Intervenuto ai microfoni di Tuttomercatoweb, l'ex portiere Simone Braglia ha parlato della situazione tra i pali della porta nerazzurra, dopo le prestazioni di Josep Martinez contro Real Madrid e Udinese.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T18:08:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/11/11167e2f4c43005bb2137436cf407e8f-91905-oooz0000.jpeg",
-   "id": "9393a48294e6",
-   "age_minutes": 175,
-   "also": [],
-   "score": 5.105
-  },
-  {
-   "title": "Vasquez all'87esimo: il Genoa vola agli ottavi di Coppa Italia con l'Inter",
-   "link": "https://www.fcinternews.it/news/vasquez-87esimo-genoa-vola-ottavi-coppa-italia-inter-1018530",
-   "summary": "Basta un colpo di testa a tre minuti dalla fine di Johan Vasquez al Genoa per superare il Sudtirol nella gara dei sedicesimi di finale di Coppa Italia e regalarsi l'accesso agli ottavi dove i rossoblu sfideranno l'Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T17:53:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b25f12df0b83fe92551e80fbe8bdbb03-32707-oooz0000.jpeg",
-   "id": "f6de6215c540",
-   "age_minutes": 190,
-   "also": [],
-   "score": 5.039
-  },
-  {
-   "title": "Le regine nerazzurre dell'atletica a San Siro: Iapichino e Fiorini guest star",
-   "link": "https://www.fcinternews.it/news/regine-nerazzurre-atletica-san-siro-iapichino-fiorini-guest-star-1018525",
-   "summary": "In occasione del match tra Inter e Udinese, valido per la quarta giornata di Serie A, San Siro ha accolto due ospiti d'onore come Larissa Iapichino e Sofia Fiorini, medaglie d'oro a Birmingham 2026 e grandi tifose nerazzurre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T17:39:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7d/7d0f58349c2b68c6238fdea69d293a4d-28092-523o142o1365o985z0bc7.jpeg",
-   "id": "f8f68fd364c8"
-  },
-  {
-   "title": "Repubblica - Supercoppa, o San Siro o USA. Decisione entro settembre",
-   "link": "https://www.fcinternews.it/copertina/i-repubblica-i-supercoppa-san-siro-usa-decisione-entro-settembre-1018528",
-   "summary": "La Supercoppa italiana tra Inter e Lazio potrebbe volare negli Stati Uniti.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T17:26:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a9/a929d890da2c465fb560326d120d564c-74479-oooz0000.jpeg",
-   "id": "389a1e71075b"
-  },
-  {
-   "title": "Abankwah: \"Nonostante il risultato, grato a Dio per questo momento\"",
-   "link": "https://www.fcinternews.it/l-avversario/abankwah-nonostante-risultato-grato-dio-momento-1018503",
-   "summary": "La sua squadra ha perso dopo aver cullato il sogno di mettere a segno un gran colpo in casa dei campioni d'Italia, come accaduto la scorsa stagione.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T17:22:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/75/75bddde8c6e819d779adac3276619b6e-43572-590o192o1674o1277z0e95.jpeg",
-   "id": "a7d62d36135f",
-   "age_minutes": 221,
-   "also": [],
-   "score": 4.907
+   "scope": "Napoli",
+   "published": "2026-09-15T21:02:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/20/2064dd2c7274aa246033bfed6d9b315d-33436-oooz0000.jpeg",
+   "id": "2e15e607d9f0"
   },
   {
    "title": "Coppa Italia, tutto facile per la Fiorentina: cala il tris al Pisa e stacca il pass per gli ottavi",
@@ -1322,9 +918,9 @@
    "published": "2026-09-15T19:30:39+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6d/6d6283da97cf85914070ae860cd31afd-13948-oooz0000.jpeg",
    "id": "04c8633445d1",
-   "age_minutes": 92,
+   "age_minutes": 246,
    "also": [],
-   "score": 6.699
+   "score": 6.003
   },
   {
    "title": "Bologna-Tedesco, è finita! Decisiva la sconfitta a Napoli: già scelto il sostituto",
@@ -1338,107 +934,471 @@
    "id": "50ef83018346"
   },
   {
-   "title": "Biazzo: “Rafa Marin, che crescita! Questo denota grande qualità del Napoli in ogni ruolo”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/biazzo-rafa-marin-crescita-denota-napoli-qualita-ruolo-656412",
-   "summary": "Tra i diversi temi affrontati da Salvatore Biazzo (qui l'intervento integrale), intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campani ...",
-   "source": "TuttoNapoli",
+   "title": "Borghi spera: “Milan-Benfica? Può essere una partita incredibile”",
+   "link": "https://www.milannews.it/news/borghi-629932",
+   "summary": "Dopo il pareggio esterno contro la Lazio per 2-2, i rossoneri domani sera faranno il loro esordio in Europa League.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:10:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4e/4ece8c05ef13670d938ed173143c37cd-89300-oooz0000.jpeg",
-   "id": "b863d1316ee3"
+   "scope": "Milan",
+   "published": "2026-09-15T22:48:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/20/20fcbb73ef660a17f5f919ce9616906a-21609-oooz0000.jpeg",
+   "id": "17c27a99d7c1"
   },
   {
-   "title": "Prof. Perugia sentenzia: \"Allegri non mangerà l'uovo di Pasqua\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/prof-perugia-allegri-mangera-uovo-pasqua-656309",
-   "summary": "Il professore Dario Perugia è intervenuto ai microfoni di Tmw Radio per commentare i temi attuali di Serie A. Di seguito le sue dichiarazioni.",
-   "source": "TuttoNapoli",
+   "title": "Circati avvisa il Milan: “Non sarà facile, ma scenderemo in campo per vincere”",
+   "link": "https://www.milannews.it/l-avversario/circati-avvisa-milan-non-facile-scenderemo-campo-vincere-629931",
+   "summary": "Alla vigilia della prima partita del cammino europeo di Milan e Benfica, in programma domani sera a San Siro alle ore 21:00, Alessandro Circati, difensore dei lusitani che conosce bene il Milan visto il suo passato in Serie A al Parma, nella consueta ...",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:00:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8a73d4b64cb3586ea8420acfd222ac60-68719-oooz0000.jpeg",
-   "id": "f20010782b06"
+   "scope": "Milan",
+   "published": "2026-09-15T22:36:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0d/0d37e46b294a60e6f8f47c4918e5074a-18048-oooz0000.jpeg",
+   "id": "6d3b1b62dc42"
   },
   {
-   "title": "Orsato, fissato incontro a Lissone con gli allenatori di Serie A: i temi sul tavolo",
-   "link": "https://www.tuttonapoli.net/notizie/orsato-fissato-incontro-lissone-allenatori-serie-a-temi-tavolo-656403",
-   "summary": "Un confronto diretto per fare chiarezza su episodi, interpretazioni e nuove regole dopo le prime giornate di campionato.",
-   "source": "TuttoNapoli",
+   "title": "Borghi su Modric: “Non lo criticherò mai, però in certe situazione fa fatica”",
+   "link": "https://www.milannews.it/news/borghi-modric-non-critichero-mai-situazione-fatica-629840",
+   "summary": "Nel suo canale YouTube, il noto giornalista Stefano Borghi ha analizzato e commentato tutte le partite del weekend di Serie A e, nel farlo, ha parlato di Lazio-Milan. Queste le sue parole.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T18:50:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/01/019d1fc0d0ee77aa054b729fa1ffcc17-36094-oooz0000.jpeg",
-   "id": "5945f8d60644",
-   "_kw": 1.0,
-   "_fresh": 0.8255018301606615,
-   "_fp": "orsato fissato incontro lissone allenatori serie temi sul tavolo",
-   "age_minutes": 132
+   "scope": "Milan",
+   "published": "2026-09-15T22:24:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e6/e65bf231ab214754cea1f51ebf255016-99316-oooz0000.jpeg",
+   "id": "5ed08f7773af"
   },
   {
-   "title": "Jacomuzzi: “Lucca è un buon giocatore, l’ha dimostrato. Va aiutato e supportato”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/jacomuzzi-lucca-buon-giocatore-l-ha-dimostrato-aiutato-supportato-656410",
-   "summary": "Il Napoli prova a lasciarsi alle spalle le prime difficoltà della stagione e a ritrovare continuità dopo la vittoria contro il Bologna.",
-   "source": "TuttoNapoli",
+   "title": "Marco Silva: “Milan e Benfica abituate alla Champions, domani sarà molto difficile per noi”",
+   "link": "https://www.milannews.it/l-avversario/marco-silva-milan-benfica-abituate-champions-domani-difficile-noi-629928",
+   "summary": "Alla vigilia della prima partita del cammino europeo di Milan e Benfica, in programma domani sera a San Siro alle ore 21:00, l'allenatore dei portoghesi, nella consueta conferenza stampa pre-partita, ha risposto così alla domanda sul Milan ...",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T18:40:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4d/4d60fadf29fca1a24c9711d29e1ac7dd-40907-oooz0000.jpeg",
-   "id": "ad4037251ab0"
+   "scope": "Milan",
+   "published": "2026-09-15T22:12:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/76/760f3b395230de1812e3d1fdc8530469-55720-oooz0000.jpeg",
+   "id": "7e291f8e17a9"
   },
   {
-   "title": "Pochesci difende Allegri: “Altro che bollito, è uno dei migliori! Oggi vanno di moda i giovani…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/pochesci-difende-allegri-altro-bollito-migliori-vanno-moda-giovani-656389",
-   "summary": "“Napoli ha uno dei migliori allenatori”.",
-   "source": "TuttoNapoli",
+   "title": "Perché in Europa? Visto Pulisic è tutto chiaro. Che bello… torna il Musagete. Se è quella, formazione sorprendente",
+   "link": "https://www.milannews.it/editoriale/europa-pulisic-chiaro-bello-torna-musagete-quella-formazione-sorprendente-629933",
+   "summary": "L’umidità entra nelle ossa, in quel lontano 18 febbraio del 2025. È circa mezzanotte.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T18:30:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3687f0fff5698adb2a06044603284ee-81273-oooz0000.jpeg",
-   "id": "debec1a0d85c"
+   "scope": "Milan",
+   "published": "2026-09-15T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c5/c5bb3e164b1f524168e1b06cdc076e0d-14811-oooz0000.jpeg",
+   "id": "289862401b89"
   },
   {
-   "title": "Fiorentina-Pisa, Atta neanche in panchina: riposo precauzionale in vista del Napoli",
-   "link": "https://www.tuttonapoli.net/notizie/fiorentina-pisa-atta-neanche-panchina-riposo-precauzionale-vista-napoli-656414",
-   "summary": "Arthur Atta non figura nemmeno tra i convocati della Fiorentina per la sfida contro il Pisa, valida per i sedicesimi di finale di Coppa Italia.",
-   "source": "TuttoNapoli",
+   "title": "Gila rivela: \"Maldini mi ha sempre colpito: per me è il miglior difensore centrale di sempre. Anche Nesta e Baresi sono stati dei modelli\"",
+   "link": "https://www.milannews.it/news/gila-rivela-maldini-colpito-miglior-difensore-centrale-sempre-nesta-baresi-modelli-629881",
+   "summary": "Nell'intervista rilasciata al sito dell'UEFA, Mario Gila ha parlato anche del suo passato: \"Ho imparato soprattutto nei momenti difficili, che mi hanno aiutato a maturare e a diventare un giocatore più forte.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T18:20:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ec/ec87a724b64e790bf5d49e84de11a648-72951-oooz0000.jpeg",
-   "id": "af3dd45c6869"
+   "scope": "Milan",
+   "published": "2026-09-15T21:48:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/20/205574045aa942d90d712755960859e7-26425-oooz0000.jpeg",
+   "id": "042299e2ea9b"
   },
   {
-   "title": "Coppa Italia, le formazioni ufficiali di Fiorentina-Pisa: la vincente sfiderà il Napoli",
-   "link": "https://www.tuttonapoli.net/serie-a/coppa-italia-formazioni-ufficiali-fiorentina-pisa-vincente-sfidera-napoli-656411",
-   "summary": "È tutto pronto al Franchi per Fiorentina-Pisa, derby toscano valido per il passaggio agli ottavi di finale di Coppa Italia.",
-   "source": "TuttoNapoli",
+   "title": "Cagliari, Giulini: \"Maldini? Gli stupefacenti li assumono certi giornali\"",
+   "link": "https://www.milannews.it/news/giulini-maldini-stupefacenti-assumono-giornali-629873",
+   "summary": "(ANSA) - MILANO, 15 SET - \"Non capisco come possano uscire certe notizie. Gli stupefacenti li assumono certi giornali\".",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T18:07:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
-   "id": "f88ddaeee5f2"
+   "scope": "Milan",
+   "published": "2026-09-15T21:36:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b1/b115e5524a45d93e1015969fadc28c0e-36031-oooz0000.jpeg",
+   "id": "9e479b2fe8fa"
   },
   {
-   "title": "Cugini: “Napoli prosciugato nella voglia e negli stimoli. E’ distante da Inter, Roma e Como”",
-   "link": "https://www.tuttonapoli.net/le-interviste/cugini-napoli-prosciugato-nella-voglia-stimoli-e-distante-inter-roma-como-656400",
-   "summary": "Roma e Como sono, insieme all'Inter, le squadre che hanno mostrato finora qualcosa in più rispetto alla concorrenza.",
-   "source": "TuttoNapoli",
+   "title": "Gonçalo Ramos: \"Siamo qui per vincere l'Europa League\"",
+   "link": "https://www.milannews.it/news/goncalo-ramos-siamo-vincere-europa-league-629918",
+   "summary": "Gonçalo Ramos, grande ex della sfida, è stato intervistato da Milan TV alla vigilia di Milan-Benfica di Europa League.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T18:00:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/79/79d0ac0a923ec721497cc5fc222fae0a-41573-oooz0000.jpeg",
-   "id": "4ddfe82243df"
+   "scope": "Milan",
+   "published": "2026-09-15T21:23:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bf/bf33482e80bd7e47c6b88a0733d442b8-73051-oooz0000.jpeg",
+   "id": "8c8b0c0f400d"
   },
   {
-   "title": "Coppa Italia, che fatica per il Genoa: batte all’87’ il Sudtirol e vola agli ottavi",
-   "link": "https://www.tuttonapoli.net/serie-a/coppa-italia-fatica-genoa-batte-all-87-sudtirol-vola-ottavi-656409",
-   "summary": "È Vasquez l'uomo della qualificazione del Genoa.",
-   "source": "TuttoNapoli",
+   "title": "Coppa Italia, Genoa e Fiorentina passano agli ottavi di finale: il tabellone completo",
+   "link": "https://www.milannews.it/news/coppa-italia-passano-ottavi-finale-tabellone-completo-629917",
+   "summary": "Questa sera si sono giocate due partite valide per i sedicesimi di Coppa italia. In campo Genoa e Sudtirol alle 18:00 e Fiorentina-Pisa alle ore 21.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T17:50:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/63/636a31800e6e0ec5300813f561b936b7-06224-oooz0000.jpeg",
-   "id": "20af454dc84a"
+   "scope": "Milan",
+   "published": "2026-09-15T21:12:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d4/d487060e3c1fee3a4cd3bd7671364db5-11042-oooz0000.jpeg",
+   "id": "0da9c9bdb95f"
+  },
+  {
+   "title": "15 settembre 1999: la prima in rossonero di Rino Gattuso",
+   "link": "https://www.milannews.it/gli-ex/15-settembre-1999-rossonero-rino-gattuso-629904",
+   "summary": "Il 15 settembre 1999, in occasione di un match di Champions League in casa del Chelsea, Rino Gattuso ha fatto il suo esordio ufficiale con la maglia del Milan: l'ex centrocampista rossonero venne schierato in campo dal…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T21:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
+   "id": "376f1012be10",
+   "age_minutes": 156,
+   "also": [],
+   "score": 5.19
+  },
+  {
+   "title": "Piano anti Lotito, tifosi laziali proseguono la protesta contro la società",
+   "link": "https://www.milannews.it/news/piano-anti-lotito-tifosi-laziali-proseguono-protesta-societa-629929",
+   "summary": "(ANSA) - ROMA, 15 SET - I tifosi della Lazio, nonostante tutto, proseguono compatti la loro protesta contro la dirigenza.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T20:48:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/23/23e2d65c1b3b08568ce6910ec7cd72c9-59613-oooz0000.jpeg",
+   "id": "db50d5b1ce6e"
+  },
+  {
+   "title": "MN - Pastore non ha dubbi: \"Modric non potrà mai essere un problema\"",
+   "link": "https://www.milannews.it/news/mn-pastore-dubbi-modric-potra-problema-629898",
+   "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T20:36:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
+   "id": "e376070c7275",
+   "age_minutes": 180,
+   "also": [],
+   "score": 4.682
+  },
+  {
+   "title": "Brasile, il ct Ancelotti conferma la fine del ciclo Neymar in nazionale",
+   "link": "https://www.milannews.it/news/calcio-brasile-ancelotti-conferma-ciclo-neymar-nazionale-629788",
+   "summary": "(ANSA) - RIO DE JANEIRO, 14 SET - Il commissario tecnico della nazionale di calcio brasiliana, Carlo Ancelotti, ha ribadito che darà \"priorità ai giovani\" nel ricostruire la squadra e confermato la fine del ciclo di Neymar, og ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T20:24:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d9/d9375fdef5ac7bb32ca79b49ef26c72d-01885-oooz0000.jpeg",
+   "id": "32b8a7325b05"
+  },
+  {
+   "title": "Cardinale vuole investire in Arabia? Dossier Al Nassr sul tavolo, ma le possibilità sono basse",
+   "link": "https://www.milannews.it/news/cardinale-vuole-investire-arabia-dossier-nassr-tavolo-possibilita-basse-629915",
+   "summary": "L’ipotesi di un ingresso di RedBird nell’Al-Nassr, uno dei principali club dell’Arabia Saudita e squadra di Cristiano Ronaldo, è emersa nelle ultime ore nell’ambito della strategia di espansione del fondo di Gerry Cardi…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T20:11:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
+   "id": "a1e5e3b554fb",
+   "age_minutes": 205,
+   "also": [],
+   "score": 5.173
+  },
+  {
+   "title": "Gonçalo Ramos: \"Mi piace sentirmi importante. So di poter dare il mio contributo, non solo segnando gol\"",
+   "link": "https://www.milannews.it/news/goncalo-ramos-mi-piace-sentirmi-importante-so-poter-dare-contributo-segnando-gol-629866",
+   "summary": "Ai microfoni dei canali ufficiali della UEFA, Gonçalo Ramos ha commentato così il suo arrivo al Milan: \"È impossibile dire di no a un club di queste dimensioni.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T20:00:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/18/18ad63ea4c9fd3ca83a724c8730e92be-44765-oooz0000.jpeg",
+   "id": "c3545860e01e"
+  },
+  {
+   "title": "15 settembre 2010: Ibra segna il suo primo gol con la maglia del Milan",
+   "link": "https://www.milannews.it/news/15-settembre-2010-ibra-segna-gol-maglia-milan-629905",
+   "summary": "Il 15 settembre 2010, Zlatan Ibrahimovic ha segnato la sua prima rete con la maglia del Milan: era un match di Champions League contro i francesi dell'Auxerre a San Siro e l'ex attaccante svedese, che attualmente ricopre il ruolo di Senior Ad ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T19:48:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/48/4849378b3d1478771f6386c1a2a89376-40401-oooz0000.jpeg",
+   "id": "95453cb35bbd"
+  },
+  {
+   "title": "Gravina: \"Assurdo pensare a commissariare la Federcalcio\"",
+   "link": "https://www.milannews.it/news/gravina-assurdo-pensare-commissariare-federcalcio-629906",
+   "summary": "(ANSA) - ROMA, 15 SET - \"L'assegnazione della finale di Conference League a Torino è un ottimo risultato per il calcio italiano, a cui peraltro tenevo in modo particolare perché sono stato io ad avviare la candidatura…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T19:36:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/171b7c4f329c21f5e4d4ce060ea732a9-03918-oooz0000.jpeg",
+   "id": "21daa6d073e1",
+   "age_minutes": 240,
+   "also": [
+    {
+     "source": "FcInterNews",
+     "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521"
+    }
+   ],
+   "score": 5.026
+  },
+  {
+   "title": "Savicevic racconta: \"La sera prima della finale col Barcellona, il presidente Berlusconi...\"",
+   "link": "https://www.milannews.it/news/savicevic-rivela-il-gol-barcellona-1994-bello-vita-sera-presidente-berlusconi-629790",
+   "summary": "Ai microfoni della Gazzetta dello Sport, Dejan Savicevic ha commentato la sua esperienza al Milan e ha rivelato anche qual è stato il gol più bello che ha segnato nella sua vita: \"È sempre nel mio cuore.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T19:24:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/de/dee2b9e0d43a584ba21e43d6b64aee44-99580-oooz0000.jpeg",
+   "id": "9c86d0fc8193"
+  },
+  {
+   "title": "Nations League: cambia sistema di promozione e retrocessione per l'edizione 2026-'27",
+   "link": "https://www.milannews.it/news/nations-league-cambia-sistema-promozione-retrocessione-edizione-2026-27-629874",
+   "summary": "(ANSA) - ROMA, 15 SET - Il Comitato Esecutivo Uefa, riunitosi a Salonicco, ha approvato alcune modifiche al sistema di promozione e retrocessione della Nations League 2026-'27, al fine di consentire una transizione…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T19:12:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
+   "id": "184c3d38c975",
+   "age_minutes": 264,
+   "also": [],
+   "score": 5.931
+  },
+  {
+   "title": "Pronostico Milan-Benfica, inedito in Europa League. I lusitani non hanno mai battuto il Diavolo",
+   "link": "https://www.milannews.it/scommesse/pronostici/pronostico-milan-benfica-inedito-europa-league-lusitani-battuto-diavolo-629832",
+   "summary": "Dopo i due pareggi sui campi di Juventus e Lazio, il Milan torna a San Siro e fa il suo esordio in Europa League: l'avversario è fra i più prestigiosi, il Benfica di Marco Silva.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T19:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f37e40df744c39841abf2f5b3dfb7333-14659-oooz0000.jpeg",
+   "id": "a76c6e867631"
+  },
+  {
+   "title": "Pepo non sia un capro espiatorio",
+   "link": "https://www.fcinternews.it/editoriale/i-pepo-i-capro-espiatorio-1018536",
+   "summary": "L’Inter ha un evidente problema di fase difensiva. E prendersela con Pepo Martinez significa solo cercare un capro espiatorio.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/0993179268fa9e4600f025653c0ae962-06603-oooz0000.jpeg",
+   "id": "3971e997a707"
+  },
+  {
+   "title": "Anche l'Inter U18 maltratta il Cagliari: 4-0 per i ragazzi di Dellafiore",
+   "link": "https://www.fcinternews.it/giovanili/u18-maltratta-cagliari-4-0-ragazzi-dellafiore-1018545",
+   "summary": "Grande prova di forza dell’Inter di Paolo Hernán Dellafiore, campione d’Italia in carica, che ha battuto il Cagliari di Daniele Dessena nel posticipo della terza giornata del Campionato Nazionale Under 18 Professionisti, andat ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T21:57:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/16/16508c2a8d4cdc0ca638e28eba4c6484-69768-972o1031o1704o1763z155e.jpeg",
+   "id": "4b3714196445"
+  },
+  {
+   "title": "Crotone ko con l'Inter U23, Greco amaro: \"Quando subisci un'ingiustizia...\"",
+   "link": "https://www.fcinternews.it/l-avversario/crotone-ko-inter-u23-greco-amaro-quando-subisci-ingiustizia-1018537",
+   "summary": "Non è un momento felice per il Crotone, che contro l'Inter U23 ha incassato una nuova sconfitta che lascia i pitagorici ancorati all'ultima posizione in classifica con una zavorra di meno quattro punti.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T21:43:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/87/87ccbdbcd3e23883121c0b13fe1d2e44-52575-oooz0000.jpeg",
+   "id": "d386fb1db4de"
+  },
+  {
+   "title": "Verso la prima Germania di Klopp: Bisseck quasi certo della convocazione",
+   "link": "https://www.fcinternews.it/news/germania-klopp-bisseck-convocazione-1018544",
+   "summary": "C'è grande attesa per la prima rosa della Germania targata Jürgen Klopp: il nuovo commissario tecnico della nazionale la annuncerà in conferenza stampa giovedì alle 10:00.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T21:29:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7b/7b6612f4fad3c30eed9adeefac1f3dad-71320-1019o47o2123o1151z10f4.jpeg",
+   "id": "c2ad31758822"
+  },
+  {
+   "title": "La UEFA smentisce Malagò: la lista per EURO2032 entro il 1° ottobre",
+   "link": "https://www.fcinternews.it/news/uefa-smentisce-malago-lista-euro2032-entro-1-ottobre-1018543",
+   "summary": "Non ci sarà alcuno slittamento del termine ultimo per la consegna della lista degli stadi candidati ad ospitare EURO2032.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T21:14:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/92/924aa8d31e3a3bf03b58d1f549e6a7ec-19331-1859o0o2999o1139z176d.jpeg",
+   "id": "1027b011bd5f"
+  },
+  {
+   "title": "Coppa Italia, Fiorentina ultima qualificata agli ottavi: Pisa battuto 3-0",
+   "link": "https://www.fcinternews.it/news/coppa-italia-fiorentina-ultima-qualificata-ottavi-pisa-battuto-3-0-1018542",
+   "summary": "Con un gol per tempo, la Fiorentina di Paolo Vanoli fa suo il derby contro il Pisa e accede agli ottavi di finale di Coppa Italia, dove è attesa dal Napoli di Massimiliano Allegri.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T21:00:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/06/06d9f32559e769a436f9a36c1c0b1119-60654-oooz0000.jpeg",
+   "id": "0b20e38cbde5"
+  },
+  {
+   "title": "Ravanelli: \"Inter superiore a tutte le altre, non c'è partita\"",
+   "link": "https://www.fcinternews.it/news/ravanelli-inter-superiore-altre-partita-1018540",
+   "summary": "Dagli studi del 'Processo del Lunedì' su RAI2, Fabrizio Ravanelli commenta così la vittoria dell'Inter di ieri contro l'Udinese. \"Questa vittoria dimostra uno strapotere tecnico, tattico, fisico e di qualità.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T20:50:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c729ea16770f3b576592f0dd0ade3777-76500-oooz0000.jpeg",
+   "id": "e3dd4feef97a"
+  },
+  {
+   "title": "Esposito a RAI Sport: \"Ogni partita è a sé, credo contino più i 90 minuti\"",
+   "link": "https://www.fcinternews.it/focus/esposito-i-rai-sport-i-ogni-partita-se-credo-contino-90-minuti-1018539",
+   "summary": "\"Problema di approccio? Ma no, ogni partita è a sé.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T20:40:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/57/57148773f3054622bc21b2b1be5cb7f8-23591-oooz0000.jpeg",
+   "id": "2d3dcb93f0a8"
+  },
+  {
+   "title": "Orsato promuove il nuovo corso: \"Se il buongiorno si vede dal mattino...\"",
+   "link": "https://www.fcinternews.it/news/orsato-promuove-corso-se-buongiorno-vede-mattino-1018534",
+   "summary": "E' un Daniele Orsato positivo quello che è intervenuto oggi a Rai Italia.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T20:36:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7e/7eecb7bebbc48224867b7c19fe6bcc0b-12318-578o48o1313o783z0aa2.jpeg",
+   "id": "20fae8ab6415"
+  },
+  {
+   "title": "Argentina, Scaloni scioglie le riserve: Lautaro Martinez è tra i convocati",
+   "link": "https://www.fcinternews.it/focus/argentina-scaloni-scioglie-riserve-lautaro-martinez-convocati-1018538",
+   "summary": "Alla fine, Lionel Scaloni, CT della Nazionale argentina, decide di non rinunciare a Lautaro Martinez nemmeno per le prossime amichevoli che i vicecampioni del mondo dovranno affrontare Bolivia, Burkina Faso e Benin.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T20:22:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8bb87095fbd6e9657d2f0e618fec349f-47368-oooz0000.jpeg",
+   "id": "ceebc903de60"
+  },
+  {
+   "title": "FcIN - Calhanoglu, rischio convocazione per la Nations League: il punto",
+   "link": "https://www.fcinternews.it/in-primo-piano/fcin-calhanoglu-rischio-convocazione-nations-league-1017861",
+   "summary": "Niente Roma-Inter per Hakan Calhanoglu a causa di un risentimento muscolare all'adduttore della coscia destra. Impossibile che il calciatore affronti i giallorossi e appuntamento con la maglia nerazzurra per Inter-Parma del 10 ottobre.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T20:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8e/8e37ce0fda2daaf6288e3c829edddebc-20371-oooz0000.jpeg",
+   "id": "9f38e6650711"
+  },
+  {
+   "title": "Dall'Inter italiana all'Inter... di Messi: Kily Gonzalez nuovo tecnico a Miami",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/inter-italiana-inter-messi-kily-gonzalez-tecnico-miami-1018523",
+   "summary": "L'Inter Miami ha annunciato l'arrivo di Christian 'Kily' Gonzalez come nuovo allenatore della franchigia MLS di Lionel Messi.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T20:02:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1b/1ba92f8b0f6a19dbfc7d6d7ef7389eb9-97408-oooz0000.jpeg",
+   "id": "90661af4fa16"
+  },
+  {
+   "title": "Diritti tv esteri, sul tavolo di JP Morgan arrivate sei proposte dai fondi",
+   "link": "https://www.fcinternews.it/news/diritti-tv-esteri-tavolo-jp-morgan-arrivate-proposte-fondi-1018529",
+   "summary": "Si è svolta questo pomeriggio, a Milano, l’assemblea tra i rappresentanti dei venti club di Serie A.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T19:48:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "4696a452e077",
+   "age_minutes": 228,
+   "also": [],
+   "score": 4.475
+  },
+  {
+   "title": "Gravina: \"Rispetto per Malagò. Commissariare la FIGC sarebbe assurdo\"",
+   "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521",
+   "summary": "\"L'assegnazione della finale di Conference League a Torino è un ottimo risultato per il calcio italiano, a cui peraltro tenevo in modo particolare perché sono stato io ad avviare la candidatura dello Juventus Stadium in qualit& ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T19:34:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e664ee214a97e8f2aef0299a6b9c0b54-17226-578o96o1313o831z0b02.jpeg",
+   "id": "5f5fd572af42",
+   "_kw": 0.4,
+   "_fresh": 0.7043711645227309,
+   "_fp": "gravina rispetto malago commissariare figc sarebbe assurdo",
+   "age_minutes": 242
+  },
+  {
+   "title": "WhoScored.com - Top XI della quarta giornata, 4 gli interisti in formazione",
+   "link": "https://www.fcinternews.it/news/i-whoscored-com-i-top-xi-quarta-giornata-4-interisti-formazione-1018532",
+   "summary": "Quattro dei cinque marcatori dell'Inter nella partita contro l'Udinese finiscono dritti nella Top 11 della quarta giornata del campionato di Serie A stilata da WhoScored.com.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T19:19:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/33/33565982bd38084a68aa0bd93fb7c81f-13781-oooz0000.jpeg",
+   "id": "3eb46242fc20"
+  },
+  {
+   "title": "Crotone-Inter U23, le pagelle: Mancuso, gol e qualità. Fiammata di Lavelli",
+   "link": "https://www.fcinternews.it/pagelle/crotone-inter-u23-pagelle-1018519",
+   "summary": "Inter U23 batte Crotone 0-2: è questo il verdetto dello stadio Scida dopo i gol di Mancuso e Lavelli. Ecco le pagelle dei giocatori nerazzurri dopo la bella vittoria nella quinta giornata del girone C di Serie C.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T19:05:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d0/d04928ebf39733dfb9f9881f1260a1c3-80011-oooz0000.jpeg",
+   "id": "35015e359b35"
+  },
+  {
+   "title": "De Rossi: \"Chivu dal fare bene a Parma al Double, succederà poche volte\"",
+   "link": "https://www.fcinternews.it/copertina/de-rossi-chivu-parma-i-double-i-succedera-poche-volte-1018533",
+   "summary": "Il Genoa batte il Südtirol 1-0 e vola agli ottavi di finale di Coppa Italia, dove affronterà l'Inter.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T18:50:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/30/3035791dc24652564d9611d787219a4d-15071-oooz0000.jpeg",
+   "id": "f624f542964e"
+  },
+  {
+   "title": "Capocannoniere, Malen continua a volare in lavagna. Lautaro staccato a 6",
+   "link": "https://www.fcinternews.it/news/capocannoniere-malen-continua-volare-lautaro-1018527",
+   "summary": "Quattro giornate di Serie A ed è già tempo di verdetti – almeno secondo i bookmaker - per il titolo di capocannoniere.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T18:37:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/40/40dbac4a2e8e0949853910b58e2662f0-04179-1067o35o1990o959z0fd3.jpeg",
+   "id": "65273327a6f4"
+  },
+  {
+   "title": "Due perle di Mancuso e Lavelli: l'Inter U23 vince 2-0 a Crotone",
+   "link": "https://www.fcinternews.it/in-primo-piano/crotone-inter-u23-2-0-1018516",
+   "summary": "Festa Inter U23 a Crotone: la seconda squadra nerazzurra passa 0-2 allo Scida e si toglie un'altra soddisfazione importante dopo la vittoria a Catania. A decidere la partita Mancuso e Lavelli.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T18:25:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e4/e40f98ded096e3ade812aff3c946d84d-95996-oooz0000.jpeg",
+   "id": "9d556daf30f3"
+  },
+  {
+   "title": "Genoa, El Shaarawy: \"Vittoria importante, contenti di giocare a San Siro\"",
+   "link": "https://www.fcinternews.it/news/genoa-el-shaaawy-vittoria-importante-contenti-giocare-san-siro-1018531",
+   "summary": "Al termine della partita vinta contro il Südtirol che vale al Genoa la qualificazione agli ottavi di Coppa Italia dove sfiderà l'Inter a San Siro, Stephan El Shaarawy ha parlato ai microfoni di Sport Mediaset per commentare quest ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T18:22:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/94/941f2535c6294ad2e525227643278ed7-58466-1295o227o2087o1019z1214.jpeg",
+   "id": "f82f356b089f"
   },
   {
    "title": "Coppa Italia: Fiorentina vs Pisa – Lineups and updates",
@@ -1661,6 +1621,20 @@
    "id": "73f45e6c50d0"
   },
   {
+   "title": "Atalanta su Zhegrova, possibile affare per gennaio",
+   "link": "https://www.calciomercato.it/2026/09/15/atalanta-su-zhegrova-possibile-affare-per-gennaio/",
+   "summary": "L'articolo Atalanta su Zhegrova, possibile affare per gennaio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T21:03:13+00:00",
+   "image": "",
+   "id": "53b847556df9",
+   "age_minutes": 153,
+   "also": [],
+   "score": 8.604
+  },
+  {
    "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
    "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
    "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
@@ -1670,9 +1644,9 @@
    "published": "2026-09-15T19:43:38+00:00",
    "image": "",
    "id": "2e4dbc8df828",
-   "age_minutes": 79,
+   "age_minutes": 233,
    "also": [],
-   "score": 6.965
+   "score": 6.256
   },
   {
    "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
@@ -1684,9 +1658,9 @@
    "published": "2026-09-15T19:31:48+00:00",
    "image": "",
    "id": "54f2c7d6618d",
-   "age_minutes": 91,
+   "age_minutes": 245,
    "also": [],
-   "score": 6.904
+   "score": 6.208
   },
   {
    "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
@@ -1698,9 +1672,9 @@
    "published": "2026-09-15T18:00:39+00:00",
    "image": "",
    "id": "fc83d3079ce1",
-   "age_minutes": 182,
+   "age_minutes": 336,
    "also": [],
-   "score": 8.472
+   "score": 7.862
   },
   {
    "title": "Juventus, Bremer fuori: la decisione di Spalletti",
@@ -1712,9 +1686,9 @@
    "published": "2026-09-15T16:27:28+00:00",
    "image": "",
    "id": "92e0232d9aae",
-   "age_minutes": 275,
+   "age_minutes": 429,
    "also": [],
-   "score": 6.085
+   "score": 5.552
   },
   {
    "title": "Napoli, allarme Lobotka: cambia il futuro del centrocampista",
@@ -1726,9 +1700,9 @@
    "published": "2026-09-15T14:53:02+00:00",
    "image": "",
    "id": "0d131cff394f",
-   "age_minutes": 370,
+   "age_minutes": 523,
    "also": [],
-   "score": 5.743
+   "score": 5.277
   },
   {
    "title": "De Rossi-Genoa, arriva la decisione definitiva: le ultime",
@@ -1740,9 +1714,9 @@
    "published": "2026-09-15T13:05:10+00:00",
    "image": "",
    "id": "01dcc4f5fc0c",
-   "age_minutes": 478,
+   "age_minutes": 631,
    "also": [],
-   "score": 5.405
+   "score": 5.007
   },
   {
    "title": "Chivu perde i pezzi: Calhanoglu dopo la sosta, tripla assenza con la Roma",
@@ -1754,14 +1728,14 @@
    "published": "2026-09-15T12:29:42+00:00",
    "image": "",
    "id": "adb366dae3c4",
-   "age_minutes": 513,
+   "age_minutes": 667,
    "also": [
     {
      "source": "Calciomercato.it",
      "link": "https://www.calciomercato.it/2026/09/14/chivu-perde-calhanoglu-a-rischio-anche-per-la-roma-le-ultime-di-inter-udinese/"
     }
    ],
-   "score": 6.905
+   "score": 6.526
   },
   {
    "title": "Conte pronto a tornare in panchina: beffata la Juve",
@@ -1773,9 +1747,9 @@
    "published": "2026-09-15T11:30:08+00:00",
    "image": "",
    "id": "ff74d530d967",
-   "age_minutes": 573,
+   "age_minutes": 726,
    "also": [],
-   "score": 5.148
+   "score": 4.801
   },
   {
    "title": "Roma-Inter, che tegola: salta la super sfida dell’Olimpico",
@@ -1787,9 +1761,9 @@
    "published": "2026-09-15T09:22:29+00:00",
    "image": "",
    "id": "1bf617effc08",
-   "age_minutes": 700,
+   "age_minutes": 854,
    "also": [],
-   "score": 4.854
+   "score": 4.565
   },
   {
    "title": "Adzic senza pietà: torna alla Juve per meno di 2 milioni",
@@ -1801,9 +1775,9 @@
    "published": "2026-09-15T07:21:55+00:00",
    "image": "",
    "id": "31496de463b0",
-   "age_minutes": 821,
+   "age_minutes": 974,
    "also": [],
-   "score": 4.621
+   "score": 4.379
   },
   {
    "title": "Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva",
@@ -1815,9 +1789,9 @@
    "published": "2026-09-15T07:03:44+00:00",
    "image": "",
    "id": "223c68573f07",
-   "age_minutes": 839,
+   "age_minutes": 993,
    "also": [],
-   "score": 4.59
+   "score": 4.353
   },
   {
    "title": "Amorim rivoluziona la formazione: cambio totale in campo",
@@ -1829,9 +1803,9 @@
    "published": "2026-09-15T05:22:51+00:00",
    "image": "",
    "id": "fd80f5127376",
-   "age_minutes": 940,
+   "age_minutes": 1094,
    "also": [],
-   "score": 4.428
+   "score": 4.224
   },
   {
    "title": "Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo”",
@@ -1843,9 +1817,9 @@
    "published": "2026-09-14T22:42:17+00:00",
    "image": "",
    "id": "faa99e7930fc",
-   "age_minutes": 1341,
+   "age_minutes": 1494,
    "also": [],
-   "score": 3.977
+   "score": 3.862
   },
   {
    "title": "Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo",
@@ -1857,9 +1831,9 @@
    "published": "2026-09-14T21:30:31+00:00",
    "image": "",
    "id": "c5402d265b80",
-   "age_minutes": 1412,
+   "age_minutes": 1566,
    "also": [],
-   "score": 3.92
+   "score": 3.817
   },
   {
    "title": "PAGELLE e TABELLINO Inter-Udinese 5-3: Barella guida la rimonta, Chivu cala il pokerissimo",
@@ -1882,9 +1856,9 @@
    "published": "2026-09-14T19:28:01+00:00",
    "image": "",
    "id": "ac71b72897f8",
-   "age_minutes": 1535,
+   "age_minutes": 1688,
    "also": [],
-   "score": 3.836
+   "score": 3.749
   },
   {
    "title": "Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa",
@@ -1896,9 +1870,9 @@
    "published": "2026-09-14T18:25:43+00:00",
    "image": "",
    "id": "3df4fae0220d",
-   "age_minutes": 1597,
+   "age_minutes": 1751,
    "also": [],
-   "score": 3.798
+   "score": 3.719
   },
   {
    "title": "Chivu perde Calhanoglu: a rischio anche per la Roma. Le ultime di Inter-Udinese",
@@ -1911,9 +1885,9 @@
    "image": "",
    "id": "67188194dcd8",
    "_kw": 1.6,
-   "_fresh": 0.09793452630397571,
+   "_fresh": 0.07847063273857213,
    "_fp": "chivu perde calhanoglu rischio anche roma ultime inter udinese",
-   "age_minutes": 1608
+   "age_minutes": 1762
   },
   {
    "title": "L’Arsenal lo regala a gennaio: c’è la Juve",
@@ -1925,9 +1899,9 @@
    "published": "2026-09-14T17:00:42+00:00",
    "image": "",
    "id": "b32560a59c00",
-   "age_minutes": 1682,
+   "age_minutes": 1836,
    "also": [],
-   "score": 3.752
+   "score": 3.682
   },
   {
    "title": "Inter, assalto a due stelline della Serie A: i nomi",
@@ -1939,9 +1913,9 @@
    "published": "2026-09-14T14:21:53+00:00",
    "image": "",
    "id": "f9402f8959bf",
-   "age_minutes": 1841,
+   "age_minutes": 1994,
    "also": [],
-   "score": 3.68
+   "score": 3.624
   },
   {
    "title": "Spalletti-Juve, deciso il futuro: le parole di Carnevali",
@@ -1953,9 +1927,9 @@
    "published": "2026-09-14T12:51:45+00:00",
    "image": "",
    "id": "97f60e4a5796",
-   "age_minutes": 1931,
+   "age_minutes": 2085,
    "also": [],
-   "score": 3.646
+   "score": 3.597
   },
   {
    "title": "Infortunio Anguissa, novità in casa Napoli: quando rientra",
@@ -1967,9 +1941,9 @@
    "published": "2026-09-14T12:28:53+00:00",
    "image": "",
    "id": "8994cd58e84b",
-   "age_minutes": 1954,
+   "age_minutes": 2107,
    "also": [],
-   "score": 3.638
+   "score": 3.591
   },
   {
    "title": "Inter-Udinese, Chivu ribalta la formazione: fuori 2 stelle",
@@ -1980,10 +1954,7 @@
    "scope": "generalista",
    "published": "2026-09-14T11:09:38+00:00",
    "image": "",
-   "id": "28479b33767c",
-   "age_minutes": 2033,
-   "also": [],
-   "score": 3.612
+   "id": "28479b33767c"
   },
   {
    "title": "Milik verso l’addio alla Juventus: sirene dagli Emirati Arabi",
@@ -2050,22 +2021,11 @@
    "published": "2026-09-13T20:38:59+00:00",
    "image": "",
    "id": "3ae736e8c64a"
-  },
-  {
-   "title": "Tiago Gabriel piace sempre più, il Milan tornerà alla carica a gennaio",
-   "link": "https://www.calciomercato.it/2026/09/13/tiago-gabriel-piace-sempre-piu-il-milan-tornera-alla-carica-a-gennaio/",
-   "summary": "L'articolo Tiago Gabriel piace sempre più, il Milan tornerà alla carica a gennaio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-13T19:19:35+00:00",
-   "image": "",
-   "id": "252fa0f1ae17"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 34
+  "in_edizione": 33
  }
 }
