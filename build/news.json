@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T01:36:51.130839+02:00",
+ "generated_at": "2026-09-16T06:09:53.750157+02:00",
  "articles": [
   {
    "title": "Atalanta su Zhegrova, possibile affare per gennaio",
@@ -11,9 +11,9 @@
    "published": "2026-09-15T21:03:13+00:00",
    "image": "",
    "id": "53b847556df9",
-   "age_minutes": 153,
+   "age_minutes": 426,
    "also": [],
-   "score": 8.604
+   "score": 7.56
   },
   {
    "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
@@ -25,23 +25,9 @@
    "published": "2026-09-15T18:00:39+00:00",
    "image": "",
    "id": "fc83d3079ce1",
-   "age_minutes": 336,
+   "age_minutes": 609,
    "also": [],
-   "score": 7.862
-  },
-  {
-   "title": "Juventus, doppio assalto inglese per Kalulu: rinnovo per respingere la Premier",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-assalto-inglese-kalulu-rinnovo-respingere-premier-793139",
-   "summary": "La Juventus vuole blindare Pierre Kalulu, diventato uno degli elementi più importanti del progetto tecnico di Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T22:00:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aabde936609d05e0ec0ef868f01d6663-04674-oooz0000.jpeg",
-   "id": "fb08ab27bf92",
-   "age_minutes": 96,
-   "also": [],
-   "score": 6.681
+   "score": 7.059
   },
   {
    "title": "Chivu perde i pezzi: Calhanoglu dopo la sosta, tripla assenza con la Roma",
@@ -53,515 +39,14 @@
    "published": "2026-09-15T12:29:42+00:00",
    "image": "",
    "id": "adb366dae3c4",
-   "age_minutes": 667,
+   "age_minutes": 940,
    "also": [
     {
      "source": "Calciomercato.it",
      "link": "https://www.calciomercato.it/2026/09/14/chivu-perde-calhanoglu-a-rischio-anche-per-la-roma-le-ultime-di-inter-udinese/"
     }
    ],
-   "score": 6.526
-  },
-  {
-   "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
-   "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
-   "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T19:43:38+00:00",
-   "image": "",
-   "id": "2e4dbc8df828",
-   "age_minutes": 233,
-   "also": [],
-   "score": 6.256
-  },
-  {
-   "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
-   "link": "https://www.calciomercato.it/2026/09/15/juventus-spalletti-ritrova-due-pedine-in-europa-chance-per-woltemade/",
-   "summary": "L'articolo Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade? proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T19:31:48+00:00",
-   "image": "",
-   "id": "54f2c7d6618d",
-   "age_minutes": 245,
-   "also": [],
-   "score": 6.208
-  },
-  {
-   "title": "Auriemma: “Mercato Napoli incomprensibile. Io avrei ceduto Lang e tenuto Rao”",
-   "link": "https://www.tuttonapoli.net/le-interviste/auriemma-mercato-napoli-incomprensibile-ceduto-lang-tenuto-rao-656404",
-   "summary": "Il mercato estivo del Napoli continua a far discutere.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:30:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6d/6d6283da97cf85914070ae860cd31afd-13948-oooz0000.jpeg",
-   "id": "04c8633445d1",
-   "age_minutes": 246,
-   "also": [],
-   "score": 6.003
-  },
-  {
-   "title": "Nations League: cambia sistema di promozione e retrocessione per l'edizione 2026-'27",
-   "link": "https://www.milannews.it/news/nations-league-cambia-sistema-promozione-retrocessione-edizione-2026-27-629874",
-   "summary": "(ANSA) - ROMA, 15 SET - Il Comitato Esecutivo Uefa, riunitosi a Salonicco, ha approvato alcune modifiche al sistema di promozione e retrocessione della Nations League 2026-'27, al fine di consentire una transizione…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T19:12:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
-   "id": "184c3d38c975",
-   "age_minutes": 264,
-   "also": [],
-   "score": 5.931
-  },
-  {
-   "title": "Bucchioni: \"Il Napoli deve crescere, mi aspetto di più. Serie A, primi 3 posti già assegnati\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/bucchioni-mi-aspetto-napoli-crescere-serie-a-primi-3-posti-assegnati-656415",
-   "summary": "Costantino Favasuli ha convinto fin dalle prime apparizioni con il Napoli e il suo impatto non è passato inosservato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T22:30:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
-   "id": "4abd76e743fa",
-   "age_minutes": 66,
-   "also": [],
-   "score": 5.835
-  },
-  {
-   "title": "Juventus, Bremer fuori: la decisione di Spalletti",
-   "link": "https://www.calciomercato.it/2026/09/15/juventus-bremer-fuori-la-decisione-di-spalletti/",
-   "summary": "L'articolo Juventus, Bremer fuori: la decisione di Spalletti proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T16:27:28+00:00",
-   "image": "",
-   "id": "92e0232d9aae",
-   "age_minutes": 429,
-   "also": [],
-   "score": 5.552
-  },
-  {
-   "title": "Moggi: \"La Juventus va rifondata e rimodernata. Conte? Ora non credo avrebbe voglia di tornare. Sul mio incontro con Gasperini...\"",
-   "link": "https://www.tuttojuve.com/primo-piano/moggi-la-juventus-rifondata-rimodernata-conte-credo-voglia-tornare-incontro-gasperini-793176",
-   "summary": "Un incontro a Torino tra Gian Piero Gasperini e Luciano Moggi ha inevitabilmente acceso la curiosità.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:20:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4ab86bb0696f108e60e5468c408469a-60540-oooz0000.jpeg",
-   "id": "8b2b12e9ff1e",
-   "age_minutes": 136,
-   "also": [],
-   "score": 5.486
-  },
-  {
-   "title": "Napoli, allarme Lobotka: cambia il futuro del centrocampista",
-   "link": "https://www.calciomercato.it/2026/09/15/napoli-allarme-lobotka-cambia-il-futuro-del-centrocampista/",
-   "summary": "L'articolo Napoli, allarme Lobotka: cambia il futuro del centrocampista proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T14:53:02+00:00",
-   "image": "",
-   "id": "0d131cff394f",
-   "age_minutes": 523,
-   "also": [],
-   "score": 5.277
-  },
-  {
-   "title": "15 settembre 1999: la prima in rossonero di Rino Gattuso",
-   "link": "https://www.milannews.it/gli-ex/15-settembre-1999-rossonero-rino-gattuso-629904",
-   "summary": "Il 15 settembre 1999, in occasione di un match di Champions League in casa del Chelsea, Rino Gattuso ha fatto il suo esordio ufficiale con la maglia del Milan: l'ex centrocampista rossonero venne schierato in campo dal…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T21:00:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
-   "id": "376f1012be10",
-   "age_minutes": 156,
-   "also": [],
-   "score": 5.19
-  },
-  {
-   "title": "Cardinale vuole investire in Arabia? Dossier Al Nassr sul tavolo, ma le possibilità sono basse",
-   "link": "https://www.milannews.it/news/cardinale-vuole-investire-arabia-dossier-nassr-tavolo-possibilita-basse-629915",
-   "summary": "L’ipotesi di un ingresso di RedBird nell’Al-Nassr, uno dei principali club dell’Arabia Saudita e squadra di Cristiano Ronaldo, è emersa nelle ultime ore nell’ambito della strategia di espansione del fondo di Gerry Cardi…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:11:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
-   "id": "a1e5e3b554fb",
-   "age_minutes": 205,
-   "also": [],
-   "score": 5.173
-  },
-  {
-   "title": "Borsa, in rosso Juventus e Stellantis, lieve rialzo per Ferrari",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-793170",
-   "summary": "Seduta debole per Piazza Affari e per le principali Borse europee, penalizzate dalla nuova accelerazione del petrolio e dall'aumento dei rendimenti sul mercato obbligazionario.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:50:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
-   "id": "874fa5031991",
-   "age_minutes": 166,
-   "also": [],
-   "score": 5.146
-  },
-  {
-   "title": "Gravina: \"Assurdo pensare a commissariare la Federcalcio\"",
-   "link": "https://www.milannews.it/news/gravina-assurdo-pensare-commissariare-federcalcio-629906",
-   "summary": "(ANSA) - ROMA, 15 SET - \"L'assegnazione della finale di Conference League a Torino è un ottimo risultato per il calcio italiano, a cui peraltro tenevo in modo particolare perché sono stato io ad avviare la candidatura…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T19:36:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/171b7c4f329c21f5e4d4ce060ea732a9-03918-oooz0000.jpeg",
-   "id": "21daa6d073e1",
-   "age_minutes": 240,
-   "also": [
-    {
-     "source": "FcInterNews",
-     "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521"
-    }
-   ],
-   "score": 5.026
-  },
-  {
-   "title": "De Rossi-Genoa, arriva la decisione definitiva: le ultime",
-   "link": "https://www.calciomercato.it/2026/09/15/de-rossi-genoa-arriva-la-decisione-definitiva-le-ultime/",
-   "summary": "L'articolo De Rossi-Genoa, arriva la decisione definitiva: le ultime proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T13:05:10+00:00",
-   "image": "",
-   "id": "01dcc4f5fc0c",
-   "age_minutes": 631,
-   "also": [],
-   "score": 5.007
-  },
-  {
-   "title": "Fiorentina-Pisa, 6,5 per Rao: “Grandi giocate e contributo in copertura. Poi cala nel 2T”",
-   "link": "https://www.tuttonapoli.net/notizie/fiorentina-pisa-6-5-rao-grandi-giocate-contributo-copertura-cala-ripresa-656422",
-   "summary": "Emanuele Rao è tra i pochi giocatori del Pisa a lasciare il campo con una valutazione positiva nonostante la netta sconfitta contro la Fiorentina.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T21:15:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5048584729470498ff8d413e42726a2-21265-492o60o1716o1284z0de0.jpeg",
-   "id": "2298e576dc06",
-   "age_minutes": 141,
-   "also": [],
-   "score": 4.863
-  },
-  {
-   "title": "Conte pronto a tornare in panchina: beffata la Juve",
-   "link": "https://www.calciomercato.it/2026/09/15/conte-pronto-a-tornare-in-panchina-beffata-la-juve/",
-   "summary": "L'articolo Conte pronto a tornare in panchina: beffata la Juve proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T11:30:08+00:00",
-   "image": "",
-   "id": "ff74d530d967",
-   "age_minutes": 726,
-   "also": [],
-   "score": 4.801
-  },
-  {
-   "title": "MN - Pastore non ha dubbi: \"Modric non potrà mai essere un problema\"",
-   "link": "https://www.milannews.it/news/mn-pastore-dubbi-modric-potra-problema-629898",
-   "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-15T20:36:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
-   "id": "e376070c7275",
-   "age_minutes": 180,
-   "also": [],
-   "score": 4.682
-  },
-  {
-   "title": "Roma-Inter, che tegola: salta la super sfida dell’Olimpico",
-   "link": "https://www.calciomercato.it/2026/09/15/roma-inter-che-tegola-salta-la-super-sfida-dellolimpico/",
-   "summary": "L'articolo Roma-Inter, che tegola: salta la super sfida dell’Olimpico proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T09:22:29+00:00",
-   "image": "",
-   "id": "1bf617effc08",
-   "age_minutes": 854,
-   "also": [],
-   "score": 4.565
-  },
-  {
-   "title": "Diritti tv esteri, sul tavolo di JP Morgan arrivate sei proposte dai fondi",
-   "link": "https://www.fcinternews.it/news/diritti-tv-esteri-tavolo-jp-morgan-arrivate-proposte-fondi-1018529",
-   "summary": "Si è svolta questo pomeriggio, a Milano, l’assemblea tra i rappresentanti dei venti club di Serie A.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-15T19:48:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
-   "id": "4696a452e077",
-   "age_minutes": 228,
-   "also": [],
-   "score": 4.475
-  },
-  {
-   "title": "Adzic senza pietà: torna alla Juve per meno di 2 milioni",
-   "link": "https://www.calciomercato.it/2026/09/15/adzic-senza-pieta-torna-alla-juve-per-meno-di-2-milioni/",
-   "summary": "L'articolo Adzic senza pietà: torna alla Juve per meno di 2 milioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T07:21:55+00:00",
-   "image": "",
-   "id": "31496de463b0",
-   "age_minutes": 974,
-   "also": [],
-   "score": 4.379
-  },
-  {
-   "title": "Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva",
-   "link": "https://www.calciomercato.it/2026/09/15/bologna-tedesco-a-rischio-esonero-contro-il-torino-sara-decisiva/",
-   "summary": "L'articolo Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T07:03:44+00:00",
-   "image": "",
-   "id": "223c68573f07",
-   "age_minutes": 993,
-   "also": [],
-   "score": 4.353
-  },
-  {
-   "title": "Amorim rivoluziona la formazione: cambio totale in campo",
-   "link": "https://www.calciomercato.it/2026/09/15/amorim-rivoluziona-la-formazione-cambio-totale-in-campo/",
-   "summary": "L'articolo Amorim rivoluziona la formazione: cambio totale in campo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T05:22:51+00:00",
-   "image": "",
-   "id": "fd80f5127376",
-   "age_minutes": 1094,
-   "also": [],
-   "score": 4.224
-  },
-  {
-   "title": "Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo”",
-   "link": "https://www.calciomercato.it/2026/09/15/inter-chivu-dopo-calha-perde-anche-stones-e-alza-la-voce-su-martinez-vi-do-il-titolo/",
-   "summary": "L'articolo Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T22:42:17+00:00",
-   "image": "",
-   "id": "faa99e7930fc",
-   "age_minutes": 1494,
-   "also": [],
-   "score": 3.862
-  },
-  {
-   "title": "Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo",
-   "link": "https://www.calciomercato.it/2026/09/14/il-messaggio-di-diouf-a-chivu-il-francese-vuole-cambiare-ruolo/",
-   "summary": "L'articolo Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T21:30:31+00:00",
-   "image": "",
-   "id": "c5402d265b80",
-   "age_minutes": 1566,
-   "also": [],
-   "score": 3.817
-  },
-  {
-   "title": "Icardi-Lazio, contatti continui: decide Gattuso",
-   "link": "https://www.calciomercato.it/2026/09/14/icardi-lazio-contatti-continui-decide-gattuso/",
-   "summary": "L'articolo Icardi-Lazio, contatti continui: decide Gattuso proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T19:28:01+00:00",
-   "image": "",
-   "id": "ac71b72897f8",
-   "age_minutes": 1688,
-   "also": [],
-   "score": 3.749
-  },
-  {
-   "title": "Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa",
-   "link": "https://www.calciomercato.it/2026/09/14/juventus-ora-e-rimpianto-zhegrova-e-fuori-dalla-lista-per-leuropa/",
-   "summary": "L'articolo Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T18:25:43+00:00",
-   "image": "",
-   "id": "3df4fae0220d",
-   "age_minutes": 1751,
-   "also": [],
-   "score": 3.719
-  },
-  {
-   "title": "L’Arsenal lo regala a gennaio: c’è la Juve",
-   "link": "https://www.calciomercato.it/2026/09/14/larsenal-lo-regala-a-gennaio-ce-la-juve/",
-   "summary": "L'articolo L’Arsenal lo regala a gennaio: c’è la Juve proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T17:00:42+00:00",
-   "image": "",
-   "id": "b32560a59c00",
-   "age_minutes": 1836,
-   "also": [],
-   "score": 3.682
-  },
-  {
-   "title": "Inter, assalto a due stelline della Serie A: i nomi",
-   "link": "https://www.calciomercato.it/2026/09/14/inter-assalto-a-due-stelline-della-serie-a-i-nomi/",
-   "summary": "L'articolo Inter, assalto a due stelline della Serie A: i nomi proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T14:21:53+00:00",
-   "image": "",
-   "id": "f9402f8959bf",
-   "age_minutes": 1994,
-   "also": [],
-   "score": 3.624
-  },
-  {
-   "title": "Spalletti-Juve, deciso il futuro: le parole di Carnevali",
-   "link": "https://www.calciomercato.it/2026/09/14/spalletti-juve-deciso-il-futuro-le-parole-di-carnevali/",
-   "summary": "L'articolo Spalletti-Juve, deciso il futuro: le parole di Carnevali proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T12:51:45+00:00",
-   "image": "",
-   "id": "97f60e4a5796",
-   "age_minutes": 2085,
-   "also": [],
-   "score": 3.597
-  },
-  {
-   "title": "Infortunio Anguissa, novità in casa Napoli: quando rientra",
-   "link": "https://www.calciomercato.it/2026/09/14/infortunio-anguissa-novita-in-casa-napoli-quando-rientra/",
-   "summary": "L'articolo Infortunio Anguissa, novità in casa Napoli: quando rientra proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-14T12:28:53+00:00",
-   "image": "",
-   "id": "8994cd58e84b",
-   "age_minutes": 2107,
-   "also": [],
-   "score": 3.591
-  }
- ],
- "raw": [
-  {
-   "title": "Juventus-NEC, la probabile formazione: Spalletti pensa al 3-4-2-1",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nec-probabile-formazione-spalletti-pensa-3-4-2-1-793148",
-   "summary": "La Juventus prepara il debutto europeo contro il NEC con la necessità di voltare immediatamente pagina dopo la sconfitta maturata sul campo del Sassuolo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T23:30:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/edf1b61a6862d861c189c934772a7010-60846-oooz0000.jpeg",
-   "id": "475dc746beea"
-  },
-  {
-   "title": "Anche Motta come candidato per una panchina importante",
-   "link": "https://www.tuttojuve.com/calciomercato/motta-candidato-panchina-importante-793146",
-   "summary": "L’esperienza di Dino Toppmöller sulla panchina del Lens si è conclusa dopo appena sei partite ufficiali.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T23:15:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/dbff3226f91d382a111e61b6c3d1ea8e-61361-oooz0000.jpeg",
-   "id": "6432c10f78f8"
-  },
-  {
-   "title": "Juventus, ora serve Pape Matar Sarr: più spazio dopo l’esordio di Sassuolo",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-serve-pape-matar-sarr-spazio-l-esordio-sassuolo-793145",
-   "summary": "L’attesa è terminata e adesso può cominciare la vera esperienza di Pape Matar Sarr con la Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T23:00:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5e948fe2248754fbcf9deb3143debd08-16629-oooz0000.jpeg",
-   "id": "baf0c0a0af5e"
-  },
-  {
-   "title": "Haaland, possibile grossa novità",
-   "link": "https://www.tuttojuve.com/calciomercato/haaland-possibile-grossa-novita-793142",
-   "summary": "Erling Haaland torna al centro dei programmi futuri del Real Madrid.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T22:45:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0fdfd2a7e892673a9cbd748244b48549-50115-oooz0000.jpeg",
-   "id": "87ddb5b2c094"
-  },
-  {
-   "title": "Juventus, la difesa a tre può rilanciare Gatti: occasione in Europa",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-difesa-rilanciare-gatti-occasione-europa-793143",
-   "summary": "Il possibile ritorno della Juventus al 3-4-2-1 può cambiare radicalmente la posizione di Federico Gatti nelle gerarchie di Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T22:30:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c942d3a8b5507dc866df2c6b7cf18685-82716-oooz0000.jpeg",
-   "id": "92615253cc92"
-  },
-  {
-   "title": "Juventus, tornano Cambiaso e McKennie: contro il NEC partiranno dalla panchina",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-tornano-cambiaso-mckennie-nec-partiranno-panchina-793141",
-   "summary": "Luciano Spalletti ritrova Andrea Cambiaso e Weston McKennie per l’esordio della Juventus in Europa League contro il NEC Nimega. Entrambi saranno a disposizione, ma non sembrano destinati a partire dal primo minuto.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T22:15:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
-   "id": "c9bbd97a933c"
-  },
-  {
-   "title": "Conte alla Juve? Adesso sarebbe la scelta sbagliata: ecco perché",
-   "link": "https://www.tuttojuve.com/primo-piano/conte-alla-juve-adesso-sarebbe-la-scelta-sbagliata-ecco-perch-793116",
-   "summary": "Antonio Conte è il nome più semplice da pronunciare quando la Juventus entra in difficoltà.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T22:05:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
-   "id": "a4d0c0b8b4dd"
-  },
-  {
-   "title": "Juve già costretta a rivedere tutto?",
-   "link": "https://www.tuttojuve.com/firme-bianconere/juve-costretta-rivedere-tutto-793079",
-   "summary": "Dopo solo quattro turni, alla Continassa siamo già ai faccia a faccia, ai confronti, alle rese dei conti… È il film già visto e rivisto negli ultimi anni alla Juventus, con tutti i tentativi di avviare un nuovo progetto pu ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T22:01:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c9e6fb37a5d40129d91ad2282146093f-75443-oooz0000.jpeg",
-   "id": "a6492310140b"
+   "score": 6.029
   },
   {
    "title": "Juventus, doppio assalto inglese per Kalulu: rinnovo per respingere la Premier",
@@ -573,53 +58,107 @@
    "published": "2026-09-15T22:00:35+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aabde936609d05e0ec0ef868f01d6663-04674-oooz0000.jpeg",
    "id": "fb08ab27bf92",
-   "age_minutes": 96,
+   "age_minutes": 369,
    "also": [],
-   "score": 6.681
+   "score": 5.547
   },
   {
-   "title": "Bologna, via libera dall'Atalanta per Palladino: domani il primo allenamento",
-   "link": "https://www.tuttojuve.com/calciomercato/bologna-via-libera-atalanta-palladino-domani-allenamento-793180",
-   "summary": "L'avventura di Domenico Tedesco è al capolinea. Raffaele Palladino è ormai a un passo dal diventare il nuovo allenatore del Bologna.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:50:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f2/f2ceeb8322dab2dce82944c313e976b3-45371-oooz0000.jpeg",
-   "id": "497e71dedeb4"
+   "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
+   "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
+   "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T19:43:38+00:00",
+   "image": "",
+   "id": "2e4dbc8df828",
+   "age_minutes": 506,
+   "also": [],
+   "score": 5.326
   },
   {
-   "title": "Savelli (Libero): \"Savelli: \"A Spalletti è arrivato un invito a darsi una mossa. Conte libero è una bomba a orologeria\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/savelli-libero-savelli-a-spalletti-arrivato-invito-darsi-mossa-conte-libero-bomba-orologeria-793178",
-   "summary": "La conferma pubblica di Luciano Spalletti da parte della Juventus non allontana completamente le pressioni intorno alla panchina bianconera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:40:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/dbbf0e2cb10dac906661a6e6870e51b4-48999-oooz0000.jpeg",
-   "id": "ef8bfeebf191"
+   "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
+   "link": "https://www.calciomercato.it/2026/09/15/juventus-spalletti-ritrova-due-pedine-in-europa-chance-per-woltemade/",
+   "summary": "L'articolo Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade? proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T19:31:48+00:00",
+   "image": "",
+   "id": "54f2c7d6618d",
+   "age_minutes": 518,
+   "also": [],
+   "score": 5.293
   },
   {
-   "title": "Juve, Kolo Muani non si sblocca: 890 minuti senza gol. E gli ex volano in Europa",
-   "link": "https://www.tuttojuve.com/altre-notizie/juve-kolo-muani-sblocca-890-minuti-gol-volano-europa-793177",
-   "summary": "La Juventus aspetta ancora i gol di Randal Kolo Muani, mentre alcuni degli attaccanti lasciati partire durante l'estate hanno già iniziato a ritrovare continuità realizzativa lontano da Torino.",
-   "source": "TuttoJuve",
+   "title": "Nations League: cambia sistema di promozione e retrocessione per l'edizione 2026-'27",
+   "link": "https://www.milannews.it/news/nations-league-cambia-sistema-promozione-retrocessione-edizione-2026-27-629874",
+   "summary": "(ANSA) - ROMA, 15 SET - Il Comitato Esecutivo Uefa, riunitosi a Salonicco, ha approvato alcune modifiche al sistema di promozione e retrocessione della Nations League 2026-'27, al fine di consentire una transizione…",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:30:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f3/f38dc3616ff545bd0892e0f8355a0656-73836-oooz0000.jpeg",
-   "id": "2516973790ee"
+   "scope": "Milan",
+   "published": "2026-09-15T19:12:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
+   "id": "184c3d38c975",
+   "age_minutes": 537,
+   "also": [],
+   "score": 5.041
   },
   {
-   "title": "Coppa Italia: la Fiorentina batte 3-0 il Pisa e va gli ottavi",
-   "link": "https://www.tuttojuve.com/altre-notizie/coppa-italia-fiorentina-batte-3-0-pisa-ottavi-793179",
-   "summary": "(ANSA) - FIRENZE, 15 SET - La Fiorentina batte 3-0 il Pisa nel derby di Coppa Italia e si qualifica per gli ottavi dove affronterà il Napoli. In gol Pellegrino al 40' del primo tempo; Gnonto e Pote al 26' e al 47' della ripresa.",
-   "source": "TuttoJuve",
+   "title": "Juventus, Bremer fuori: la decisione di Spalletti",
+   "link": "https://www.calciomercato.it/2026/09/15/juventus-bremer-fuori-la-decisione-di-spalletti/",
+   "summary": "L'articolo Juventus, Bremer fuori: la decisione di Spalletti proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T16:27:28+00:00",
+   "image": "",
+   "id": "92e0232d9aae",
+   "age_minutes": 702,
+   "also": [],
+   "score": 4.851
+  },
+  {
+   "title": "Napoli, allarme Lobotka: cambia il futuro del centrocampista",
+   "link": "https://www.calciomercato.it/2026/09/15/napoli-allarme-lobotka-cambia-il-futuro-del-centrocampista/",
+   "summary": "L'articolo Napoli, allarme Lobotka: cambia il futuro del centrocampista proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T14:53:02+00:00",
+   "image": "",
+   "id": "0d131cff394f",
+   "age_minutes": 796,
+   "also": [],
+   "score": 4.666
+  },
+  {
+   "title": "Bucchioni: \"Il Napoli deve crescere, mi aspetto di più. Serie A, primi 3 posti già assegnati\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/bucchioni-mi-aspetto-napoli-crescere-serie-a-primi-3-posti-assegnati-656415",
+   "summary": "Costantino Favasuli ha convinto fin dalle prime apparizioni con il Napoli e il suo impatto non è passato inosservato.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:25:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
-   "id": "b6f2c079a065"
+   "scope": "Napoli",
+   "published": "2026-09-15T22:30:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
+   "id": "4abd76e743fa",
+   "age_minutes": 339,
+   "also": [],
+   "score": 4.651
+  },
+  {
+   "title": "De Rossi-Genoa, arriva la decisione definitiva: le ultime",
+   "link": "https://www.calciomercato.it/2026/09/15/de-rossi-genoa-arriva-la-decisione-definitiva-le-ultime/",
+   "summary": "L'articolo De Rossi-Genoa, arriva la decisione definitiva: le ultime proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T13:05:10+00:00",
+   "image": "",
+   "id": "01dcc4f5fc0c",
+   "age_minutes": 904,
+   "also": [],
+   "score": 4.483
   },
   {
    "title": "Moggi: \"La Juventus va rifondata e rimodernata. Conte? Ora non credo avrebbe voglia di tornare. Sul mio incontro con Gasperini...\"",
@@ -631,31 +170,65 @@
    "published": "2026-09-15T21:20:41+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4ab86bb0696f108e60e5468c408469a-60540-oooz0000.jpeg",
    "id": "8b2b12e9ff1e",
-   "age_minutes": 136,
+   "age_minutes": 409,
    "also": [],
-   "score": 5.486
+   "score": 4.415
   },
   {
-   "title": "Inter-Udinese, dal Veneto stoccata a DAZN: \"Come si fa a togliere l'audio a 'InterChannel'?\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/inter-udinese-veneto-stoccata-dazn-come-togliere-audio-interchannel-793175",
-   "summary": "La sconfitta per 5-3 contro l'Inter lascia all'Udinese non soltanto il rammarico per una partita ricca di gol, ma anche diversi interrogativi in vista del prossimo impegno contro il Cagliari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:10:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6c/6ce68480ed47c451ed4d751a23deb2ac-73810-oooz0000.jpeg",
-   "id": "d4a2638e5f9a"
+   "title": "Conte pronto a tornare in panchina: beffata la Juve",
+   "link": "https://www.calciomercato.it/2026/09/15/conte-pronto-a-tornare-in-panchina-beffata-la-juve/",
+   "summary": "L'articolo Conte pronto a tornare in panchina: beffata la Juve proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T11:30:08+00:00",
+   "image": "",
+   "id": "ff74d530d967",
+   "age_minutes": 999,
+   "also": [],
+   "score": 4.344
   },
   {
-   "title": "La \"profezia\" di Ordine: \"Tra qualche anno il Como ritornerà in Serie C. Ecco perché\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/profezia-ordine-tra-como-ritornera-serie-c-perche-793168",
-   "summary": "A TMW Radio si è parlato del momento del Como.",
-   "source": "TuttoJuve",
+   "title": "Cardinale vuole investire in Arabia? Dossier Al Nassr sul tavolo, ma le possibilità sono basse",
+   "link": "https://www.milannews.it/news/cardinale-vuole-investire-arabia-dossier-nassr-tavolo-possibilita-basse-629915",
+   "summary": "L’ipotesi di un ingresso di RedBird nell’Al-Nassr, uno dei principali club dell’Arabia Saudita e squadra di Cristiano Ronaldo, è emersa nelle ultime ore nell’ambito della strategia di espansione del fondo di Gerry Cardi…",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6d/6dcdfb303e67e069cc757be35a57468b-48589-oooz0000.jpeg",
-   "id": "c1b855206642"
+   "scope": "Milan",
+   "published": "2026-09-15T20:11:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
+   "id": "a1e5e3b554fb",
+   "age_minutes": 478,
+   "also": [],
+   "score": 4.204
+  },
+  {
+   "title": "Roma-Inter, che tegola: salta la super sfida dell’Olimpico",
+   "link": "https://www.calciomercato.it/2026/09/15/roma-inter-che-tegola-salta-la-super-sfida-dellolimpico/",
+   "summary": "L'articolo Roma-Inter, che tegola: salta la super sfida dell’Olimpico proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T09:22:29+00:00",
+   "image": "",
+   "id": "1bf617effc08",
+   "age_minutes": 1127,
+   "also": [],
+   "score": 4.185
+  },
+  {
+   "title": "15 settembre 1999: la prima in rossonero di Rino Gattuso",
+   "link": "https://www.milannews.it/gli-ex/15-settembre-1999-rossonero-rino-gattuso-629904",
+   "summary": "Il 15 settembre 1999, in occasione di un match di Champions League in casa del Chelsea, Rino Gattuso ha fatto il suo esordio ufficiale con la maglia del Milan: l'ex centrocampista rossonero venne schierato in campo dal…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T21:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
+   "id": "376f1012be10",
+   "age_minutes": 429,
+   "also": [],
+   "score": 4.15
   },
   {
    "title": "Borsa, in rosso Juventus e Stellantis, lieve rialzo per Ferrari",
@@ -667,42 +240,239 @@
    "published": "2026-09-15T20:50:38+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
    "id": "874fa5031991",
-   "age_minutes": 166,
+   "age_minutes": 439,
    "also": [],
-   "score": 5.146
+   "score": 4.121
   },
   {
-   "title": "Juve, la forza dell'allenatore sta anche nel saperlo difendere",
-   "link": "https://www.tuttojuve.com/firme-bianconere/juve-allenatore-saperlo-difendere-793040",
-   "summary": "Carnevali fa bene a difendere Spalletti e l'operato dei suoi dirigenti, forse nell'ordine invertito, pur consapevole che alla Juventus il tempo viaggia più veloce rispetto a qualsiasi altro club.",
-   "source": "TuttoJuve",
+   "title": "Gravina: \"Assurdo pensare a commissariare la Federcalcio\"",
+   "link": "https://www.milannews.it/news/gravina-assurdo-pensare-commissariare-federcalcio-629906",
+   "summary": "(ANSA) - ROMA, 15 SET - \"L'assegnazione della finale di Conference League a Torino è un ottimo risultato per il calcio italiano, a cui peraltro tenevo in modo particolare perché sono stato io ad avviare la candidatura…",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:45:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/75/75cb1033692751a0b11d028293b7533f-48106-oooz0000.jpeg",
-   "id": "d024acea9133"
+   "scope": "Milan",
+   "published": "2026-09-15T19:36:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/171b7c4f329c21f5e4d4ce060ea732a9-03918-oooz0000.jpeg",
+   "id": "21daa6d073e1",
+   "age_minutes": 513,
+   "also": [
+    {
+     "source": "FcInterNews",
+     "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521"
+    }
+   ],
+   "score": 4.105
   },
   {
-   "title": "Liga: per la prima volta un madrileno arbitrerà il derby Atletico-Real",
-   "link": "https://www.tuttojuve.com/altre-notizie/liga-madrileno-arbitrera-derby-atletico-real-793174",
-   "summary": "(ANSA) - ROMA, 15 SET - Per la prima volta nella storia, un arbitro di Madrid dirigerà il derby della capitale spagnola, tra Atletico e Real.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:39:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a5/a59f0f9b1650aa3a7f5a858444e32dd9-09598-oooz0000.jpeg",
-   "id": "12a2b86291e2"
+   "title": "Adzic senza pietà: torna alla Juve per meno di 2 milioni",
+   "link": "https://www.calciomercato.it/2026/09/15/adzic-senza-pieta-torna-alla-juve-per-meno-di-2-milioni/",
+   "summary": "L'articolo Adzic senza pietà: torna alla Juve per meno di 2 milioni proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T07:21:55+00:00",
+   "image": "",
+   "id": "31496de463b0",
+   "age_minutes": 1247,
+   "also": [],
+   "score": 4.06
   },
   {
-   "title": "Svolta Bologna: Tedesco verso l'esonero, Palladino pronto a subentrare",
-   "link": "https://www.tuttojuve.com/calciomercato/svolta-bologna-tedesco-esonero-palladino-pronto-subentrare-793172",
-   "summary": "Il Bologna cambia rotta e si prepara a una svolta immediata in panchina.",
-   "source": "TuttoJuve",
+   "title": "Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva",
+   "link": "https://www.calciomercato.it/2026/09/15/bologna-tedesco-a-rischio-esonero-contro-il-torino-sara-decisiva/",
+   "summary": "L'articolo Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T07:03:44+00:00",
+   "image": "",
+   "id": "223c68573f07",
+   "age_minutes": 1266,
+   "also": [],
+   "score": 4.043
+  },
+  {
+   "title": "Amorim rivoluziona la formazione: cambio totale in campo",
+   "link": "https://www.calciomercato.it/2026/09/15/amorim-rivoluziona-la-formazione-cambio-totale-in-campo/",
+   "summary": "L'articolo Amorim rivoluziona la formazione: cambio totale in campo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T05:22:51+00:00",
+   "image": "",
+   "id": "fd80f5127376",
+   "age_minutes": 1367,
+   "also": [],
+   "score": 3.956
+  },
+  {
+   "title": "Fiorentina-Pisa, 6,5 per Rao: “Grandi giocate e contributo in copertura. Poi cala nel 2T”",
+   "link": "https://www.tuttonapoli.net/notizie/fiorentina-pisa-6-5-rao-grandi-giocate-contributo-copertura-cala-ripresa-656422",
+   "summary": "Emanuele Rao è tra i pochi giocatori del Pisa a lasciare il campo con una valutazione positiva nonostante la netta sconfitta contro la Fiorentina.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-15T20:30:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c6/c6b1e003ae2c69d06659322fc70040da-78721-oooz0000.jpeg",
-   "id": "78d3a16967c8"
+   "scope": "Napoli",
+   "published": "2026-09-15T21:15:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5048584729470498ff8d413e42726a2-21265-492o60o1716o1284z0de0.jpeg",
+   "id": "2298e576dc06",
+   "age_minutes": 414,
+   "also": [],
+   "score": 3.8
+  },
+  {
+   "title": "Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo”",
+   "link": "https://www.calciomercato.it/2026/09/15/inter-chivu-dopo-calha-perde-anche-stones-e-alza-la-voce-su-martinez-vi-do-il-titolo/",
+   "summary": "L'articolo Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T22:42:17+00:00",
+   "image": "",
+   "id": "faa99e7930fc",
+   "age_minutes": 1767,
+   "also": [],
+   "score": 3.712
+  },
+  {
+   "title": "Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo",
+   "link": "https://www.calciomercato.it/2026/09/14/il-messaggio-di-diouf-a-chivu-il-francese-vuole-cambiare-ruolo/",
+   "summary": "L'articolo Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T21:30:31+00:00",
+   "image": "",
+   "id": "c5402d265b80",
+   "age_minutes": 1839,
+   "also": [],
+   "score": 3.681
+  },
+  {
+   "title": "MN - Pastore non ha dubbi: \"Modric non potrà mai essere un problema\"",
+   "link": "https://www.milannews.it/news/mn-pastore-dubbi-modric-potra-problema-629898",
+   "summary": "Dopo il recente pareggio in campionato contro la Lazio, il Milan di Ruben Amorim si prepara all'esordio in Europa League mercoledì sera a San Siro contro il Benfica. In vista di questo importante incontro, la redazione…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-15T20:36:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
+   "id": "e376070c7275",
+   "age_minutes": 453,
+   "also": [],
+   "score": 3.677
+  },
+  {
+   "title": "Icardi-Lazio, contatti continui: decide Gattuso",
+   "link": "https://www.calciomercato.it/2026/09/14/icardi-lazio-contatti-continui-decide-gattuso/",
+   "summary": "L'articolo Icardi-Lazio, contatti continui: decide Gattuso proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T19:28:01+00:00",
+   "image": "",
+   "id": "ac71b72897f8",
+   "age_minutes": 1961,
+   "also": [],
+   "score": 3.635
+  },
+  {
+   "title": "Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa",
+   "link": "https://www.calciomercato.it/2026/09/14/juventus-ora-e-rimpianto-zhegrova-e-fuori-dalla-lista-per-leuropa/",
+   "summary": "L'articolo Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T18:25:43+00:00",
+   "image": "",
+   "id": "3df4fae0220d",
+   "age_minutes": 2024,
+   "also": [],
+   "score": 3.615
+  },
+  {
+   "title": "L’Arsenal lo regala a gennaio: c’è la Juve",
+   "link": "https://www.calciomercato.it/2026/09/14/larsenal-lo-regala-a-gennaio-ce-la-juve/",
+   "summary": "L'articolo L’Arsenal lo regala a gennaio: c’è la Juve proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-14T17:00:42+00:00",
+   "image": "",
+   "id": "b32560a59c00",
+   "age_minutes": 2109,
+   "also": [],
+   "score": 3.59
+  },
+  {
+   "title": "Diritti tv esteri, sul tavolo di JP Morgan arrivate sei proposte dai fondi",
+   "link": "https://www.fcinternews.it/news/diritti-tv-esteri-tavolo-jp-morgan-arrivate-proposte-fondi-1018529",
+   "summary": "Si è svolta questo pomeriggio, a Milano, l’assemblea tra i rappresentanti dei venti club di Serie A.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-15T19:48:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "4696a452e077",
+   "age_minutes": 501,
+   "also": [],
+   "score": 3.538
+  }
+ ],
+ "raw": [
+  {
+   "title": "Biazzo: \"Napoli, Milan e Juve dovranno sgomitare per entrare in Champions! Su De Bruyne...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/biazzo-jj-656390",
+   "summary": "Il Napoli è chiamato a cambiare passo, mentre Inter, Roma e Como hanno già dato l'impressione di avere qualcosa in più dopo le prime quattro giornate di campionato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-16T04:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/39/39ee525295f0525504c557e53cdf0698-18788-oooz0000.jpeg",
+   "id": "2dda32b0dd88"
+  },
+  {
+   "title": "Salvione: “Scudetto? Nulla è precluso, ma dopo la sosta il Napoli dovrà cambiare marcia”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/salvione-656388",
+   "summary": "Il Napoli cerca conferme dopo dopo la vittoria contro il Bologna.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-16T03:00:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a5/a56db42a546e46be6cf8fcc8779a25e8-71584-oooz0000.jpeg",
+   "id": "b320e8067054"
+  },
+  {
+   "title": "Critiche ad Allegri, Giordano: “Pregiudizio fondato sul nulla! Voglio ricordare una cosa...”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/giordano-hh-656398",
+   "summary": "Il momento del Napoli, il lavoro di Massimiliano Allegri e soprattutto il dibattito che continua ad accompagnare l’allenatore azzurro.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-16T02:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e9/e9181c012e228a785c71dbd32fa8ff76-01370-oooz0000.jpeg",
+   "id": "51fee66a1745"
+  },
+  {
+   "title": "Forgione: “C’è un motivo per cui Allegri non è ancora entrato nel cuore dei tifosi”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/forgione-c-e-motivo-allegri-entrato-cuore-tifosi-656395",
+   "summary": "Il Napoli è chiamato a dare continuità dopo la vittoria contro il Bologna e a ritrovare certezze, sul piano del gioco e dei risultati, dopo una fase caratterizzata da alti e bassi.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-16T01:00:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7b/7b9aa196bafdb736554b9483481cc8ba-96730-oooz0000.jpeg",
+   "id": "f6c838a7513b"
+  },
+  {
+   "title": "Altamura: “Calcio di Allegri e Conte non mi piace. Avrei rifondato e puntato su un giovane”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/altamura-calcio-allegri-conte-piace-rifondato-puntato-tecnico-giovane-656408",
+   "summary": "Il Napoli ha rialzato la testa contro il Bologna, conquistando una vittoria importante dopo un avvio di stagione tutt'altro che semplice.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-16T00:00:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/94/94a2c2d7faf91b6a8d79742145fd6eb7-95822-oooz0000.jpeg",
+   "id": "7de4e5f383b2"
   },
   {
    "title": "Jacomuzzi: “Lucca è un buon giocatore, l’ha dimostrato. Va aiutato e supportato”",
@@ -725,9 +495,9 @@
    "published": "2026-09-15T22:30:39+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
    "id": "4abd76e743fa",
-   "age_minutes": 66,
+   "age_minutes": 339,
    "also": [],
-   "score": 5.835
+   "score": 4.651
   },
   {
    "title": "Radio Tutto Napoli, il palinsesto di oggi: le trasmissioni partiranno dalle 8",
@@ -794,9 +564,9 @@
    "published": "2026-09-15T21:15:46+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5048584729470498ff8d413e42726a2-21265-492o60o1716o1284z0de0.jpeg",
    "id": "2298e576dc06",
-   "age_minutes": 141,
+   "age_minutes": 414,
    "also": [],
-   "score": 4.863
+   "score": 3.8
   },
   {
    "title": "Coppa Italia, il Napoli sfiderà la Fiorentina agli ottavi: il tabellone completo",
@@ -874,64 +644,6 @@
    "published": "2026-09-15T20:10:24+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7b/7b9aa196bafdb736554b9483481cc8ba-96730-oooz0000.jpeg",
    "id": "564c2503caa8"
-  },
-  {
-   "title": "De Maggio: “Basta negatività! Fidatevi di Allegri, è il valore aggiunto del Napoli”",
-   "link": "https://www.tuttonapoli.net/le-interviste/de-maggio-basta-negativita-fidatevi-allegri-valore-aggiunto-napoli-656406",
-   "summary": "Massimiliano Allegri è il valore aggiunto del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T20:00:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1b/1b5e963ad46687c1f209a6eb741212cb-34270-oooz0000.jpeg",
-   "id": "543b57a7046e"
-  },
-  {
-   "title": "Higuain, il record con il Napoli è a rischio? Malen ha già 2 gol di vantaggio sul Pipita",
-   "link": "https://www.tuttonapoli.net/serie-a/higuain-record-napoli-rischio-malen-2-gol-vantaggio-pipita-656373",
-   "summary": "Sei gol nelle prime quattro giornate di Serie A: sono i numeri che hanno permesso a Donyell Malen di entrare subito nel confronto con Gonzalo Higuain.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:50:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/40/40dbac4a2e8e0949853910b58e2662f0-04179-oooz0000.jpeg",
-   "id": "433a747b5d4f"
-  },
-  {
-   "title": "Occasione per la Serie A? Richarlison fuori dal progetto del Tottenham: andrà via a gennaio",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/occasione-serie-a-richarlison-progetto-tottenham-andra-via-gennaio-656370",
-   "summary": "Il Tottenham ha investito oltre 350 milioni di euro per costruire la nuova squadra di Roberto De Zerbi, ma a metà settembre il progetto degli Spurs fatica ancora a decollare.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13583587fc516256744f646fbbf76e31-35053-oooz0000.jpeg",
-   "id": "b4a8483a581b"
-  },
-  {
-   "title": "Auriemma: “Mercato Napoli incomprensibile. Io avrei ceduto Lang e tenuto Rao”",
-   "link": "https://www.tuttonapoli.net/le-interviste/auriemma-mercato-napoli-incomprensibile-ceduto-lang-tenuto-rao-656404",
-   "summary": "Il mercato estivo del Napoli continua a far discutere.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:30:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6d/6d6283da97cf85914070ae860cd31afd-13948-oooz0000.jpeg",
-   "id": "04c8633445d1",
-   "age_minutes": 246,
-   "also": [],
-   "score": 6.003
-  },
-  {
-   "title": "Bologna-Tedesco, è finita! Decisiva la sconfitta a Napoli: già scelto il sostituto",
-   "link": "https://www.tuttonapoli.net/serie-a/bologna-tedesco-finita-l-esonero-palladino-pole-sostituirlo-656416",
-   "summary": "La sconfitta contro il Napoli ha fatto saltare definitivamente i piani del Bologna.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-15T19:20:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7a/7a727c8e0efcffa4f2d18925b43ddb45-63324-oooz0000.jpeg",
-   "id": "50ef83018346"
   },
   {
    "title": "Borghi spera: “Milan-Benfica? Può essere una partita incredibile”",
@@ -1042,9 +754,9 @@
    "published": "2026-09-15T21:00:08+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
    "id": "376f1012be10",
-   "age_minutes": 156,
+   "age_minutes": 429,
    "also": [],
-   "score": 5.19
+   "score": 4.15
   },
   {
    "title": "Piano anti Lotito, tifosi laziali proseguono la protesta contro la società",
@@ -1067,9 +779,9 @@
    "published": "2026-09-15T20:36:12+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c7/c7cd731404ca4181680c6fbfa8f74e2e-87160-oooz0000.jpeg",
    "id": "e376070c7275",
-   "age_minutes": 180,
+   "age_minutes": 453,
    "also": [],
-   "score": 4.682
+   "score": 3.677
   },
   {
    "title": "Brasile, il ct Ancelotti conferma la fine del ciclo Neymar in nazionale",
@@ -1092,9 +804,9 @@
    "published": "2026-09-15T20:11:23+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
    "id": "a1e5e3b554fb",
-   "age_minutes": 205,
+   "age_minutes": 478,
    "also": [],
-   "score": 5.173
+   "score": 4.204
   },
   {
    "title": "Gonçalo Ramos: \"Mi piace sentirmi importante. So di poter dare il mio contributo, non solo segnando gol\"",
@@ -1128,14 +840,14 @@
    "published": "2026-09-15T19:36:16+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/17/171b7c4f329c21f5e4d4ce060ea732a9-03918-oooz0000.jpeg",
    "id": "21daa6d073e1",
-   "age_minutes": 240,
+   "age_minutes": 513,
    "also": [
     {
      "source": "FcInterNews",
      "link": "https://www.fcinternews.it/news/gravina-rispetto-malago-commissariare-figc-assurdo-1018521"
     }
    ],
-   "score": 5.026
+   "score": 4.105
   },
   {
    "title": "Savicevic racconta: \"La sera prima della finale col Barcellona, il presidente Berlusconi...\"",
@@ -1158,9 +870,9 @@
    "published": "2026-09-15T19:12:33+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
    "id": "184c3d38c975",
-   "age_minutes": 264,
+   "age_minutes": 537,
    "also": [],
-   "score": 5.931
+   "score": 5.041
   },
   {
    "title": "Pronostico Milan-Benfica, inedito in Europa League. I lusitani non hanno mai battuto il Diavolo",
@@ -1315,9 +1027,9 @@
    "published": "2026-09-15T19:48:12+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
    "id": "4696a452e077",
-   "age_minutes": 228,
+   "age_minutes": 501,
    "also": [],
-   "score": 4.475
+   "score": 3.538
   },
   {
    "title": "Gravina: \"Rispetto per Malagò. Commissariare la FIGC sarebbe assurdo\"",
@@ -1330,9 +1042,9 @@
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e664ee214a97e8f2aef0299a6b9c0b54-17226-578o96o1313o831z0b02.jpeg",
    "id": "5f5fd572af42",
    "_kw": 0.4,
-   "_fresh": 0.7043711645227309,
+   "_fresh": 0.474857412877321,
    "_fp": "gravina rispetto malago commissariare figc sarebbe assurdo",
-   "age_minutes": 242
+   "age_minutes": 515
   },
   {
    "title": "WhoScored.com - Top XI della quarta giornata, 4 gli interisti in formazione",
@@ -1621,6 +1333,235 @@
    "id": "73f45e6c50d0"
   },
   {
+   "title": "Juventus-NEC, la probabile formazione: Spalletti pensa al 3-4-2-1",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nec-probabile-formazione-spalletti-pensa-3-4-2-1-793148",
+   "summary": "La Juventus prepara il debutto europeo contro il NEC con la necessità di voltare immediatamente pagina dopo la sconfitta maturata sul campo del Sassuolo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T23:30:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/edf1b61a6862d861c189c934772a7010-60846-oooz0000.jpeg",
+   "id": "475dc746beea"
+  },
+  {
+   "title": "Anche Motta come candidato per una panchina importante",
+   "link": "https://www.tuttojuve.com/calciomercato/motta-candidato-panchina-importante-793146",
+   "summary": "L’esperienza di Dino Toppmöller sulla panchina del Lens si è conclusa dopo appena sei partite ufficiali.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T23:15:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/dbff3226f91d382a111e61b6c3d1ea8e-61361-oooz0000.jpeg",
+   "id": "6432c10f78f8"
+  },
+  {
+   "title": "Juventus, ora serve Pape Matar Sarr: più spazio dopo l’esordio di Sassuolo",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-serve-pape-matar-sarr-spazio-l-esordio-sassuolo-793145",
+   "summary": "L’attesa è terminata e adesso può cominciare la vera esperienza di Pape Matar Sarr con la Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T23:00:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5e948fe2248754fbcf9deb3143debd08-16629-oooz0000.jpeg",
+   "id": "baf0c0a0af5e"
+  },
+  {
+   "title": "Haaland, possibile grossa novità",
+   "link": "https://www.tuttojuve.com/calciomercato/haaland-possibile-grossa-novita-793142",
+   "summary": "Erling Haaland torna al centro dei programmi futuri del Real Madrid.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:45:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0fdfd2a7e892673a9cbd748244b48549-50115-oooz0000.jpeg",
+   "id": "87ddb5b2c094"
+  },
+  {
+   "title": "Juventus, la difesa a tre può rilanciare Gatti: occasione in Europa",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-difesa-rilanciare-gatti-occasione-europa-793143",
+   "summary": "Il possibile ritorno della Juventus al 3-4-2-1 può cambiare radicalmente la posizione di Federico Gatti nelle gerarchie di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:30:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c942d3a8b5507dc866df2c6b7cf18685-82716-oooz0000.jpeg",
+   "id": "92615253cc92"
+  },
+  {
+   "title": "Juventus, tornano Cambiaso e McKennie: contro il NEC partiranno dalla panchina",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-tornano-cambiaso-mckennie-nec-partiranno-panchina-793141",
+   "summary": "Luciano Spalletti ritrova Andrea Cambiaso e Weston McKennie per l’esordio della Juventus in Europa League contro il NEC Nimega. Entrambi saranno a disposizione, ma non sembrano destinati a partire dal primo minuto.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:15:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
+   "id": "c9bbd97a933c"
+  },
+  {
+   "title": "Conte alla Juve? Adesso sarebbe la scelta sbagliata: ecco perché",
+   "link": "https://www.tuttojuve.com/primo-piano/conte-alla-juve-adesso-sarebbe-la-scelta-sbagliata-ecco-perch-793116",
+   "summary": "Antonio Conte è il nome più semplice da pronunciare quando la Juventus entra in difficoltà.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:05:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
+   "id": "a4d0c0b8b4dd"
+  },
+  {
+   "title": "Juve già costretta a rivedere tutto?",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juve-costretta-rivedere-tutto-793079",
+   "summary": "Dopo solo quattro turni, alla Continassa siamo già ai faccia a faccia, ai confronti, alle rese dei conti… È il film già visto e rivisto negli ultimi anni alla Juventus, con tutti i tentativi di avviare un nuovo progetto pu ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:01:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c9e6fb37a5d40129d91ad2282146093f-75443-oooz0000.jpeg",
+   "id": "a6492310140b"
+  },
+  {
+   "title": "Juventus, doppio assalto inglese per Kalulu: rinnovo per respingere la Premier",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-assalto-inglese-kalulu-rinnovo-respingere-premier-793139",
+   "summary": "La Juventus vuole blindare Pierre Kalulu, diventato uno degli elementi più importanti del progetto tecnico di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T22:00:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aabde936609d05e0ec0ef868f01d6663-04674-oooz0000.jpeg",
+   "id": "fb08ab27bf92",
+   "age_minutes": 369,
+   "also": [],
+   "score": 5.547
+  },
+  {
+   "title": "Bologna, via libera dall'Atalanta per Palladino: domani il primo allenamento",
+   "link": "https://www.tuttojuve.com/calciomercato/bologna-via-libera-atalanta-palladino-domani-allenamento-793180",
+   "summary": "L'avventura di Domenico Tedesco è al capolinea. Raffaele Palladino è ormai a un passo dal diventare il nuovo allenatore del Bologna.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:50:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f2/f2ceeb8322dab2dce82944c313e976b3-45371-oooz0000.jpeg",
+   "id": "497e71dedeb4"
+  },
+  {
+   "title": "Savelli (Libero): \"Savelli: \"A Spalletti è arrivato un invito a darsi una mossa. Conte libero è una bomba a orologeria\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/savelli-libero-savelli-a-spalletti-arrivato-invito-darsi-mossa-conte-libero-bomba-orologeria-793178",
+   "summary": "La conferma pubblica di Luciano Spalletti da parte della Juventus non allontana completamente le pressioni intorno alla panchina bianconera.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:40:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/dbbf0e2cb10dac906661a6e6870e51b4-48999-oooz0000.jpeg",
+   "id": "ef8bfeebf191"
+  },
+  {
+   "title": "Juve, Kolo Muani non si sblocca: 890 minuti senza gol. E gli ex volano in Europa",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-kolo-muani-sblocca-890-minuti-gol-volano-europa-793177",
+   "summary": "La Juventus aspetta ancora i gol di Randal Kolo Muani, mentre alcuni degli attaccanti lasciati partire durante l'estate hanno già iniziato a ritrovare continuità realizzativa lontano da Torino.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:30:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f3/f38dc3616ff545bd0892e0f8355a0656-73836-oooz0000.jpeg",
+   "id": "2516973790ee"
+  },
+  {
+   "title": "Coppa Italia: la Fiorentina batte 3-0 il Pisa e va gli ottavi",
+   "link": "https://www.tuttojuve.com/altre-notizie/coppa-italia-fiorentina-batte-3-0-pisa-ottavi-793179",
+   "summary": "(ANSA) - FIRENZE, 15 SET - La Fiorentina batte 3-0 il Pisa nel derby di Coppa Italia e si qualifica per gli ottavi dove affronterà il Napoli. In gol Pellegrino al 40' del primo tempo; Gnonto e Pote al 26' e al 47' della ripresa.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:25:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
+   "id": "b6f2c079a065"
+  },
+  {
+   "title": "Moggi: \"La Juventus va rifondata e rimodernata. Conte? Ora non credo avrebbe voglia di tornare. Sul mio incontro con Gasperini...\"",
+   "link": "https://www.tuttojuve.com/primo-piano/moggi-la-juventus-rifondata-rimodernata-conte-credo-voglia-tornare-incontro-gasperini-793176",
+   "summary": "Un incontro a Torino tra Gian Piero Gasperini e Luciano Moggi ha inevitabilmente acceso la curiosità.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:20:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4ab86bb0696f108e60e5468c408469a-60540-oooz0000.jpeg",
+   "id": "8b2b12e9ff1e",
+   "age_minutes": 409,
+   "also": [],
+   "score": 4.415
+  },
+  {
+   "title": "Inter-Udinese, dal Veneto stoccata a DAZN: \"Come si fa a togliere l'audio a 'InterChannel'?\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-udinese-veneto-stoccata-dazn-come-togliere-audio-interchannel-793175",
+   "summary": "La sconfitta per 5-3 contro l'Inter lascia all'Udinese non soltanto il rammarico per una partita ricca di gol, ma anche diversi interrogativi in vista del prossimo impegno contro il Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:10:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6c/6ce68480ed47c451ed4d751a23deb2ac-73810-oooz0000.jpeg",
+   "id": "d4a2638e5f9a"
+  },
+  {
+   "title": "La \"profezia\" di Ordine: \"Tra qualche anno il Como ritornerà in Serie C. Ecco perché\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/profezia-ordine-tra-como-ritornera-serie-c-perche-793168",
+   "summary": "A TMW Radio si è parlato del momento del Como.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T21:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6d/6dcdfb303e67e069cc757be35a57468b-48589-oooz0000.jpeg",
+   "id": "c1b855206642"
+  },
+  {
+   "title": "Borsa, in rosso Juventus e Stellantis, lieve rialzo per Ferrari",
+   "link": "https://www.tuttojuve.com/altre-notizie/borsa-793170",
+   "summary": "Seduta debole per Piazza Affari e per le principali Borse europee, penalizzate dalla nuova accelerazione del petrolio e dall'aumento dei rendimenti sul mercato obbligazionario.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T20:50:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e69f4236aa33b4c796bcffe47774935-30365-oooz0000.jpeg",
+   "id": "874fa5031991",
+   "age_minutes": 439,
+   "also": [],
+   "score": 4.121
+  },
+  {
+   "title": "Juve, la forza dell'allenatore sta anche nel saperlo difendere",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juve-allenatore-saperlo-difendere-793040",
+   "summary": "Carnevali fa bene a difendere Spalletti e l'operato dei suoi dirigenti, forse nell'ordine invertito, pur consapevole che alla Juventus il tempo viaggia più veloce rispetto a qualsiasi altro club.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T20:45:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/75/75cb1033692751a0b11d028293b7533f-48106-oooz0000.jpeg",
+   "id": "d024acea9133"
+  },
+  {
+   "title": "Liga: per la prima volta un madrileno arbitrerà il derby Atletico-Real",
+   "link": "https://www.tuttojuve.com/altre-notizie/liga-madrileno-arbitrera-derby-atletico-real-793174",
+   "summary": "(ANSA) - ROMA, 15 SET - Per la prima volta nella storia, un arbitro di Madrid dirigerà il derby della capitale spagnola, tra Atletico e Real.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T20:39:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a5/a59f0f9b1650aa3a7f5a858444e32dd9-09598-oooz0000.jpeg",
+   "id": "12a2b86291e2"
+  },
+  {
+   "title": "Svolta Bologna: Tedesco verso l'esonero, Palladino pronto a subentrare",
+   "link": "https://www.tuttojuve.com/calciomercato/svolta-bologna-tedesco-esonero-palladino-pronto-subentrare-793172",
+   "summary": "Il Bologna cambia rotta e si prepara a una svolta immediata in panchina.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-15T20:30:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c6/c6b1e003ae2c69d06659322fc70040da-78721-oooz0000.jpeg",
+   "id": "78d3a16967c8"
+  },
+  {
    "title": "Atalanta su Zhegrova, possibile affare per gennaio",
    "link": "https://www.calciomercato.it/2026/09/15/atalanta-su-zhegrova-possibile-affare-per-gennaio/",
    "summary": "L'articolo Atalanta su Zhegrova, possibile affare per gennaio proviene da CalcioMercato.it .",
@@ -1630,9 +1571,9 @@
    "published": "2026-09-15T21:03:13+00:00",
    "image": "",
    "id": "53b847556df9",
-   "age_minutes": 153,
+   "age_minutes": 426,
    "also": [],
-   "score": 8.604
+   "score": 7.56
   },
   {
    "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
@@ -1644,9 +1585,9 @@
    "published": "2026-09-15T19:43:38+00:00",
    "image": "",
    "id": "2e4dbc8df828",
-   "age_minutes": 233,
+   "age_minutes": 506,
    "also": [],
-   "score": 6.256
+   "score": 5.326
   },
   {
    "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
@@ -1658,9 +1599,9 @@
    "published": "2026-09-15T19:31:48+00:00",
    "image": "",
    "id": "54f2c7d6618d",
-   "age_minutes": 245,
+   "age_minutes": 518,
    "also": [],
-   "score": 6.208
+   "score": 5.293
   },
   {
    "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
@@ -1672,9 +1613,9 @@
    "published": "2026-09-15T18:00:39+00:00",
    "image": "",
    "id": "fc83d3079ce1",
-   "age_minutes": 336,
+   "age_minutes": 609,
    "also": [],
-   "score": 7.862
+   "score": 7.059
   },
   {
    "title": "Juventus, Bremer fuori: la decisione di Spalletti",
@@ -1686,9 +1627,9 @@
    "published": "2026-09-15T16:27:28+00:00",
    "image": "",
    "id": "92e0232d9aae",
-   "age_minutes": 429,
+   "age_minutes": 702,
    "also": [],
-   "score": 5.552
+   "score": 4.851
   },
   {
    "title": "Napoli, allarme Lobotka: cambia il futuro del centrocampista",
@@ -1700,9 +1641,9 @@
    "published": "2026-09-15T14:53:02+00:00",
    "image": "",
    "id": "0d131cff394f",
-   "age_minutes": 523,
+   "age_minutes": 796,
    "also": [],
-   "score": 5.277
+   "score": 4.666
   },
   {
    "title": "De Rossi-Genoa, arriva la decisione definitiva: le ultime",
@@ -1714,9 +1655,9 @@
    "published": "2026-09-15T13:05:10+00:00",
    "image": "",
    "id": "01dcc4f5fc0c",
-   "age_minutes": 631,
+   "age_minutes": 904,
    "also": [],
-   "score": 5.007
+   "score": 4.483
   },
   {
    "title": "Chivu perde i pezzi: Calhanoglu dopo la sosta, tripla assenza con la Roma",
@@ -1728,14 +1669,14 @@
    "published": "2026-09-15T12:29:42+00:00",
    "image": "",
    "id": "adb366dae3c4",
-   "age_minutes": 667,
+   "age_minutes": 940,
    "also": [
     {
      "source": "Calciomercato.it",
      "link": "https://www.calciomercato.it/2026/09/14/chivu-perde-calhanoglu-a-rischio-anche-per-la-roma-le-ultime-di-inter-udinese/"
     }
    ],
-   "score": 6.526
+   "score": 6.029
   },
   {
    "title": "Conte pronto a tornare in panchina: beffata la Juve",
@@ -1747,9 +1688,9 @@
    "published": "2026-09-15T11:30:08+00:00",
    "image": "",
    "id": "ff74d530d967",
-   "age_minutes": 726,
+   "age_minutes": 999,
    "also": [],
-   "score": 4.801
+   "score": 4.344
   },
   {
    "title": "Roma-Inter, che tegola: salta la super sfida dell’Olimpico",
@@ -1761,9 +1702,9 @@
    "published": "2026-09-15T09:22:29+00:00",
    "image": "",
    "id": "1bf617effc08",
-   "age_minutes": 854,
+   "age_minutes": 1127,
    "also": [],
-   "score": 4.565
+   "score": 4.185
   },
   {
    "title": "Adzic senza pietà: torna alla Juve per meno di 2 milioni",
@@ -1775,9 +1716,9 @@
    "published": "2026-09-15T07:21:55+00:00",
    "image": "",
    "id": "31496de463b0",
-   "age_minutes": 974,
+   "age_minutes": 1247,
    "also": [],
-   "score": 4.379
+   "score": 4.06
   },
   {
    "title": "Bologna, Tedesco a rischio esonero: contro il Torino sarà decisiva",
@@ -1789,9 +1730,9 @@
    "published": "2026-09-15T07:03:44+00:00",
    "image": "",
    "id": "223c68573f07",
-   "age_minutes": 993,
+   "age_minutes": 1266,
    "also": [],
-   "score": 4.353
+   "score": 4.043
   },
   {
    "title": "Amorim rivoluziona la formazione: cambio totale in campo",
@@ -1803,9 +1744,9 @@
    "published": "2026-09-15T05:22:51+00:00",
    "image": "",
    "id": "fd80f5127376",
-   "age_minutes": 1094,
+   "age_minutes": 1367,
    "also": [],
-   "score": 4.224
+   "score": 3.956
   },
   {
    "title": "Inter, Chivu (dopo Calha) perde anche Stones e alza la voce su Martinez: “Vi do il titolo”",
@@ -1817,9 +1758,9 @@
    "published": "2026-09-14T22:42:17+00:00",
    "image": "",
    "id": "faa99e7930fc",
-   "age_minutes": 1494,
+   "age_minutes": 1767,
    "also": [],
-   "score": 3.862
+   "score": 3.712
   },
   {
    "title": "Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo",
@@ -1831,9 +1772,9 @@
    "published": "2026-09-14T21:30:31+00:00",
    "image": "",
    "id": "c5402d265b80",
-   "age_minutes": 1566,
+   "age_minutes": 1839,
    "also": [],
-   "score": 3.817
+   "score": 3.681
   },
   {
    "title": "PAGELLE e TABELLINO Inter-Udinese 5-3: Barella guida la rimonta, Chivu cala il pokerissimo",
@@ -1856,9 +1797,9 @@
    "published": "2026-09-14T19:28:01+00:00",
    "image": "",
    "id": "ac71b72897f8",
-   "age_minutes": 1688,
+   "age_minutes": 1961,
    "also": [],
-   "score": 3.749
+   "score": 3.635
   },
   {
    "title": "Juventus, ora è rimpianto Zhegrova: è fuori dalla lista per l’Europa",
@@ -1870,9 +1811,9 @@
    "published": "2026-09-14T18:25:43+00:00",
    "image": "",
    "id": "3df4fae0220d",
-   "age_minutes": 1751,
+   "age_minutes": 2024,
    "also": [],
-   "score": 3.719
+   "score": 3.615
   },
   {
    "title": "Chivu perde Calhanoglu: a rischio anche per la Roma. Le ultime di Inter-Udinese",
@@ -1885,9 +1826,9 @@
    "image": "",
    "id": "67188194dcd8",
    "_kw": 1.6,
-   "_fresh": 0.07847063273857213,
+   "_fresh": 0.0529016000737808,
    "_fp": "chivu perde calhanoglu rischio anche roma ultime inter udinese",
-   "age_minutes": 1762
+   "age_minutes": 2035
   },
   {
    "title": "L’Arsenal lo regala a gennaio: c’è la Juve",
@@ -1899,9 +1840,9 @@
    "published": "2026-09-14T17:00:42+00:00",
    "image": "",
    "id": "b32560a59c00",
-   "age_minutes": 1836,
+   "age_minutes": 2109,
    "also": [],
-   "score": 3.682
+   "score": 3.59
   },
   {
    "title": "Inter, assalto a due stelline della Serie A: i nomi",
@@ -2026,6 +1967,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 33
+  "in_edizione": 29
  }
 }
