@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T00:22:41.709531+02:00",
+ "generated_at": "2026-09-18T02:41:30.814023+02:00",
  "articles": [
   {
    "title": "UFFICIALE - Primo contratto da professionista per il talento Pirola",
@@ -11,9 +11,9 @@
    "published": "2026-09-17T20:28:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9f/9fddd3872e37d7e9352f9ad426da106e-17027-oooz0000.jpeg",
    "id": "d4ebfa5fdf52",
-   "age_minutes": 114,
+   "age_minutes": 253,
    "also": [],
-   "score": 8.59
+   "score": 7.974
   },
   {
    "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
@@ -25,9 +25,9 @@
    "published": "2026-09-17T21:15:05+00:00",
    "image": "",
    "id": "9ec205916f08",
-   "age_minutes": 67,
+   "age_minutes": 206,
    "also": [],
-   "score": 7.028
+   "score": 6.369
   },
   {
    "title": "Palladino: “Ero a Napoli, accordo col Bologna velocissimo. Ho rifiutato altre proposte...\"",
@@ -39,9 +39,9 @@
    "published": "2026-09-17T20:10:25+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/15/1512bc146b2065b8bdc56fbb43db2dcb-68655-oooz0000.jpeg",
    "id": "8e7d4e231cbf",
-   "age_minutes": 132,
+   "age_minutes": 271,
    "also": [],
-   "score": 6.504
+   "score": 5.904
   },
   {
    "title": "I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT",
@@ -53,51 +53,9 @@
    "published": "2026-09-17T19:11:10+00:00",
    "image": "",
    "id": "e9d8bc940045",
-   "age_minutes": 191,
+   "age_minutes": 330,
    "also": [],
-   "score": 6.433
-  },
-  {
-   "title": "Finalmente Lavelli: il giovane in cerca del riscatto personale",
-   "link": "https://www.fcinternews.it/in-primo-piano/lavelli-giovane-nerazzurro-cerca-riscatto-personale-1018642",
-   "summary": "Di aspetti da considerare a seguito della vittoria dell'Inter U23 sull'ostico - e dissestato - campo del Crotone in occasione della 5ª giornata di Serie C ce ne sono in abbondanza.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-17T19:01:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/73/739796e51375827cd127a647ebdc4f52-77342-oooz0000.jpeg",
-   "id": "be7d4e205f53",
-   "age_minutes": 201,
-   "also": [],
-   "score": 6.189
-  },
-  {
-   "title": "Skydance, partecipata da Cardinale, firma una partnership con la casa di produzione di Lewis Hamilton",
-   "link": "https://www.milannews.it/news/skydance-partecipata-cardinale-firma-partnership-casa-produzione-lewis-hamilton-630148",
-   "summary": "Gli investimenti legati al nome di Gerry Cardinale e RedBird Capital Partners continuano ad aumentare nel campo dell'entertainment.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-17T19:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
-   "id": "7aeec10528b6",
-   "age_minutes": 202,
-   "also": [],
-   "score": 6.185
-  },
-  {
-   "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
-   "link": "https://www.calciomercato.it/2026/09/17/anguissa-puo-lasciare-il-napoli-a-gennaio-la-probabile-destinazione/",
-   "summary": "L'articolo Anguissa può lasciare il Napoli a gennaio, la probabile destinazione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T18:01:12+00:00",
-   "image": "",
-   "id": "e4479fe454b2",
-   "age_minutes": 261,
-   "also": [],
-   "score": 6.142
+   "score": 5.882
   },
   {
    "title": "Kalulu verso il rinnovo con la Juventus, i bianconeri vogliono blindarlo",
@@ -109,9 +67,37 @@
    "published": "2026-09-16T19:20:50+00:00",
    "image": "",
    "id": "c3bd3418a707",
-   "age_minutes": 1621,
+   "age_minutes": 1760,
    "also": [],
-   "score": 5.785
+   "score": 5.715
+  },
+  {
+   "title": "Finalmente Lavelli: il giovane in cerca del riscatto personale",
+   "link": "https://www.fcinternews.it/in-primo-piano/lavelli-giovane-nerazzurro-cerca-riscatto-personale-1018642",
+   "summary": "Di aspetti da considerare a seguito della vittoria dell'Inter U23 sull'ostico - e dissestato - campo del Crotone in occasione della 5ª giornata di Serie C ce ne sono in abbondanza.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-17T19:01:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/73/739796e51375827cd127a647ebdc4f52-77342-oooz0000.jpeg",
+   "id": "be7d4e205f53",
+   "age_minutes": 340,
+   "also": [],
+   "score": 5.646
+  },
+  {
+   "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
+   "link": "https://www.calciomercato.it/2026/09/17/anguissa-puo-lasciare-il-napoli-a-gennaio-la-probabile-destinazione/",
+   "summary": "L'articolo Anguissa può lasciare il Napoli a gennaio, la probabile destinazione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T18:01:12+00:00",
+   "image": "",
+   "id": "e4479fe454b2",
+   "age_minutes": 400,
+   "also": [],
+   "score": 5.644
   },
   {
    "title": "Conte ha detto no, clamoroso rifiuto: ora cambia tutto",
@@ -123,9 +109,9 @@
    "published": "2026-09-17T16:09:46+00:00",
    "image": "",
    "id": "854c1ddab651",
-   "age_minutes": 372,
+   "age_minutes": 511,
    "also": [],
-   "score": 5.734
+   "score": 5.31
   },
   {
    "title": "Roma-Inter, novità Hermoso: le ultime sulle sue condizioni",
@@ -137,9 +123,9 @@
    "published": "2026-09-17T14:53:18+00:00",
    "image": "",
    "id": "d7ce80d2e7ac",
-   "age_minutes": 449,
+   "age_minutes": 588,
    "also": [],
-   "score": 5.49
+   "score": 5.111
   },
   {
    "title": "Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli",
@@ -151,9 +137,9 @@
    "published": "2026-09-17T13:06:41+00:00",
    "image": "",
    "id": "a183f3010786",
-   "age_minutes": 556,
+   "age_minutes": 694,
    "also": [],
-   "score": 5.192
+   "score": 4.867
   },
   {
    "title": "Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente”",
@@ -165,9 +151,9 @@
    "published": "2026-09-17T12:31:41+00:00",
    "image": "",
    "id": "cdcf8900dbdb",
-   "age_minutes": 591,
+   "age_minutes": 729,
    "also": [],
-   "score": 5.104
+   "score": 4.794
   },
   {
    "title": "Lautaro-Barcellona, spunta un nuovo retroscena: cos’è successo",
@@ -179,9 +165,9 @@
    "published": "2026-09-17T11:25:35+00:00",
    "image": "",
    "id": "09d2188e64ac",
-   "age_minutes": 657,
+   "age_minutes": 795,
    "also": [],
-   "score": 4.949
+   "score": 4.667
   },
   {
    "title": "Inter, Chivu trema: l’infortunio è più serio del previsto",
@@ -193,23 +179,9 @@
    "published": "2026-09-17T09:45:10+00:00",
    "image": "",
    "id": "f0979831b69f",
-   "age_minutes": 757,
+   "age_minutes": 896,
    "also": [],
-   "score": 4.74
-  },
-  {
-   "title": "Guadagno: \"La verità è che, invece di migliorare e crescere con le partite, il Milan si sta involvendo\"",
-   "link": "https://www.milannews.it/news/guadagno-la-verita-che-migliorare-crescere-partite-milan-involvendo-630083",
-   "summary": "Pietro Guadagno, giornalista, si è così espresso sul Corriere dello Sport commentando la prestazione del Milan contro il Benfica: \"Dopo un anno di assenza, il Milan si è riaffacciato in Europa, ma l'ha fatto nel…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-17T18:48:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/7e/7ec6e6f3b77827b17e67b6a6853bd092-59563-oooz0000.jpeg",
-   "id": "9825a8786bad",
-   "age_minutes": 213,
-   "also": [],
-   "score": 4.537
+   "score": 4.496
   },
   {
    "title": "Juve-NEC, le ultime di formazione: Spalletti esclude 3 big",
@@ -221,9 +193,9 @@
    "published": "2026-09-17T07:27:35+00:00",
    "image": "",
    "id": "a187150a4627",
-   "age_minutes": 895,
+   "age_minutes": 1033,
    "also": [],
-   "score": 4.498
+   "score": 4.299
   },
   {
    "title": "Il Bologna ora sogna Raspadori, Palladino può essere decisivo | CM",
@@ -235,9 +207,9 @@
    "published": "2026-09-17T07:01:12+00:00",
    "image": "",
    "id": "72a0be9fe0d6",
-   "age_minutes": 921,
+   "age_minutes": 1060,
    "also": [],
-   "score": 4.457
+   "score": 4.265
   },
   {
    "title": "Bocciato da Mancini, Cisse non sarà convocato: andrà in under 21",
@@ -249,23 +221,9 @@
    "published": "2026-09-17T05:30:12+00:00",
    "image": "",
    "id": "d14bfd498e8e",
-   "age_minutes": 1012,
+   "age_minutes": 1151,
    "also": [],
-   "score": 4.327
-  },
-  {
-   "title": "Malen, numeri strabilianti. Rendimento pazzesco, staccati gli altri attaccanti di A",
-   "link": "https://www.fcinternews.it/stats/malen-numeri-strabilianti-rendimento-pazzesco-staccati-attaccanti-1018671",
-   "summary": "L'inizio di stagione di Malen è solamente un tassello di quello che l'olandese ha fatto da quando è arrivato alla Roma.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-17T17:37:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/07/07850fda6d985112f3d5afb0d04efaba-51657-oooz0000.jpeg",
-   "id": "27c899a35bf6",
-   "age_minutes": 285,
-   "also": [],
-   "score": 4.248
+   "score": 4.159
   },
   {
    "title": "Amorim: “Pronto ad adattarmi, ecco perché Pulisic e Moreira fuori”",
@@ -277,9 +235,23 @@
    "published": "2026-09-16T21:29:19+00:00",
    "image": "",
    "id": "1856c04ccb70",
-   "age_minutes": 1493,
+   "age_minutes": 1632,
    "also": [],
-   "score": 3.863
+   "score": 3.779
+  },
+  {
+   "title": "Malen, numeri strabilianti. Rendimento pazzesco, staccati gli altri attaccanti di A",
+   "link": "https://www.fcinternews.it/stats/malen-numeri-strabilianti-rendimento-pazzesco-staccati-attaccanti-1018671",
+   "summary": "L'inizio di stagione di Malen è solamente un tassello di quello che l'olandese ha fatto da quando è arrivato alla Roma.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-17T17:37:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/07/07850fda6d985112f3d5afb0d04efaba-51657-oooz0000.jpeg",
+   "id": "27c899a35bf6",
+   "age_minutes": 424,
+   "also": [],
+   "score": 3.767
   },
   {
    "title": "Milan horror, crollo in casa col Benfica: 0-2 ed Europa League in salita",
@@ -291,9 +263,9 @@
    "published": "2026-09-16T20:55:40+00:00",
    "image": "",
    "id": "aaf137b13b76",
-   "age_minutes": 1527,
+   "age_minutes": 1665,
    "also": [],
-   "score": 3.841
+   "score": 3.761
   },
   {
    "title": "Juve, occhi sul nuovo fenomeno inglese: di chi si tratta",
@@ -305,9 +277,9 @@
    "published": "2026-09-16T18:00:21+00:00",
    "image": "",
    "id": "aa8b9a4423b7",
-   "age_minutes": 1702,
+   "age_minutes": 1841,
    "also": [],
-   "score": 3.742
+   "score": 3.68
   },
   {
    "title": "Italia, subito una novità tra i convocati di Mancini: l’indiscrezione",
@@ -319,9 +291,9 @@
    "published": "2026-09-16T16:09:33+00:00",
    "image": "",
    "id": "bc2463ed5593",
-   "age_minutes": 1813,
+   "age_minutes": 1951,
    "also": [],
-   "score": 3.692
+   "score": 3.639
   },
   {
    "title": "Calhanoglu-Inter, svolta inattesa: tutta colpa degli infortuni",
@@ -333,9 +305,9 @@
    "published": "2026-09-16T14:45:39+00:00",
    "image": "",
    "id": "48b5e73426c0",
-   "age_minutes": 1897,
+   "age_minutes": 2035,
    "also": [],
-   "score": 3.658
+   "score": 3.611
   },
   {
    "title": "Juventus, Spalletti contrattacca: “Non deluderò Carnevali”. La risposta su Conte",
@@ -347,9 +319,9 @@
    "published": "2026-09-16T14:16:05+00:00",
    "image": "",
    "id": "9e284e734f3a",
-   "age_minutes": 1926,
+   "age_minutes": 2065,
    "also": [],
-   "score": 3.648
+   "score": 3.603
   },
   {
    "title": "Vicario-Inter, spunta un clamoroso retroscena: Juve sorpresa",
@@ -361,12 +333,254 @@
    "published": "2026-09-16T13:15:44+00:00",
    "image": "",
    "id": "eafb2c2c7b02",
-   "age_minutes": 1986,
+   "age_minutes": 2125,
    "also": [],
-   "score": 3.627
+   "score": 3.586
   }
  ],
  "raw": [
+  {
+   "title": "Juventus, Kelly e Zhegrova pronti a tornare contro l’Atalanta",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-kelly-zhegrova-pronti-tornare-l-atalanta-793461",
+   "summary": "Archiviata la goleada europea contro il NEC, la Juventus può preparare la sfida con l’Atalanta recuperando due alternative importanti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T23:30:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e2/e2945366e5b887eb246b1703475d896c-39766-oooz0000.jpeg",
+   "id": "4851c3ab4945"
+  },
+  {
+   "title": "Çelik sorprende contro il NEC: la pagella dell’esterno bianconero",
+   "link": "https://www.tuttojuve.com/altre-notizie/celik-sorprende-nec-pagella-dell-esterno-bianconero-793440",
+   "summary": "Çelik, pagella da 7 – Adattato sulla corsia sinistra nel 3-4-2-1 scelto da Luciano Spalletti, Zeki Çelik offre una prestazione ordinata e concreta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T23:20:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b5/b5880e4d408b42aa7d65e99499af5d71-42529-oooz0000.jpeg",
+   "id": "d89ad0e59b89"
+  },
+  {
+   "title": "Marocchi a Sky promuove Douglas Luiz e Woltemade: «Ora voglio vederli con l’Atalanta»",
+   "link": "https://www.tuttojuve.com/altre-notizie/marocchi-sky-promuove-douglas-luiz-woltemade-ora-voglio-vederli-l-atalanta-793460",
+   "summary": "Il 5-0 rifilato al NEC restituisce fiducia alla Juventus, ma Giancarlo Marocchi invita a distinguere le indicazioni positive dalle risposte ancora incomplete.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T23:10:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/903ed446df80124c4e0fa4e28f683ed1-26685-oooz0000.jpeg",
+   "id": "10654e18a081"
+  },
+  {
+   "title": "Kolo Muani si sblocca contro il NEC: la pagella del francese",
+   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-sblocca-nec-pagella-francese-793439",
+   "summary": "Kolo Muani, ingresso da 7,5 – Parte dalla panchina, entra nella ripresa e impiega poco tempo per incidere.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T23:00:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4eec4ec016b7c6835f8bcfd3e29d2b59-14768-oooz0000.jpeg",
+   "id": "248fdcf1b660"
+  },
+  {
+   "title": "Nico Gonzalez in mixed zone, ritrova la fiducia: «Ora voglio dimostrarlo in campo»",
+   "link": "https://www.tuttojuve.com/altre-notizie/nico-gonzalez-mixed-zone-ritrova-fiducia-ora-voglio-dimostrarlo-campo-793457",
+   "summary": "Nico Gonzalez si è ripreso la Juventus attraverso prestazioni, gol e una nuova serenità.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:50:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/afb205a982fc1a12ab1a20ae1f0667d0-04524-oooz0000.jpeg",
+   "id": "cefc50555ea2"
+  },
+  {
+   "title": "Alajbegovic incanta contro il NEC: la pagella del talento bianconero",
+   "link": "https://www.tuttojuve.com/altre-notizie/alajbegovic-incanta-nec-pagella-talento-bianconero-793438",
+   "summary": "Alajbegovic, partita da 7,5 – Kerim Alajbegovic continua a bruciare le tappe.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:40:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c2/c29d7404922ec7dbfa8618ae58beb825-42479-oooz0000.jpeg",
+   "id": "27b59223aaad"
+  },
+  {
+   "title": "Disastro Nec, ecco le pagelle, Tadic delude",
+   "link": "https://www.tuttojuve.com/l-avversario/disastro-nec-pagelle-tadic-delude-793454",
+   "summary": "Il NEC esce dall’Allianz Stadium con una pesante sconfitta e numerose insufficienze.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:30:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8a/8a05fca89020de5b4c113f050c36c7ea-90544-oooz0000.jpeg",
+   "id": "46e301c01407"
+  },
+  {
+   "title": "Italia, Mancini prepara due novità: Mandragora e Sebastiano Esposito verso la convocazione",
+   "link": "https://www.tuttojuve.com/altre-notizie/italia-mancini-prepara-novita-mandragora-sebastiano-esposito-convocazione-793458",
+   "summary": "Si avvicina il momento delle scelte di Roberto Mancini.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:25:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d0/d0f83ce84269e0d66d6672a1e7b4cd96-23046-oooz0000.jpeg",
+   "id": "214d71417888"
+  },
+  {
+   "title": "Nico Gonzalez trascina la Juventus: la pagella contro il NEC",
+   "link": "https://www.tuttojuve.com/altre-notizie/nico-gonzalez-trascina-juventus-pagella-nec-793437",
+   "summary": "Nico Gonzalez 7,5 – Gol, rigore conquistato e un gesto da compagno vero. L’argentino è uno dei grandi protagonisti della vittoria per 5-0 sul NEC, confermandosi un elemento centrale nella Juventus di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:20:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/03/033b525dd60671b2dce6e8ae73f084d1-47945-oooz0000.jpeg",
+   "id": "45e160242187"
+  },
+  {
+   "title": "Juventus, la cinquina fa bene ma vietato illudersi: il NEC è poca cosa",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-cinquina-vietato-illudersi-nec-poca-793432",
+   "summary": "Cinque gol servivano. Servivano alla classifica, al morale e soprattutto agli attaccanti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:15:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/35/352be227ce204826a6e90d97c0372bf5-09911-oooz0000.jpeg",
+   "id": "749588d7bbfb"
+  },
+  {
+   "title": "Nico, il messaggio sui social della Juventus: \"Ciao tifosi sono contento per questa vittoria, ci vediamo allo stadium per le prossime partite\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/nico-messaggio-social-juventus-ciao-tifosi-contento-vittoria-vediamo-stadium-prossime-partite-793449",
+   "summary": "Nico Gonzalez continua a trasformare i dubbi dell’estate in applausi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:10:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/afb205a982fc1a12ab1a20ae1f0667d0-04524-oooz0000.jpeg",
+   "id": "6d76651a20f1"
+  },
+  {
+   "title": "Questi sono anni da \"Juve di Moratti\", adesso basta!",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juve-moratti-basta-793406",
+   "summary": "In attesa di capire se la FIGC sarà commissariata e se prima o poi qualcuno avrà la dignità di chiedere ai vari Butti e Viglione (risultati dalle intercettazioni molto attivi nelle “interferenze” con il designatore ar ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:01:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/88/8847f3259ede7ea7c9f8fdb347a894f9-09241-oooz0000.jpeg",
+   "id": "4a59638c0343"
+  },
+  {
+   "title": "Woltemade, primo gol con la Juventus: la pagella contro il NEC",
+   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-gol-juventus-pagella-nec-793434",
+   "summary": "Woltemade, gara da 7.La prima da titolare regala a Nick Woltemade anche il primo gol con la maglia della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T22:00:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a6655c3c03b89985bb404fe9fe5d076-08724-oooz0000.jpeg",
+   "id": "7e989fdb9183"
+  },
+  {
+   "title": "Spalletti in conferenza: “Sarr è un cavallino di razza. McKennie sa far tutto. Douglas Luiz può migliorare perché…”",
+   "link": "https://www.tuttojuve.com/primo-piano/spalletti-conferenza-793362",
+   "summary": "Luciano Spalletti ha parlato in conferenza stampa dopo la gara contro il Nec. Tuttojuve.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:59:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/28/28dc941d64e41001aaddd5f7ce4cddaf-52703-oooz0000.jpeg",
+   "id": "fe5f491565ae"
+  },
+  {
+   "title": "Marocchi: “Sarr arrugginito”. E Capello lo bacchetta: “Lo hai visto il passaggio in verticale?”",
+   "link": "https://www.tuttojuve.com/altre-notizie/marocchi-sarr-arrugginito-capello-bacchetta-lo-passaggio-verticale-793452",
+   "summary": "Nel post partita di Juventus-Nec, Fabio Capello, presente negli studi di Sky Sportm ha chiesto un parere a Giancarlo Marocchi sulla prestazione di Pape Sarr: \"Sarr come ti è sembrato? Arrugginito.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:58:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b1/b1d8eaabffe186c81529782ead7d663a-12635-oooz0000.jpeg",
+   "id": "36140876750e"
+  },
+  {
+   "title": "Juventus-Nec 5-0, le pagelle dei bianconeri: Alajbegovic si esalta, Nico Gonzalez è l'uomo in più",
+   "link": "https://www.tuttojuve.com/il-pagellone-dei-campioni/juventus-nec-5-0-pagelle-bianconeri-alajbegovic-esalta-nico-gonzalez-793455",
+   "summary": "Grabara 6.5 – Vince all'esordio in bianconero e si regala anche un assist, quello per Nico Gonzalez che stappa il match in avvio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:55:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/44/448ac4737f527c46713a1a3af70d1453-62760-oooz0000.jpeg",
+   "id": "8898babb71e9"
+  },
+  {
+   "title": "Costacurta: “Sento sottovalutare Alajbegovic e invece questo ragazzo è forte”",
+   "link": "https://www.tuttojuve.com/altre-notizie/costacurta-793447",
+   "summary": "La Juventus si è rialzata dopo il ko contro il Sassuolo e ha battuto il Nec 5-0. Alessandro Costacurta, dagli sfidi di Sky Sport, ha parlato della prestazione dei bianconeri.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:55:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/76/766149b581e5bfa8dfd81447ea7fe48b-45730-oooz0000.jpeg",
+   "id": "5b9a9af2016e"
+  },
+  {
+   "title": "Juventus-Nec 5-0, Capuano: \"Tutto troppo facile, ma...\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nec-5-0-capuano-tutto-facile-ma-793446",
+   "summary": "La Juventus riparte con una larga vittoria e inaugura nel migliore dei modi il proprio cammino in Europa League.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:50:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/98/984e363e8633887daa6ed1d43a0ead42-04170-oooz0000.jpeg",
+   "id": "cb593b42a6c4"
+  },
+  {
+   "title": "Cinquina al Norwich, il City avanza in Coppa di Lega",
+   "link": "https://www.tuttojuve.com/altre-notizie/cinquina-norwich-city-avanza-coppa-lega-793445",
+   "summary": "(ANSA) - ROMA, 17 SET - Un secco 5-0 rifilato al Norwich consente al Manchester City di avanzare al quarto turno della Coppa di Lega (Carabao Cup).",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:47:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/108c3d13e3b8083cdcd4161db4221ef7-89051-oooz0000.jpeg",
+   "id": "76f6bc64e6e9"
+  },
+  {
+   "title": "Schreuder in conferenza: “Non siamo all’altezza della Juve”",
+   "link": "https://www.tuttojuve.com/altre-notizie/schreuder-conferenza-793363",
+   "summary": "Dick Schreuder ha parlato in conferenza stampa dopo la gara contro con la Juventus. Tuttojuve.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-17T21:44:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/69/69e564cdbd2bc8edfe67b53ddb13b85d-71042-oooz0000.jpeg",
+   "id": "32dd1b0c6521"
+  },
+  {
+   "title": "Comunale co-conduttore a Le Iene: \"Proposto una cravatta azzurra, ma devo tenermi il bianconero\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/comunale-co-conduttore-iene-proposto-cravatta-azzurra-tenermi-bianconero-656586",
+   "summary": "Vincenzo Comunale, comico e conduttore televisivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Faccio parte del cas ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T00:00:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cb/cb5b6d54e70163c10b8545b87e69b2b0-49906-oooz0000.jpeg",
+   "id": "e39a6ca3cf2b"
+  },
+  {
+   "title": "“Scugnizzo Viola”, napoletano ma tifoso della Fiorentina: “Vi dico come nasce la mia passione”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/scugnizzo-viola-napoletano-tifoso-fiorentina-vi-dico-nasce-passione-656612",
+   "summary": "Francesco Pistola è un napoletano doc, ma con il cuore rigorosamente viola.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-17T23:00:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ed/edfd2538018bcadb5ff3d9afa74f9010-91577-oooz0000.jpeg",
+   "id": "ccc2034ba34e"
+  },
   {
    "title": "Radio Tutto Napoli, il palinsesto di oggi: le trasmissioni partiranno dalle 8",
    "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-8-656424",
@@ -498,9 +712,9 @@
    "published": "2026-09-17T20:10:25+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/15/1512bc146b2065b8bdc56fbb43db2dcb-68655-oooz0000.jpeg",
    "id": "8e7d4e231cbf",
-   "age_minutes": 132,
+   "age_minutes": 271,
    "also": [],
-   "score": 6.504
+   "score": 5.904
   },
   {
    "title": "Conte voleva tornare alla Juve dopo lo scudetto con il Napoli, poi il dietrofront: il retroscena",
@@ -523,17 +737,6 @@
    "published": "2026-09-17T19:50:35+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9b/9bc809be4512b0d0aafa68d96c9fe9b1-66084-oooz0000.jpeg",
    "id": "6f4a096ffbf1"
-  },
-  {
-   "title": "“Scugnizzo Viola”, napoletano ma tifoso della Fiorentina: “Vi dico come nasce la mia passione”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/scugnizzo-viola-napoletano-tifoso-fiorentina-vi-dico-nasce-passione-656612",
-   "summary": "Francesco Pistola è un napoletano doc, ma con il cuore rigorosamente viola.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-17T19:40:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ed/edfd2538018bcadb5ff3d9afa74f9010-91577-oooz0000.jpeg",
-   "id": "ccc2034ba34e"
   },
   {
    "title": "Napoli-Bologna, Fedele: “Peggior 1T degli ultimi anni! Squadra logora, soffrirà per arrivare 4ª”",
@@ -580,15 +783,48 @@
    "id": "019723c5da08"
   },
   {
-   "title": "Amorim come Spalletti? Prima sconfitta e già aleggia lo spettro di Conte",
-   "link": "https://www.tuttonapoli.net/serie-a/amorim-spalletti-sconfitta-aleggia-spettro-conte-656606",
-   "summary": "Antonio Conte è ormai una presenza che aleggia sulle panchine della Serie A, dove bastano poche partite e qualche risultato negativo per alimentare dubbi e malumori.",
-   "source": "TuttoNapoli",
+   "title": "Riflessioni in corso su Amorim? Da Milanello interviene Di Stefano di Sky",
+   "link": "https://www.milannews.it/calciomercato-milan/riflessioni-corso-amorim-milanello-interviene-stefano-sky-630130",
+   "summary": "Peppe Di Stefano, giornalista, si è così espresso a SkySport da Milanello sulla situazione attuale del Milan di Amorim: \"Credo che non ci sia mai stato un allenatore così voluto, scortato e protetto come Ruben Amorim da part ...",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-17T18:50:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/db/dbbf0e2cb10dac906661a6e6870e51b4-48999-oooz0000.jpeg",
-   "id": "1e5b60b1945f"
+   "scope": "Milan",
+   "published": "2026-09-17T23:00:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/53/53e064f3d92c83e4e53f892d722ebc80-23033-oooz0000.jpeg",
+   "id": "de5a54405917"
+  },
+  {
+   "title": "Letizia: \"Occhio a ciò che desta preoccupazione in spogliatoio. E Cardinale non è soddisfatto\"",
+   "link": "https://www.milannews.it/news/letizia-occhio-desta-preoccupazione-spogliatoio-cardinale-soddisfatto-630137",
+   "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube commentando la situazione attuale del Milan: \"Presentarsi con una formazione simile finisce per indispettire il pubblico, i giornalisti, gli addetti ai lavor ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-17T22:48:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b3/b3fe9552ec4e57c856219e2a5054676d-86859-oooz0000.jpeg",
+   "id": "00b7c6354af6"
+  },
+  {
+   "title": "Silva aveva caricato i suoi con questa statistica: è la prima sconfitta della storia per il Milan contro il Benfica",
+   "link": "https://www.milannews.it/news/sconfitta-storia-milan-benfica-silva-caricato-statistica-630094",
+   "summary": "Quella di ieri a San Siro, è la prima vittoria del Benfica contro il Milan. Nei 7 precedenti il Milan aveva vinto cinque volte mentre 2 sono i pareggi.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-17T22:36:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ff/ff56cb85b7ae63a37dd980f783ca6541-19775-oooz0000.jpeg",
+   "id": "0623d5b4a10c"
+  },
+  {
+   "title": "Pellegatti disperato: \"Se continuiamo così saremo in 1500, altro che 50mila. Quando i tifosi vedono che non si schierano i migliori...\"",
+   "link": "https://www.milannews.it/news/pellegatti-rivolge-amorim-no-630120",
+   "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube commentando la prestazione del Milan contro il Benfica: \"No, caro Ruben Amorim, non va assolutamente bene.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-17T22:24:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b5/b54ebdb9e4dba81088acec5a4e45b971-92761-oooz0000.jpeg",
+   "id": "e07acfc8016a"
   },
   {
    "title": "Pedullà: \"Ma Pulisic cos'ha? La rogna? Amorim ha fatto la formazione tirando i dadi\"",
@@ -767,276 +1003,6 @@
    "id": "36026ac6f73f"
   },
   {
-   "title": "Skydance, partecipata da Cardinale, firma una partnership con la casa di produzione di Lewis Hamilton",
-   "link": "https://www.milannews.it/news/skydance-partecipata-cardinale-firma-partnership-casa-produzione-lewis-hamilton-630148",
-   "summary": "Gli investimenti legati al nome di Gerry Cardinale e RedBird Capital Partners continuano ad aumentare nel campo dell'entertainment.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-17T19:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e2/e2dad27cbcfcea9d0812b0068a98c335-29939-oooz0000.jpeg",
-   "id": "7aeec10528b6",
-   "age_minutes": 202,
-   "also": [],
-   "score": 6.185
-  },
-  {
-   "title": "Guadagno: \"La verità è che, invece di migliorare e crescere con le partite, il Milan si sta involvendo\"",
-   "link": "https://www.milannews.it/news/guadagno-la-verita-che-migliorare-crescere-partite-milan-involvendo-630083",
-   "summary": "Pietro Guadagno, giornalista, si è così espresso sul Corriere dello Sport commentando la prestazione del Milan contro il Benfica: \"Dopo un anno di assenza, il Milan si è riaffacciato in Europa, ma l'ha fatto nel…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-17T18:48:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/7e/7ec6e6f3b77827b17e67b6a6853bd092-59563-oooz0000.jpeg",
-   "id": "9825a8786bad",
-   "age_minutes": 213,
-   "also": [],
-   "score": 4.537
-  },
-  {
-   "title": "Un altro record per Messi: ha segnato la rete numero 100 con l'Inter Miami",
-   "link": "https://www.milannews.it/news/calcio-messi-segna-rete-numero-100-inter-miami-630097",
-   "summary": "(ANSA) - ROMA, 17 SET - Lionel Messi ha segnato la sua 100/a rete con l'Inter Miami, assicurando alla sua squadra la Campeones Cup con una vittoria per 2-0 sul Cruz Azul.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-17T18:36:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/24/245e872222840ea08ddfc73f2dea2d3c-85944-oooz0000.jpeg",
-   "id": "08de415d2e8c"
-  },
-  {
-   "title": "Pasquino ironico: \"Amorim allenatore di buon cuore: dopo aver regalato un tempo alla Lazio, ha fatto altrettanto col Benfica\"",
-   "link": "https://www.milannews.it/news/pasquino-ironico-amorim-allenatore-buon-cuore-regalato-lazio-altrettanto-benfica-630084",
-   "summary": "Stefano Pasquino, giornalista, si è così espresso su Tuttosport commentando la prestazione del Milan contro il Benfica: \"È già notte fonda per il Milan, giustamente fischiatissimo da San Siro rossonero dopo la sc ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-17T18:24:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/65/65ce0ee0ae5e437896203e52d958b753-90059-oooz0000.jpeg",
-   "id": "64e7d850b2e0"
-  },
-  {
-   "title": "Juventus, la cinquina fa bene ma vietato illudersi: il NEC è poca cosa",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-cinquina-vietato-illudersi-nec-poca-793432",
-   "summary": "Cinque gol servivano. Servivano alla classifica, al morale e soprattutto agli attaccanti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T22:15:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/35/352be227ce204826a6e90d97c0372bf5-09911-oooz0000.jpeg",
-   "id": "749588d7bbfb"
-  },
-  {
-   "title": "Nico, il messaggio sui social della Juventus: \"Ciao tifosi sono contento per questa vittoria, ci vediamo allo stadium per le prossime partite\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/nico-messaggio-social-juventus-ciao-tifosi-contento-vittoria-vediamo-stadium-prossime-partite-793449",
-   "summary": "Nico Gonzalez continua a trasformare i dubbi dell’estate in applausi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T22:10:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/afb205a982fc1a12ab1a20ae1f0667d0-04524-oooz0000.jpeg",
-   "id": "6d76651a20f1"
-  },
-  {
-   "title": "Questi sono anni da \"Juve di Moratti\", adesso basta!",
-   "link": "https://www.tuttojuve.com/firme-bianconere/juve-moratti-basta-793406",
-   "summary": "In attesa di capire se la FIGC sarà commissariata e se prima o poi qualcuno avrà la dignità di chiedere ai vari Butti e Viglione (risultati dalle intercettazioni molto attivi nelle “interferenze” con il designatore ar ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T22:01:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/88/8847f3259ede7ea7c9f8fdb347a894f9-09241-oooz0000.jpeg",
-   "id": "4a59638c0343"
-  },
-  {
-   "title": "Woltemade, primo gol con la Juventus: la pagella contro il NEC",
-   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-gol-juventus-pagella-nec-793434",
-   "summary": "Woltemade, gara da 7.La prima da titolare regala a Nick Woltemade anche il primo gol con la maglia della Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T22:00:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a6655c3c03b89985bb404fe9fe5d076-08724-oooz0000.jpeg",
-   "id": "7e989fdb9183"
-  },
-  {
-   "title": "Spalletti in conferenza: “Sarr è un cavallino di razza. McKennie sa far tutto. Douglas Luiz può migliorare perché…”",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-conferenza-793362",
-   "summary": "Luciano Spalletti ha parlato in conferenza stampa dopo la gara contro il Nec. Tuttojuve.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:59:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/28/28dc941d64e41001aaddd5f7ce4cddaf-52703-oooz0000.jpeg",
-   "id": "fe5f491565ae"
-  },
-  {
-   "title": "Marocchi: “Sarr arrugginito”. E Capello lo bacchetta: “Lo hai visto il passaggio in verticale?”",
-   "link": "https://www.tuttojuve.com/altre-notizie/marocchi-sarr-arrugginito-capello-bacchetta-lo-passaggio-verticale-793452",
-   "summary": "Nel post partita di Juventus-Nec, Fabio Capello, presente negli studi di Sky Sportm ha chiesto un parere a Giancarlo Marocchi sulla prestazione di Pape Sarr: \"Sarr come ti è sembrato? Arrugginito.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:58:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b1/b1d8eaabffe186c81529782ead7d663a-12635-oooz0000.jpeg",
-   "id": "36140876750e"
-  },
-  {
-   "title": "Juventus-Nec 5-0, le pagelle dei bianconeri: Alajbegovic si esalta, Nico Gonzalez è l'uomo in più",
-   "link": "https://www.tuttojuve.com/il-pagellone-dei-campioni/juventus-nec-5-0-pagelle-bianconeri-alajbegovic-esalta-nico-gonzalez-793455",
-   "summary": "Grabara 6.5 – Vince all'esordio in bianconero e si regala anche un assist, quello per Nico Gonzalez che stappa il match in avvio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:55:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/44/448ac4737f527c46713a1a3af70d1453-62760-oooz0000.jpeg",
-   "id": "8898babb71e9"
-  },
-  {
-   "title": "Costacurta: “Sento sottovalutare Alajbegovic e invece questo ragazzo è forte”",
-   "link": "https://www.tuttojuve.com/altre-notizie/costacurta-793447",
-   "summary": "La Juventus si è rialzata dopo il ko contro il Sassuolo e ha battuto il Nec 5-0. Alessandro Costacurta, dagli sfidi di Sky Sport, ha parlato della prestazione dei bianconeri.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:55:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/76/766149b581e5bfa8dfd81447ea7fe48b-45730-oooz0000.jpeg",
-   "id": "5b9a9af2016e"
-  },
-  {
-   "title": "Juventus-Nec 5-0, Capuano: \"Tutto troppo facile, ma...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nec-5-0-capuano-tutto-facile-ma-793446",
-   "summary": "La Juventus riparte con una larga vittoria e inaugura nel migliore dei modi il proprio cammino in Europa League.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:50:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/98/984e363e8633887daa6ed1d43a0ead42-04170-oooz0000.jpeg",
-   "id": "cb593b42a6c4"
-  },
-  {
-   "title": "Cinquina al Norwich, il City avanza in Coppa di Lega",
-   "link": "https://www.tuttojuve.com/altre-notizie/cinquina-norwich-city-avanza-coppa-lega-793445",
-   "summary": "(ANSA) - ROMA, 17 SET - Un secco 5-0 rifilato al Norwich consente al Manchester City di avanzare al quarto turno della Coppa di Lega (Carabao Cup).",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:47:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/108c3d13e3b8083cdcd4161db4221ef7-89051-oooz0000.jpeg",
-   "id": "76f6bc64e6e9"
-  },
-  {
-   "title": "Schreuder in conferenza: “Non siamo all’altezza della Juve”",
-   "link": "https://www.tuttojuve.com/altre-notizie/schreuder-conferenza-793363",
-   "summary": "Dick Schreuder ha parlato in conferenza stampa dopo la gara contro con la Juventus. Tuttojuve.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:44:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/69/69e564cdbd2bc8edfe67b53ddb13b85d-71042-oooz0000.jpeg",
-   "id": "32dd1b0c6521"
-  },
-  {
-   "title": "Del Piero: “La risposta più bella di oggi della Juventus è stata…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/piero-793431",
-   "summary": "La Juventus ha vinto la sua prima gara di Europa League contro il Nec. Alessandro Del Piero, dagli studi di Sky Sport, ha analizzato la prestazione della Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:40:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/70/70ba045111df2d3015b7f44a7eaef60b-20387-oooz0000.jpeg",
-   "id": "0034e831cef7"
-  },
-  {
-   "title": "Alajbegovic a Sky: “Oggi la cosa più importante è la vittoria. Spalletti è un grande allenatore che mi dà fiducia”",
-   "link": "https://www.tuttojuve.com/altre-notizie/alajbegovic-sky-oggi-importante-vittoria-spalletti-allenatore-da-fiducia-793443",
-   "summary": "Kerim Alajbegovic ha parlato ai microfoni di Sky Sport dopo la gara contro il Nec: Quali sono le tue prime impressioni e le tue sensazioni dopo questa partita molto importante per la Juventus? \"Sono davvero fiero del mio gol e guardo ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:39:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e1/e18dede79055274ab233018e47799a93-49113-oooz0000.jpeg",
-   "id": "c09fbde93c8a"
-  },
-  {
-   "title": "Spalletti a Sky: \"Sono soddisfattissimo, entrati in campo con lucidità di idee. La squadra può interpretare bene questo modulo. Complimenti a Grabara. Su Kolo Muani...\"",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-sky-sono-soddisfattissimo-793442",
-   "summary": "Luciano Spalletti ha parlato ai microfoni di Sky Sport dopo Juventus-NEC (5-0). Le parole dell'allenatore della Juventus: Una risposta importante, hanno segnato tutti gli attaccanti, non avete concesso nulla.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:24:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d1/d1e06ea4416387f5e969352834a1ee5d-53449-oooz0000.jpeg",
-   "id": "a56872525a82"
-  },
-  {
-   "title": "Woltemade a Sky: “Felice per il gol, perché è fondamentale per un attaccante. Ringrazio Nico per avermi lasciato il rigore. Ma non sono contento di come…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-sky-793441",
-   "summary": "Nick Woltemade ha parlato ai microfoni di Sky Sport dopo la gara contro il Nec: Felice per la partita? Qual è la tua prima impressione dopo questa importante vittoria per la Juventus? \"Sì, sono davvero felice, ovviament ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:21:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c2/c21d800cb06b2a9d39501470171c3c14-23612-oooz0000.jpeg",
-   "id": "6fb580c4cca7"
-  },
-  {
-   "title": "Schuurs a Sky: “Juventus troppo forte per noi, ma sapevamo che era una partita difficile”",
-   "link": "https://www.tuttojuve.com/altre-notizie/schuurs-sky-juventus-prete-noi-793436",
-   "summary": "Peer Schuurs ha parlato ai microfoni di Sky Sport dopo la gara con la Juventus di Europa League: Ti chiedo subito una sensazione, perché ieri parlavi di Torino come casa tua.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:15:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/fa/faf6bdb40224ec523d40336d9322eaee-45245-813o73o1536o796z0c92.jpeg",
-   "id": "b943f85b7d95"
-  },
-  {
-   "title": "Nico Gonzalez a Sky: \"Avevamo bisogno di questa vittoria. Oggi mi trovo bene in questa squadra grazie alla fiducia di mister e compagni. Speriamo che per Kolo e Woltemade sia solo l'inizio\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/nico-gonzalez-avevamo-bisogno-vittoria-793435",
-   "summary": "Nico Gonzalez commenta il largo successo sui NEC ai microfoni di Sky Sport. Le parole dell'argentino: Hai aperto questa serata che per voi ci voleva.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:12:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/03/033b525dd60671b2dce6e8ae73f084d1-47945-oooz0000.jpeg",
-   "id": "52dcf83e2a6c"
-  },
-  {
-   "title": "Capello: “La Juventus ha sfruttato le occasioni che ha creato”",
-   "link": "https://www.tuttojuve.com/altre-notizie/capello-la-juventus-sfruttato-occasioni-creato-793430",
-   "summary": "La Juventus ha battuto il Nec 5-0 e i bianconeri hanno dato una buona risposta dopo la gara contro il Sassuolo. Fabio Capello ha analizzato la prestazione della squadra di Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:10:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8d/8d6a8e11159829477d769e85ffbeff0e-81492-oooz0000.jpeg",
-   "id": "c5519d45d63d"
-  },
-  {
-   "title": "Juventus-NEC 5-0, la Signora riparte con una cinquina europea",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-nec-5-0-la-signora-riparte-con-una-cinquina-europea-793429",
-   "summary": "La Juventus cancella almeno in parte la brutta sconfitta contro il Sassuolo e inaugura il proprio cammino in Europa League con una larga vittoria.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:05:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d5/d53dc71d2bb7f427cf86b3125cb892a8-06466-oooz0000.jpeg",
-   "id": "76e5e2f22dda"
-  },
-  {
-   "title": "Juventus travolgente col Nec, Falci: \"Buona la prima, ma l'Atalanta sarà di altro tenore\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-travolgente-nec-falci-buona-prima-atalanta-tenore-793433",
-   "summary": "Esordio senza problemi in Europa League per la Juventus, che all'Allianz Stadium supera con un netto 5-0 il Nec Nijmegen e ritrova il successo dopo la pesante battuta d'arresto contro il Sassuolo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-17T21:00:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8d/8d6a8e11159829477d769e85ffbeff0e-81492-oooz0000.jpeg",
-   "id": "32826828aa53"
-  },
-  {
    "title": "Roma e Inter, uomo contro uomo a tutto campo? Le differenze",
    "link": "https://www.fcinternews.it/editoriale/roma-inter-uomo-contro-uomo-le-differenze-1018607",
    "summary": "Dopo la rimonta realizzata contro il Napoli, per l'Inter arriva il secondo test rilevante in campionato.",
@@ -1123,9 +1089,9 @@
    "published": "2026-09-17T20:28:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9f/9fddd3872e37d7e9352f9ad426da106e-17027-oooz0000.jpeg",
    "id": "d4ebfa5fdf52",
-   "age_minutes": 114,
+   "age_minutes": 253,
    "also": [],
-   "score": 8.59
+   "score": 7.974
   },
   {
    "title": "Alexiou vola con l'AEK Atene: doppietta in Coppa di Grecia",
@@ -1192,9 +1158,9 @@
    "published": "2026-09-17T19:01:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/73/739796e51375827cd127a647ebdc4f52-77342-oooz0000.jpeg",
    "id": "be7d4e205f53",
-   "age_minutes": 201,
+   "age_minutes": 340,
    "also": [],
-   "score": 6.189
+   "score": 5.646
   },
   {
    "title": "L'Inter macina risultati positivi: 29 nelle ultime 30 partite di A",
@@ -1261,9 +1227,399 @@
    "published": "2026-09-17T17:37:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/07/07850fda6d985112f3d5afb0d04efaba-51657-oooz0000.jpeg",
    "id": "27c899a35bf6",
-   "age_minutes": 285,
+   "age_minutes": 424,
    "also": [],
-   "score": 4.248
+   "score": 3.767
+  },
+  {
+   "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
+   "link": "https://www.calciomercato.it/2026/09/17/la-panchina-di-stroppa-traballa-spunta-tudor-per-il-venezia/",
+   "summary": "L'articolo La panchina di Stroppa traballa, spunta Tudor per il Venezia proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T21:15:05+00:00",
+   "image": "",
+   "id": "9ec205916f08",
+   "age_minutes": 206,
+   "also": [],
+   "score": 6.369
+  },
+  {
+   "title": "PAGELLE e TABELLINO Juventus-NEC 5-0: Alajbegovic inventa, si sblocca Kolo Muani",
+   "link": "https://www.calciomercato.it/2026/09/17/pagelle-e-tabellino-juventus-nec-5-0-alajbegovic-inventa-si-sblocca-kolo-muani/",
+   "summary": "L'articolo PAGELLE e TABELLINO Juventus-NEC 5-0: Alajbegovic inventa, si sblocca Kolo Muani proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T20:52:13+00:00",
+   "image": "",
+   "id": "a5c546a60d65"
+  },
+  {
+   "title": "I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT",
+   "link": "https://www.calciomercato.it/2026/09/17/i-convocati-di-mancini-tra-sorprese-ed-esclusioni-le-scelte-del-ct/",
+   "summary": "L'articolo I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T19:11:10+00:00",
+   "image": "",
+   "id": "e9d8bc940045",
+   "age_minutes": 330,
+   "also": [],
+   "score": 5.882
+  },
+  {
+   "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
+   "link": "https://www.calciomercato.it/2026/09/17/anguissa-puo-lasciare-il-napoli-a-gennaio-la-probabile-destinazione/",
+   "summary": "L'articolo Anguissa può lasciare il Napoli a gennaio, la probabile destinazione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T18:01:12+00:00",
+   "image": "",
+   "id": "e4479fe454b2",
+   "age_minutes": 400,
+   "also": [],
+   "score": 5.644
+  },
+  {
+   "title": "Conte ha detto no, clamoroso rifiuto: ora cambia tutto",
+   "link": "https://www.calciomercato.it/2026/09/17/conte-ha-detto-no-clamoroso-rifiuto-ora-cambia-tutto/",
+   "summary": "L'articolo Conte ha detto no, clamoroso rifiuto: ora cambia tutto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T16:09:46+00:00",
+   "image": "",
+   "id": "854c1ddab651",
+   "age_minutes": 511,
+   "also": [],
+   "score": 5.31
+  },
+  {
+   "title": "Roma-Inter, novità Hermoso: le ultime sulle sue condizioni",
+   "link": "https://www.calciomercato.it/2026/09/17/roma-inter-novita-hermoso-le-ultime-sulle-sue-condizioni/",
+   "summary": "L'articolo Roma-Inter, novità Hermoso: le ultime sulle sue condizioni proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T14:53:18+00:00",
+   "image": "",
+   "id": "d7ce80d2e7ac",
+   "age_minutes": 588,
+   "also": [],
+   "score": 5.111
+  },
+  {
+   "title": "Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli",
+   "link": "https://www.calciomercato.it/2026/09/17/frattesi-juve-annuncio-a-sorpresa-in-queste-ore-i-dettagli/",
+   "summary": "L'articolo Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T13:06:41+00:00",
+   "image": "",
+   "id": "a183f3010786",
+   "age_minutes": 694,
+   "also": [],
+   "score": 4.867
+  },
+  {
+   "title": "Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente”",
+   "link": "https://www.calciomercato.it/2026/09/17/monza-juric-non-teme-ribaltoni-abituato-a-tutto-ma-lavoro-eccellente/",
+   "summary": "L'articolo Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T12:31:41+00:00",
+   "image": "",
+   "id": "cdcf8900dbdb",
+   "age_minutes": 729,
+   "also": [],
+   "score": 4.794
+  },
+  {
+   "title": "Lautaro-Barcellona, spunta un nuovo retroscena: cos’è successo",
+   "link": "https://www.calciomercato.it/2026/09/17/lautaro-barcellona-spunta-un-nuovo-retroscena-cose-successo/",
+   "summary": "L'articolo Lautaro-Barcellona, spunta un nuovo retroscena: cos’è successo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T11:25:35+00:00",
+   "image": "",
+   "id": "09d2188e64ac",
+   "age_minutes": 795,
+   "also": [],
+   "score": 4.667
+  },
+  {
+   "title": "Inter, Chivu trema: l’infortunio è più serio del previsto",
+   "link": "https://www.calciomercato.it/2026/09/17/inter-chivu-trema-linfortunio-e-piu-serio-del-previsto/",
+   "summary": "L'articolo Inter, Chivu trema: l’infortunio è più serio del previsto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T09:45:10+00:00",
+   "image": "",
+   "id": "f0979831b69f",
+   "age_minutes": 896,
+   "also": [],
+   "score": 4.496
+  },
+  {
+   "title": "Juve-NEC, le ultime di formazione: Spalletti esclude 3 big",
+   "link": "https://www.calciomercato.it/2026/09/17/juve-nec-le-ultime-di-formazione-spalletti-esclude-3-big/",
+   "summary": "L'articolo Juve-NEC, le ultime di formazione: Spalletti esclude 3 big proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T07:27:35+00:00",
+   "image": "",
+   "id": "a187150a4627",
+   "age_minutes": 1033,
+   "also": [],
+   "score": 4.299
+  },
+  {
+   "title": "Il Bologna ora sogna Raspadori, Palladino può essere decisivo | CM",
+   "link": "https://www.calciomercato.it/2026/09/17/il-bologna-ora-sogna-raspadori-palladino-puo-essere-decisivo-cm/",
+   "summary": "L'articolo Il Bologna ora sogna Raspadori, Palladino può essere decisivo | CM proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T07:01:12+00:00",
+   "image": "",
+   "id": "72a0be9fe0d6",
+   "age_minutes": 1060,
+   "also": [],
+   "score": 4.265
+  },
+  {
+   "title": "Bocciato da Mancini, Cisse non sarà convocato: andrà in under 21",
+   "link": "https://www.calciomercato.it/2026/09/17/bocciato-da-mancini-cisse-non-sara-convocato-andra-in-under-21/",
+   "summary": "L'articolo Bocciato da Mancini, Cisse non sarà convocato: andrà in under 21 proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T05:30:12+00:00",
+   "image": "",
+   "id": "d14bfd498e8e",
+   "age_minutes": 1151,
+   "also": [],
+   "score": 4.159
+  },
+  {
+   "title": "Amorim: “Pronto ad adattarmi, ecco perché Pulisic e Moreira fuori”",
+   "link": "https://www.calciomercato.it/2026/09/16/amorim-pronto-ad-adattarmi-ecco-perche-pulisic-e-moreira-fuori/",
+   "summary": "L'articolo Amorim: “Pronto ad adattarmi, ecco perché Pulisic e Moreira fuori” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T21:29:19+00:00",
+   "image": "",
+   "id": "1856c04ccb70",
+   "age_minutes": 1632,
+   "also": [],
+   "score": 3.779
+  },
+  {
+   "title": "Milan horror, crollo in casa col Benfica: 0-2 ed Europa League in salita",
+   "link": "https://www.calciomercato.it/2026/09/16/milan-horror-crollo-in-casa-col-benfica-0-2-ed-europa-league-in-salita/",
+   "summary": "L'articolo Milan horror, crollo in casa col Benfica: 0-2 ed Europa League in salita proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T20:55:40+00:00",
+   "image": "",
+   "id": "aaf137b13b76",
+   "age_minutes": 1665,
+   "also": [],
+   "score": 3.761
+  },
+  {
+   "title": "Kalulu verso il rinnovo con la Juventus, i bianconeri vogliono blindarlo",
+   "link": "https://www.calciomercato.it/2026/09/16/kalulu-verso-il-rinnovo-con-la-juventus-i-bianconeri-vogliono-blindarlo/",
+   "summary": "L'articolo Kalulu verso il rinnovo con la Juventus, i bianconeri vogliono blindarlo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T19:20:50+00:00",
+   "image": "",
+   "id": "c3bd3418a707",
+   "age_minutes": 1760,
+   "also": [],
+   "score": 5.715
+  },
+  {
+   "title": "Juve, occhi sul nuovo fenomeno inglese: di chi si tratta",
+   "link": "https://www.calciomercato.it/2026/09/16/juve-occhi-sul-nuovo-fenomeno-inglese-di-chi-si-tratta/",
+   "summary": "L'articolo Juve, occhi sul nuovo fenomeno inglese: di chi si tratta proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T18:00:21+00:00",
+   "image": "",
+   "id": "aa8b9a4423b7",
+   "age_minutes": 1841,
+   "also": [],
+   "score": 3.68
+  },
+  {
+   "title": "Italia, subito una novità tra i convocati di Mancini: l’indiscrezione",
+   "link": "https://www.calciomercato.it/2026/09/16/italia-subito-una-novita-tra-i-convocati-di-mancini-lindiscrezione/",
+   "summary": "L'articolo Italia, subito una novità tra i convocati di Mancini: l’indiscrezione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T16:09:33+00:00",
+   "image": "",
+   "id": "bc2463ed5593",
+   "age_minutes": 1951,
+   "also": [],
+   "score": 3.639
+  },
+  {
+   "title": "Calhanoglu-Inter, svolta inattesa: tutta colpa degli infortuni",
+   "link": "https://www.calciomercato.it/2026/09/16/calhanoglu-inter-svolta-inattesa-tutta-colpa-degli-infortuni/",
+   "summary": "L'articolo Calhanoglu-Inter, svolta inattesa: tutta colpa degli infortuni proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T14:45:39+00:00",
+   "image": "",
+   "id": "48b5e73426c0",
+   "age_minutes": 2035,
+   "also": [],
+   "score": 3.611
+  },
+  {
+   "title": "Juventus, Spalletti contrattacca: “Non deluderò Carnevali”. La risposta su Conte",
+   "link": "https://www.calciomercato.it/2026/09/16/juventus-spalletti-contrattacca-non-deludero-carnevali-la-risposta-su-conte/",
+   "summary": "L'articolo Juventus, Spalletti contrattacca: “Non deluderò Carnevali”. La risposta su Conte proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T14:16:05+00:00",
+   "image": "",
+   "id": "9e284e734f3a",
+   "age_minutes": 2065,
+   "also": [],
+   "score": 3.603
+  },
+  {
+   "title": "Vicario-Inter, spunta un clamoroso retroscena: Juve sorpresa",
+   "link": "https://www.calciomercato.it/2026/09/16/vicario-inter-spunta-un-clamoroso-retroscena-juve-sorpresa/",
+   "summary": "L'articolo Vicario-Inter, spunta un clamoroso retroscena: Juve sorpresa proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T13:15:44+00:00",
+   "image": "",
+   "id": "eafb2c2c7b02",
+   "age_minutes": 2125,
+   "also": [],
+   "score": 3.586
+  },
+  {
+   "title": "Milan-Benfica probabili formazioni: Amorim fa fuori 5 big!",
+   "link": "https://www.calciomercato.it/2026/09/16/milan-benfica-probabili-formazioni-amorim-fa-fuori-5-big/",
+   "summary": "L'articolo Milan-Benfica probabili formazioni: Amorim fa fuori 5 big! proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T10:31:39+00:00",
+   "image": "",
+   "id": "cf1439acadc2"
+  },
+  {
+   "title": "Juve, assalto a Palmisani: il piano per bruciare la concorrenza",
+   "link": "https://www.calciomercato.it/2026/09/16/juve-assalto-a-palmisani-il-piano-per-bruciare-la-concorrenza/",
+   "summary": "L'articolo Juve, assalto a Palmisani: il piano per bruciare la concorrenza proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T09:50:04+00:00",
+   "image": "",
+   "id": "46f3b6545ee6"
+  },
+  {
+   "title": "Come cambia il Bologna con Palladino: uomini chiave e modulo rossoblu",
+   "link": "https://www.calciomercato.it/2026/09/16/come-cambia-il-bologna-con-palladino-uomini-chiave-e-modulo-rossoblu/",
+   "summary": "L'articolo Come cambia il Bologna con Palladino: uomini chiave e modulo rossoblu proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T08:38:53+00:00",
+   "image": "",
+   "id": "4f6d7335e6ec"
+  },
+  {
+   "title": "Fabregas nel mirino del Barcellona, è lui il dopo Flick",
+   "link": "https://www.calciomercato.it/2026/09/16/fabregas-nel-mirino-del-barcellona-e-lui-il-dopo-flick/",
+   "summary": "L'articolo Fabregas nel mirino del Barcellona, è lui il dopo Flick proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T06:54:08+00:00",
+   "image": "",
+   "id": "5379079857cb"
+  },
+  {
+   "title": "Rifiutati dalla Serie A, convocati dal Brasile: il messaggio di Ancelotti all’Italia | CM.IT",
+   "link": "https://www.calciomercato.it/2026/09/16/rifiutati-dalla-serie-a-convocati-dal-brasile-il-messaggio-di-ancelotti-allitalia/",
+   "summary": "L'articolo Rifiutati dalla Serie A, convocati dal Brasile: il messaggio di Ancelotti all’Italia | CM.IT proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-16T05:11:45+00:00",
+   "image": "",
+   "id": "969adc46d636"
+  },
+  {
+   "title": "Atalanta su Zhegrova, possibile affare per gennaio",
+   "link": "https://www.calciomercato.it/2026/09/15/atalanta-su-zhegrova-possibile-affare-per-gennaio/",
+   "summary": "L'articolo Atalanta su Zhegrova, possibile affare per gennaio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T21:03:13+00:00",
+   "image": "",
+   "id": "53b847556df9"
+  },
+  {
+   "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
+   "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
+   "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T19:43:38+00:00",
+   "image": "",
+   "id": "2e4dbc8df828"
+  },
+  {
+   "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
+   "link": "https://www.calciomercato.it/2026/09/15/juventus-spalletti-ritrova-due-pedine-in-europa-chance-per-woltemade/",
+   "summary": "L'articolo Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade? proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T19:31:48+00:00",
+   "image": "",
+   "id": "54f2c7d6618d"
+  },
+  {
+   "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
+   "link": "https://www.calciomercato.it/2026/09/15/dal-milan-allal-nassr-colpo-di-scena-improvviso-i-dettagli/",
+   "summary": "L'articolo Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-15T18:00:39+00:00",
+   "image": "",
+   "id": "fc83d3079ce1"
   },
   {
    "title": "Spalletti ‘satisfied’ with Juventus victory and praises Grabara on debut: ‘Let me congratulate him’",
@@ -1484,401 +1840,11 @@
    "published": "2026-09-17T11:48:57+00:00",
    "image": "",
    "id": "8df0176d7d66"
-  },
-  {
-   "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
-   "link": "https://www.calciomercato.it/2026/09/17/la-panchina-di-stroppa-traballa-spunta-tudor-per-il-venezia/",
-   "summary": "L'articolo La panchina di Stroppa traballa, spunta Tudor per il Venezia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T21:15:05+00:00",
-   "image": "",
-   "id": "9ec205916f08",
-   "age_minutes": 67,
-   "also": [],
-   "score": 7.028
-  },
-  {
-   "title": "PAGELLE e TABELLINO Juventus-NEC 5-0: Alajbegovic inventa, si sblocca Kolo Muani",
-   "link": "https://www.calciomercato.it/2026/09/17/pagelle-e-tabellino-juventus-nec-5-0-alajbegovic-inventa-si-sblocca-kolo-muani/",
-   "summary": "L'articolo PAGELLE e TABELLINO Juventus-NEC 5-0: Alajbegovic inventa, si sblocca Kolo Muani proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T20:52:13+00:00",
-   "image": "",
-   "id": "a5c546a60d65"
-  },
-  {
-   "title": "I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT",
-   "link": "https://www.calciomercato.it/2026/09/17/i-convocati-di-mancini-tra-sorprese-ed-esclusioni-le-scelte-del-ct/",
-   "summary": "L'articolo I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T19:11:10+00:00",
-   "image": "",
-   "id": "e9d8bc940045",
-   "age_minutes": 191,
-   "also": [],
-   "score": 6.433
-  },
-  {
-   "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
-   "link": "https://www.calciomercato.it/2026/09/17/anguissa-puo-lasciare-il-napoli-a-gennaio-la-probabile-destinazione/",
-   "summary": "L'articolo Anguissa può lasciare il Napoli a gennaio, la probabile destinazione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T18:01:12+00:00",
-   "image": "",
-   "id": "e4479fe454b2",
-   "age_minutes": 261,
-   "also": [],
-   "score": 6.142
-  },
-  {
-   "title": "Conte ha detto no, clamoroso rifiuto: ora cambia tutto",
-   "link": "https://www.calciomercato.it/2026/09/17/conte-ha-detto-no-clamoroso-rifiuto-ora-cambia-tutto/",
-   "summary": "L'articolo Conte ha detto no, clamoroso rifiuto: ora cambia tutto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T16:09:46+00:00",
-   "image": "",
-   "id": "854c1ddab651",
-   "age_minutes": 372,
-   "also": [],
-   "score": 5.734
-  },
-  {
-   "title": "Roma-Inter, novità Hermoso: le ultime sulle sue condizioni",
-   "link": "https://www.calciomercato.it/2026/09/17/roma-inter-novita-hermoso-le-ultime-sulle-sue-condizioni/",
-   "summary": "L'articolo Roma-Inter, novità Hermoso: le ultime sulle sue condizioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T14:53:18+00:00",
-   "image": "",
-   "id": "d7ce80d2e7ac",
-   "age_minutes": 449,
-   "also": [],
-   "score": 5.49
-  },
-  {
-   "title": "Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli",
-   "link": "https://www.calciomercato.it/2026/09/17/frattesi-juve-annuncio-a-sorpresa-in-queste-ore-i-dettagli/",
-   "summary": "L'articolo Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T13:06:41+00:00",
-   "image": "",
-   "id": "a183f3010786",
-   "age_minutes": 556,
-   "also": [],
-   "score": 5.192
-  },
-  {
-   "title": "Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente”",
-   "link": "https://www.calciomercato.it/2026/09/17/monza-juric-non-teme-ribaltoni-abituato-a-tutto-ma-lavoro-eccellente/",
-   "summary": "L'articolo Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T12:31:41+00:00",
-   "image": "",
-   "id": "cdcf8900dbdb",
-   "age_minutes": 591,
-   "also": [],
-   "score": 5.104
-  },
-  {
-   "title": "Lautaro-Barcellona, spunta un nuovo retroscena: cos’è successo",
-   "link": "https://www.calciomercato.it/2026/09/17/lautaro-barcellona-spunta-un-nuovo-retroscena-cose-successo/",
-   "summary": "L'articolo Lautaro-Barcellona, spunta un nuovo retroscena: cos’è successo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T11:25:35+00:00",
-   "image": "",
-   "id": "09d2188e64ac",
-   "age_minutes": 657,
-   "also": [],
-   "score": 4.949
-  },
-  {
-   "title": "Inter, Chivu trema: l’infortunio è più serio del previsto",
-   "link": "https://www.calciomercato.it/2026/09/17/inter-chivu-trema-linfortunio-e-piu-serio-del-previsto/",
-   "summary": "L'articolo Inter, Chivu trema: l’infortunio è più serio del previsto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T09:45:10+00:00",
-   "image": "",
-   "id": "f0979831b69f",
-   "age_minutes": 757,
-   "also": [],
-   "score": 4.74
-  },
-  {
-   "title": "Juve-NEC, le ultime di formazione: Spalletti esclude 3 big",
-   "link": "https://www.calciomercato.it/2026/09/17/juve-nec-le-ultime-di-formazione-spalletti-esclude-3-big/",
-   "summary": "L'articolo Juve-NEC, le ultime di formazione: Spalletti esclude 3 big proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T07:27:35+00:00",
-   "image": "",
-   "id": "a187150a4627",
-   "age_minutes": 895,
-   "also": [],
-   "score": 4.498
-  },
-  {
-   "title": "Il Bologna ora sogna Raspadori, Palladino può essere decisivo | CM",
-   "link": "https://www.calciomercato.it/2026/09/17/il-bologna-ora-sogna-raspadori-palladino-puo-essere-decisivo-cm/",
-   "summary": "L'articolo Il Bologna ora sogna Raspadori, Palladino può essere decisivo | CM proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T07:01:12+00:00",
-   "image": "",
-   "id": "72a0be9fe0d6",
-   "age_minutes": 921,
-   "also": [],
-   "score": 4.457
-  },
-  {
-   "title": "Bocciato da Mancini, Cisse non sarà convocato: andrà in under 21",
-   "link": "https://www.calciomercato.it/2026/09/17/bocciato-da-mancini-cisse-non-sara-convocato-andra-in-under-21/",
-   "summary": "L'articolo Bocciato da Mancini, Cisse non sarà convocato: andrà in under 21 proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T05:30:12+00:00",
-   "image": "",
-   "id": "d14bfd498e8e",
-   "age_minutes": 1012,
-   "also": [],
-   "score": 4.327
-  },
-  {
-   "title": "Amorim: “Pronto ad adattarmi, ecco perché Pulisic e Moreira fuori”",
-   "link": "https://www.calciomercato.it/2026/09/16/amorim-pronto-ad-adattarmi-ecco-perche-pulisic-e-moreira-fuori/",
-   "summary": "L'articolo Amorim: “Pronto ad adattarmi, ecco perché Pulisic e Moreira fuori” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T21:29:19+00:00",
-   "image": "",
-   "id": "1856c04ccb70",
-   "age_minutes": 1493,
-   "also": [],
-   "score": 3.863
-  },
-  {
-   "title": "Milan horror, crollo in casa col Benfica: 0-2 ed Europa League in salita",
-   "link": "https://www.calciomercato.it/2026/09/16/milan-horror-crollo-in-casa-col-benfica-0-2-ed-europa-league-in-salita/",
-   "summary": "L'articolo Milan horror, crollo in casa col Benfica: 0-2 ed Europa League in salita proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T20:55:40+00:00",
-   "image": "",
-   "id": "aaf137b13b76",
-   "age_minutes": 1527,
-   "also": [],
-   "score": 3.841
-  },
-  {
-   "title": "Kalulu verso il rinnovo con la Juventus, i bianconeri vogliono blindarlo",
-   "link": "https://www.calciomercato.it/2026/09/16/kalulu-verso-il-rinnovo-con-la-juventus-i-bianconeri-vogliono-blindarlo/",
-   "summary": "L'articolo Kalulu verso il rinnovo con la Juventus, i bianconeri vogliono blindarlo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T19:20:50+00:00",
-   "image": "",
-   "id": "c3bd3418a707",
-   "age_minutes": 1621,
-   "also": [],
-   "score": 5.785
-  },
-  {
-   "title": "Juve, occhi sul nuovo fenomeno inglese: di chi si tratta",
-   "link": "https://www.calciomercato.it/2026/09/16/juve-occhi-sul-nuovo-fenomeno-inglese-di-chi-si-tratta/",
-   "summary": "L'articolo Juve, occhi sul nuovo fenomeno inglese: di chi si tratta proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T18:00:21+00:00",
-   "image": "",
-   "id": "aa8b9a4423b7",
-   "age_minutes": 1702,
-   "also": [],
-   "score": 3.742
-  },
-  {
-   "title": "Italia, subito una novità tra i convocati di Mancini: l’indiscrezione",
-   "link": "https://www.calciomercato.it/2026/09/16/italia-subito-una-novita-tra-i-convocati-di-mancini-lindiscrezione/",
-   "summary": "L'articolo Italia, subito una novità tra i convocati di Mancini: l’indiscrezione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T16:09:33+00:00",
-   "image": "",
-   "id": "bc2463ed5593",
-   "age_minutes": 1813,
-   "also": [],
-   "score": 3.692
-  },
-  {
-   "title": "Calhanoglu-Inter, svolta inattesa: tutta colpa degli infortuni",
-   "link": "https://www.calciomercato.it/2026/09/16/calhanoglu-inter-svolta-inattesa-tutta-colpa-degli-infortuni/",
-   "summary": "L'articolo Calhanoglu-Inter, svolta inattesa: tutta colpa degli infortuni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T14:45:39+00:00",
-   "image": "",
-   "id": "48b5e73426c0",
-   "age_minutes": 1897,
-   "also": [],
-   "score": 3.658
-  },
-  {
-   "title": "Juventus, Spalletti contrattacca: “Non deluderò Carnevali”. La risposta su Conte",
-   "link": "https://www.calciomercato.it/2026/09/16/juventus-spalletti-contrattacca-non-deludero-carnevali-la-risposta-su-conte/",
-   "summary": "L'articolo Juventus, Spalletti contrattacca: “Non deluderò Carnevali”. La risposta su Conte proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T14:16:05+00:00",
-   "image": "",
-   "id": "9e284e734f3a",
-   "age_minutes": 1926,
-   "also": [],
-   "score": 3.648
-  },
-  {
-   "title": "Vicario-Inter, spunta un clamoroso retroscena: Juve sorpresa",
-   "link": "https://www.calciomercato.it/2026/09/16/vicario-inter-spunta-un-clamoroso-retroscena-juve-sorpresa/",
-   "summary": "L'articolo Vicario-Inter, spunta un clamoroso retroscena: Juve sorpresa proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T13:15:44+00:00",
-   "image": "",
-   "id": "eafb2c2c7b02",
-   "age_minutes": 1986,
-   "also": [],
-   "score": 3.627
-  },
-  {
-   "title": "Milan-Benfica probabili formazioni: Amorim fa fuori 5 big!",
-   "link": "https://www.calciomercato.it/2026/09/16/milan-benfica-probabili-formazioni-amorim-fa-fuori-5-big/",
-   "summary": "L'articolo Milan-Benfica probabili formazioni: Amorim fa fuori 5 big! proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T10:31:39+00:00",
-   "image": "",
-   "id": "cf1439acadc2"
-  },
-  {
-   "title": "Juve, assalto a Palmisani: il piano per bruciare la concorrenza",
-   "link": "https://www.calciomercato.it/2026/09/16/juve-assalto-a-palmisani-il-piano-per-bruciare-la-concorrenza/",
-   "summary": "L'articolo Juve, assalto a Palmisani: il piano per bruciare la concorrenza proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T09:50:04+00:00",
-   "image": "",
-   "id": "46f3b6545ee6"
-  },
-  {
-   "title": "Come cambia il Bologna con Palladino: uomini chiave e modulo rossoblu",
-   "link": "https://www.calciomercato.it/2026/09/16/come-cambia-il-bologna-con-palladino-uomini-chiave-e-modulo-rossoblu/",
-   "summary": "L'articolo Come cambia il Bologna con Palladino: uomini chiave e modulo rossoblu proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T08:38:53+00:00",
-   "image": "",
-   "id": "4f6d7335e6ec"
-  },
-  {
-   "title": "Fabregas nel mirino del Barcellona, è lui il dopo Flick",
-   "link": "https://www.calciomercato.it/2026/09/16/fabregas-nel-mirino-del-barcellona-e-lui-il-dopo-flick/",
-   "summary": "L'articolo Fabregas nel mirino del Barcellona, è lui il dopo Flick proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T06:54:08+00:00",
-   "image": "",
-   "id": "5379079857cb"
-  },
-  {
-   "title": "Rifiutati dalla Serie A, convocati dal Brasile: il messaggio di Ancelotti all’Italia | CM.IT",
-   "link": "https://www.calciomercato.it/2026/09/16/rifiutati-dalla-serie-a-convocati-dal-brasile-il-messaggio-di-ancelotti-allitalia/",
-   "summary": "L'articolo Rifiutati dalla Serie A, convocati dal Brasile: il messaggio di Ancelotti all’Italia | CM.IT proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-16T05:11:45+00:00",
-   "image": "",
-   "id": "969adc46d636"
-  },
-  {
-   "title": "Atalanta su Zhegrova, possibile affare per gennaio",
-   "link": "https://www.calciomercato.it/2026/09/15/atalanta-su-zhegrova-possibile-affare-per-gennaio/",
-   "summary": "L'articolo Atalanta su Zhegrova, possibile affare per gennaio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T21:03:13+00:00",
-   "image": "",
-   "id": "53b847556df9"
-  },
-  {
-   "title": "Esonerato Tedesco, il Bologna cambia: arriva Palladino",
-   "link": "https://www.calciomercato.it/2026/09/15/esonerato-tedesco-il-bologna-cambia-arriva-palladino/",
-   "summary": "L'articolo Esonerato Tedesco, il Bologna cambia: arriva Palladino proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T19:43:38+00:00",
-   "image": "",
-   "id": "2e4dbc8df828"
-  },
-  {
-   "title": "Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade?",
-   "link": "https://www.calciomercato.it/2026/09/15/juventus-spalletti-ritrova-due-pedine-in-europa-chance-per-woltemade/",
-   "summary": "L'articolo Juventus, Spalletti ritrova due pedine in Europa. Chance per Woltemade? proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T19:31:48+00:00",
-   "image": "",
-   "id": "54f2c7d6618d"
-  },
-  {
-   "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
-   "link": "https://www.calciomercato.it/2026/09/15/dal-milan-allal-nassr-colpo-di-scena-improvviso-i-dettagli/",
-   "summary": "L'articolo Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-15T18:00:39+00:00",
-   "image": "",
-   "id": "fc83d3079ce1"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 26
+  "in_edizione": 24
  }
 }
