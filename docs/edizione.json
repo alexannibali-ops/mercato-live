@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T01:30:41.748305+02:00",
+ "generated_at": "2026-09-19T05:58:19.513482+02:00",
  "articles": [
   {
    "title": "Milan, no alla Premier League e firma fino al 2031: i dettagli",
@@ -11,11 +11,11 @@
    "published": "2026-09-18T21:33:36+00:00",
    "image": "",
    "id": "31031b860ed6",
-   "age_minutes": 117,
+   "age_minutes": 384,
    "also": [],
-   "score": 8.778,
+   "score": 7.695,
    "occhiello": "Milan",
-   "eta": "1 h fa"
+   "eta": "6 h fa"
   },
   {
    "title": "Nazionale, i convocati di Roberto Mancini per la Nations League: la lista ufficiale",
@@ -27,27 +27,11 @@
    "published": "2026-09-18T17:07:39+00:00",
    "image": "",
    "id": "a05b7eb00af3",
-   "age_minutes": 383,
+   "age_minutes": 650,
    "also": [],
-   "score": 7.701,
+   "score": 6.963,
    "occhiello": "Mercato",
-   "eta": "6 h fa"
-  },
-  {
-   "title": "Addio a Sandro Mazzola: si è spenta la leggenda della Grande Inter",
-   "link": "https://www.fcinternews.it/in-primo-piano/inter-addio-sandro-mazzola-spenta-leggenda-inter-1018775",
-   "summary": "L'Inter saluta un'altra bandiera della Grande Inter. Si tratta di Sandro Mazzola, che si è spento oggi in tarda serata.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-18T22:46:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3fe8bb02e1f9f44a636f674d0a8f0d6f-59372-401o210o1243o1052z0b5a.jpeg",
-   "id": "885fa1c6cef8",
-   "age_minutes": 44,
-   "also": [],
-   "score": 6.952,
-   "occhiello": "Inter",
-   "eta": "44 min fa"
+   "eta": "10 h fa"
   },
   {
    "title": "Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic",
@@ -59,11 +43,27 @@
    "published": "2026-09-18T22:02:01+00:00",
    "image": "",
    "id": "f1485463395a",
-   "age_minutes": 88,
+   "age_minutes": 356,
    "also": [],
-   "score": 6.919,
+   "score": 5.791,
    "occhiello": "Sassuolo",
-   "eta": "1 h fa"
+   "eta": "5 h fa"
+  },
+  {
+   "title": "Addio a Sandro Mazzola: si è spenta la leggenda della Grande Inter",
+   "link": "https://www.fcinternews.it/in-primo-piano/inter-addio-sandro-mazzola-spenta-leggenda-inter-1018775",
+   "summary": "L'Inter saluta un'altra bandiera della Grande Inter. Si tratta di Sandro Mazzola, che si è spento oggi in tarda serata.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-18T22:46:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3fe8bb02e1f9f44a636f674d0a8f0d6f-59372-401o210o1243o1052z0b5a.jpeg",
+   "id": "885fa1c6cef8",
+   "age_minutes": 311,
+   "also": [],
+   "score": 5.749,
+   "occhiello": "Inter",
+   "eta": "5 h fa"
   },
   {
    "title": "Archiviata l’inchiesta sulle bussata in Sala VAR: il commento ufficiale dell’AIA",
@@ -75,11 +75,11 @@
    "published": "2026-09-18T22:24:34+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/624a464e41c9a2fdb75a1e04e197647f-64731-oooz0000.jpeg",
    "id": "6fcdf5fe7e35",
-   "age_minutes": 66,
+   "age_minutes": 333,
    "also": [],
-   "score": 6.836,
+   "score": 5.67,
    "occhiello": "Milan",
-   "eta": "1 h fa"
+   "eta": "5 h fa"
   },
   {
    "title": "Caos spogliatoio in casa Milan, il rapporto tra Amorim e alcuni senatori non è ottimale",
@@ -91,11 +91,11 @@
    "published": "2026-09-18T19:06:18+00:00",
    "image": "",
    "id": "08953491447e",
-   "age_minutes": 264,
+   "age_minutes": 532,
    "also": [],
-   "score": 6.131,
+   "score": 5.255,
    "occhiello": "Milan",
-   "eta": "4 h fa"
+   "eta": "8 h fa"
   },
   {
    "title": "Bonucci torna a parlare dell'addio alla Juve per il MIlan: \"Non aveva senso andare via\"",
@@ -107,11 +107,11 @@
    "published": "2026-09-18T19:36:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ea/ea6fd786913c52fd3debc8ce48242a33-81151-oooz0000.jpeg",
    "id": "12d1e16a1b5e",
-   "age_minutes": 234,
+   "age_minutes": 502,
    "also": [],
-   "score": 6.051,
+   "score": 5.137,
    "occhiello": "Juventus · Milan",
-   "eta": "3 h fa"
+   "eta": "8 h fa"
   },
   {
    "title": "Juventus sulle tracce di Demirović: lo Stoccarda chiede 35 milioni",
@@ -123,11 +123,11 @@
    "published": "2026-09-18T22:15:04+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c1/c1ce626393ae5eb3f923bce990fd6940-35354-oooz0000.jpeg",
    "id": "abb0e762aefd",
-   "age_minutes": 75,
+   "age_minutes": 343,
    "also": [],
-   "score": 5.986,
+   "score": 4.837,
    "occhiello": "Juventus",
-   "eta": "1 h fa"
+   "eta": "5 h fa"
   },
   {
    "title": "Nazionale under 21, ufficiali i convocati: Cisse, Raimondo e Pisilli da Baldini",
@@ -139,27 +139,11 @@
    "published": "2026-09-18T15:58:13+00:00",
    "image": "",
    "id": "d4a329800754",
-   "age_minutes": 452,
+   "age_minutes": 720,
    "also": [],
-   "score": 5.481,
+   "score": 4.814,
    "occhiello": "Mercato",
-   "eta": "7 h fa"
-  },
-  {
-   "title": "Di Napoli: “Il Napoli è un'incognita, ha pochi punti. ADL non sereno con un altro passo falso…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-il-napoli-incognita-pochi-punti-adl-sereno-passo-falso-656674",
-   "summary": "Arturo Di Napoli, ex calciatore, è intervenuto ai microfoni della radio di Tuttomercatoweb.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/16/16bc4af3b12f66938f8ebd34826aaaac-42588-oooz0000.jpeg",
-   "id": "b80e0855e4d6",
-   "age_minutes": 110,
-   "also": [],
-   "score": 5.411,
-   "occhiello": "Napoli",
-   "eta": "1 h fa"
+   "eta": "12 h fa"
   },
   {
    "title": "Roma-Inter, Chivu pronto a cambiare: ha deluso e va in panchina",
@@ -171,43 +155,11 @@
    "published": "2026-09-18T14:44:01+00:00",
    "image": "",
    "id": "c070202cee5a",
-   "age_minutes": 526,
+   "age_minutes": 794,
    "also": [],
-   "score": 5.27,
+   "score": 4.67,
    "occhiello": "Inter · Roma",
-   "eta": "8 h fa"
-  },
-  {
-   "title": "Ancelotti, per l'ex Juve una richiesta \"speciale\" dal presidente brasiliano Lula",
-   "link": "https://www.tuttojuve.com/altre-notizie/ancelotti-juve-richiesta-speciale-presidente-brasiliano-lula-793586",
-   "summary": "Carlo Ancelotti ha dato il via alla generale ristrutturazione della nazionale del Brasile con le nuove convocazioni per le amichevoli contro Australia e India. Una lista che ha fatto storcere il naso a qualcuno, a…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1d/1dfce81ad01fdef37a22192c2608775e-60266-oooz0000.jpeg",
-   "id": "7519c11fde0a",
-   "age_minutes": 190,
-   "also": [],
-   "score": 5.237,
-   "occhiello": "Juventus",
-   "eta": "3 h fa"
-  },
-  {
-   "title": "Manna, dopo quello dei Drughi arriva un nuovo tatuaggio per l'ex dirigente Juve",
-   "link": "https://www.tuttojuve.com/altre-notizie/manna-drughi-arriva-tatuaggio-dirigente-juve-793575",
-   "summary": "Nelle ultime ore in casa Napoli sta facendo discurere molto il ds Giovanni Manna. Ma non per il suo operato con la squadra o sul mercato, ma per un.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8cc08415310bd5e5a9a7f590af24b3e0-41493-oooz0000.jpeg",
-   "id": "4c49b46a7199",
-   "age_minutes": 180,
-   "also": [],
-   "score": 5.081,
-   "occhiello": "Napoli",
-   "eta": "3 h fa"
+   "eta": "13 h fa"
   },
   {
    "title": "Sorpresa McTominay, cambiano i tempi di recupera: quando rientra",
@@ -219,11 +171,11 @@
    "published": "2026-09-18T12:46:35+00:00",
    "image": "",
    "id": "6e70b30dec04",
-   "age_minutes": 644,
+   "age_minutes": 911,
    "also": [],
-   "score": 4.978,
+   "score": 4.472,
    "occhiello": "Mercato",
-   "eta": "10 h fa"
+   "eta": "15 h fa"
   },
   {
    "title": "Serie A, esonero sempre più vicino: pronto D’Aversa",
@@ -235,43 +187,27 @@
    "published": "2026-09-18T11:09:33+00:00",
    "image": "",
    "id": "710a3a603912",
-   "age_minutes": 741,
+   "age_minutes": 1008,
    "also": [],
-   "score": 4.772,
+   "score": 4.332,
    "occhiello": "Mercato",
-   "eta": "12 h fa"
+   "eta": "16 h fa"
   },
   {
-   "title": "Ag. Vanoli: \"Aveva fatto un miracolo alla Fiorentina un anno fa e Paratici lo sapeva\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/ag-vanoli-aveva-miracolo-fiorentina-paratici-sapeva-656697",
-   "summary": "A Stile TV nel corso della trasmissione “Salite sulla giostra” è intervenuto Andrea D’Amico, agente di Paolo Vanoli: “Viviamo in un’epoca in cui è tutto molto veloce in qualsiasi settore.",
+   "title": "Di Napoli: “Il Napoli è un'incognita, ha pochi punti. ADL non sereno con un altro passo falso…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-il-napoli-incognita-pochi-punti-adl-sereno-passo-falso-656674",
+   "summary": "Arturo Di Napoli, ex calciatore, è intervenuto ai microfoni della radio di Tuttomercatoweb.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-09-18T20:40:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
-   "id": "53a7a0b7621e",
-   "age_minutes": 170,
+   "published": "2026-09-18T21:40:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/16/16bc4af3b12f66938f8ebd34826aaaac-42588-oooz0000.jpeg",
+   "id": "b80e0855e4d6",
+   "age_minutes": 377,
    "also": [],
-   "score": 4.729,
-   "occhiello": "Fiorentina",
-   "eta": "2 h fa"
-  },
-  {
-   "title": "Roma, Balerdi: \"La gara con l'Inter può darci il clic decisivo per la stagione\"",
-   "link": "https://www.fcinternews.it/l-avversario/roma-balerdi-la-gara-inter-darci-clic-decisivo-stagione-1018762",
-   "summary": "Arrivato negli ultimi giorni del mercato, Leonardo Balerdi è entrato in pochissimo tempo nei cuori dei tifosi della Roma.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-18T18:27:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/930ee302bd9cb39c61c34b1e23895cbe-52623-626o48o1325o746z0ab9.jpeg",
-   "id": "0b8aee72009a",
-   "age_minutes": 303,
-   "also": [],
-   "score": 4.581,
-   "occhiello": "Inter · Roma",
-   "eta": "5 h fa"
+   "score": 4.318,
+   "occhiello": "Napoli",
+   "eta": "6 h fa"
   },
   {
    "title": "USA, non convocato Pulisic: torna Musah",
@@ -283,11 +219,27 @@
    "published": "2026-09-18T08:01:09+00:00",
    "image": "",
    "id": "f32a4d28e0d9",
-   "age_minutes": 929,
+   "age_minutes": 1197,
    "also": [],
-   "score": 4.445,
+   "score": 4.11,
    "occhiello": "Mercato",
-   "eta": "15 h fa"
+   "eta": "19 h fa"
+  },
+  {
+   "title": "Manna, dopo quello dei Drughi arriva un nuovo tatuaggio per l'ex dirigente Juve",
+   "link": "https://www.tuttojuve.com/altre-notizie/manna-drughi-arriva-tatuaggio-dirigente-juve-793575",
+   "summary": "Nelle ultime ore in casa Napoli sta facendo discurere molto il ds Giovanni Manna. Ma non per il suo operato con la squadra o sul mercato, ma per un.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T20:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8cc08415310bd5e5a9a7f590af24b3e0-41493-oooz0000.jpeg",
+   "id": "4c49b46a7199",
+   "age_minutes": 448,
+   "also": [],
+   "score": 4.094,
+   "occhiello": "Napoli",
+   "eta": "7 h fa"
   },
   {
    "title": "Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve",
@@ -299,11 +251,11 @@
    "published": "2026-09-18T07:01:35+00:00",
    "image": "",
    "id": "8e48d491e34f",
-   "age_minutes": 989,
+   "age_minutes": 1256,
    "also": [],
-   "score": 4.359,
+   "score": 4.051,
    "occhiello": "Milan",
-   "eta": "16 h fa"
+   "eta": "20 h fa"
   },
   {
    "title": "Como e Napoli, sfida continua: 20 milioni in Francia",
@@ -315,11 +267,43 @@
    "published": "2026-09-18T05:29:04+00:00",
    "image": "",
    "id": "1fb70d6c06b7",
-   "age_minutes": 1081,
+   "age_minutes": 1349,
    "also": [],
-   "score": 4.239,
+   "score": 3.97,
    "occhiello": "Napoli · Como",
-   "eta": "18 h fa"
+   "eta": "22 h fa"
+  },
+  {
+   "title": "Roma, Balerdi: \"La gara con l'Inter può darci il clic decisivo per la stagione\"",
+   "link": "https://www.fcinternews.it/l-avversario/roma-balerdi-la-gara-inter-darci-clic-decisivo-stagione-1018762",
+   "summary": "Arrivato negli ultimi giorni del mercato, Leonardo Balerdi è entrato in pochissimo tempo nei cuori dei tifosi della Roma.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-18T18:27:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/930ee302bd9cb39c61c34b1e23895cbe-52623-626o48o1325o746z0ab9.jpeg",
+   "id": "0b8aee72009a",
+   "age_minutes": 571,
+   "also": [],
+   "score": 3.753,
+   "occhiello": "Inter · Roma",
+   "eta": "9 h fa"
+  },
+  {
+   "title": "Ag. Vanoli: \"Aveva fatto un miracolo alla Fiorentina un anno fa e Paratici lo sapeva\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/ag-vanoli-aveva-miracolo-fiorentina-paratici-sapeva-656697",
+   "summary": "A Stile TV nel corso della trasmissione “Salite sulla giostra” è intervenuto Andrea D’Amico, agente di Paolo Vanoli: “Viviamo in un’epoca in cui è tutto molto veloce in qualsiasi settore.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T20:40:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
+   "id": "53a7a0b7621e",
+   "age_minutes": 437,
+   "also": [],
+   "score": 3.726,
+   "occhiello": "Fiorentina",
+   "eta": "7 h fa"
   },
   {
    "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
@@ -331,9 +315,9 @@
    "published": "2026-09-17T21:15:05+00:00",
    "image": "",
    "id": "9ec205916f08",
-   "age_minutes": 1575,
+   "age_minutes": 1843,
    "also": [],
-   "score": 3.811,
+   "score": 3.679,
    "occhiello": "Mercato",
    "eta": "1 g fa"
   },
@@ -347,9 +331,9 @@
    "published": "2026-09-17T19:11:10+00:00",
    "image": "",
    "id": "e9d8bc940045",
-   "age_minutes": 1699,
+   "age_minutes": 1967,
    "also": [],
-   "score": 3.744,
+   "score": 3.634,
    "occhiello": "Mercato",
    "eta": "1 g fa"
   },
@@ -363,9 +347,9 @@
    "published": "2026-09-17T18:01:12+00:00",
    "image": "",
    "id": "e4479fe454b2",
-   "age_minutes": 1769,
+   "age_minutes": 2037,
    "also": [],
-   "score": 3.711,
+   "score": 3.611,
    "occhiello": "Napoli",
    "eta": "1 g fa"
   },
@@ -379,57 +363,9 @@
    "published": "2026-09-17T16:09:46+00:00",
    "image": "",
    "id": "854c1ddab651",
-   "age_minutes": 1880,
+   "age_minutes": 2148,
    "also": [],
-   "score": 3.665,
-   "occhiello": "Mercato",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Roma-Inter, novità Hermoso: le ultime sulle sue condizioni",
-   "link": "https://www.calciomercato.it/2026/09/17/roma-inter-novita-hermoso-le-ultime-sulle-sue-condizioni/",
-   "summary": "L'articolo Roma-Inter, novità Hermoso: le ultime sulle sue condizioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T14:53:18+00:00",
-   "image": "",
-   "id": "d7ce80d2e7ac",
-   "age_minutes": 1957,
-   "also": [],
-   "score": 3.637,
-   "occhiello": "Inter · Roma",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli",
-   "link": "https://www.calciomercato.it/2026/09/17/frattesi-juve-annuncio-a-sorpresa-in-queste-ore-i-dettagli/",
-   "summary": "L'articolo Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T13:06:41+00:00",
-   "image": "",
-   "id": "a183f3010786",
-   "age_minutes": 2064,
-   "also": [],
-   "score": 3.603,
-   "occhiello": "Mercato",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente”",
-   "link": "https://www.calciomercato.it/2026/09/17/monza-juric-non-teme-ribaltoni-abituato-a-tutto-ma-lavoro-eccellente/",
-   "summary": "L'articolo Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T12:31:41+00:00",
-   "image": "",
-   "id": "cdcf8900dbdb",
-   "age_minutes": 2099,
-   "also": [],
-   "score": 3.593,
+   "score": 3.58,
    "occhiello": "Mercato",
    "eta": "1 g fa"
   }

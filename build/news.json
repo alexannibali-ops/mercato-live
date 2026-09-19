@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T01:30:41.748305+02:00",
+ "generated_at": "2026-09-19T05:58:19.513482+02:00",
  "articles": [
   {
    "title": "Milan, no alla Premier League e firma fino al 2031: i dettagli",
@@ -11,9 +11,9 @@
    "published": "2026-09-18T21:33:36+00:00",
    "image": "",
    "id": "31031b860ed6",
-   "age_minutes": 117,
+   "age_minutes": 384,
    "also": [],
-   "score": 8.778
+   "score": 7.695
   },
   {
    "title": "Nazionale, i convocati di Roberto Mancini per la Nations League: la lista ufficiale",
@@ -25,9 +25,23 @@
    "published": "2026-09-18T17:07:39+00:00",
    "image": "",
    "id": "a05b7eb00af3",
-   "age_minutes": 383,
+   "age_minutes": 650,
    "also": [],
-   "score": 7.701
+   "score": 6.963
+  },
+  {
+   "title": "Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic",
+   "link": "https://www.calciomercato.it/2026/09/19/monza-sassuolo-juric-ho-sentito-la-fiducia-aquilani-spiega-lesclusione-di-adzic/",
+   "summary": "L'articolo Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-18T22:02:01+00:00",
+   "image": "",
+   "id": "f1485463395a",
+   "age_minutes": 356,
+   "also": [],
+   "score": 5.791
   },
   {
    "title": "Addio a Sandro Mazzola: si è spenta la leggenda della Grande Inter",
@@ -39,23 +53,9 @@
    "published": "2026-09-18T22:46:21+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3fe8bb02e1f9f44a636f674d0a8f0d6f-59372-401o210o1243o1052z0b5a.jpeg",
    "id": "885fa1c6cef8",
-   "age_minutes": 44,
+   "age_minutes": 311,
    "also": [],
-   "score": 6.952
-  },
-  {
-   "title": "Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic",
-   "link": "https://www.calciomercato.it/2026/09/19/monza-sassuolo-juric-ho-sentito-la-fiducia-aquilani-spiega-lesclusione-di-adzic/",
-   "summary": "L'articolo Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-18T22:02:01+00:00",
-   "image": "",
-   "id": "f1485463395a",
-   "age_minutes": 88,
-   "also": [],
-   "score": 6.919
+   "score": 5.749
   },
   {
    "title": "Archiviata l’inchiesta sulle bussata in Sala VAR: il commento ufficiale dell’AIA",
@@ -67,9 +67,9 @@
    "published": "2026-09-18T22:24:34+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/624a464e41c9a2fdb75a1e04e197647f-64731-oooz0000.jpeg",
    "id": "6fcdf5fe7e35",
-   "age_minutes": 66,
+   "age_minutes": 333,
    "also": [],
-   "score": 6.836
+   "score": 5.67
   },
   {
    "title": "Caos spogliatoio in casa Milan, il rapporto tra Amorim e alcuni senatori non è ottimale",
@@ -81,9 +81,9 @@
    "published": "2026-09-18T19:06:18+00:00",
    "image": "",
    "id": "08953491447e",
-   "age_minutes": 264,
+   "age_minutes": 532,
    "also": [],
-   "score": 6.131
+   "score": 5.255
   },
   {
    "title": "Bonucci torna a parlare dell'addio alla Juve per il MIlan: \"Non aveva senso andare via\"",
@@ -95,9 +95,9 @@
    "published": "2026-09-18T19:36:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ea/ea6fd786913c52fd3debc8ce48242a33-81151-oooz0000.jpeg",
    "id": "12d1e16a1b5e",
-   "age_minutes": 234,
+   "age_minutes": 502,
    "also": [],
-   "score": 6.051
+   "score": 5.137
   },
   {
    "title": "Juventus sulle tracce di Demirović: lo Stoccarda chiede 35 milioni",
@@ -109,9 +109,9 @@
    "published": "2026-09-18T22:15:04+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c1/c1ce626393ae5eb3f923bce990fd6940-35354-oooz0000.jpeg",
    "id": "abb0e762aefd",
-   "age_minutes": 75,
+   "age_minutes": 343,
    "also": [],
-   "score": 5.986
+   "score": 4.837
   },
   {
    "title": "Nazionale under 21, ufficiali i convocati: Cisse, Raimondo e Pisilli da Baldini",
@@ -123,23 +123,9 @@
    "published": "2026-09-18T15:58:13+00:00",
    "image": "",
    "id": "d4a329800754",
-   "age_minutes": 452,
+   "age_minutes": 720,
    "also": [],
-   "score": 5.481
-  },
-  {
-   "title": "Di Napoli: “Il Napoli è un'incognita, ha pochi punti. ADL non sereno con un altro passo falso…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-il-napoli-incognita-pochi-punti-adl-sereno-passo-falso-656674",
-   "summary": "Arturo Di Napoli, ex calciatore, è intervenuto ai microfoni della radio di Tuttomercatoweb.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/16/16bc4af3b12f66938f8ebd34826aaaac-42588-oooz0000.jpeg",
-   "id": "b80e0855e4d6",
-   "age_minutes": 110,
-   "also": [],
-   "score": 5.411
+   "score": 4.814
   },
   {
    "title": "Roma-Inter, Chivu pronto a cambiare: ha deluso e va in panchina",
@@ -151,37 +137,9 @@
    "published": "2026-09-18T14:44:01+00:00",
    "image": "",
    "id": "c070202cee5a",
-   "age_minutes": 526,
+   "age_minutes": 794,
    "also": [],
-   "score": 5.27
-  },
-  {
-   "title": "Ancelotti, per l'ex Juve una richiesta \"speciale\" dal presidente brasiliano Lula",
-   "link": "https://www.tuttojuve.com/altre-notizie/ancelotti-juve-richiesta-speciale-presidente-brasiliano-lula-793586",
-   "summary": "Carlo Ancelotti ha dato il via alla generale ristrutturazione della nazionale del Brasile con le nuove convocazioni per le amichevoli contro Australia e India. Una lista che ha fatto storcere il naso a qualcuno, a…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1d/1dfce81ad01fdef37a22192c2608775e-60266-oooz0000.jpeg",
-   "id": "7519c11fde0a",
-   "age_minutes": 190,
-   "also": [],
-   "score": 5.237
-  },
-  {
-   "title": "Manna, dopo quello dei Drughi arriva un nuovo tatuaggio per l'ex dirigente Juve",
-   "link": "https://www.tuttojuve.com/altre-notizie/manna-drughi-arriva-tatuaggio-dirigente-juve-793575",
-   "summary": "Nelle ultime ore in casa Napoli sta facendo discurere molto il ds Giovanni Manna. Ma non per il suo operato con la squadra o sul mercato, ma per un.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8cc08415310bd5e5a9a7f590af24b3e0-41493-oooz0000.jpeg",
-   "id": "4c49b46a7199",
-   "age_minutes": 180,
-   "also": [],
-   "score": 5.081
+   "score": 4.67
   },
   {
    "title": "Sorpresa McTominay, cambiano i tempi di recupera: quando rientra",
@@ -193,9 +151,9 @@
    "published": "2026-09-18T12:46:35+00:00",
    "image": "",
    "id": "6e70b30dec04",
-   "age_minutes": 644,
+   "age_minutes": 911,
    "also": [],
-   "score": 4.978
+   "score": 4.472
   },
   {
    "title": "Serie A, esonero sempre più vicino: pronto D’Aversa",
@@ -207,223 +165,9 @@
    "published": "2026-09-18T11:09:33+00:00",
    "image": "",
    "id": "710a3a603912",
-   "age_minutes": 741,
+   "age_minutes": 1008,
    "also": [],
-   "score": 4.772
-  },
-  {
-   "title": "Ag. Vanoli: \"Aveva fatto un miracolo alla Fiorentina un anno fa e Paratici lo sapeva\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/ag-vanoli-aveva-miracolo-fiorentina-paratici-sapeva-656697",
-   "summary": "A Stile TV nel corso della trasmissione “Salite sulla giostra” è intervenuto Andrea D’Amico, agente di Paolo Vanoli: “Viviamo in un’epoca in cui è tutto molto veloce in qualsiasi settore.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T20:40:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
-   "id": "53a7a0b7621e",
-   "age_minutes": 170,
-   "also": [],
-   "score": 4.729
-  },
-  {
-   "title": "Roma, Balerdi: \"La gara con l'Inter può darci il clic decisivo per la stagione\"",
-   "link": "https://www.fcinternews.it/l-avversario/roma-balerdi-la-gara-inter-darci-clic-decisivo-stagione-1018762",
-   "summary": "Arrivato negli ultimi giorni del mercato, Leonardo Balerdi è entrato in pochissimo tempo nei cuori dei tifosi della Roma.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-18T18:27:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/930ee302bd9cb39c61c34b1e23895cbe-52623-626o48o1325o746z0ab9.jpeg",
-   "id": "0b8aee72009a",
-   "age_minutes": 303,
-   "also": [],
-   "score": 4.581
-  },
-  {
-   "title": "USA, non convocato Pulisic: torna Musah",
-   "link": "https://www.calciomercato.it/2026/09/18/usa-non-convocato-pulisic-torna-musah/",
-   "summary": "L'articolo USA, non convocato Pulisic: torna Musah proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-18T08:01:09+00:00",
-   "image": "",
-   "id": "f32a4d28e0d9",
-   "age_minutes": 929,
-   "also": [],
-   "score": 4.445
-  },
-  {
-   "title": "Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve",
-   "link": "https://www.calciomercato.it/2026/09/18/milan-ramos-non-decolla-35-milioni-per-lattacco-e-sfida-alla-juve/",
-   "summary": "L'articolo Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-18T07:01:35+00:00",
-   "image": "",
-   "id": "8e48d491e34f",
-   "age_minutes": 989,
-   "also": [],
-   "score": 4.359
-  },
-  {
-   "title": "Como e Napoli, sfida continua: 20 milioni in Francia",
-   "link": "https://www.calciomercato.it/2026/09/18/como-e-napoli-sfida-continua-20-milioni-in-francia/",
-   "summary": "L'articolo Como e Napoli, sfida continua: 20 milioni in Francia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-18T05:29:04+00:00",
-   "image": "",
-   "id": "1fb70d6c06b7",
-   "age_minutes": 1081,
-   "also": [],
-   "score": 4.239
-  },
-  {
-   "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
-   "link": "https://www.calciomercato.it/2026/09/17/la-panchina-di-stroppa-traballa-spunta-tudor-per-il-venezia/",
-   "summary": "L'articolo La panchina di Stroppa traballa, spunta Tudor per il Venezia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T21:15:05+00:00",
-   "image": "",
-   "id": "9ec205916f08",
-   "age_minutes": 1575,
-   "also": [],
-   "score": 3.811
-  },
-  {
-   "title": "I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT",
-   "link": "https://www.calciomercato.it/2026/09/17/i-convocati-di-mancini-tra-sorprese-ed-esclusioni-le-scelte-del-ct/",
-   "summary": "L'articolo I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T19:11:10+00:00",
-   "image": "",
-   "id": "e9d8bc940045",
-   "age_minutes": 1699,
-   "also": [],
-   "score": 3.744
-  },
-  {
-   "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
-   "link": "https://www.calciomercato.it/2026/09/17/anguissa-puo-lasciare-il-napoli-a-gennaio-la-probabile-destinazione/",
-   "summary": "L'articolo Anguissa può lasciare il Napoli a gennaio, la probabile destinazione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T18:01:12+00:00",
-   "image": "",
-   "id": "e4479fe454b2",
-   "age_minutes": 1769,
-   "also": [],
-   "score": 3.711
-  },
-  {
-   "title": "Conte ha detto no, clamoroso rifiuto: ora cambia tutto",
-   "link": "https://www.calciomercato.it/2026/09/17/conte-ha-detto-no-clamoroso-rifiuto-ora-cambia-tutto/",
-   "summary": "L'articolo Conte ha detto no, clamoroso rifiuto: ora cambia tutto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T16:09:46+00:00",
-   "image": "",
-   "id": "854c1ddab651",
-   "age_minutes": 1880,
-   "also": [],
-   "score": 3.665
-  },
-  {
-   "title": "Roma-Inter, novità Hermoso: le ultime sulle sue condizioni",
-   "link": "https://www.calciomercato.it/2026/09/17/roma-inter-novita-hermoso-le-ultime-sulle-sue-condizioni/",
-   "summary": "L'articolo Roma-Inter, novità Hermoso: le ultime sulle sue condizioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T14:53:18+00:00",
-   "image": "",
-   "id": "d7ce80d2e7ac",
-   "age_minutes": 1957,
-   "also": [],
-   "score": 3.637
-  },
-  {
-   "title": "Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli",
-   "link": "https://www.calciomercato.it/2026/09/17/frattesi-juve-annuncio-a-sorpresa-in-queste-ore-i-dettagli/",
-   "summary": "L'articolo Frattesi-Juve, annuncio a sorpresa in queste ore: i dettagli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T13:06:41+00:00",
-   "image": "",
-   "id": "a183f3010786",
-   "age_minutes": 2064,
-   "also": [],
-   "score": 3.603
-  },
-  {
-   "title": "Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente”",
-   "link": "https://www.calciomercato.it/2026/09/17/monza-juric-non-teme-ribaltoni-abituato-a-tutto-ma-lavoro-eccellente/",
-   "summary": "L'articolo Monza, Juric non teme ribaltoni: “Abituato a tutto ma lavoro eccellente” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-17T12:31:41+00:00",
-   "image": "",
-   "id": "cdcf8900dbdb",
-   "age_minutes": 2099,
-   "also": [],
-   "score": 3.593
-  }
- ],
- "raw": [
-  {
-   "title": "Calcio in lutto: muore a 83 anni la leggenda Sandro Mazzola",
-   "link": "https://www.tuttonapoli.net/notizie/calcio-lutto-muore-83-leggenda-sandro-mazzola-656717",
-   "summary": "Una delle figure più rappresentative della storia del calcio italiano se ne va. Sandro Mazzola è morto all'età di 83 anni: bandiera assoluta dell'Inter e protagonista per tanti anni anche con la maglia della Nazionale.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T22:58:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d4/d4ca599e25463c31b1dda23443228099-39330-oooz0000.jpeg",
-   "id": "d340b2edc698"
-  },
-  {
-   "title": "La vigilia di Fiorentina-Napoli su Radio Tutto Napoli, il palinsesto di oggi: live dalle 11",
-   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-10-647875",
-   "summary": "Radio Tutto Napoli vi accompagna anche nel week-end con tutti gli aggiornamenti verso Fiorentina-Napoli Oggi il palinsesto di Radio TuttoNapoli, prima radio tematica sul Napoli, inizierà alle 11 con Sabato azzurro con Ciro Accar ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T22:15:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/421094117ac3b8535d0a70a9b8be3e36-45223-258o324o1086o1152z0b04.jpeg",
-   "id": "c58444fd98ee"
-  },
-  {
-   "title": "\"A Napoli non sono grati ad ADL!\". Scontro Capuano-Auriemma: \"Ci potevi guadagnare anche tu\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/a-napoli-grati-adl-scontro-capuano-auriemma-ci-potevi-guadagnare-tu-656715",
-   "summary": "Il percorso di Aurelio De Laurentiis alla guida del Napoli ha acceso il dibattito negli studi di Sportitalia. Giovanni Capuano ha aperto il confronto sostenendo: \"La gratitudine non è di questo mondo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T22:00:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/da/da19ade0e49490c201a8e70ae16d212b-47003-oooz0000.jpeg",
-   "id": "3e6f066953e4"
-  },
-  {
-   "title": "Del Genio: \"Vice-Hojlund? Oltre a Lucca, il Napoli può inventarsi queste due alternative\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/genio-vice-hojlund-lucca-napoli-inventarsi-alternative-656700",
-   "summary": "Paolo Del Genio, giornalista di Radio Kiss Kiss Napoli, nel corso della sua trasmissione sull'emittente radiofonica si è soffermato anche sulle possibili soluzioni in casa Napoli per il ruolo di centravanti: \"Vice-Hojlund? Ovviamente ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:50:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4c/4c0721b2a65e2e1ef43208f34db03cba-99251-oooz0000.jpeg",
-   "id": "09833dd79eb7"
+   "score": 4.332
   },
   {
    "title": "Di Napoli: “Il Napoli è un'incognita, ha pochi punti. ADL non sereno con un altro passo falso…”",
@@ -435,64 +179,79 @@
    "published": "2026-09-18T21:40:22+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/16/16bc4af3b12f66938f8ebd34826aaaac-42588-oooz0000.jpeg",
    "id": "b80e0855e4d6",
-   "age_minutes": 110,
+   "age_minutes": 377,
    "also": [],
-   "score": 5.411
+   "score": 4.318
   },
   {
-   "title": "Forgione: \"Non mi aspetto una Fiorentina all'arrembaggio, col Napoli non serve\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/infortunio-spinazzola-forgione-rosa-logora-napoli-corso-rischio-656680",
-   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli per analizzare il momento del Napoli in vista della trasferta contro la Fiorentina.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:30:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7b/7b9aa196bafdb736554b9483481cc8ba-96730-oooz0000.jpeg",
-   "id": "d1b24f97364b"
+   "title": "USA, non convocato Pulisic: torna Musah",
+   "link": "https://www.calciomercato.it/2026/09/18/usa-non-convocato-pulisic-torna-musah/",
+   "summary": "L'articolo USA, non convocato Pulisic: torna Musah proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-18T08:01:09+00:00",
+   "image": "",
+   "id": "f32a4d28e0d9",
+   "age_minutes": 1197,
+   "also": [],
+   "score": 4.11
   },
   {
-   "title": "Delio Rossi ricorda: \"Litigai con il presidente per Cavani. Lucca? Nel Napoli ci sta\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/delio-rossi-ricorda-litigai-presidente-cavani-lucca-napoli-sta-656713",
-   "summary": "A Radio Napoli Centrale, nel corso di Sempre Con Te è intervenuto Delio Rossi, allenatore: \"Come ho visto il Napoli di Allegri? Non dimentichiamo, che il Napoli è inferiore solo all'Inter.",
-   "source": "TuttoNapoli",
+   "title": "Manna, dopo quello dei Drughi arriva un nuovo tatuaggio per l'ex dirigente Juve",
+   "link": "https://www.tuttojuve.com/altre-notizie/manna-drughi-arriva-tatuaggio-dirigente-juve-793575",
+   "summary": "Nelle ultime ore in casa Napoli sta facendo discurere molto il ds Giovanni Manna. Ma non per il suo operato con la squadra o sul mercato, ma per un.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:20:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e0/e037b820f240c90060cbd5b7a2c0b284-84961-oooz0000.jpeg",
-   "id": "39f97a0e3e44"
+   "scope": "Juventus",
+   "published": "2026-09-18T20:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8cc08415310bd5e5a9a7f590af24b3e0-41493-oooz0000.jpeg",
+   "id": "4c49b46a7199",
+   "age_minutes": 448,
+   "also": [],
+   "score": 4.094
   },
   {
-   "title": "Marcolin promuove il doppio play: \"Mi piace molto il Napoli con Gilmour e Lobotka\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/marcolin-promuove-play-mi-piace-napoli-gilmour-lobotka-656691",
-   "summary": "La scelta di Massimiliano Allegri di affidarsi contemporaneamente a Billy Gilmour e Stanislav Lobotka continua a raccogliere consensi.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:10:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/94/94457228702a3db849c71738a650f391-62810-oooz0000.jpeg",
-   "id": "3292c2a30a09"
+   "title": "Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve",
+   "link": "https://www.calciomercato.it/2026/09/18/milan-ramos-non-decolla-35-milioni-per-lattacco-e-sfida-alla-juve/",
+   "summary": "L'articolo Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-18T07:01:35+00:00",
+   "image": "",
+   "id": "8e48d491e34f",
+   "age_minutes": 1256,
+   "also": [],
+   "score": 4.051
   },
   {
-   "title": "Padovan: \"Il Napoli meritava più punti! Ma perché Favasuli non ha giocato prima?\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/padovan-il-napoli-meritava-punti-favasuli-giocato-prima-656712",
-   "summary": "A Radio Napoli Centrale, nel corso di Sempre Con Te è intervenuto il giornalista Giancarlo Padovan: \"Chi sta meglio tra Napoli e Fiorentina? Ora iniziano a stare bene entrambe.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T21:00:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/76/76dff256b05a304e21974caafafe4ba9-00963-oooz0000.jpeg",
-   "id": "340978ce98c0"
+   "title": "Como e Napoli, sfida continua: 20 milioni in Francia",
+   "link": "https://www.calciomercato.it/2026/09/18/como-e-napoli-sfida-continua-20-milioni-in-francia/",
+   "summary": "L'articolo Como e Napoli, sfida continua: 20 milioni in Francia proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-18T05:29:04+00:00",
+   "image": "",
+   "id": "1fb70d6c06b7",
+   "age_minutes": 1349,
+   "also": [],
+   "score": 3.97
   },
   {
-   "title": "Boccata d'ossigeno per Juric: Varela stende il Sassuolo, prima vittoria per il Monza",
-   "link": "https://www.tuttonapoli.net/serie-a/boccata-ossigeno-juric-varela-stende-sassuolo-vittoria-monza-656714",
-   "summary": "Il Monza batte il Sassuolo e conquista la prima vittoria in questa Serie A.",
-   "source": "TuttoNapoli",
+   "title": "Roma, Balerdi: \"La gara con l'Inter può darci il clic decisivo per la stagione\"",
+   "link": "https://www.fcinternews.it/l-avversario/roma-balerdi-la-gara-inter-darci-clic-decisivo-stagione-1018762",
+   "summary": "Arrivato negli ultimi giorni del mercato, Leonardo Balerdi è entrato in pochissimo tempo nei cuori dei tifosi della Roma.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T20:45:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/22/22aaf3d13bfd061ba78665773bcbf305-21016-oooz0000.jpeg",
-   "id": "8d4b0215a5a9"
+   "scope": "Inter",
+   "published": "2026-09-18T18:27:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/930ee302bd9cb39c61c34b1e23895cbe-52623-626o48o1325o746z0ab9.jpeg",
+   "id": "0b8aee72009a",
+   "age_minutes": 571,
+   "also": [],
+   "score": 3.753
   },
   {
    "title": "Ag. Vanoli: \"Aveva fatto un miracolo alla Fiorentina un anno fa e Paratici lo sapeva\"",
@@ -504,109 +263,68 @@
    "published": "2026-09-18T20:40:37+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
    "id": "53a7a0b7621e",
-   "age_minutes": 170,
+   "age_minutes": 437,
    "also": [],
-   "score": 4.729
+   "score": 3.726
   },
   {
-   "title": "Napoli Primavera, partenza da incubo: Nocerino cerca i primi punti contro l'Ascoli",
-   "link": "https://www.tuttonapoli.net/giovanili/napoli-primavera-partenza-incubo-ascoli-nocerino-cerca-primi-punti-656690",
-   "summary": "L'avvio di stagione non è stato quello sperato per il Napoli Primavera. La squadra allenata da Antonio Nocerino ha perso entrambe le prime due partite del campionato di Primavera 2, realizzando tre reti ma incassandone già sei.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T20:30:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/dd/dd13e456899f849db2d95ff0a2dc1dca-83448-oooz0000.jpeg",
-   "id": "990e733eba94"
+   "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
+   "link": "https://www.calciomercato.it/2026/09/17/la-panchina-di-stroppa-traballa-spunta-tudor-per-il-venezia/",
+   "summary": "L'articolo La panchina di Stroppa traballa, spunta Tudor per il Venezia proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T21:15:05+00:00",
+   "image": "",
+   "id": "9ec205916f08",
+   "age_minutes": 1843,
+   "also": [],
+   "score": 3.679
   },
   {
-   "title": "De Biasi: \"Allegri insisterà col doppio play, il Napoli può crescere tanto\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/de-biasi-allegri-insistera-play-napoli-crescere-tanto-656692",
-   "summary": "Il cambio in panchina ha dato una prima scossa alla Fiorentina, ma per Gianni De Biasi il vero banco di prova deve ancora arrivare.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T20:20:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9c/9c5449fa0100805fc718fe52fc8e725f-38071-oooz0000.jpeg",
-   "id": "550f989c1a73"
+   "title": "I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT",
+   "link": "https://www.calciomercato.it/2026/09/17/i-convocati-di-mancini-tra-sorprese-ed-esclusioni-le-scelte-del-ct/",
+   "summary": "L'articolo I convocati di Mancini tra sorprese ed esclusioni: le scelte del CT proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T19:11:10+00:00",
+   "image": "",
+   "id": "e9d8bc940045",
+   "age_minutes": 1967,
+   "also": [],
+   "score": 3.634
   },
   {
-   "title": "Italia, Mancini dopo le prime convocazioni: \"Il primo passo, ci tengo molto\"",
-   "link": "https://www.tuttonapoli.net/dai-social/italia-mancini-prime-convocazioni-il-passo-tengo-molto-656705",
-   "summary": "Attraverso il proprio profilo su Instagram, il ct Roberto Mancini ha enunciato tutte le convocazioni e poi commentato questo momento, molto significativo per la sua carriera: \"Rivedere le mie prime convocazioni mi riporta a un percorso a cui ten ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T20:10:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/af/af9e59e96ccbe622e2c8f42ac4826bcc-22840-oooz0000.jpeg",
-   "id": "1129e196c16f"
+   "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
+   "link": "https://www.calciomercato.it/2026/09/17/anguissa-puo-lasciare-il-napoli-a-gennaio-la-probabile-destinazione/",
+   "summary": "L'articolo Anguissa può lasciare il Napoli a gennaio, la probabile destinazione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T18:01:12+00:00",
+   "image": "",
+   "id": "e4479fe454b2",
+   "age_minutes": 2037,
+   "also": [],
+   "score": 3.611
   },
   {
-   "title": "Lang, il gol manca da (quasi) un anno. E la Fiorentina lo aveva cercato in estate",
-   "link": "https://www.tuttonapoli.net/notizie/lang-gol-manca-quasi-anno-fiorentina-cercato-estate-656639",
-   "summary": "Noa Lang è ancora alla ricerca del gol. L’attaccante non va a segno dal 22 novembre, quando realizzò la sua prima e, finora, unica rete con la maglia del Napoli nella sfida contro l’Atalanta.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T20:00:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2a5da419577e059775760016789f5efb-61091-oooz0000.jpeg",
-   "id": "4ece7205cb47"
-  },
-  {
-   "title": "Italiano-show al Besiktas, Del Genio: \"Quante fesserie vi hanno raccontato!\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/italiano-show-besiktas-genio-quante-fesserie-raccontato-656696",
-   "summary": "Dagli elogi a Vincenzo Italiano alle possibili soluzioni offensive del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T19:50:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c0/c038b7f9bd5e0b36aaf829418ed9c0d4-56748-oooz0000.jpeg",
-   "id": "09cb739432c0"
-  },
-  {
-   "title": "Folorunsho scherza sul fantacalcio: \"Da due anni vado benissimo, speriamo di portare bonus\"",
-   "link": "https://www.tuttonapoli.net/serie-a/folorunsho-scherza-fantacalcio-da-vado-benissimo-speriamo-portare-bonus-656706",
-   "summary": "Prima il campo, poi un pensiero anche ai tanti fantallenatori che hanno deciso di puntare su di lui.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T19:40:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/18/186183481b917c660a90070a39152841-91608-oooz0000.jpeg",
-   "id": "0bac588fb5b2"
-  },
-  {
-   "title": "Al Napoli servirà la fantasia dei brasiliani: i tempi di recupero di Alisson e Giovane",
-   "link": "https://www.tuttonapoli.net/notizie/napoli-servira-fantasia-brasiliani-tempi-recupero-alisson-giovane-656689",
-   "summary": "Il Napoli aspetta i suoi due brasiliani per aggiungere fantasia e imprevedibilità al reparto offensivo di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T19:30:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/1139e1dab8a45eb2be6c3e1656e2e25d-67729-oooz0000.jpeg",
-   "id": "99bb870fa94c"
-  },
-  {
-   "title": "Castelli: \"Illogico e irrispettoso criticare già Allegri! Diamo tempo al Napoli\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/castelli-illogico-irrispettoso-criticare-allegri-diamo-napoli-656704",
-   "summary": "Emanuela Castelli, giornalista, è intervenuta sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Venti giorni di pausa saranno davvero i ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T19:20:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/65/651e2176c0d613ee302a0d4752e4078d-00065-oooz0000.jpeg",
-   "id": "435d63443d54"
-  },
-  {
-   "title": "La Russia torna a giocare una competizione FIFA: c'è l'ok di Infantino",
-   "link": "https://www.tuttonapoli.net/brevi/calcio-russia-giochera-mondiale-u15-ok-fifa-656701",
-   "summary": "(ANSA) - ROMA, 18 SET - La Russia è pronta a tornare alle competizioni Fifa per la prima volta dall'invasione dell'Ucraina nel 2022.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-18T19:10:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/7549efe4bd43ecd73117145c48584d64-48983-oooz0000.jpeg",
-   "id": "f89d0a79b95e"
-  },
+   "title": "Conte ha detto no, clamoroso rifiuto: ora cambia tutto",
+   "link": "https://www.calciomercato.it/2026/09/17/conte-ha-detto-no-clamoroso-rifiuto-ora-cambia-tutto/",
+   "summary": "L'articolo Conte ha detto no, clamoroso rifiuto: ora cambia tutto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-17T16:09:46+00:00",
+   "image": "",
+   "id": "854c1ddab651",
+   "age_minutes": 2148,
+   "also": [],
+   "score": 3.58
+  }
+ ],
+ "raw": [
   {
    "title": "Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic",
    "link": "https://www.calciomercato.it/2026/09/19/monza-sassuolo-juric-ho-sentito-la-fiducia-aquilani-spiega-lesclusione-di-adzic/",
@@ -617,9 +335,9 @@
    "published": "2026-09-18T22:02:01+00:00",
    "image": "",
    "id": "f1485463395a",
-   "age_minutes": 88,
+   "age_minutes": 356,
    "also": [],
-   "score": 6.919
+   "score": 5.791
   },
   {
    "title": "Milan, no alla Premier League e firma fino al 2031: i dettagli",
@@ -631,9 +349,9 @@
    "published": "2026-09-18T21:33:36+00:00",
    "image": "",
    "id": "31031b860ed6",
-   "age_minutes": 117,
+   "age_minutes": 384,
    "also": [],
-   "score": 8.778
+   "score": 7.695
   },
   {
    "title": "PAGELLE e TABELLINO Monza-Sassuolo 2-1: Varela letale, Adzic non basta",
@@ -656,9 +374,9 @@
    "published": "2026-09-18T19:06:18+00:00",
    "image": "",
    "id": "08953491447e",
-   "age_minutes": 264,
+   "age_minutes": 532,
    "also": [],
-   "score": 6.131
+   "score": 5.255
   },
   {
    "title": "Nazionale, i convocati di Roberto Mancini per la Nations League: la lista ufficiale",
@@ -670,9 +388,9 @@
    "published": "2026-09-18T17:07:39+00:00",
    "image": "",
    "id": "a05b7eb00af3",
-   "age_minutes": 383,
+   "age_minutes": 650,
    "also": [],
-   "score": 7.701
+   "score": 6.963
   },
   {
    "title": "Nazionale under 21, ufficiali i convocati: Cisse, Raimondo e Pisilli da Baldini",
@@ -684,9 +402,9 @@
    "published": "2026-09-18T15:58:13+00:00",
    "image": "",
    "id": "d4a329800754",
-   "age_minutes": 452,
+   "age_minutes": 720,
    "also": [],
-   "score": 5.481
+   "score": 4.814
   },
   {
    "title": "Roma-Inter, Chivu pronto a cambiare: ha deluso e va in panchina",
@@ -698,9 +416,9 @@
    "published": "2026-09-18T14:44:01+00:00",
    "image": "",
    "id": "c070202cee5a",
-   "age_minutes": 526,
+   "age_minutes": 794,
    "also": [],
-   "score": 5.27
+   "score": 4.67
   },
   {
    "title": "Sorpresa McTominay, cambiano i tempi di recupera: quando rientra",
@@ -712,9 +430,9 @@
    "published": "2026-09-18T12:46:35+00:00",
    "image": "",
    "id": "6e70b30dec04",
-   "age_minutes": 644,
+   "age_minutes": 911,
    "also": [],
-   "score": 4.978
+   "score": 4.472
   },
   {
    "title": "Serie A, esonero sempre più vicino: pronto D’Aversa",
@@ -726,9 +444,9 @@
    "published": "2026-09-18T11:09:33+00:00",
    "image": "",
    "id": "710a3a603912",
-   "age_minutes": 741,
+   "age_minutes": 1008,
    "also": [],
-   "score": 4.772
+   "score": 4.332
   },
   {
    "title": "Occhio Como, Liverpool stregato: assalto a sorpresa",
@@ -751,9 +469,9 @@
    "published": "2026-09-18T08:01:09+00:00",
    "image": "",
    "id": "f32a4d28e0d9",
-   "age_minutes": 929,
+   "age_minutes": 1197,
    "also": [],
-   "score": 4.445
+   "score": 4.11
   },
   {
    "title": "Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve",
@@ -765,9 +483,9 @@
    "published": "2026-09-18T07:01:35+00:00",
    "image": "",
    "id": "8e48d491e34f",
-   "age_minutes": 989,
+   "age_minutes": 1256,
    "also": [],
-   "score": 4.359
+   "score": 4.051
   },
   {
    "title": "Como e Napoli, sfida continua: 20 milioni in Francia",
@@ -779,9 +497,9 @@
    "published": "2026-09-18T05:29:04+00:00",
    "image": "",
    "id": "1fb70d6c06b7",
-   "age_minutes": 1081,
+   "age_minutes": 1349,
    "also": [],
-   "score": 4.239
+   "score": 3.97
   },
   {
    "title": "La panchina di Stroppa traballa, spunta Tudor per il Venezia",
@@ -793,9 +511,9 @@
    "published": "2026-09-17T21:15:05+00:00",
    "image": "",
    "id": "9ec205916f08",
-   "age_minutes": 1575,
+   "age_minutes": 1843,
    "also": [],
-   "score": 3.811
+   "score": 3.679
   },
   {
    "title": "PAGELLE e TABELLINO Juventus-NEC 5-0: Alajbegovic inventa, si sblocca Kolo Muani",
@@ -818,9 +536,9 @@
    "published": "2026-09-17T19:11:10+00:00",
    "image": "",
    "id": "e9d8bc940045",
-   "age_minutes": 1699,
+   "age_minutes": 1967,
    "also": [],
-   "score": 3.744
+   "score": 3.634
   },
   {
    "title": "Anguissa può lasciare il Napoli a gennaio, la probabile destinazione",
@@ -832,9 +550,9 @@
    "published": "2026-09-17T18:01:12+00:00",
    "image": "",
    "id": "e4479fe454b2",
-   "age_minutes": 1769,
+   "age_minutes": 2037,
    "also": [],
-   "score": 3.711
+   "score": 3.611
   },
   {
    "title": "Conte ha detto no, clamoroso rifiuto: ora cambia tutto",
@@ -846,9 +564,9 @@
    "published": "2026-09-17T16:09:46+00:00",
    "image": "",
    "id": "854c1ddab651",
-   "age_minutes": 1880,
+   "age_minutes": 2148,
    "also": [],
-   "score": 3.665
+   "score": 3.58
   },
   {
    "title": "Roma-Inter, novità Hermoso: le ultime sulle sue condizioni",
@@ -992,6 +710,232 @@
    "id": "aa8b9a4423b7"
   },
   {
+   "title": "Juventus-Atalanta, la probabile formazione: tornano i titolari",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-atalanta-probabile-formazione-tornano-titolari-793540",
+   "summary": "Archiviata la larga vittoria europea contro il NEC, la Juventus si prepara ad affrontare un test decisamente più impegnativo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T23:30:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/97/97763a2ffa1e2829d279c3b006a25b0f-68683-oooz0000.jpeg",
+   "id": "8986d4950f52"
+  },
+  {
+   "title": "Pogba non si arrende: vuole affrontare un’ultima sfida",
+   "link": "https://www.tuttojuve.com/altre-notizie/pogba-arrende-vuole-affrontare-un-ultima-sfida-793552",
+   "summary": "La carriera di Paul Pogba potrebbe non essere ancora terminata.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T23:15:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dd/dd1ca4bc01a794ce476d900ab037dfe1-64273-oooz0000.jpeg",
+   "id": "9fb34585f77e"
+  },
+  {
+   "title": "Atalanta, la probabile formazione contro la Juventus",
+   "link": "https://www.tuttojuve.com/l-avversario/atalanta-probabile-formazione-juventus-793542",
+   "summary": "L’Atalanta si prepara alla delicata trasferta dell’Allianz Stadium, dove domenica 20 settembre alle 18 affronterà la Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T23:00:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db82d5260f54a2a12564e72214a206a2-39597-oooz0000.jpeg",
+   "id": "6d7373402de2"
+  },
+  {
+   "title": "Celta Vigo in crisi verso la Juventus: poche reti e Aspas fuori",
+   "link": "https://www.tuttojuve.com/l-avversario/celta-vigo-crisi-juventus-poche-reti-aspas-793550",
+   "summary": "Dopo il brillante esordio contro il NEC Nijmegen, travolto per 5-0 all’Allianz Stadium, il cammino europeo della Juventus proseguirà con una trasferta decisamente più impegnativa.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T22:45:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/45/45d04f9b89afb5f809729a813b3da004-31425-oooz0000.jpeg",
+   "id": "4f63a1572cbb"
+  },
+  {
+   "title": "Next Gen e Primavera, cosa succede? La Juventus dei giovani fatica",
+   "link": "https://www.tuttojuve.com/altre-notizie/next-gen-primavera-succede-juventus-giovani-fatica-793539",
+   "summary": "Il momento non è positivo e nasconderlo sarebbe inutile.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T22:30:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a2/a2df9e3779e6206ea01351d0d8884fae-42379-oooz0000.jpeg",
+   "id": "c58f05a777b9"
+  },
+  {
+   "title": "Spalletti cambia e trova una reazione aspettando l'Atalanta",
+   "link": "https://www.tuttojuve.com/firme-bianconere/spalletti-cambia-trova-reazione-aspettando-atalanta-793520",
+   "summary": "Cominciare bene l'Europa League era la medicina migliore da prendere per riprendersi dal brutto scivolone in casa del Sassuolo in campionato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T22:18:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a7/a7197aab23d5188dc1ee6ebdffdac7cb-48242-oooz0000.jpeg",
+   "id": "252d48b268ec"
+  },
+  {
+   "title": "Juventus sulle tracce di Demirović: lo Stoccarda chiede 35 milioni",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-tracce-demirovic-stoccarda-chiede-35-793545",
+   "summary": "La Juventus continua a monitorare il mercato degli attaccanti e avrebbe inserito nella propria lista anche Ermedin Demirović, centravanti bosniaco classe 1998 legato allo Stoccarda fino al giugno 2028, osservatori…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T22:15:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c1/c1ce626393ae5eb3f923bce990fd6940-35354-oooz0000.jpeg",
+   "id": "abb0e762aefd",
+   "age_minutes": 343,
+   "also": [],
+   "score": 4.837
+  },
+  {
+   "title": "Juve, finalmente si svegliano gli attaccanti: ma adesso serve la prova del nove",
+   "link": "https://www.tuttojuve.com/primo-piano/juve-finalmente-si-svegliano-gli-attaccanti-ma-adesso-serve-la-prova-del-nove-793527",
+   "summary": "Cinque gol fanno rumore, ma ce ne sono due che per la Juventus valgono probabilmente più degli altri, quelli di Kolo Muani e Woltemade.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T22:05:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/38/38a493d653538b62449228d7dc390eff-51499-oooz0000.jpeg",
+   "id": "cde8249aee63"
+  },
+  {
+   "title": "Cambiaso prova a recuperare per l’Atalanta, ma senza rischi",
+   "link": "https://www.tuttojuve.com/altre-notizie/cambiaso-prova-recuperare-l-atalanta-rischi-793559",
+   "summary": "Andrea Cambiaso non ha ancora abbandonato la speranza di tornare a disposizione per la sfida tra Juventus e Atalanta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T22:00:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
+   "id": "97597293a703"
+  },
+  {
+   "title": "Ordine: \"Chinè non ha ancora chiuso l’indagine su arbitropoli. Vero che archivierà, ma ci saranno giudizi duri...\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/ordine-chine-chiuso-l-indagine-arbitropoli-vero-chine-archiviera-giudizi-duri-793600",
+   "summary": "Nuovi dettagli sul cosiddetto caso Arbitropoli arrivano da Franco Ordine.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:50:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/99/995d86de39c6e56243f08e135ab3ea2a-06254-oooz0000.jpeg",
+   "id": "926394b3c33d"
+  },
+  {
+   "title": "Adzic fa tre su tre: solo Defrel meglio tra gli stranieri del Sassuolo",
+   "link": "https://www.tuttojuve.com/altre-notizie/adzic-tre-defrel-stranieri-sassuolo-793599",
+   "summary": "Il Sassuolo esce sconfitto dalla trasferta contro il Monza, ma Vasilije Adzic continua il suo momento d'oro.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:40:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b3/b34ef60cc12630021c8ac2dcf0b0d46e-55363-oooz0000.jpeg",
+   "id": "7a5595908175"
+  },
+  {
+   "title": "Kane segna la 100/a rete in 98 partite, nuovo record in Bundesliga",
+   "link": "https://www.tuttojuve.com/altre-notizie/kane-segna-100-a-rete-98-partite-record-bundesliga-793598",
+   "summary": "(ANSA) - ROMA, 18 SET - Harry Kane, attaccante del Bayern Monaco, ha segnato la sua 100/a gol in Bundesliga questa sera all'Allianz Arena, nella sua 98/a partita di campionato, battendo il precedente record tedesco detenuto da Dieter Müller ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:35:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c5cb0bb2edfa24ac45bd3d75c99ba52-13595-oooz0000.jpeg",
+   "id": "c88094611ad6"
+  },
+  {
+   "title": "Sassuolo, Aquilani: \"Ecco perchè Adzic in panchina...\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/sassuolo-aquilani-ecco-adzic-panchina-793597",
+   "summary": "Alberto Aquilani analizza la sconfitta del Sassuolo sul campo del Monza, con i brianzoli che grazie al 2-1 hanno conquistato il primo successo in campionato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:30:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4d/4ddd4719ae60b2bffc1cfe8e47cfb097-83831-oooz0000.jpeg",
+   "id": "f44870eda00d"
+  },
+  {
+   "title": "Conceição è una minaccia costante, ma ancora zero gol: solo Zaccagni ha fatto più tiri in porta",
+   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-minaccia-costante-zero-gol-zaccagni-tiri-porta-793596",
+   "summary": "Francisco Conceição continua a rappresentare uno dei principali riferimenti offensivi della Juventus, anche se in questo avvio di Serie A 2026/27 gli manca ancora l'appuntamento con il gol.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:20:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d9/d91dbcf360f999a8f991e56842a2e082-31640-oooz0000.jpeg",
+   "id": "2425f95126db"
+  },
+  {
+   "title": "Europa League, la cinquina al Nec convince i bookmaker: Juventus in pole (6,50) per la vittoria, in quota frena il Milan",
+   "link": "https://www.tuttojuve.com/altre-notizie/europa-league-cinquina-nec-convince-bookmaker-juventus-pole-6-50-vittoria-quota-frena-milan-793595",
+   "summary": "La larga vittoria contro il Nec cambia le valutazioni dei bookmaker sulla corsa all'Europa League.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:10:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/35/352be227ce204826a6e90d97c0372bf5-09911-oooz0000.jpeg",
+   "id": "08f279998418"
+  },
+  {
+   "title": "Euro 2032, il commissario per gli stadi Sessa: \"Un treno che non possiamo perdere\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/euro-2032-commissario-stadi-sessa-un-treno-possiamo-perdere-793590",
+   "summary": "Massimo Sessa, commissario del Governo per gli stadi, ha fatto il punto percorso verso l'Europeo del 2032 mostrando fiducia rispetto alla capacità dell'Italia di rispettare le scadenze e completare gli interventi necessari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:10:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/57/57bc3842e88b8991806b343a7f7c49da-04405-oooz0000.jpeg",
+   "id": "71b35b52bba7"
+  },
+  {
+   "title": "Roma-Inter, il big match dell'Olimpico accende il dibattito sulla corsa scudetto",
+   "link": "https://www.tuttojuve.com/altre-notizie/roma-inter-big-match-olimpico-accende-dibattito-corsa-scudetto-793587",
+   "summary": "Roma-Inter si avvicina. Il match in programma domani all'Olimpico porta a chiedersi se la sfida sia già una partita da scudetto.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T21:00:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5c/5cc6a477534bb5fd787a0bc01a5d6e89-50199-oooz0000.jpeg",
+   "id": "52f33d728a4a"
+  },
+  {
+   "title": "Altra magia di Adzic nel finale, ma il Sassuolo cade a Monza: decide la doppietta di Varela",
+   "link": "https://www.tuttojuve.com/altre-notizie/altra-magia-adzic-finale-sassuolo-cade-monza-decide-doppietta-varela-793594",
+   "summary": "Il Monza rompe il ghiaccio in campionato e conquista la prima vittoria della stagione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T20:50:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6ea4df562d827d9099bcfaa6f40692d1-69954-oooz0000.jpeg",
+   "id": "dbf3cf8f086b"
+  },
+  {
+   "title": "Borsa, ultima seduta della settimana positiva per la Juventus. In calo Stellantis e Ferrari",
+   "link": "https://www.tuttojuve.com/altre-notizie/borsa-ultima-seduta-settimana-positiva-juventus-calo-stellantis-ferrari-793593",
+   "summary": "Chiusura pesante per Piazza Affari, in una giornata caratterizzata dalle vendite sulle principali Borse europee. Il Ftse Mib termina la seduta in ribasso dell'1,60%, attestandosi a 51.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T20:40:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/74/74a45504e33cd34a191dcb497d5a94d4-19038-oooz0000.jpeg",
+   "id": "d316b675d9da"
+  },
+  {
+   "title": "Manna, dopo quello dei Drughi arriva un nuovo tatuaggio per l'ex dirigente Juve",
+   "link": "https://www.tuttojuve.com/altre-notizie/manna-drughi-arriva-tatuaggio-dirigente-juve-793575",
+   "summary": "Nelle ultime ore in casa Napoli sta facendo discurere molto il ds Giovanni Manna. Ma non per il suo operato con la squadra o sul mercato, ma per un.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-18T20:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8cc08415310bd5e5a9a7f590af24b3e0-41493-oooz0000.jpeg",
+   "id": "4c49b46a7199",
+   "age_minutes": 448,
+   "also": [],
+   "score": 4.094
+  },
+  {
    "title": "Marinozzi sincero: “Mi aspettavo qualcosina di più dal gioco del Milan”",
    "link": "https://www.milannews.it/news/marinozzi-sincero-mi-aspettavo-qualcosina-gioco-milan-630220",
    "summary": "Nel suo canale YouTube, il collega Andrea Marinozzi, giornalista di DAZN, ha commentato la sconfitta dei rossoneri contro il Benfica e ha parlato dell’avvio di stagione del Milan di Amorim. Di seguito le sue parole.",
@@ -1023,9 +967,9 @@
    "published": "2026-09-18T22:24:34+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/624a464e41c9a2fdb75a1e04e197647f-64731-oooz0000.jpeg",
    "id": "6fcdf5fe7e35",
-   "age_minutes": 66,
+   "age_minutes": 333,
    "also": [],
-   "score": 6.836
+   "score": 5.67
   },
   {
    "title": "De Rossi attacca i media: “C’è gente che con cuffiette e microfono usa vocaboli imbarazzanti e si sente esperta di calcio”",
@@ -1180,9 +1124,9 @@
    "published": "2026-09-18T19:36:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ea/ea6fd786913c52fd3debc8ce48242a33-81151-oooz0000.jpeg",
    "id": "12d1e16a1b5e",
-   "age_minutes": 234,
+   "age_minutes": 502,
    "also": [],
-   "score": 6.051
+   "score": 5.137
   },
   {
    "title": "Ravezzani: \"Amorim al momento un flop. Quando arrivi senza umiltà...\"",
@@ -1227,9 +1171,9 @@
    "published": "2026-09-18T22:46:21+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3fe8bb02e1f9f44a636f674d0a8f0d6f-59372-401o210o1243o1052z0b5a.jpeg",
    "id": "885fa1c6cef8",
-   "age_minutes": 44,
+   "age_minutes": 311,
    "also": [],
-   "score": 6.952
+   "score": 5.749
   },
   {
    "title": "Attesi al varco",
@@ -1417,9 +1361,9 @@
    "published": "2026-09-18T18:27:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/930ee302bd9cb39c61c34b1e23895cbe-52623-626o48o1325o746z0ab9.jpeg",
    "id": "0b8aee72009a",
-   "age_minutes": 303,
+   "age_minutes": 571,
    "also": [],
-   "score": 4.581
+   "score": 3.753
   },
   {
    "title": "Archiviazione per le 'bussate', l'AIA: \"I nostri associati sempre corretti\"",
@@ -1444,233 +1388,230 @@
    "id": "161df7c49ac9"
   },
   {
-   "title": "Pogba non si arrende: vuole affrontare un’ultima sfida",
-   "link": "https://www.tuttojuve.com/altre-notizie/pogba-arrende-vuole-affrontare-un-ultima-sfida-793552",
-   "summary": "La carriera di Paul Pogba potrebbe non essere ancora terminata.",
-   "source": "TuttoJuve",
+   "title": "Forgione: \"Favasuli scalpita, può insidiare la titolarità di un fedelissimo\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/forgione-favasuli-scalpita-insidiare-titolarita-fedelissimo-656711",
+   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli per analizzare il momento del Napoli in vista della trasferta contro la Fiorentina: \"Favasuli per far riposare Politano? C'è un g ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T23:15:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dd/dd1ca4bc01a794ce476d900ab037dfe1-64273-oooz0000.jpeg",
-   "id": "9fb34585f77e"
+   "scope": "Napoli",
+   "published": "2026-09-19T03:00:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/88/880fbe6f4f21639c16a303f78fda7fc5-89419-oooz0000.jpeg",
+   "id": "c4f76a28f54e"
   },
   {
-   "title": "Atalanta, la probabile formazione contro la Juventus",
-   "link": "https://www.tuttojuve.com/l-avversario/atalanta-probabile-formazione-juventus-793542",
-   "summary": "L’Atalanta si prepara alla delicata trasferta dell’Allianz Stadium, dove domenica 20 settembre alle 18 affronterà la Juventus.",
-   "source": "TuttoJuve",
+   "title": "Fiorentina-Napoli è già un bivio? Bucchioni: \"Più per il gioco che per la classifica\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/fiorentina-napoli-bivio-bucchioni-piu-gioco-classifica-656709",
+   "summary": "Enzo Bucchioni, giornalista e direttore di Italia 7, è intervenuto sulla nostra Radio Tutto Napoli in vista di Fiorentina-Napoli.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T23:00:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db82d5260f54a2a12564e72214a206a2-39597-oooz0000.jpeg",
-   "id": "6d7373402de2"
+   "scope": "Napoli",
+   "published": "2026-09-19T02:00:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b8/b8b73fbd1589137be62135c48f90f63b-28253-oooz0000.jpeg",
+   "id": "24f4113185d5"
   },
   {
-   "title": "Celta Vigo in crisi verso la Juventus: poche reti e Aspas fuori",
-   "link": "https://www.tuttojuve.com/l-avversario/celta-vigo-crisi-juventus-poche-reti-aspas-793550",
-   "summary": "Dopo il brillante esordio contro il NEC Nijmegen, travolto per 5-0 all’Allianz Stadium, il cammino europeo della Juventus proseguirà con una trasferta decisamente più impegnativa.",
-   "source": "TuttoJuve",
+   "title": "Lucca non convince, Scotto: \"Non è all'altezza del Napoli! Gennaio non è lontano...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/lucca-convince-scotto-non-altezza-napoli-gennaio-lontano-656708",
+   "summary": "Giovanni Scotto, giornalista de Il Roma, è intervenuto sulla nostra Radio Tutto Napoli, per analizzare il momento del Napoli in vista della trasferta contro la Fiorentina: \"Lucca? Io immagino che ci sia molta pressione sul calci ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T22:45:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/45/45d04f9b89afb5f809729a813b3da004-31425-oooz0000.jpeg",
-   "id": "4f63a1572cbb"
+   "scope": "Napoli",
+   "published": "2026-09-19T01:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2e/2e16fb1dbd8c3a74b05a4da8a72856d2-98036-oooz0000.jpeg",
+   "id": "7687f4d017f3"
   },
   {
-   "title": "Next Gen e Primavera, cosa succede? La Juventus dei giovani fatica",
-   "link": "https://www.tuttojuve.com/altre-notizie/next-gen-primavera-succede-juventus-giovani-fatica-793539",
-   "summary": "Il momento non è positivo e nasconderlo sarebbe inutile.",
-   "source": "TuttoJuve",
+   "title": "Spinazzola out, chi al suo posto? Marino: \"Per evitare critiche Allegri faccia questa scelta\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/spinazzola-out-posto-marino-per-evitare-critiche-allegri-scelta-656707",
+   "summary": "Giuseppe Marino, allenatore e opinionista, ha rilasciato alcune dichiarazioni intervenendo ai microfoni della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e DAB&nbs ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T22:30:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a2/a2df9e3779e6206ea01351d0d8884fae-42379-oooz0000.jpeg",
-   "id": "c58f05a777b9"
+   "scope": "Napoli",
+   "published": "2026-09-19T00:00:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/321572f63cbc2da9304ac91ef63badf5-81970-oooz0000.jpeg",
+   "id": "869b76b1ee6b"
   },
   {
-   "title": "Spalletti cambia e trova una reazione aspettando l'Atalanta",
-   "link": "https://www.tuttojuve.com/firme-bianconere/spalletti-cambia-trova-reazione-aspettando-atalanta-793520",
-   "summary": "Cominciare bene l'Europa League era la medicina migliore da prendere per riprendersi dal brutto scivolone in casa del Sassuolo in campionato.",
-   "source": "TuttoJuve",
+   "title": "Calcio in lutto: muore a 83 anni la leggenda Sandro Mazzola",
+   "link": "https://www.tuttonapoli.net/notizie/calcio-lutto-muore-83-leggenda-sandro-mazzola-656717",
+   "summary": "Una delle figure più rappresentative della storia del calcio italiano se ne va. Sandro Mazzola è morto all'età di 83 anni: bandiera assoluta dell'Inter e protagonista per tanti anni anche con la maglia della Nazionale.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T22:18:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a7/a7197aab23d5188dc1ee6ebdffdac7cb-48242-oooz0000.jpeg",
-   "id": "252d48b268ec"
+   "scope": "Napoli",
+   "published": "2026-09-18T22:58:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d4/d4ca599e25463c31b1dda23443228099-39330-oooz0000.jpeg",
+   "id": "d340b2edc698"
   },
   {
-   "title": "Juventus sulle tracce di Demirović: lo Stoccarda chiede 35 milioni",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-tracce-demirovic-stoccarda-chiede-35-793545",
-   "summary": "La Juventus continua a monitorare il mercato degli attaccanti e avrebbe inserito nella propria lista anche Ermedin Demirović, centravanti bosniaco classe 1998 legato allo Stoccarda fino al giugno 2028, osservatori…",
-   "source": "TuttoJuve",
+   "title": "La vigilia di Fiorentina-Napoli su Radio Tutto Napoli, il palinsesto di oggi: live dalle 11",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-10-647875",
+   "summary": "Radio Tutto Napoli vi accompagna anche nel week-end con tutti gli aggiornamenti verso Fiorentina-Napoli Oggi il palinsesto di Radio TuttoNapoli, prima radio tematica sul Napoli, inizierà alle 11 con Sabato azzurro con Ciro Accar ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T22:15:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c1/c1ce626393ae5eb3f923bce990fd6940-35354-oooz0000.jpeg",
-   "id": "abb0e762aefd",
-   "age_minutes": 75,
+   "scope": "Napoli",
+   "published": "2026-09-18T22:15:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/421094117ac3b8535d0a70a9b8be3e36-45223-258o324o1086o1152z0b04.jpeg",
+   "id": "c58444fd98ee"
+  },
+  {
+   "title": "\"A Napoli non sono grati ad ADL!\". Scontro Capuano-Auriemma: \"Ci potevi guadagnare anche tu\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/a-napoli-grati-adl-scontro-capuano-auriemma-ci-potevi-guadagnare-tu-656715",
+   "summary": "Il percorso di Aurelio De Laurentiis alla guida del Napoli ha acceso il dibattito negli studi di Sportitalia. Giovanni Capuano ha aperto il confronto sostenendo: \"La gratitudine non è di questo mondo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T22:00:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/da/da19ade0e49490c201a8e70ae16d212b-47003-oooz0000.jpeg",
+   "id": "3e6f066953e4"
+  },
+  {
+   "title": "Di Napoli: “Il Napoli è un'incognita, ha pochi punti. ADL non sereno con un altro passo falso…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-il-napoli-incognita-pochi-punti-adl-sereno-passo-falso-656674",
+   "summary": "Arturo Di Napoli, ex calciatore, è intervenuto ai microfoni della radio di Tuttomercatoweb.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T21:40:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/16/16bc4af3b12f66938f8ebd34826aaaac-42588-oooz0000.jpeg",
+   "id": "b80e0855e4d6",
+   "age_minutes": 377,
    "also": [],
-   "score": 5.986
+   "score": 4.318
   },
   {
-   "title": "Juve, finalmente si svegliano gli attaccanti: ma adesso serve la prova del nove",
-   "link": "https://www.tuttojuve.com/primo-piano/juve-finalmente-si-svegliano-gli-attaccanti-ma-adesso-serve-la-prova-del-nove-793527",
-   "summary": "Cinque gol fanno rumore, ma ce ne sono due che per la Juventus valgono probabilmente più degli altri, quelli di Kolo Muani e Woltemade.",
-   "source": "TuttoJuve",
+   "title": "Forgione: \"Non mi aspetto una Fiorentina all'arrembaggio, col Napoli non serve\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/infortunio-spinazzola-forgione-rosa-logora-napoli-corso-rischio-656680",
+   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli per analizzare il momento del Napoli in vista della trasferta contro la Fiorentina.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T22:05:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/38/38a493d653538b62449228d7dc390eff-51499-oooz0000.jpeg",
-   "id": "cde8249aee63"
+   "scope": "Napoli",
+   "published": "2026-09-18T21:30:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7b/7b9aa196bafdb736554b9483481cc8ba-96730-oooz0000.jpeg",
+   "id": "d1b24f97364b"
   },
   {
-   "title": "Cambiaso prova a recuperare per l’Atalanta, ma senza rischi",
-   "link": "https://www.tuttojuve.com/altre-notizie/cambiaso-prova-recuperare-l-atalanta-rischi-793559",
-   "summary": "Andrea Cambiaso non ha ancora abbandonato la speranza di tornare a disposizione per la sfida tra Juventus e Atalanta.",
-   "source": "TuttoJuve",
+   "title": "Delio Rossi ricorda: \"Litigai con il presidente per Cavani. Lucca? Nel Napoli ci sta\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/delio-rossi-ricorda-litigai-presidente-cavani-lucca-napoli-sta-656713",
+   "summary": "A Radio Napoli Centrale, nel corso di Sempre Con Te è intervenuto Delio Rossi, allenatore: \"Come ho visto il Napoli di Allegri? Non dimentichiamo, che il Napoli è inferiore solo all'Inter.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T22:00:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
-   "id": "97597293a703"
+   "scope": "Napoli",
+   "published": "2026-09-18T21:20:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e0/e037b820f240c90060cbd5b7a2c0b284-84961-oooz0000.jpeg",
+   "id": "39f97a0e3e44"
   },
   {
-   "title": "Ordine: \"Chinè non ha ancora chiuso l’indagine su arbitropoli. Vero che archivierà, ma ci saranno giudizi duri...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/ordine-chine-chiuso-l-indagine-arbitropoli-vero-chine-archiviera-giudizi-duri-793600",
-   "summary": "Nuovi dettagli sul cosiddetto caso Arbitropoli arrivano da Franco Ordine.",
-   "source": "TuttoJuve",
+   "title": "Marcolin promuove il doppio play: \"Mi piace molto il Napoli con Gilmour e Lobotka\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/marcolin-promuove-play-mi-piace-napoli-gilmour-lobotka-656691",
+   "summary": "La scelta di Massimiliano Allegri di affidarsi contemporaneamente a Billy Gilmour e Stanislav Lobotka continua a raccogliere consensi.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:50:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/99/995d86de39c6e56243f08e135ab3ea2a-06254-oooz0000.jpeg",
-   "id": "926394b3c33d"
+   "scope": "Napoli",
+   "published": "2026-09-18T21:10:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/94/94457228702a3db849c71738a650f391-62810-oooz0000.jpeg",
+   "id": "3292c2a30a09"
   },
   {
-   "title": "Adzic fa tre su tre: solo Defrel meglio tra gli stranieri del Sassuolo",
-   "link": "https://www.tuttojuve.com/altre-notizie/adzic-tre-defrel-stranieri-sassuolo-793599",
-   "summary": "Il Sassuolo esce sconfitto dalla trasferta contro il Monza, ma Vasilije Adzic continua il suo momento d'oro.",
-   "source": "TuttoJuve",
+   "title": "Padovan: \"Il Napoli meritava più punti! Ma perché Favasuli non ha giocato prima?\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/padovan-il-napoli-meritava-punti-favasuli-giocato-prima-656712",
+   "summary": "A Radio Napoli Centrale, nel corso di Sempre Con Te è intervenuto il giornalista Giancarlo Padovan: \"Chi sta meglio tra Napoli e Fiorentina? Ora iniziano a stare bene entrambe.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:40:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b3/b34ef60cc12630021c8ac2dcf0b0d46e-55363-oooz0000.jpeg",
-   "id": "7a5595908175"
+   "scope": "Napoli",
+   "published": "2026-09-18T21:00:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/76/76dff256b05a304e21974caafafe4ba9-00963-oooz0000.jpeg",
+   "id": "340978ce98c0"
   },
   {
-   "title": "Kane segna la 100/a rete in 98 partite, nuovo record in Bundesliga",
-   "link": "https://www.tuttojuve.com/altre-notizie/kane-segna-100-a-rete-98-partite-record-bundesliga-793598",
-   "summary": "(ANSA) - ROMA, 18 SET - Harry Kane, attaccante del Bayern Monaco, ha segnato la sua 100/a gol in Bundesliga questa sera all'Allianz Arena, nella sua 98/a partita di campionato, battendo il precedente record tedesco detenuto da Dieter Müller ...",
-   "source": "TuttoJuve",
+   "title": "Boccata d'ossigeno per Juric: Varela stende il Sassuolo, prima vittoria per il Monza",
+   "link": "https://www.tuttonapoli.net/serie-a/boccata-ossigeno-juric-varela-stende-sassuolo-vittoria-monza-656714",
+   "summary": "Il Monza batte il Sassuolo e conquista la prima vittoria in questa Serie A.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:35:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c5cb0bb2edfa24ac45bd3d75c99ba52-13595-oooz0000.jpeg",
-   "id": "c88094611ad6"
+   "scope": "Napoli",
+   "published": "2026-09-18T20:45:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/22/22aaf3d13bfd061ba78665773bcbf305-21016-oooz0000.jpeg",
+   "id": "8d4b0215a5a9"
   },
   {
-   "title": "Sassuolo, Aquilani: \"Ecco perchè Adzic in panchina...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/sassuolo-aquilani-ecco-adzic-panchina-793597",
-   "summary": "Alberto Aquilani analizza la sconfitta del Sassuolo sul campo del Monza, con i brianzoli che grazie al 2-1 hanno conquistato il primo successo in campionato.",
-   "source": "TuttoJuve",
+   "title": "Ag. Vanoli: \"Aveva fatto un miracolo alla Fiorentina un anno fa e Paratici lo sapeva\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/ag-vanoli-aveva-miracolo-fiorentina-paratici-sapeva-656697",
+   "summary": "A Stile TV nel corso della trasmissione “Salite sulla giostra” è intervenuto Andrea D’Amico, agente di Paolo Vanoli: “Viviamo in un’epoca in cui è tutto molto veloce in qualsiasi settore.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:30:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4d/4ddd4719ae60b2bffc1cfe8e47cfb097-83831-oooz0000.jpeg",
-   "id": "f44870eda00d"
-  },
-  {
-   "title": "Conceição è una minaccia costante, ma ancora zero gol: solo Zaccagni ha fatto più tiri in porta",
-   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-minaccia-costante-zero-gol-zaccagni-tiri-porta-793596",
-   "summary": "Francisco Conceição continua a rappresentare uno dei principali riferimenti offensivi della Juventus, anche se in questo avvio di Serie A 2026/27 gli manca ancora l'appuntamento con il gol.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:20:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d9/d91dbcf360f999a8f991e56842a2e082-31640-oooz0000.jpeg",
-   "id": "2425f95126db"
-  },
-  {
-   "title": "Europa League, la cinquina al Nec convince i bookmaker: Juventus in pole (6,50) per la vittoria, in quota frena il Milan",
-   "link": "https://www.tuttojuve.com/altre-notizie/europa-league-cinquina-nec-convince-bookmaker-juventus-pole-6-50-vittoria-quota-frena-milan-793595",
-   "summary": "La larga vittoria contro il Nec cambia le valutazioni dei bookmaker sulla corsa all'Europa League.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:10:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/35/352be227ce204826a6e90d97c0372bf5-09911-oooz0000.jpeg",
-   "id": "08f279998418"
-  },
-  {
-   "title": "Euro 2032, il commissario per gli stadi Sessa: \"Un treno che non possiamo perdere\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/euro-2032-commissario-stadi-sessa-un-treno-possiamo-perdere-793590",
-   "summary": "Massimo Sessa, commissario del Governo per gli stadi, ha fatto il punto percorso verso l'Europeo del 2032 mostrando fiducia rispetto alla capacità dell'Italia di rispettare le scadenze e completare gli interventi necessari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:10:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/57/57bc3842e88b8991806b343a7f7c49da-04405-oooz0000.jpeg",
-   "id": "71b35b52bba7"
-  },
-  {
-   "title": "Roma-Inter, il big match dell'Olimpico accende il dibattito sulla corsa scudetto",
-   "link": "https://www.tuttojuve.com/altre-notizie/roma-inter-big-match-olimpico-accende-dibattito-corsa-scudetto-793587",
-   "summary": "Roma-Inter si avvicina. Il match in programma domani all'Olimpico porta a chiedersi se la sfida sia già una partita da scudetto.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T21:00:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5c/5cc6a477534bb5fd787a0bc01a5d6e89-50199-oooz0000.jpeg",
-   "id": "52f33d728a4a"
-  },
-  {
-   "title": "Altra magia di Adzic nel finale, ma il Sassuolo cade a Monza: decide la doppietta di Varela",
-   "link": "https://www.tuttojuve.com/altre-notizie/altra-magia-adzic-finale-sassuolo-cade-monza-decide-doppietta-varela-793594",
-   "summary": "Il Monza rompe il ghiaccio in campionato e conquista la prima vittoria della stagione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:50:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6ea4df562d827d9099bcfaa6f40692d1-69954-oooz0000.jpeg",
-   "id": "dbf3cf8f086b"
-  },
-  {
-   "title": "Borsa, ultima seduta della settimana positiva per la Juventus. In calo Stellantis e Ferrari",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-ultima-seduta-settimana-positiva-juventus-calo-stellantis-ferrari-793593",
-   "summary": "Chiusura pesante per Piazza Affari, in una giornata caratterizzata dalle vendite sulle principali Borse europee. Il Ftse Mib termina la seduta in ribasso dell'1,60%, attestandosi a 51.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:40:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/74/74a45504e33cd34a191dcb497d5a94d4-19038-oooz0000.jpeg",
-   "id": "d316b675d9da"
-  },
-  {
-   "title": "Manna, dopo quello dei Drughi arriva un nuovo tatuaggio per l'ex dirigente Juve",
-   "link": "https://www.tuttojuve.com/altre-notizie/manna-drughi-arriva-tatuaggio-dirigente-juve-793575",
-   "summary": "Nelle ultime ore in casa Napoli sta facendo discurere molto il ds Giovanni Manna. Ma non per il suo operato con la squadra o sul mercato, ma per un.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8cc08415310bd5e5a9a7f590af24b3e0-41493-oooz0000.jpeg",
-   "id": "4c49b46a7199",
-   "age_minutes": 180,
+   "scope": "Napoli",
+   "published": "2026-09-18T20:40:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/13/13ef73f47e1f7b1dcbbf71165b5bfb15-76477-oooz0000.jpeg",
+   "id": "53a7a0b7621e",
+   "age_minutes": 437,
    "also": [],
-   "score": 5.081
+   "score": 3.726
   },
   {
-   "title": "Ancelotti, per l'ex Juve una richiesta \"speciale\" dal presidente brasiliano Lula",
-   "link": "https://www.tuttojuve.com/altre-notizie/ancelotti-juve-richiesta-speciale-presidente-brasiliano-lula-793586",
-   "summary": "Carlo Ancelotti ha dato il via alla generale ristrutturazione della nazionale del Brasile con le nuove convocazioni per le amichevoli contro Australia e India. Una lista che ha fatto storcere il naso a qualcuno, a…",
-   "source": "TuttoJuve",
+   "title": "Napoli Primavera, partenza da incubo: Nocerino cerca i primi punti contro l'Ascoli",
+   "link": "https://www.tuttonapoli.net/giovanili/napoli-primavera-partenza-incubo-ascoli-nocerino-cerca-primi-punti-656690",
+   "summary": "L'avvio di stagione non è stato quello sperato per il Napoli Primavera. La squadra allenata da Antonio Nocerino ha perso entrambe le prime due partite del campionato di Primavera 2, realizzando tre reti ma incassandone già sei.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-18T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1d/1dfce81ad01fdef37a22192c2608775e-60266-oooz0000.jpeg",
-   "id": "7519c11fde0a",
-   "age_minutes": 190,
-   "also": [],
-   "score": 5.237
+   "scope": "Napoli",
+   "published": "2026-09-18T20:30:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/dd/dd13e456899f849db2d95ff0a2dc1dca-83448-oooz0000.jpeg",
+   "id": "990e733eba94"
+  },
+  {
+   "title": "De Biasi: \"Allegri insisterà col doppio play, il Napoli può crescere tanto\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/de-biasi-allegri-insistera-play-napoli-crescere-tanto-656692",
+   "summary": "Il cambio in panchina ha dato una prima scossa alla Fiorentina, ma per Gianni De Biasi il vero banco di prova deve ancora arrivare.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T20:20:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9c/9c5449fa0100805fc718fe52fc8e725f-38071-oooz0000.jpeg",
+   "id": "550f989c1a73"
+  },
+  {
+   "title": "Italia, Mancini dopo le prime convocazioni: \"Il primo passo, ci tengo molto\"",
+   "link": "https://www.tuttonapoli.net/dai-social/italia-mancini-prime-convocazioni-il-passo-tengo-molto-656705",
+   "summary": "Attraverso il proprio profilo su Instagram, il ct Roberto Mancini ha enunciato tutte le convocazioni e poi commentato questo momento, molto significativo per la sua carriera: \"Rivedere le mie prime convocazioni mi riporta a un percorso a cui ten ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T20:10:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/af/af9e59e96ccbe622e2c8f42ac4826bcc-22840-oooz0000.jpeg",
+   "id": "1129e196c16f"
+  },
+  {
+   "title": "Lang, il gol manca da (quasi) un anno. E la Fiorentina lo aveva cercato in estate",
+   "link": "https://www.tuttonapoli.net/notizie/lang-gol-manca-quasi-anno-fiorentina-cercato-estate-656639",
+   "summary": "Noa Lang è ancora alla ricerca del gol. L’attaccante non va a segno dal 22 novembre, quando realizzò la sua prima e, finora, unica rete con la maglia del Napoli nella sfida contro l’Atalanta.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T20:00:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2a5da419577e059775760016789f5efb-61091-oooz0000.jpeg",
+   "id": "4ece7205cb47"
+  },
+  {
+   "title": "Italiano-show al Besiktas, Del Genio: \"Quante fesserie vi hanno raccontato!\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/italiano-show-besiktas-genio-quante-fesserie-raccontato-656696",
+   "summary": "Dagli elogi a Vincenzo Italiano alle possibili soluzioni offensive del Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T19:50:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c0/c038b7f9bd5e0b36aaf829418ed9c0d4-56748-oooz0000.jpeg",
+   "id": "09cb739432c0"
+  },
+  {
+   "title": "Folorunsho scherza sul fantacalcio: \"Da due anni vado benissimo, speriamo di portare bonus\"",
+   "link": "https://www.tuttonapoli.net/serie-a/folorunsho-scherza-fantacalcio-da-vado-benissimo-speriamo-portare-bonus-656706",
+   "summary": "Prima il campo, poi un pensiero anche ai tanti fantallenatori che hanno deciso di puntare su di lui.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-18T19:40:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/18/186183481b917c660a90070a39152841-91608-oooz0000.jpeg",
+   "id": "0bac588fb5b2"
   },
   {
    "title": "Italy call 34 players, but Mancini snub for Retegui, Udogie, Zaccagni and Politano",
@@ -1896,6 +1837,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 27
+  "in_edizione": 23
  }
 }
