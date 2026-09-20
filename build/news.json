@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T01:24:20.877252+02:00",
+ "generated_at": "2026-09-20T03:28:34.343718+02:00",
  "articles": [
   {
    "title": "Tedesco può tornare subito in panchina dopo l’addio al Bologna, la destinazione",
@@ -11,9 +11,9 @@
    "published": "2026-09-19T21:15:31+00:00",
    "image": "",
    "id": "6d99af9c383a",
-   "age_minutes": 128,
+   "age_minutes": 253,
    "also": [],
-   "score": 8.721
+   "score": 8.176
   },
   {
    "title": "Lazio, colpo al Penzo: Venezia battuto 2-0, biancocelesti in vetta con Inter e Roma",
@@ -25,28 +25,14 @@
    "published": "2026-09-19T20:51:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cd/cde8f0ae1a80e95bcfa6e71c671b66ee-29449-oooz0000.jpeg",
    "id": "692a654e7720",
-   "age_minutes": 153,
+   "age_minutes": 277,
    "also": [
     {
      "source": "TuttoJuve",
      "link": "https://www.tuttojuve.com/altre-notizie/lazio-colpo-venezia-zaccagni-noslin-firmano-2-0-biancocelesti-vetta-classifica-aggiornata-793693"
     }
    ],
-   "score": 7.006
-  },
-  {
-   "title": "Gasperini soddisfatto: “Mai rinunciato a vincere, questa partita ci da consapevolezza”",
-   "link": "https://www.milannews.it/news/gasperini-soddisfatto-mai-rinunciato-vincere-partita-consapevolezza-630320",
-   "summary": "Nel post partita di Roma-Inter, match terminato 2-2 con l'ennesima rimonta dei nerazzurri che nel secondo tempo recuperano il doppio svantaggio firmato Manu Konè, il tecnico dei giallorossi Gian Piero Gasperini ha…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-19T22:24:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/8d/8d290b0ff679a5ab43323c7ac1dc8669-92295-oooz0000.jpeg",
-   "id": "1da8afef3b9e",
-   "age_minutes": 59,
-   "also": [],
-   "score": 6.468
+   "score": 6.479
   },
   {
    "title": "Da partente a punto fermo: Nico Gonzalez vicino al rinnovo con la Juventus",
@@ -58,79 +44,23 @@
    "published": "2026-09-19T07:01:04+00:00",
    "image": "",
    "id": "4bbc9b962ba1",
-   "age_minutes": 983,
+   "age_minutes": 1107,
    "also": [],
-   "score": 6.367
+   "score": 6.208
   },
   {
-   "title": "Galassia Exor - Stellantis valuta la cessione di Aramis Group: la quota vale circa 140 milioni",
-   "link": "https://www.tuttojuve.com/altre-notizie/galassia-exor-stellantis-valuta-cessione-aramis-group-quota-140-793682",
-   "summary": "Stellantis potrebbe ridurre il perimetro delle attività non centrali per concentrare maggiormente le risorse sul business automobilistico e rafforzare la propria posizione finanziaria.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:15:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/30/302f2ae94f080aa0fd49faf54ecefc6d-27295-oooz0000.jpeg",
-   "id": "7bbd65a7440f",
-   "age_minutes": 189,
-   "also": [],
-   "score": 6.244
-  },
-  {
-   "title": "Occasione Conte? Pastore: “Big non lo vogliono per il mercato!”, Biasin: \"Il Napoli sta pagando\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/occasione-conte-pastore-big-vogliono-mercato-biasin-il-napoli-pagando-656786",
-   "summary": "Il futuro di Antonio Conte accende il dibattito negli studi di Cronache di Spogliatoio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-19T20:00:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ca/caf3d052f0cb8548513587b6113c2227-59743-oooz0000.jpeg",
-   "id": "889841932d84",
-   "age_minutes": 203,
-   "also": [],
-   "score": 6.18
-  },
-  {
-   "title": "Lecce ospite a San Siro, Milan per il riscatto: i precedenti tra le due squadre sorridono ai rossoneri",
-   "link": "https://www.milannews.it/news/milan-lecce-domani-630304",
-   "summary": "Domani sera i rossoneri ospiteranno il Lecce di Eusebio Di Francesco a San Siro per il match valevole la quinta giornata di Serie A.",
+   "title": "Gasperini soddisfatto: “Mai rinunciato a vincere, questa partita ci da consapevolezza”",
+   "link": "https://www.milannews.it/news/gasperini-soddisfatto-mai-rinunciato-vincere-partita-consapevolezza-630320",
+   "summary": "Nel post partita di Roma-Inter, match terminato 2-2 con l'ennesima rimonta dei nerazzurri che nel secondo tempo recuperano il doppio svantaggio firmato Manu Konè, il tecnico dei giallorossi Gian Piero Gasperini ha…",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-09-19T20:00:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fc/fcb6db5a4aaa5ac85e07845fc68345de-12247-oooz0000.jpeg",
-   "id": "473a4ff2d4d1",
-   "age_minutes": 204,
+   "published": "2026-09-19T22:24:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/8d/8d290b0ff679a5ab43323c7ac1dc8669-92295-oooz0000.jpeg",
+   "id": "1da8afef3b9e",
+   "age_minutes": 184,
    "also": [],
-   "score": 6.178
-  },
-  {
-   "title": "Le follie di Amorim. La sopravvalutazione di Cardinale",
-   "link": "https://www.milannews.it/editoriale/follie-amorim-sopravvalutazione-cardinale-630301",
-   "summary": "Milan-Lecce in un mondo normale dovrebbe essere partita facile per i padroni di casa, nella situazione in cui è oggi guai a pensare a una passeggiata di salute.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-19T22:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0ceb3f34d726704a62a3bfc54e5e4dd-56687-oooz0000.jpeg",
-   "id": "cc8420f570c3",
-   "age_minutes": 84,
-   "also": [],
-   "score": 6.141
-  },
-  {
-   "title": "Juve, che tegola per Spalletti! Lesione al crociato per un neoacquisto",
-   "link": "https://www.tuttonapoli.net/notizie/juve-tegola-grabara-lesione-legamento-crociato-656790",
-   "summary": "(ANSA) - TORINO, 19 SET - Sulla Juventus si abbatte un'altra tegola, Kamil Grabara sarà costretto a un lunghissimo stop.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-19T19:00:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
-   "id": "0a9c92e9f01d",
-   "age_minutes": 263,
-   "also": [],
-   "score": 5.934
+   "score": 5.866
   },
   {
    "title": "Milan, no alla Premier League e firma fino al 2031: i dettagli",
@@ -142,23 +72,51 @@
    "published": "2026-09-18T21:33:36+00:00",
    "image": "",
    "id": "31031b860ed6",
-   "age_minutes": 1550,
+   "age_minutes": 1674,
    "also": [],
-   "score": 5.826
+   "score": 5.756
   },
   {
-   "title": "Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop",
-   "link": "https://www.calciomercato.it/2026/09/19/emergenza-infinita-per-la-juventus-lesione-al-ginocchio-e-6-mesi-di-stop/",
-   "summary": "L'articolo Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-19T17:25:46+00:00",
-   "image": "",
-   "id": "b0adf586c3aa",
-   "age_minutes": 358,
+   "title": "Galassia Exor - Stellantis valuta la cessione di Aramis Group: la quota vale circa 140 milioni",
+   "link": "https://www.tuttojuve.com/altre-notizie/galassia-exor-stellantis-valuta-cessione-aramis-group-quota-140-793682",
+   "summary": "Stellantis potrebbe ridurre il perimetro delle attività non centrali per concentrare maggiormente le risorse sul business automobilistico e rafforzare la propria posizione finanziaria.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:15:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/30/302f2ae94f080aa0fd49faf54ecefc6d-27295-oooz0000.jpeg",
+   "id": "7bbd65a7440f",
+   "age_minutes": 313,
    "also": [],
-   "score": 5.783
+   "score": 5.744
+  },
+  {
+   "title": "Occasione Conte? Pastore: “Big non lo vogliono per il mercato!”, Biasin: \"Il Napoli sta pagando\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/occasione-conte-pastore-big-vogliono-mercato-biasin-il-napoli-pagando-656786",
+   "summary": "Il futuro di Antonio Conte accende il dibattito negli studi di Cronache di Spogliatoio.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-19T20:00:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ca/caf3d052f0cb8548513587b6113c2227-59743-oooz0000.jpeg",
+   "id": "889841932d84",
+   "age_minutes": 328,
+   "also": [],
+   "score": 5.691
+  },
+  {
+   "title": "Lecce ospite a San Siro, Milan per il riscatto: i precedenti tra le due squadre sorridono ai rossoneri",
+   "link": "https://www.milannews.it/news/milan-lecce-domani-630304",
+   "summary": "Domani sera i rossoneri ospiteranno il Lecce di Eusebio Di Francesco a San Siro per il match valevole la quinta giornata di Serie A.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-19T20:00:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fc/fcb6db5a4aaa5ac85e07845fc68345de-12247-oooz0000.jpeg",
+   "id": "473a4ff2d4d1",
+   "age_minutes": 328,
+   "also": [],
+   "score": 5.689
   },
   {
    "title": "Nazionale, i convocati di Roberto Mancini per la Nations League: la lista ufficiale",
@@ -170,23 +128,51 @@
    "published": "2026-09-18T17:07:39+00:00",
    "image": "",
    "id": "a05b7eb00af3",
-   "age_minutes": 1816,
+   "age_minutes": 1940,
    "also": [],
-   "score": 5.69
+   "score": 5.643
   },
   {
-   "title": "La Juventus segue Alessandro Romano ma c'è concorrenza",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-segue-alessandro-romano-concorrenza-793633",
-   "summary": "La Juventus mette gli occhi su Alessandro Romano, giovane centrocampista di proprietà della Roma attualmente in prestito al Cagliari.",
-   "source": "TuttoJuve",
+   "title": "Le follie di Amorim. La sopravvalutazione di Cardinale",
+   "link": "https://www.milannews.it/editoriale/follie-amorim-sopravvalutazione-cardinale-630301",
+   "summary": "Milan-Lecce in un mondo normale dovrebbe essere partita facile per i padroni di casa, nella situazione in cui è oggi guai a pensare a una passeggiata di salute.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:15:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a430bbac01e598bf979c8cb0d2f0d3d-62611-oooz0000.jpeg",
-   "id": "04f0f6c81f2d",
-   "age_minutes": 68,
+   "scope": "Milan",
+   "published": "2026-09-19T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0ceb3f34d726704a62a3bfc54e5e4dd-56687-oooz0000.jpeg",
+   "id": "cc8420f570c3",
+   "age_minutes": 208,
    "also": [],
-   "score": 5.621
+   "score": 5.56
+  },
+  {
+   "title": "Juve, che tegola per Spalletti! Lesione al crociato per un neoacquisto",
+   "link": "https://www.tuttonapoli.net/serie-a/juve-tegola-grabara-lesione-legamento-crociato-656790",
+   "summary": "(ANSA) - TORINO, 19 SET - Sulla Juventus si abbatte un'altra tegola, Kamil Grabara sarà costretto a un lunghissimo stop.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-19T19:00:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
+   "id": "bc6c15891f5d",
+   "age_minutes": 387,
+   "also": [],
+   "score": 5.485
+  },
+  {
+   "title": "Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop",
+   "link": "https://www.calciomercato.it/2026/09/19/emergenza-infinita-per-la-juventus-lesione-al-ginocchio-e-6-mesi-di-stop/",
+   "summary": "L'articolo Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-19T17:25:46+00:00",
+   "image": "",
+   "id": "b0adf586c3aa",
+   "age_minutes": 482,
+   "also": [],
+   "score": 5.392
   },
   {
    "title": "Milan, nuova svolta Pulisic: cosa cambia",
@@ -198,23 +184,23 @@
    "published": "2026-09-19T16:03:44+00:00",
    "image": "",
    "id": "c903a281cb13",
-   "age_minutes": 440,
+   "age_minutes": 564,
    "also": [],
-   "score": 5.517
+   "score": 5.169
   },
   {
-   "title": "Centrocampo da inventare: Douglas Luiz guida Spalletti",
-   "link": "https://www.tuttojuve.com/altre-notizie/centrocampo-inventare-douglas-luiz-guida-spalletti-793639",
-   "summary": "È probabilmente il reparto nel quale Luciano Spalletti ha meno margini di scelta. In vista della sfida contro l'Atalanta, la Juventus deve fare i conti soprattutto con le pesanti assenze di Manuel Locatelli e Khephren…",
+   "title": "La Juventus segue Alessandro Romano ma c'è concorrenza",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-segue-alessandro-romano-concorrenza-793633",
+   "summary": "La Juventus mette gli occhi su Alessandro Romano, giovane centrocampista di proprietà della Roma attualmente in prestito al Cagliari.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-09-19T22:30:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9593879645ab45d2dcd3c4a3c1eb17f4-55492-oooz0000.jpeg",
-   "id": "8d464db07afe",
-   "age_minutes": 53,
+   "published": "2026-09-19T22:15:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a430bbac01e598bf979c8cb0d2f0d3d-62611-oooz0000.jpeg",
+   "id": "04f0f6c81f2d",
+   "age_minutes": 193,
    "also": [],
-   "score": 5.3
+   "score": 5.026
   },
   {
    "title": "Esonero De Zerbi, Tottenham di nuovo ko: panchina rovente",
@@ -226,9 +212,23 @@
    "published": "2026-09-19T14:16:41+00:00",
    "image": "",
    "id": "76670e41f16e",
-   "age_minutes": 547,
+   "age_minutes": 671,
    "also": [],
-   "score": 5.214
+   "score": 4.916
+  },
+  {
+   "title": "Centrocampo da inventare: Douglas Luiz guida Spalletti",
+   "link": "https://www.tuttojuve.com/altre-notizie/centrocampo-inventare-douglas-luiz-guida-spalletti-793639",
+   "summary": "È probabilmente il reparto nel quale Luciano Spalletti ha meno margini di scelta. In vista della sfida contro l'Atalanta, la Juventus deve fare i conti soprattutto con le pesanti assenze di Manuel Locatelli e Khephren…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:30:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9593879645ab45d2dcd3c4a3c1eb17f4-55492-oooz0000.jpeg",
+   "id": "8d464db07afe",
+   "age_minutes": 178,
+   "also": [],
+   "score": 4.693
   },
   {
    "title": "Non solo Juventus e Milan, un’altra big piomba su Conte",
@@ -240,23 +240,9 @@
    "published": "2026-09-19T11:20:49+00:00",
    "image": "",
    "id": "d5bf183d3e4f",
-   "age_minutes": 723,
+   "age_minutes": 847,
    "also": [],
-   "score": 4.807
-  },
-  {
-   "title": "Garbo avvisa: “Il Napoli rischia di non entrare tra le prime 4! E occhio alla gara a Firenze…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/garbo-avvisa-il-napoli-rischia-entrare-prime-4-occhio-gara-firenze-656753",
-   "summary": "Il giornalista Daniele Garbo ha rilasciato alcune dichiarazioni ai microfoni della radio di Tuttomercatoweb.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-19T18:30:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b9/b94349f3c3505ddb2db72d91d36b760c-36245-oooz0000.jpeg",
-   "id": "b52a06552cc9",
-   "age_minutes": 293,
-   "also": [],
-   "score": 4.617
+   "score": 4.576
   },
   {
    "title": "Lutto nel calcio italiano: è morto Sandro Mazzola, leggenda dell’Inter",
@@ -268,9 +254,9 @@
    "published": "2026-09-19T09:11:43+00:00",
    "image": "",
    "id": "3e4fdff8c275",
-   "age_minutes": 852,
+   "age_minutes": 976,
    "also": [],
-   "score": 4.568
+   "score": 4.376
   },
   {
    "title": "L’Inter già pensa alla prossima estate: osservato speciale in casa Roma",
@@ -282,23 +268,23 @@
    "published": "2026-09-19T07:58:39+00:00",
    "image": "",
    "id": "3c5a7354e1be",
-   "age_minutes": 925,
+   "age_minutes": 1049,
    "also": [],
-   "score": 4.451
+   "score": 4.278
   },
   {
-   "title": "PSG, Dembelé vota Kvaratskhelia: “E’ il migliore del mondo, merita il Pallone d'Oro”",
-   "link": "https://www.tuttonapoli.net/brevi/psg-dembele-vota-kvaratskhelia-e-migliore-mondo-merita-pallone-oro-656761",
-   "summary": "L'attesa per l'assegnazione del Pallone d'Oro 2026 cresce in vista della cerimonia del 26 ottobre a Londra, quando France Football svelerà il vincitore.",
+   "title": "Garbo avvisa: “Il Napoli rischia di non entrare tra le prime 4! E occhio alla gara a Firenze…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/garbo-avvisa-il-napoli-rischia-entrare-prime-4-occhio-gara-firenze-656753",
+   "summary": "Il giornalista Daniele Garbo ha rilasciato alcune dichiarazioni ai microfoni della radio di Tuttomercatoweb.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-09-19T18:45:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8e/8e7ea817d5471ec5ce053d195293c0cc-37167-oooz0000.jpeg",
-   "id": "960684f22aba",
-   "age_minutes": 278,
+   "published": "2026-09-19T18:30:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b9/b94349f3c3505ddb2db72d91d36b760c-36245-oooz0000.jpeg",
+   "id": "b52a06552cc9",
+   "age_minutes": 417,
    "also": [],
-   "score": 4.274
+   "score": 4.187
   },
   {
    "title": "Svilar-Juve, spunta la verità: c’è l’annuncio",
@@ -310,9 +296,9 @@
    "published": "2026-09-19T05:14:10+00:00",
    "image": "",
    "id": "f2f7bf35ee62",
-   "age_minutes": 1090,
+   "age_minutes": 1214,
    "also": [],
-   "score": 4.229
+   "score": 4.093
   },
   {
    "title": "Dalla Juve al Bayern Monaco, clamoroso scenario in vista del prossimo anno",
@@ -324,9 +310,23 @@
    "published": "2026-09-19T04:03:12+00:00",
    "image": "",
    "id": "94fb6c581625",
-   "age_minutes": 1161,
+   "age_minutes": 1285,
    "also": [],
-   "score": 4.148
+   "score": 4.025
+  },
+  {
+   "title": "PSG, Dembelé vota Kvaratskhelia: “E’ il migliore del mondo, merita il Pallone d'Oro”",
+   "link": "https://www.tuttonapoli.net/brevi/psg-dembele-vota-kvaratskhelia-e-migliore-mondo-merita-pallone-oro-656761",
+   "summary": "L'attesa per l'assegnazione del Pallone d'Oro 2026 cresce in vista della cerimonia del 26 ottobre a Londra, quando France Football svelerà il vincitore.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-19T18:45:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8e/8e7ea817d5471ec5ce053d195293c0cc-37167-oooz0000.jpeg",
+   "id": "960684f22aba",
+   "age_minutes": 403,
+   "also": [],
+   "score": 3.835
   },
   {
    "title": "Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic",
@@ -338,9 +338,9 @@
    "published": "2026-09-18T22:02:01+00:00",
    "image": "",
    "id": "f1485463395a",
-   "age_minutes": 1522,
+   "age_minutes": 1646,
    "also": [],
-   "score": 3.844
+   "score": 3.771
   },
   {
    "title": "Caos spogliatoio in casa Milan, il rapporto tra Amorim e alcuni senatori non è ottimale",
@@ -352,9 +352,9 @@
    "published": "2026-09-18T19:06:18+00:00",
    "image": "",
    "id": "08953491447e",
-   "age_minutes": 1698,
+   "age_minutes": 1822,
    "also": [],
-   "score": 3.744
+   "score": 3.688
   },
   {
    "title": "Nazionale under 21, ufficiali i convocati: Cisse, Raimondo e Pisilli da Baldini",
@@ -366,9 +366,9 @@
    "published": "2026-09-18T15:58:13+00:00",
    "image": "",
    "id": "d4a329800754",
-   "age_minutes": 1886,
+   "age_minutes": 2010,
    "also": [],
-   "score": 3.663
+   "score": 3.619
   },
   {
    "title": "Roma-Inter, Chivu pronto a cambiare: ha deluso e va in panchina",
@@ -380,23 +380,9 @@
    "published": "2026-09-18T14:44:01+00:00",
    "image": "",
    "id": "c070202cee5a",
-   "age_minutes": 1960,
+   "age_minutes": 2084,
    "also": [],
-   "score": 3.636
-  },
-  {
-   "title": "Sorpresa McTominay, cambiano i tempi di recupera: quando rientra",
-   "link": "https://www.calciomercato.it/2026/09/18/sorpresa-mctominay-cambiano-i-tempi-di-recupera-quando-rientra/",
-   "summary": "L'articolo Sorpresa McTominay, cambiano i tempi di recupera: quando rientra proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-18T12:46:35+00:00",
-   "image": "",
-   "id": "6e70b30dec04",
-   "age_minutes": 2077,
-   "also": [],
-   "score": 3.599
+   "score": 3.597
   }
  ],
  "raw": [
@@ -410,9 +396,9 @@
    "published": "2026-09-19T21:15:31+00:00",
    "image": "",
    "id": "6d99af9c383a",
-   "age_minutes": 128,
+   "age_minutes": 253,
    "also": [],
-   "score": 8.721
+   "score": 8.176
   },
   {
    "title": "Pagelle Roma-Inter 2-2, i voti della sfida: doppiette per Koné e Lautaro",
@@ -435,9 +421,9 @@
    "published": "2026-09-19T17:25:46+00:00",
    "image": "",
    "id": "b0adf586c3aa",
-   "age_minutes": 358,
+   "age_minutes": 482,
    "also": [],
-   "score": 5.783
+   "score": 5.392
   },
   {
    "title": "Milan, nuova svolta Pulisic: cosa cambia",
@@ -449,9 +435,9 @@
    "published": "2026-09-19T16:03:44+00:00",
    "image": "",
    "id": "c903a281cb13",
-   "age_minutes": 440,
+   "age_minutes": 564,
    "also": [],
-   "score": 5.517
+   "score": 5.169
   },
   {
    "title": "Esonero De Zerbi, Tottenham di nuovo ko: panchina rovente",
@@ -463,9 +449,9 @@
    "published": "2026-09-19T14:16:41+00:00",
    "image": "",
    "id": "76670e41f16e",
-   "age_minutes": 547,
+   "age_minutes": 671,
    "also": [],
-   "score": 5.214
+   "score": 4.916
   },
   {
    "title": "Roma-Inter probabili formazioni: le ultimissime su Lulli, Soulé e Pio Esposito",
@@ -488,9 +474,9 @@
    "published": "2026-09-19T11:20:49+00:00",
    "image": "",
    "id": "d5bf183d3e4f",
-   "age_minutes": 723,
+   "age_minutes": 847,
    "also": [],
-   "score": 4.807
+   "score": 4.576
   },
   {
    "title": "Lutto nel calcio italiano: è morto Sandro Mazzola, leggenda dell’Inter",
@@ -502,9 +488,9 @@
    "published": "2026-09-19T09:11:43+00:00",
    "image": "",
    "id": "3e4fdff8c275",
-   "age_minutes": 852,
+   "age_minutes": 976,
    "also": [],
-   "score": 4.568
+   "score": 4.376
   },
   {
    "title": "L’Inter già pensa alla prossima estate: osservato speciale in casa Roma",
@@ -516,9 +502,9 @@
    "published": "2026-09-19T07:58:39+00:00",
    "image": "",
    "id": "3c5a7354e1be",
-   "age_minutes": 925,
+   "age_minutes": 1049,
    "also": [],
-   "score": 4.451
+   "score": 4.278
   },
   {
    "title": "Da partente a punto fermo: Nico Gonzalez vicino al rinnovo con la Juventus",
@@ -530,9 +516,9 @@
    "published": "2026-09-19T07:01:04+00:00",
    "image": "",
    "id": "4bbc9b962ba1",
-   "age_minutes": 983,
+   "age_minutes": 1107,
    "also": [],
-   "score": 6.367
+   "score": 6.208
   },
   {
    "title": "Svilar-Juve, spunta la verità: c’è l’annuncio",
@@ -544,9 +530,9 @@
    "published": "2026-09-19T05:14:10+00:00",
    "image": "",
    "id": "f2f7bf35ee62",
-   "age_minutes": 1090,
+   "age_minutes": 1214,
    "also": [],
-   "score": 4.229
+   "score": 4.093
   },
   {
    "title": "Dalla Juve al Bayern Monaco, clamoroso scenario in vista del prossimo anno",
@@ -558,9 +544,9 @@
    "published": "2026-09-19T04:03:12+00:00",
    "image": "",
    "id": "94fb6c581625",
-   "age_minutes": 1161,
+   "age_minutes": 1285,
    "also": [],
-   "score": 4.148
+   "score": 4.025
   },
   {
    "title": "Monza-Sassuolo, Juric: “Ho sentito la fiducia”. Aquilani spiega l’esclusione di Adzic",
@@ -572,9 +558,9 @@
    "published": "2026-09-18T22:02:01+00:00",
    "image": "",
    "id": "f1485463395a",
-   "age_minutes": 1522,
+   "age_minutes": 1646,
    "also": [],
-   "score": 3.844
+   "score": 3.771
   },
   {
    "title": "Milan, no alla Premier League e firma fino al 2031: i dettagli",
@@ -586,9 +572,9 @@
    "published": "2026-09-18T21:33:36+00:00",
    "image": "",
    "id": "31031b860ed6",
-   "age_minutes": 1550,
+   "age_minutes": 1674,
    "also": [],
-   "score": 5.826
+   "score": 5.756
   },
   {
    "title": "PAGELLE e TABELLINO Monza-Sassuolo 2-1: Varela letale, Adzic non basta",
@@ -611,9 +597,9 @@
    "published": "2026-09-18T19:06:18+00:00",
    "image": "",
    "id": "08953491447e",
-   "age_minutes": 1698,
+   "age_minutes": 1822,
    "also": [],
-   "score": 3.744
+   "score": 3.688
   },
   {
    "title": "Nazionale, i convocati di Roberto Mancini per la Nations League: la lista ufficiale",
@@ -625,9 +611,9 @@
    "published": "2026-09-18T17:07:39+00:00",
    "image": "",
    "id": "a05b7eb00af3",
-   "age_minutes": 1816,
+   "age_minutes": 1940,
    "also": [],
-   "score": 5.69
+   "score": 5.643
   },
   {
    "title": "Nazionale under 21, ufficiali i convocati: Cisse, Raimondo e Pisilli da Baldini",
@@ -639,9 +625,9 @@
    "published": "2026-09-18T15:58:13+00:00",
    "image": "",
    "id": "d4a329800754",
-   "age_minutes": 1886,
+   "age_minutes": 2010,
    "also": [],
-   "score": 3.663
+   "score": 3.619
   },
   {
    "title": "Roma-Inter, Chivu pronto a cambiare: ha deluso e va in panchina",
@@ -653,9 +639,9 @@
    "published": "2026-09-18T14:44:01+00:00",
    "image": "",
    "id": "c070202cee5a",
-   "age_minutes": 1960,
+   "age_minutes": 2084,
    "also": [],
-   "score": 3.636
+   "score": 3.597
   },
   {
    "title": "Sorpresa McTominay, cambiano i tempi di recupera: quando rientra",
@@ -783,6 +769,28 @@
    "published": "2026-09-17T16:09:46+00:00",
    "image": "",
    "id": "854c1ddab651"
+  },
+  {
+   "title": "Biazzo: “Serve il colpaccio a Firenze, sarebbe una svolta. Mi intriga un modulo\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/biazzo-se-napoli-colpaccio-firenze-imprime-svolta-intriga-modulo-656749",
+   "summary": "Salvatore Biazzo, giornalista, è intervenuto ai microfoni di Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania, alla vigilia di Fiorentina-Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-20T01:00:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/66/66a2d0c792c092888d220697685a8c00-88504-oooz0000.jpeg",
+   "id": "0b0781a6cd50"
+  },
+  {
+   "title": "Il doppio ex Pazienza: “Vi dico cosa può cambiare il Napoli a Firenze. Doppio play? Dà vantaggi”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/pazienza-656748",
+   "summary": "Michele Pazienza, ex centrocampista di Napoli e Fiorentina, è intervenuto ai microfoni di Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-20T00:00:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/58/589935c92e88939a348e14eea86b92a6-92312-oooz0000.jpeg",
+   "id": "8a740506a799"
   },
   {
    "title": "Vice Mazzarri su Kvara: \"In quei mesi era il migliore! Sul Pallone d'Oro...\"",
@@ -915,9 +923,9 @@
    "published": "2026-09-19T20:00:28+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ca/caf3d052f0cb8548513587b6113c2227-59743-oooz0000.jpeg",
    "id": "889841932d84",
-   "age_minutes": 203,
+   "age_minutes": 328,
    "also": [],
-   "score": 6.18
+   "score": 5.691
   },
   {
    "title": "Favasuli, Allegri lo accomuna a Vergara: “Vi dico le stesse cose di 15 giorni fa”",
@@ -943,17 +951,17 @@
   },
   {
    "title": "Juve, che tegola per Spalletti! Lesione al crociato per un neoacquisto",
-   "link": "https://www.tuttonapoli.net/notizie/juve-tegola-grabara-lesione-legamento-crociato-656790",
+   "link": "https://www.tuttonapoli.net/serie-a/juve-tegola-grabara-lesione-legamento-crociato-656790",
    "summary": "(ANSA) - TORINO, 19 SET - Sulla Juventus si abbatte un'altra tegola, Kamil Grabara sarà costretto a un lunghissimo stop.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
    "published": "2026-09-19T19:00:54+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
-   "id": "0a9c92e9f01d",
-   "age_minutes": 263,
+   "id": "bc6c15891f5d",
+   "age_minutes": 387,
    "also": [],
-   "score": 5.934
+   "score": 5.485
   },
   {
    "title": "PSG, Dembelé vota Kvaratskhelia: “E’ il migliore del mondo, merita il Pallone d'Oro”",
@@ -965,9 +973,9 @@
    "published": "2026-09-19T18:45:30+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8e/8e7ea817d5471ec5ce053d195293c0cc-37167-oooz0000.jpeg",
    "id": "960684f22aba",
-   "age_minutes": 278,
+   "age_minutes": 403,
    "also": [],
-   "score": 4.274
+   "score": 3.835
   },
   {
    "title": "Garbo avvisa: “Il Napoli rischia di non entrare tra le prime 4! E occhio alla gara a Firenze…”",
@@ -979,9 +987,9 @@
    "published": "2026-09-19T18:30:35+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b9/b94349f3c3505ddb2db72d91d36b760c-36245-oooz0000.jpeg",
    "id": "b52a06552cc9",
-   "age_minutes": 293,
+   "age_minutes": 417,
    "also": [],
-   "score": 4.617
+   "score": 4.187
   },
   {
    "title": "Venezia-Lazio, formazioni ufficiali: Juan Jesus dal 1', le scelte di Gattuso e Stroppa",
@@ -995,26 +1003,237 @@
    "id": "315d37843e45"
   },
   {
-   "title": "Serie A, classifica: Roma e Inter in testa, il Napoli può accorciare di due punti",
-   "link": "https://www.tuttonapoli.net/serie-a/serie-a-classifica-roma-inter-testa-napoli-accorciare-punti-656788",
-   "summary": "Termina in parità lo scontro al vertice tra Roma e Inter, che sono in testa alla classifica con 13 punti.",
-   "source": "TuttoNapoli",
+   "title": "Probabile formazione Juventus-Atalanta, Spalletti cambia ancora: difesa a tre e Kolo Muani davanti",
+   "link": "https://www.tuttojuve.com/altre-notizie/probabile-formazione-juventus-atalanta-spalletti-cambia-ancora-difesa-kolo-muani-793681",
+   "summary": "Luciano Spalletti prepara nuove modifiche per la sfida contro l'Atalanta.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-19T18:10:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/50/509ba53467c3f462c24efd4ba27240c9-11823-oooz0000.jpeg",
-   "id": "0d496f0f9a17"
+   "scope": "Juventus",
+   "published": "2026-09-19T23:30:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2d/2dfb11ae82c27b85621978f2c2c3a77b-02201-oooz0000.jpeg",
+   "id": "a0f2c1e87898"
   },
   {
-   "title": "Roma-Inter, che show! Gasp parte a razzo, Chivu rimonta di nuovo: finisce 2-2",
-   "link": "https://www.tuttonapoli.net/serie-a/roma-inter-show-gasp-razzo-chivu-rimonta-nuovo-finisce-2-2-656787",
-   "summary": "Termina sul risultato di 2-2 il match dello Stadio Olimpico tra Roma e Inter, valido per la quinta giornata di Serie A.",
-   "source": "TuttoNapoli",
+   "title": "Garnacho, un caso incredibile",
+   "link": "https://www.tuttojuve.com/calciomercato/garnacho-incredibile-793648",
+   "summary": "L'avventura di Alejandro Garnacho all'Aston Villa non è cominciata nel modo sperato.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-19T18:00:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/59/59363febb9fdebbfcec27b52b4a9bffc-93832-48o361o1084o1397z0b4a.jpeg",
-   "id": "e9d5ff2e0ffb"
+   "scope": "Juventus",
+   "published": "2026-09-19T23:15:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f4/f4a282bc127f32e59aab1798a7ed7070-75235-oooz0000.jpeg",
+   "id": "a92e1e2d2ca5"
+  },
+  {
+   "title": "Kolo Muani vuole prendersi l'attacco: Spalletti punta sul francese",
+   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-vuole-prendersi-attacco-spalletti-punta-francese-793640",
+   "summary": "Il gol è tornato e adesso Randal Kolo Muani vuole provare a dare continuità alla sua ripartenza.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T23:00:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/59/59b4d16e3568c11a4eb826e4b0616347-44106-oooz0000.jpeg",
+   "id": "4e55767667e0"
+  },
+  {
+   "title": "Conceição cerca il primo gol: è il momento di lasciare il segno",
+   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-cerca-gol-lasciare-segno-793645",
+   "summary": "La qualità non è mai stata in discussione, adesso manca il gol.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:45:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7e/7e3b9ca94d19442bf2b58e4c8825a7a3-21570-oooz0000.jpeg",
+   "id": "258da264f2b4"
+  },
+  {
+   "title": "Centrocampo da inventare: Douglas Luiz guida Spalletti",
+   "link": "https://www.tuttojuve.com/altre-notizie/centrocampo-inventare-douglas-luiz-guida-spalletti-793639",
+   "summary": "È probabilmente il reparto nel quale Luciano Spalletti ha meno margini di scelta. In vista della sfida contro l'Atalanta, la Juventus deve fare i conti soprattutto con le pesanti assenze di Manuel Locatelli e Khephren…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:30:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9593879645ab45d2dcd3c4a3c1eb17f4-55492-oooz0000.jpeg",
+   "id": "8d464db07afe",
+   "age_minutes": 178,
+   "also": [],
+   "score": 4.693
+  },
+  {
+   "title": "La Juventus segue Alessandro Romano ma c'è concorrenza",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-segue-alessandro-romano-concorrenza-793633",
+   "summary": "La Juventus mette gli occhi su Alessandro Romano, giovane centrocampista di proprietà della Roma attualmente in prestito al Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:15:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a430bbac01e598bf979c8cb0d2f0d3d-62611-oooz0000.jpeg",
+   "id": "04f0f6c81f2d",
+   "age_minutes": 193,
+   "also": [],
+   "score": 5.026
+  },
+  {
+   "title": "Juve, adesso bisogna dimostrare di essere da Juve: il monito della stagione di Maifredi",
+   "link": "https://www.tuttojuve.com/primo-piano/juve-adesso-bisogna-dimostrare-di-essere-da-juve-il-monito-della-stagione-di-maifredi-793534",
+   "summary": "La Juventus ha vinto 5-0 e improvvisamente sembra tornato il sole, qualche giorno prima, dopo Sassuolo, sembrava invece arrivato l'inverno, èproprio questo il problema, una Juventus vera non può vivere sulle montagne russe, non pu&o ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:05:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9c/9c61ba540cc765ef9096075030bc2bd6-53954-oooz0000.jpeg",
+   "id": "aa8c264fe545"
+  },
+  {
+   "title": "Juve, serve la prova del nove. Sarri, ti rinfreschiamo noi la memoria...",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juve-serve-prova-nove-sarri-rinfreschiamo-memoria-793674",
+   "summary": "L'incredibile e assurda sfortuna della Juventus non accenna a fermarsi, colpendo duro anche l'ultimo arrivato Kamil Grabara. Una situazione che definire surreale è poco.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:01:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32dad724f2d5d627188bb5e92775015c-06564-oooz0000.jpeg",
+   "id": "e44144cf5377"
+  },
+  {
+   "title": "Juventus-Atalanta, la difesa riparte da Bremer: Spalletti cerca solidità",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-atalanta-difesa-riparte-bremer-spalletti-cerca-solidita-793638",
+   "summary": "Contro l'Atalanta Luciano Spalletti dovrebbe tornare ad affidarsi a Gleison Bremer come punto di riferimento della retroguardia.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T22:00:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9c6427450f57d7b6ec0bba52d1f76a1-06262-oooz0000.jpeg",
+   "id": "44fabef3fddd"
+  },
+  {
+   "title": "Roma Women, Piovani dopo il ko con la Juventus: \"Abbiamo avuto 6-7 occasioni nitide, nulla da rimproverare alle ragazze\"",
+   "link": "https://www.tuttojuve.com/juventus-femminile/roma-women-piovani-ko-juventus-abbiamo-6-7-occasioni-nitide-rimproverare-ragazze-793697",
+   "summary": "Finale amaro per la Roma Women, che vede sfumare ai calci di rigore la Serie A Women's Cup al termine di una sfida ricca di emozioni contro la Juventus Women.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T21:45:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/27/27c79972058739495b8a0bb74934e180-85585-oooz0000.jpeg",
+   "id": "99e339f3b72a"
+  },
+  {
+   "title": "Lione-Rennes 4-0, come ha giocato Openda? La pagella di Maxifoot: \"Nulla da rimproverare per movimenti e impegno, ma...\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/lione-rennes-4-0-giocato-openda-pagella-maxifoot-nulla-rimproverare-movimenti-impegno-ma-793696",
+   "summary": "Il Lione di Fonseca non sbaglia contro il Rennes e conquista tre punti pesanti con un netto 4-0 al Groupama Stadium.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T21:30:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e4/e421367533385b3a0fe26d6e1dd10816-23729-oooz0000.jpeg",
+   "id": "a11b41aa4458"
+  },
+  {
+   "title": "Lione show, Rennes travolto 4-0: doppietta di Nuamah e gol di Tolisso, A Openda manca solo il gol",
+   "link": "https://www.tuttojuve.com/altre-notizie/lione-show-rennes-travolto-4-0-doppietta-nuamah-gol-tolisso-openda-manca-gol-793695",
+   "summary": "Serata senza storia al Groupama Stadium, dove l'Olympique Lione domina lo Stade Rennais e si impone con un netto 4-0 nella quinta giornata di Ligue 1.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T21:15:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7c/7cca4e22f62e4de2099b8b159225b1ee-07458-923o35o1619o731z0cec.jpeg",
+   "id": "9c981134bb97"
+  },
+  {
+   "title": "Juventus Women, Serturini: \"Il primo trofeo dopo un anno ai box, sono molto felice\"",
+   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-serturini-il-trofeo-box-felice-793694",
+   "summary": "Una vittoria dal sapore particolare per Annamaria Serturini.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T21:00:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b4/b4c17eb4f9603621d73cc1e88bb63aba-14541-oooz0000.jpeg",
+   "id": "4a9563f1c6d5"
+  },
+  {
+   "title": "Lazio, colpo a Venezia: Zaccagni e Noslin firmano il 2-0, Biancocelesti in vetta. La classifica aggiornata",
+   "link": "https://www.tuttojuve.com/altre-notizie/lazio-colpo-venezia-zaccagni-noslin-firmano-2-0-biancocelesti-vetta-classifica-aggiornata-793693",
+   "summary": "La Lazio ritrova immediatamente la vittoria dopo il pareggio dell'Olimpico contro il Milan.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:50:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/40/401cf8a30e23585e3a608261d849d99f-78188-oooz0000.jpeg",
+   "id": "5f6fb9e357ef",
+   "_kw": 4.0,
+   "_fresh": 0.6696034139296713,
+   "_fp": "lazio colpo venezia zaccagni noslin firmano biancocelesti vetta classifica aggiornata",
+   "age_minutes": 277
+  },
+  {
+   "title": "Juventus Women, Rosucci: \"Felicità fortissima, Il nostro motto è fino alla fine, ci abbiamo creduto. La testa è già alla Champions\"",
+   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-rosucci-felicita-fortissima-motto-fine-creduto-testa-champions-793691",
+   "summary": "Una rimonta di carattere, completata dopo i supplementari e trasformata in trionfo ai calci di rigore.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:40:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/ed221f0c1b9403e30389f3f11a6d3ec5-37921-816o79o1527o790z0c8c.jpeg",
+   "id": "41108dc91c64"
+  },
+  {
+   "title": "Trabzonspor, Salah demolisce il Galatasaray: tre gol e un assist nel 4-0. Vlahovic e Italiano possono salire in vetta",
+   "link": "https://www.tuttojuve.com/altre-notizie/trabzonspor-salah-demolisce-galatasaray-gol-assist-4-0-vlahovic-italiano-possono-salire-vetta-793687",
+   "summary": "Una notte da incorniciare per Mohamed Salah, una serata da dimenticare per il Galatasaray di Rafael Leao.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:30:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ea/ea64294f2f3838e5b0b1fc10610546ab-42887-635o0o1343o707z0a7d.jpeg",
+   "id": "94442a3a2ea0"
+  },
+  {
+   "title": "Galassia Exor - Stellantis valuta la cessione di Aramis Group: la quota vale circa 140 milioni",
+   "link": "https://www.tuttojuve.com/altre-notizie/galassia-exor-stellantis-valuta-cessione-aramis-group-quota-140-793682",
+   "summary": "Stellantis potrebbe ridurre il perimetro delle attività non centrali per concentrare maggiormente le risorse sul business automobilistico e rafforzare la propria posizione finanziaria.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:15:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/30/302f2ae94f080aa0fd49faf54ecefc6d-27295-oooz0000.jpeg",
+   "id": "7bbd65a7440f",
+   "age_minutes": 313,
+   "also": [],
+   "score": 5.744
+  },
+  {
+   "title": "Serie A, Gasperini: \"Partita che ci dà consapevolezza, sempre provato a vincere\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-gasperini-partita-da-consapevolezza-provato-vincere-793679",
+   "summary": "(ANSA) - ROMA, 19 SET - \"Penso che sia uscita una partita dove entrambe potevano vincere. Il gol a inizio ripresa ha dato energia all'Inter che è una grande squadra, noi non abbiamo rinunciato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:04:07+00:00",
+   "image": "",
+   "id": "6eba7b317e86"
+  },
+  {
+   "title": "Juventus-Atalanta, occhio a Raspadori: contro i bianconeri ha numeri da specialista",
+   "link": "https://www.tuttojuve.com/l-avversario/juventus-atalanta-occhio-raspadori-bianconeri-numeri-specialista-793677",
+   "summary": "La Juventus è una delle avversarie contro cui Giacomo Raspadori riesce a essere maggiormente incisivo in Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T20:00:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5a04da3940596be5f06ec80f537b391-15966-oooz0000.jpeg",
+   "id": "ae85bc7e2c3a"
+  },
+  {
+   "title": "Serie A, Chivu: \"Bene la ripresa, sul primo tempo ho detto tutto all'intervallo\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-chivu-ripresa-intervallo-793678",
+   "summary": "(ANSA) - ROMA, 19 SET - \"Parto dal secondo perché quel che devo dire sul primo tempo l'ho detto all'intervallo e rimane tra me e loro.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-19T19:55:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/5181d46785677323e8a21299a64b98c0-68525-oooz0000.jpeg",
+   "id": "8a85e2e51865"
   },
   {
    "title": "Siviglia-Barcellona, l’ex rossonero protagonista: in gol Youssouf Fofana",
@@ -1048,9 +1267,9 @@
    "published": "2026-09-19T22:24:22+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/8d/8d290b0ff679a5ab43323c7ac1dc8669-92295-oooz0000.jpeg",
    "id": "1da8afef3b9e",
-   "age_minutes": 59,
+   "age_minutes": 184,
    "also": [],
-   "score": 6.468
+   "score": 5.866
   },
   {
    "title": "Pellegatti sulla società: “Non c’è gente riconoscibile che possa parlare con i giocatori”",
@@ -1073,9 +1292,9 @@
    "published": "2026-09-19T22:00:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0ceb3f34d726704a62a3bfc54e5e4dd-56687-oooz0000.jpeg",
    "id": "cc8420f570c3",
-   "age_minutes": 84,
+   "age_minutes": 208,
    "also": [],
-   "score": 6.141
+   "score": 5.56
   },
   {
    "title": "Atalanta; Sarri, con la Juve non è partita tra Spalletti e me",
@@ -1208,9 +1427,9 @@
    "published": "2026-09-19T20:00:06+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fc/fcb6db5a4aaa5ac85e07845fc68345de-12247-oooz0000.jpeg",
    "id": "473a4ff2d4d1",
-   "age_minutes": 204,
+   "age_minutes": 328,
    "also": [],
-   "score": 6.178
+   "score": 5.689
   },
   {
    "title": "Milan, per la decima volta La Penna dirigerà una gara dei rossoneri",
@@ -1244,239 +1463,6 @@
    "published": "2026-09-19T19:24:58+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/41/41b9ac301778cd4246a52c7f52efe773-78208-oooz0000.jpeg",
    "id": "77ea66d3b321"
-  },
-  {
-   "title": "Garnacho, un caso incredibile",
-   "link": "https://www.tuttojuve.com/calciomercato/garnacho-incredibile-793648",
-   "summary": "L'avventura di Alejandro Garnacho all'Aston Villa non è cominciata nel modo sperato.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T23:15:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f4/f4a282bc127f32e59aab1798a7ed7070-75235-oooz0000.jpeg",
-   "id": "a92e1e2d2ca5"
-  },
-  {
-   "title": "Kolo Muani vuole prendersi l'attacco: Spalletti punta sul francese",
-   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-vuole-prendersi-attacco-spalletti-punta-francese-793640",
-   "summary": "Il gol è tornato e adesso Randal Kolo Muani vuole provare a dare continuità alla sua ripartenza.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T23:00:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/59/59b4d16e3568c11a4eb826e4b0616347-44106-oooz0000.jpeg",
-   "id": "4e55767667e0"
-  },
-  {
-   "title": "Conceição cerca il primo gol: è il momento di lasciare il segno",
-   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-cerca-gol-lasciare-segno-793645",
-   "summary": "La qualità non è mai stata in discussione, adesso manca il gol.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:45:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7e/7e3b9ca94d19442bf2b58e4c8825a7a3-21570-oooz0000.jpeg",
-   "id": "258da264f2b4"
-  },
-  {
-   "title": "Centrocampo da inventare: Douglas Luiz guida Spalletti",
-   "link": "https://www.tuttojuve.com/altre-notizie/centrocampo-inventare-douglas-luiz-guida-spalletti-793639",
-   "summary": "È probabilmente il reparto nel quale Luciano Spalletti ha meno margini di scelta. In vista della sfida contro l'Atalanta, la Juventus deve fare i conti soprattutto con le pesanti assenze di Manuel Locatelli e Khephren…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:30:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9593879645ab45d2dcd3c4a3c1eb17f4-55492-oooz0000.jpeg",
-   "id": "8d464db07afe",
-   "age_minutes": 53,
-   "also": [],
-   "score": 5.3
-  },
-  {
-   "title": "La Juventus segue Alessandro Romano ma c'è concorrenza",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-segue-alessandro-romano-concorrenza-793633",
-   "summary": "La Juventus mette gli occhi su Alessandro Romano, giovane centrocampista di proprietà della Roma attualmente in prestito al Cagliari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:15:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a430bbac01e598bf979c8cb0d2f0d3d-62611-oooz0000.jpeg",
-   "id": "04f0f6c81f2d",
-   "age_minutes": 68,
-   "also": [],
-   "score": 5.621
-  },
-  {
-   "title": "Juve, adesso bisogna dimostrare di essere da Juve: il monito della stagione di Maifredi",
-   "link": "https://www.tuttojuve.com/primo-piano/juve-adesso-bisogna-dimostrare-di-essere-da-juve-il-monito-della-stagione-di-maifredi-793534",
-   "summary": "La Juventus ha vinto 5-0 e improvvisamente sembra tornato il sole, qualche giorno prima, dopo Sassuolo, sembrava invece arrivato l'inverno, èproprio questo il problema, una Juventus vera non può vivere sulle montagne russe, non pu&o ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:05:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9c/9c61ba540cc765ef9096075030bc2bd6-53954-oooz0000.jpeg",
-   "id": "aa8c264fe545"
-  },
-  {
-   "title": "Juve, serve la prova del nove. Sarri, ti rinfreschiamo noi la memoria...",
-   "link": "https://www.tuttojuve.com/firme-bianconere/juve-serve-prova-nove-sarri-rinfreschiamo-memoria-793674",
-   "summary": "L'incredibile e assurda sfortuna della Juventus non accenna a fermarsi, colpendo duro anche l'ultimo arrivato Kamil Grabara. Una situazione che definire surreale è poco.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:01:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32dad724f2d5d627188bb5e92775015c-06564-oooz0000.jpeg",
-   "id": "e44144cf5377"
-  },
-  {
-   "title": "Juventus-Atalanta, la difesa riparte da Bremer: Spalletti cerca solidità",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-atalanta-difesa-riparte-bremer-spalletti-cerca-solidita-793638",
-   "summary": "Contro l'Atalanta Luciano Spalletti dovrebbe tornare ad affidarsi a Gleison Bremer come punto di riferimento della retroguardia.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T22:00:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9c6427450f57d7b6ec0bba52d1f76a1-06262-oooz0000.jpeg",
-   "id": "44fabef3fddd"
-  },
-  {
-   "title": "Roma Women, Piovani dopo il ko con la Juventus: \"Abbiamo avuto 6-7 occasioni nitide, nulla da rimproverare alle ragazze\"",
-   "link": "https://www.tuttojuve.com/juventus-femminile/roma-women-piovani-ko-juventus-abbiamo-6-7-occasioni-nitide-rimproverare-ragazze-793697",
-   "summary": "Finale amaro per la Roma Women, che vede sfumare ai calci di rigore la Serie A Women's Cup al termine di una sfida ricca di emozioni contro la Juventus Women.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T21:45:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/27/27c79972058739495b8a0bb74934e180-85585-oooz0000.jpeg",
-   "id": "99e339f3b72a"
-  },
-  {
-   "title": "Lione-Rennes 4-0, come ha giocato Openda? La pagella di Maxifoot: \"Nulla da rimproverare per movimenti e impegno, ma...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/lione-rennes-4-0-giocato-openda-pagella-maxifoot-nulla-rimproverare-movimenti-impegno-ma-793696",
-   "summary": "Il Lione di Fonseca non sbaglia contro il Rennes e conquista tre punti pesanti con un netto 4-0 al Groupama Stadium.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T21:30:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e4/e421367533385b3a0fe26d6e1dd10816-23729-oooz0000.jpeg",
-   "id": "a11b41aa4458"
-  },
-  {
-   "title": "Lione show, Rennes travolto 4-0: doppietta di Nuamah e gol di Tolisso, A Openda manca solo il gol",
-   "link": "https://www.tuttojuve.com/altre-notizie/lione-show-rennes-travolto-4-0-doppietta-nuamah-gol-tolisso-openda-manca-gol-793695",
-   "summary": "Serata senza storia al Groupama Stadium, dove l'Olympique Lione domina lo Stade Rennais e si impone con un netto 4-0 nella quinta giornata di Ligue 1.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T21:15:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7c/7cca4e22f62e4de2099b8b159225b1ee-07458-923o35o1619o731z0cec.jpeg",
-   "id": "9c981134bb97"
-  },
-  {
-   "title": "Juventus Women, Serturini: \"Il primo trofeo dopo un anno ai box, sono molto felice\"",
-   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-serturini-il-trofeo-box-felice-793694",
-   "summary": "Una vittoria dal sapore particolare per Annamaria Serturini.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T21:00:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b4/b4c17eb4f9603621d73cc1e88bb63aba-14541-oooz0000.jpeg",
-   "id": "4a9563f1c6d5"
-  },
-  {
-   "title": "Lazio, colpo a Venezia: Zaccagni e Noslin firmano il 2-0, Biancocelesti in vetta. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/lazio-colpo-venezia-zaccagni-noslin-firmano-2-0-biancocelesti-vetta-classifica-aggiornata-793693",
-   "summary": "La Lazio ritrova immediatamente la vittoria dopo il pareggio dell'Olimpico contro il Milan.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:50:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/40/401cf8a30e23585e3a608261d849d99f-78188-oooz0000.jpeg",
-   "id": "5f6fb9e357ef",
-   "_kw": 4.0,
-   "_fresh": 0.8011692392332619,
-   "_fp": "lazio colpo venezia zaccagni noslin firmano biancocelesti vetta classifica aggiornata",
-   "age_minutes": 153
-  },
-  {
-   "title": "Juventus Women, Rosucci: \"Felicità fortissima, Il nostro motto è fino alla fine, ci abbiamo creduto. La testa è già alla Champions\"",
-   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-rosucci-felicita-fortissima-motto-fine-creduto-testa-champions-793691",
-   "summary": "Una rimonta di carattere, completata dopo i supplementari e trasformata in trionfo ai calci di rigore.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:40:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/ed221f0c1b9403e30389f3f11a6d3ec5-37921-816o79o1527o790z0c8c.jpeg",
-   "id": "41108dc91c64"
-  },
-  {
-   "title": "Trabzonspor, Salah demolisce il Galatasaray: tre gol e un assist nel 4-0. Vlahovic e Italiano possono salire in vetta",
-   "link": "https://www.tuttojuve.com/altre-notizie/trabzonspor-salah-demolisce-galatasaray-gol-assist-4-0-vlahovic-italiano-possono-salire-vetta-793687",
-   "summary": "Una notte da incorniciare per Mohamed Salah, una serata da dimenticare per il Galatasaray di Rafael Leao.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:30:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ea/ea64294f2f3838e5b0b1fc10610546ab-42887-635o0o1343o707z0a7d.jpeg",
-   "id": "94442a3a2ea0"
-  },
-  {
-   "title": "Galassia Exor - Stellantis valuta la cessione di Aramis Group: la quota vale circa 140 milioni",
-   "link": "https://www.tuttojuve.com/altre-notizie/galassia-exor-stellantis-valuta-cessione-aramis-group-quota-140-793682",
-   "summary": "Stellantis potrebbe ridurre il perimetro delle attività non centrali per concentrare maggiormente le risorse sul business automobilistico e rafforzare la propria posizione finanziaria.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:15:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/30/302f2ae94f080aa0fd49faf54ecefc6d-27295-oooz0000.jpeg",
-   "id": "7bbd65a7440f",
-   "age_minutes": 189,
-   "also": [],
-   "score": 6.244
-  },
-  {
-   "title": "Serie A, Gasperini: \"Partita che ci dà consapevolezza, sempre provato a vincere\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-gasperini-partita-da-consapevolezza-provato-vincere-793679",
-   "summary": "(ANSA) - ROMA, 19 SET - \"Penso che sia uscita una partita dove entrambe potevano vincere. Il gol a inizio ripresa ha dato energia all'Inter che è una grande squadra, noi non abbiamo rinunciato.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:04:07+00:00",
-   "image": "",
-   "id": "6eba7b317e86"
-  },
-  {
-   "title": "Juventus-Atalanta, occhio a Raspadori: contro i bianconeri ha numeri da specialista",
-   "link": "https://www.tuttojuve.com/l-avversario/juventus-atalanta-occhio-raspadori-bianconeri-numeri-specialista-793677",
-   "summary": "La Juventus è una delle avversarie contro cui Giacomo Raspadori riesce a essere maggiormente incisivo in Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T20:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5a04da3940596be5f06ec80f537b391-15966-oooz0000.jpeg",
-   "id": "ae85bc7e2c3a"
-  },
-  {
-   "title": "Serie A, Chivu: \"Bene la ripresa, sul primo tempo ho detto tutto all'intervallo\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-chivu-ripresa-intervallo-793678",
-   "summary": "(ANSA) - ROMA, 19 SET - \"Parto dal secondo perché quel che devo dire sul primo tempo l'ho detto all'intervallo e rimane tra me e loro.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T19:55:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/5181d46785677323e8a21299a64b98c0-68525-oooz0000.jpeg",
-   "id": "8a85e2e51865"
-  },
-  {
-   "title": "Juventus Women, Guerrero: \"I rigori hanno fatto giustizia, questa è una squadra con la S maiuscola\"",
-   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-guerrero-i-rigori-giustizia-squadra-s-maiuscola-793676",
-   "summary": "Una rimonta incredibile, un supplementare ricco di emozioni e infine la festa ai rigori.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-19T19:45:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/3228746ba81034df2de144739a1cd688-59615-oooz0000.jpeg",
-   "id": "404a48f65952"
   },
   {
    "title": "Chivu diventi psicologo",
@@ -1543,14 +1529,14 @@
    "published": "2026-09-19T20:51:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cd/cde8f0ae1a80e95bcfa6e71c671b66ee-29449-oooz0000.jpeg",
    "id": "692a654e7720",
-   "age_minutes": 153,
+   "age_minutes": 277,
    "also": [
     {
      "source": "TuttoJuve",
      "link": "https://www.tuttojuve.com/altre-notizie/lazio-colpo-venezia-zaccagni-noslin-firmano-2-0-biancocelesti-vetta-classifica-aggiornata-793693"
     }
    ],
-   "score": 7.006
+   "score": 6.479
   },
   {
    "title": "Roma, Soulé in conferenza: \"L'Inter è la squadra campione, noi vogliamo lottare al massimo\"",
@@ -1930,6 +1916,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 28
+  "in_edizione": 27
  }
 }
