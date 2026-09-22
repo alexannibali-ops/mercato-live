@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T01:04:58.937854+02:00",
+ "generated_at": "2026-09-22T03:44:41.190673+02:00",
  "articles": [
   {
    "title": "Palmisani firma fino al 2031, è ufficiale: i dettagli",
@@ -11,9 +11,9 @@
    "published": "2026-09-21T12:46:54+00:00",
    "image": "",
    "id": "801316474f50",
-   "age_minutes": 618,
+   "age_minutes": 777,
    "also": [],
-   "score": 9.038
+   "score": 8.701
   },
   {
    "title": "UFFICIALE - Inter Women, Verrini rinnova e va in prestito al Cesena",
@@ -25,9 +25,9 @@
    "published": "2026-09-21T18:31:56+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f3/f32014dfda8f654bcd65653baa1469f9-38052-oooz0000.jpeg",
    "id": "4dbdd0879612",
-   "age_minutes": 273,
+   "age_minutes": 432,
    "also": [],
-   "score": 8.297
+   "score": 7.741
   },
   {
    "title": "Milan, ora c’è un problema Camarda: occhio al mercato di gennaio",
@@ -39,9 +39,23 @@
    "published": "2026-09-21T20:13:29+00:00",
    "image": "",
    "id": "b75b040795a0",
-   "age_minutes": 171,
+   "age_minutes": 331,
    "also": [],
-   "score": 7.723
+   "score": 7.079
+  },
+  {
+   "title": "Per Stiller irrompe il Real Madrid: pronta un’offerta da 50 milioni",
+   "link": "https://www.tuttojuve.com/calciomercato/stiller-irrompe-real-madrid-pronta-un-offerta-50-793919",
+   "summary": "Si complica la pista Angelo Stiller per la Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-21T23:30:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b0edfbd2cbdd5263503633f8d8e2dcd1-83602-oooz0000.jpeg",
+   "id": "19019b7c766a",
+   "age_minutes": 134,
+   "also": [],
+   "score": 6.494
   },
   {
    "title": "David rinasce all’Atletico Madrid: numeri impressionanti dopo l’addio alla Juventus",
@@ -53,9 +67,9 @@
    "published": "2026-09-21T22:15:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/21/21ac6b593c7afb5c113a6c7eb2d8c5eb-59365-oooz0000.jpeg",
    "id": "d70fdbf1282b",
-   "age_minutes": 49,
+   "age_minutes": 209,
    "also": [],
-   "score": 6.924
+   "score": 6.157
   },
   {
    "title": "Inter, preoccupazione Lautaro: a rischio contro il Parma",
@@ -67,9 +81,9 @@
    "published": "2026-09-21T21:18:23+00:00",
    "image": "",
    "id": "a2e9a2418f8b",
-   "age_minutes": 106,
+   "age_minutes": 266,
    "also": [],
-   "score": 6.829
+   "score": 6.123
   },
   {
    "title": "Napoli, piove sul bagnato per Allegri: nuovo infortunio",
@@ -81,28 +95,9 @@
    "published": "2026-09-21T19:12:48+00:00",
    "image": "",
    "id": "312ce50dff94",
-   "age_minutes": 232,
+   "age_minutes": 391,
    "also": [],
-   "score": 6.261
-  },
-  {
-   "title": "Giuffredi svela: \"Volevo portare Sebastiano Esposito al Napoli\"",
-   "link": "https://www.fcinternews.it/news/giuffredi-svela-volevo-portare-sebastiano-esposito-napoli-1019027",
-   "summary": "A posteriori, Mario Giuffredi considera una specie di 'benedizione' il mancato approdo al Napoli del suo assistito, Sebastiano Esposito, che a fine mercato ha lasciato il Cagliari per trasferirsi al Sassuolo.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-21T21:35:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ed/ed09877d60c25fcda36554c49fcb6f0d-54482-oooz0000.jpeg",
-   "id": "20f844930b2d",
-   "age_minutes": 89,
-   "also": [
-    {
-     "source": "TuttoNapoli",
-     "link": "https://www.tuttonapoli.net/calciomercato-napoli/giuffredi-svela-volevo-portare-seba-esposito-napoli-estate-656952"
-    }
-   ],
-   "score": 6.114
+   "score": 5.671
   },
   {
    "title": "Inter, novità importantissime su Spence: c’è la data dell’esordio",
@@ -114,9 +109,9 @@
    "published": "2026-09-21T17:30:00+00:00",
    "image": "",
    "id": "1b8c4a0f8940",
-   "age_minutes": 334,
+   "age_minutes": 494,
    "also": [],
-   "score": 5.866
+   "score": 5.358
   },
   {
    "title": "Juventus, in arrivo lo svincolato: c’è l’annuncio",
@@ -128,23 +123,9 @@
    "published": "2026-09-21T07:51:28+00:00",
    "image": "",
    "id": "ba51850154e6",
-   "age_minutes": 913,
+   "age_minutes": 1073,
    "also": [],
-   "score": 5.469
-  },
-  {
-   "title": "Bucchioni promuove il Milan dopo l'ultima sfida: \"Qualcosa si muove, ora serviranno conferme e continuità\"",
-   "link": "https://www.milannews.it/news/bucchioni-promuove-milan-ultima-sfida-qualcosa-muove-serviranno-conferme-continuita-630526",
-   "summary": "Nel suo editoriale su tuttomercatoweb.com, Enzo Bucchioni ha parlato anche di Milan e Juventus che sono tornate alla vittoria in campionato.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-21T21:24:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ba/baed780f8a078379fffe829e1af33db4-65141-oooz0000.jpeg",
-   "id": "275cdcab8827",
-   "age_minutes": 100,
-   "also": [],
-   "score": 5.461
+   "score": 5.249
   },
   {
    "title": "Nazionale, la prima formazione di Mancini in vista di Italia-Belgio",
@@ -156,23 +137,9 @@
    "published": "2026-09-21T14:50:55+00:00",
    "image": "",
    "id": "7771ceeb0b8f",
-   "age_minutes": 494,
+   "age_minutes": 653,
    "also": [],
-   "score": 5.36
-  },
-  {
-   "title": "Spalletti-Juve, Rampulla lo difende: \"Tante assenze e sta rigenerando giocatori finiti!\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/spalletti-juve-rampulla-difende-tante-assenze-rigenerando-giocatori-finiti-656954",
-   "summary": "L'ex portiere Michelangelo Rampulla, oggi opinionista, è intervenuto ai microfoni di Tmw Radio per commentare i temi attuali di Serie A. Di seguito le sue dichiarazioni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-21T20:20:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5d/5dcfa197c24bda0e392e27b53485aab2-11849-oooz0000.jpeg",
-   "id": "0dec507474cd",
-   "age_minutes": 164,
-   "also": [],
-   "score": 5.353
+   "score": 4.956
   },
   {
    "title": "Inter, mossa a sorpresa di Chivu: scelta definitiva",
@@ -184,9 +151,51 @@
    "published": "2026-09-21T14:23:18+00:00",
    "image": "",
    "id": "3db1cd176835",
-   "age_minutes": 521,
+   "age_minutes": 681,
    "also": [],
-   "score": 5.283
+   "score": 4.895
+  },
+  {
+   "title": "Giuffredi svela: \"Volevo portare Sebastiano Esposito al Napoli\"",
+   "link": "https://www.fcinternews.it/news/giuffredi-svela-volevo-portare-sebastiano-esposito-napoli-1019027",
+   "summary": "A posteriori, Mario Giuffredi considera una specie di 'benedizione' il mancato approdo al Napoli del suo assistito, Sebastiano Esposito, che a fine mercato ha lasciato il Cagliari per trasferirsi al Sassuolo.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-21T21:35:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ed/ed09877d60c25fcda36554c49fcb6f0d-54482-oooz0000.jpeg",
+   "id": "20f844930b2d",
+   "age_minutes": 249,
+   "also": [],
+   "score": 4.791
+  },
+  {
+   "title": "Bucchioni promuove il Milan dopo l'ultima sfida: \"Qualcosa si muove, ora serviranno conferme e continuità\"",
+   "link": "https://www.milannews.it/news/bucchioni-promuove-milan-ultima-sfida-qualcosa-muove-serviranno-conferme-continuita-630526",
+   "summary": "Nel suo editoriale su tuttomercatoweb.com, Enzo Bucchioni ha parlato anche di Milan e Juventus che sono tornate alla vittoria in campionato.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-09-21T21:24:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ba/baed780f8a078379fffe829e1af33db4-65141-oooz0000.jpeg",
+   "id": "275cdcab8827",
+   "age_minutes": 260,
+   "also": [],
+   "score": 4.748
+  },
+  {
+   "title": "Spalletti-Juve, Rampulla lo difende: \"Tante assenze e sta rigenerando giocatori finiti!\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/spalletti-juve-rampulla-difende-tante-assenze-rigenerando-giocatori-finiti-656954",
+   "summary": "L'ex portiere Michelangelo Rampulla, oggi opinionista, è intervenuto ai microfoni di Tmw Radio per commentare i temi attuali di Serie A. Di seguito le sue dichiarazioni.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-21T20:20:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5d/5dcfa197c24bda0e392e27b53485aab2-11849-oooz0000.jpeg",
+   "id": "0dec507474cd",
+   "age_minutes": 324,
+   "also": [],
+   "score": 4.703
   },
   {
    "title": "Flop De Bruyne? Pistocchi: \"Visto malissimo! Se non corre è un problema, giocano in 10\"",
@@ -198,65 +207,9 @@
    "published": "2026-09-21T20:40:59+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8d/8dc3593aacb36222f9a9360c55fe505b-64003-oooz0000.jpeg",
    "id": "439c1de8cd81",
-   "age_minutes": 143,
+   "age_minutes": 303,
    "also": [],
-   "score": 5.249
-  },
-  {
-   "title": "Giuffredi: \"Punto su Ambrosino come prossimo gioiello emergente\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/giuffredi-punto-ambrosino-prossimo-gioiello-emergente-656966",
-   "summary": "Il procuratore Mario Giuffredi, intervenuto al R Star Palermo Football Meeting, ha indicato il suo assistito Giuseppe Ambrosino - attaccante di proprietà del Napoli attualmente al Modena - come uno dei giovani destinati…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-21T21:50:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/40/4052a13e952d8611bfc5f15d5948303a-89487-oooz0000.jpeg",
-   "id": "b370ea9d3418",
-   "age_minutes": 74,
-   "also": [],
-   "score": 5.191
-  },
-  {
-   "title": "Inter, ottobre infuocato: 7 impegni in venti giorni tra Serie A e Champions",
-   "link": "https://www.fcinternews.it/news/inter-ottobre-infuocato-7-impegni-venti-serie-champions-1018994",
-   "summary": "13 punti in 5 partite rappresentano un primo tassello interessante per l'Inter di Chivu, che si trova al comando della classifica in compagnia di Lazio e Roma. Adesso si va alla sosta per le nazionali.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-21T21:21:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/30/300dea2f241845dab8b774e4f3395192-83745-oooz0000.jpeg",
-   "id": "d52dfe5650a3",
-   "age_minutes": 103,
-   "also": [],
-   "score": 5.042
-  },
-  {
-   "title": "Milan, Christian Pulisic eletto MVP della sfida contro il Lecce",
-   "link": "https://www.milannews.it/news/milan-christian-pulisic-eletto-mvp-sfida-lecce-630509",
-   "summary": "Christian Pulisic, autore del gol che ha aperto le marcature del Milan, è stato eletto MVP della sfida contro il Lecce. Lo riferisce il sito ufficiale rossonero: \"Christian Pulisic è l'MVP di Milan-Lecce.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-09-21T19:36:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c9/c930e9aeb374b4519142f31c7c618b86-69130-oooz0000.jpeg",
-   "id": "a8cf8538fb1b",
-   "age_minutes": 208,
-   "also": [],
-   "score": 4.959
-  },
-  {
-   "title": "Incontro a Lissone tra AIA, Lega A e club: le parole di Orsato e Simonelli",
-   "link": "https://www.fcinternews.it/focus/incontro-lissone-aia-lega-serie-club-parole-protagonisti-1019019",
-   "summary": "La sosta per le nazionali è spesso momento propizio per fare un punto della situazione. Lo è per i club, ma anche per gli arbitri.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-09-21T18:45:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/01/019d1fc0d0ee77aa054b729fa1ffcc17-36094-317o68o1428o1179z0bb0.jpeg",
-   "id": "d6d084257e4f",
-   "age_minutes": 259,
-   "also": [],
-   "score": 4.948
+   "score": 4.58
   },
   {
    "title": "Roma, si ferma Malen: le ultimissime sulle sue condizioni",
@@ -268,9 +221,37 @@
    "published": "2026-09-21T10:41:59+00:00",
    "image": "",
    "id": "7384dc8edf68",
-   "age_minutes": 742,
+   "age_minutes": 902,
    "also": [],
-   "score": 4.768
+   "score": 4.486
+  },
+  {
+   "title": "Giuffredi: \"Punto su Ambrosino come prossimo gioiello emergente\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/giuffredi-punto-ambrosino-prossimo-gioiello-emergente-656966",
+   "summary": "Il procuratore Mario Giuffredi, intervenuto al R Star Palermo Football Meeting, ha indicato il suo assistito Giuseppe Ambrosino - attaccante di proprietà del Napoli attualmente al Modena - come uno dei giovani destinati…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-21T21:50:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/40/4052a13e952d8611bfc5f15d5948303a-89487-oooz0000.jpeg",
+   "id": "b370ea9d3418",
+   "age_minutes": 234,
+   "also": [],
+   "score": 4.451
+  },
+  {
+   "title": "Incontro a Lissone tra AIA, Lega A e club: le parole di Orsato e Simonelli",
+   "link": "https://www.fcinternews.it/focus/incontro-lissone-aia-lega-serie-club-parole-protagonisti-1019019",
+   "summary": "La sosta per le nazionali è spesso momento propizio per fare un punto della situazione. Lo è per i club, ma anche per gli arbitri.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-21T18:45:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/01/019d1fc0d0ee77aa054b729fa1ffcc17-36094-317o68o1428o1179z0bb0.jpeg",
+   "id": "d6d084257e4f",
+   "age_minutes": 419,
+   "also": [],
+   "score": 4.382
   },
   {
    "title": "Serie A, in bilico una panchina eccellente: spunta Gilardino",
@@ -282,23 +263,37 @@
    "published": "2026-09-21T09:27:07+00:00",
    "image": "",
    "id": "8361cec50032",
-   "age_minutes": 817,
+   "age_minutes": 977,
    "also": [],
-   "score": 4.628
+   "score": 4.375
   },
   {
-   "title": "Ag. Vergara e Favasuli: \"Allegri e il Napoli li valorizzeranno al massimo\"",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/ag-vergara-favasuli-allegri-napoli-valorizzeranno-massimo-656955",
-   "summary": "Mario Giuffredi, agente tra gli altri di Antonio Vergara e Costantino Favasuli, nel corso del suo intervento al R Star Palermo Football Meeting ha parlato anche dei suoi assistiti.",
-   "source": "TuttoNapoli",
+   "title": "Milan, Christian Pulisic eletto MVP della sfida contro il Lecce",
+   "link": "https://www.milannews.it/news/milan-christian-pulisic-eletto-mvp-sfida-lecce-630509",
+   "summary": "Christian Pulisic, autore del gol che ha aperto le marcature del Milan, è stato eletto MVP della sfida contro il Lecce. Lo riferisce il sito ufficiale rossonero: \"Christian Pulisic è l'MVP di Milan-Lecce.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-21T19:20:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/95/952651ecf02a36e988fdb3ae5b74538c-06831-oooz0000.jpeg",
-   "id": "74178112b4ac",
-   "age_minutes": 224,
+   "scope": "Milan",
+   "published": "2026-09-21T19:36:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c9/c930e9aeb374b4519142f31c7c618b86-69130-oooz0000.jpeg",
+   "id": "a8cf8538fb1b",
+   "age_minutes": 368,
    "also": [],
-   "score": 4.494
+   "score": 4.349
+  },
+  {
+   "title": "Inter, ottobre infuocato: 7 impegni in venti giorni tra Serie A e Champions",
+   "link": "https://www.fcinternews.it/news/inter-ottobre-infuocato-7-impegni-venti-serie-champions-1018994",
+   "summary": "13 punti in 5 partite rappresentano un primo tassello interessante per l'Inter di Chivu, che si trova al comando della classifica in compagnia di Lazio e Roma. Adesso si va alla sosta per le nazionali.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-09-21T21:21:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/30/300dea2f241845dab8b774e4f3395192-83745-oooz0000.jpeg",
+   "id": "d52dfe5650a3",
+   "age_minutes": 263,
+   "also": [],
+   "score": 4.333
   },
   {
    "title": "C’è anche una big di Serie A su Darmian: contatto diretto con l’entourage",
@@ -310,9 +305,9 @@
    "published": "2026-09-21T06:51:22+00:00",
    "image": "",
    "id": "57603c8692b1",
-   "age_minutes": 973,
+   "age_minutes": 1133,
    "also": [],
-   "score": 4.381
+   "score": 4.179
   },
   {
    "title": "Mal di pancia Gyokeres: doppia pista in Italia",
@@ -324,9 +319,23 @@
    "published": "2026-09-21T05:22:09+00:00",
    "image": "",
    "id": "c232e214fa45",
-   "age_minutes": 1062,
+   "age_minutes": 1222,
    "also": [],
-   "score": 4.262
+   "score": 4.084
+  },
+  {
+   "title": "Ag. Vergara e Favasuli: \"Allegri e il Napoli li valorizzeranno al massimo\"",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/ag-vergara-favasuli-allegri-napoli-valorizzeranno-massimo-656955",
+   "summary": "Mario Giuffredi, agente tra gli altri di Antonio Vergara e Costantino Favasuli, nel corso del suo intervento al R Star Palermo Football Meeting ha parlato anche dei suoi assistiti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-09-21T19:20:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/95/952651ecf02a36e988fdb3ae5b74538c-06831-oooz0000.jpeg",
+   "id": "74178112b4ac",
+   "age_minutes": 383,
+   "also": [],
+   "score": 3.898
   },
   {
    "title": "De Rossi e Stroppa a rischio, la situazione in Serie A",
@@ -338,9 +347,9 @@
    "published": "2026-09-20T21:22:23+00:00",
    "image": "",
    "id": "f270080f4ef8",
-   "age_minutes": 1542,
+   "age_minutes": 1702,
    "also": [],
-   "score": 3.831
+   "score": 3.742
   },
   {
    "title": "Voti Milan-Lecce 3-0, decidono Pulisic, Rabiot e Moreira",
@@ -352,9 +361,9 @@
    "published": "2026-09-20T20:43:28+00:00",
    "image": "",
    "id": "0c593c6d8291",
-   "age_minutes": 1581,
+   "age_minutes": 1741,
    "also": [],
-   "score": 3.808
+   "score": 3.724
   },
   {
    "title": "Palmisani nel mirino della Juventus: la strategia bianconera",
@@ -366,9 +375,9 @@
    "published": "2026-09-20T19:32:55+00:00",
    "image": "",
    "id": "c27b66f54c2d",
-   "age_minutes": 1652,
+   "age_minutes": 1811,
    "also": [],
-   "score": 3.768
+   "score": 3.692
   },
   {
    "title": "Juventus, il sogno per il prossimo anno si chiama Carnesecchi: quanta concorrenza",
@@ -380,9 +389,9 @@
    "published": "2026-09-20T16:30:12+00:00",
    "image": "",
    "id": "32a8d9196671",
-   "age_minutes": 1834,
+   "age_minutes": 1994,
    "also": [],
-   "score": 3.683
+   "score": 3.625
   },
   {
    "title": "Juve-Atalanta, chi gioca tra Alajbegovic e Conceicao: le ultimissime",
@@ -394,9 +403,260 @@
    "published": "2026-09-20T13:47:42+00:00",
    "image": "",
    "id": "07df87433a0f",
-   "age_minutes": 1997,
+   "age_minutes": 2156,
    "also": [],
-   "score": 3.624
+   "score": 3.578
+  }
+ ],
+ "raw": [
+  {
+   "title": "Inter, preoccupazione Lautaro: a rischio contro il Parma",
+   "link": "https://www.calciomercato.it/2026/09/21/inter-preoccupazione-lautaro-a-rischio-contro-il-parma/",
+   "summary": "L'articolo Inter, preoccupazione Lautaro: a rischio contro il Parma proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T21:18:23+00:00",
+   "image": "",
+   "id": "a2e9a2418f8b",
+   "age_minutes": 266,
+   "also": [],
+   "score": 6.123
+  },
+  {
+   "title": "Milan, ora c’è un problema Camarda: occhio al mercato di gennaio",
+   "link": "https://www.calciomercato.it/2026/09/21/milan-ora-ce-un-problema-camarda-occhio-al-mercato-di-gennaio/",
+   "summary": "L'articolo Milan, ora c’è un problema Camarda: occhio al mercato di gennaio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T20:13:29+00:00",
+   "image": "",
+   "id": "b75b040795a0",
+   "age_minutes": 331,
+   "also": [],
+   "score": 7.079
+  },
+  {
+   "title": "Napoli, piove sul bagnato per Allegri: nuovo infortunio",
+   "link": "https://www.calciomercato.it/2026/09/21/napoli-piove-sul-bagnato-per-allegri-nuovo-infortunio/",
+   "summary": "L'articolo Napoli, piove sul bagnato per Allegri: nuovo infortunio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T19:12:48+00:00",
+   "image": "",
+   "id": "312ce50dff94",
+   "age_minutes": 391,
+   "also": [],
+   "score": 5.671
+  },
+  {
+   "title": "Inter, novità importantissime su Spence: c’è la data dell’esordio",
+   "link": "https://www.calciomercato.it/2026/09/21/inter-novita-importantissime-su-spence-ce-la-data-dellesordio/",
+   "summary": "L'articolo Inter, novità importantissime su Spence: c’è la data dell’esordio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T17:30:00+00:00",
+   "image": "",
+   "id": "1b8c4a0f8940",
+   "age_minutes": 494,
+   "also": [],
+   "score": 5.358
+  },
+  {
+   "title": "Nazionale, la prima formazione di Mancini in vista di Italia-Belgio",
+   "link": "https://www.calciomercato.it/2026/09/21/nazionale-la-prima-formazione-di-mancini-in-vista-di-italia-belgio/",
+   "summary": "L'articolo Nazionale, la prima formazione di Mancini in vista di Italia-Belgio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T14:50:55+00:00",
+   "image": "",
+   "id": "7771ceeb0b8f",
+   "age_minutes": 653,
+   "also": [],
+   "score": 4.956
+  },
+  {
+   "title": "Inter, mossa a sorpresa di Chivu: scelta definitiva",
+   "link": "https://www.calciomercato.it/2026/09/21/inter-mossa-a-sorpresa-di-chivu-scelta-definitiva/",
+   "summary": "L'articolo Inter, mossa a sorpresa di Chivu: scelta definitiva proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T14:23:18+00:00",
+   "image": "",
+   "id": "3db1cd176835",
+   "age_minutes": 681,
+   "also": [],
+   "score": 4.895
+  },
+  {
+   "title": "Palmisani firma fino al 2031, è ufficiale: i dettagli",
+   "link": "https://www.calciomercato.it/2026/09/21/palmisani-firma-fino-al-2031-e-ufficiale-i-dettagli/",
+   "summary": "L'articolo Palmisani firma fino al 2031, è ufficiale: i dettagli proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T12:46:54+00:00",
+   "image": "",
+   "id": "801316474f50",
+   "age_minutes": 777,
+   "also": [],
+   "score": 8.701
+  },
+  {
+   "title": "Roma, si ferma Malen: le ultimissime sulle sue condizioni",
+   "link": "https://www.calciomercato.it/2026/09/21/roma-si-ferma-malen-le-ultimissime-sulle-sue-condizioni/",
+   "summary": "L'articolo Roma, si ferma Malen: le ultimissime sulle sue condizioni proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T10:41:59+00:00",
+   "image": "",
+   "id": "7384dc8edf68",
+   "age_minutes": 902,
+   "also": [],
+   "score": 4.486
+  },
+  {
+   "title": "Serie A, in bilico una panchina eccellente: spunta Gilardino",
+   "link": "https://www.calciomercato.it/2026/09/21/serie-a-in-bilico-una-panchina-eccellente-spunta-gilardino/",
+   "summary": "L'articolo Serie A, in bilico una panchina eccellente: spunta Gilardino proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T09:27:07+00:00",
+   "image": "",
+   "id": "8361cec50032",
+   "age_minutes": 977,
+   "also": [],
+   "score": 4.375
+  },
+  {
+   "title": "Juventus, in arrivo lo svincolato: c’è l’annuncio",
+   "link": "https://www.calciomercato.it/2026/09/21/juventus-in-arrivo-lo-svincolato-ce-lannuncio/",
+   "summary": "L'articolo Juventus, in arrivo lo svincolato: c’è l’annuncio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T07:51:28+00:00",
+   "image": "",
+   "id": "ba51850154e6",
+   "age_minutes": 1073,
+   "also": [],
+   "score": 5.249
+  },
+  {
+   "title": "C’è anche una big di Serie A su Darmian: contatto diretto con l’entourage",
+   "link": "https://www.calciomercato.it/2026/09/21/ce-anche-una-big-di-serie-a-su-darmian-contatto-diretto-con-lentourage/",
+   "summary": "L'articolo C’è anche una big di Serie A su Darmian: contatto diretto con l’entourage proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T06:51:22+00:00",
+   "image": "",
+   "id": "57603c8692b1",
+   "age_minutes": 1133,
+   "also": [],
+   "score": 4.179
+  },
+  {
+   "title": "Mal di pancia Gyokeres: doppia pista in Italia",
+   "link": "https://www.calciomercato.it/2026/09/21/mal-di-pancia-gyokeres-doppia-pista-in-italia/",
+   "summary": "L'articolo Mal di pancia Gyokeres: doppia pista in Italia proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-21T05:22:09+00:00",
+   "image": "",
+   "id": "c232e214fa45",
+   "age_minutes": 1222,
+   "also": [],
+   "score": 4.084
+  },
+  {
+   "title": "De Rossi e Stroppa a rischio, la situazione in Serie A",
+   "link": "https://www.calciomercato.it/2026/09/20/de-rossi-e-stroppa-a-rischio-la-situazione-in-serie-a/",
+   "summary": "L'articolo De Rossi e Stroppa a rischio, la situazione in Serie A proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T21:22:23+00:00",
+   "image": "",
+   "id": "f270080f4ef8",
+   "age_minutes": 1702,
+   "also": [],
+   "score": 3.742
+  },
+  {
+   "title": "Voti Milan-Lecce 3-0, decidono Pulisic, Rabiot e Moreira",
+   "link": "https://www.calciomercato.it/2026/09/20/voti-milan-lecce-3-0-decidono-pulisic-rabiot-e-moreira/",
+   "summary": "L'articolo Voti Milan-Lecce 3-0, decidono Pulisic, Rabiot e Moreira proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T20:43:28+00:00",
+   "image": "",
+   "id": "0c593c6d8291",
+   "age_minutes": 1741,
+   "also": [],
+   "score": 3.724
+  },
+  {
+   "title": "Palmisani nel mirino della Juventus: la strategia bianconera",
+   "link": "https://www.calciomercato.it/2026/09/20/palmisani-nel-mirino-della-juventus-la-strategia-bianconera/",
+   "summary": "L'articolo Palmisani nel mirino della Juventus: la strategia bianconera proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T19:32:55+00:00",
+   "image": "",
+   "id": "c27b66f54c2d",
+   "age_minutes": 1811,
+   "also": [],
+   "score": 3.692
+  },
+  {
+   "title": "PAGELLE e TABELLINO Juventus-Atalanta 2-0: Conceicao e Bremer rilanciano Spalletti",
+   "link": "https://www.calciomercato.it/2026/09/20/pagelle-e-tabellino-juventus-atalanta-2-0-conceicao-e-bremer-rilanciano-spalletti/",
+   "summary": "L'articolo PAGELLE e TABELLINO Juventus-Atalanta 2-0: Conceicao e Bremer rilanciano Spalletti proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T17:53:12+00:00",
+   "image": "",
+   "id": "18ef990116b8"
+  },
+  {
+   "title": "Juventus, il sogno per il prossimo anno si chiama Carnesecchi: quanta concorrenza",
+   "link": "https://www.calciomercato.it/2026/09/20/juventus-il-sogno-per-il-prossimo-anno-si-chiama-carnesecchi-quanta-concorrenza/",
+   "summary": "L'articolo Juventus, il sogno per il prossimo anno si chiama Carnesecchi: quanta concorrenza proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T16:30:12+00:00",
+   "image": "",
+   "id": "32a8d9196671",
+   "age_minutes": 1994,
+   "also": [],
+   "score": 3.625
+  },
+  {
+   "title": "Juve-Atalanta, chi gioca tra Alajbegovic e Conceicao: le ultimissime",
+   "link": "https://www.calciomercato.it/2026/09/20/juve-atalanta-chi-gioca-tra-alajbegovic-e-conceicao-le-ultimissime/",
+   "summary": "L'articolo Juve-Atalanta, chi gioca tra Alajbegovic e Conceicao: le ultimissime proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T13:47:42+00:00",
+   "image": "",
+   "id": "07df87433a0f",
+   "age_minutes": 2156,
+   "also": [],
+   "score": 3.578
   },
   {
    "title": "Roma-Inter, infortunio per Wesley: il punto",
@@ -411,9 +671,175 @@
    "age_minutes": 2003,
    "also": [],
    "score": 3.622
-  }
- ],
- "raw": [
+  },
+  {
+   "title": "Voti Fiorentina-Napoli, le pagelle della sfida: De Gea super, delude De Bruyne",
+   "link": "https://www.calciomercato.it/2026/09/20/voti-fiorentina-napoli-le-pagelle-della-sfida-de-gea-super-delude-de-bruyne/",
+   "summary": "L'articolo Voti Fiorentina-Napoli, le pagelle della sfida: De Gea super, delude De Bruyne proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T12:29:21+00:00",
+   "image": "",
+   "id": "abe351599cb1"
+  },
+  {
+   "title": "Grabara ko, emergenza Juve tra i pali: chi può arrivare",
+   "link": "https://www.calciomercato.it/2026/09/20/grabara-ko-emergenza-juve-tra-i-pali-chi-puo-arrivare/",
+   "summary": "L'articolo Grabara ko, emergenza Juve tra i pali: chi può arrivare proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T11:00:55+00:00",
+   "image": "",
+   "id": "0602b3604e76"
+  },
+  {
+   "title": "Milan-Lecce, clamorosa decisione su Moreira: cosa succede",
+   "link": "https://www.calciomercato.it/2026/09/20/milan-lecce-clamorosa-decisione-su-moreira-cosa-succede/",
+   "summary": "L'articolo Milan-Lecce, clamorosa decisione su Moreira: cosa succede proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T09:48:36+00:00",
+   "image": "",
+   "id": "a06e90aa4a79"
+  },
+  {
+   "title": "Juve forte su Romano, emissari al lavoro: tutti i dettagli",
+   "link": "https://www.calciomercato.it/2026/09/20/juve-forte-su-romano-emissari-al-lavoro-tutti-i-dettagli/",
+   "summary": "L'articolo Juve forte su Romano, emissari al lavoro: tutti i dettagli proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T08:02:27+00:00",
+   "image": "",
+   "id": "85e844a70b1f"
+  },
+  {
+   "title": "Conte-Juve, clamoroso annuncio in queste ore",
+   "link": "https://www.calciomercato.it/2026/09/20/conte-juve-clamoroso-annuncio-in-queste-ore/",
+   "summary": "L'articolo Conte-Juve, clamoroso annuncio in queste ore proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T06:59:12+00:00",
+   "image": "",
+   "id": "875e8617f8be"
+  },
+  {
+   "title": "Da Adzic a Varela: gli occhi di Juventus e Bologna al ‘Brianteo’ | CM",
+   "link": "https://www.calciomercato.it/2026/09/20/da-adzic-a-varela-gli-occhi-di-juventus-e-bologna-al-brianteo-cm/",
+   "summary": "L'articolo Da Adzic a Varela: gli occhi di Juventus e Bologna al ‘Brianteo’ | CM proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-20T05:22:38+00:00",
+   "image": "",
+   "id": "daa3d15ec3bf"
+  },
+  {
+   "title": "Tedesco può tornare subito in panchina dopo l’addio al Bologna, la destinazione",
+   "link": "https://www.calciomercato.it/2026/09/19/tedesco-puo-tornare-subito-in-panchina-dopo-laddio-al-bologna-la-destinazione/",
+   "summary": "L'articolo Tedesco può tornare subito in panchina dopo l’addio al Bologna, la destinazione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-19T21:15:31+00:00",
+   "image": "",
+   "id": "6d99af9c383a"
+  },
+  {
+   "title": "Pagelle Roma-Inter 2-2, i voti della sfida: doppiette per Koné e Lautaro",
+   "link": "https://www.calciomercato.it/2026/09/19/pagelle-roma-inter-2-2-i-voti-della-sfida-doppiette-per-kone-e-lautaro/",
+   "summary": "L'articolo Pagelle Roma-Inter 2-2, i voti della sfida: doppiette per Koné e Lautaro proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-19T18:02:11+00:00",
+   "image": "",
+   "id": "f7bf860db534"
+  },
+  {
+   "title": "Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop",
+   "link": "https://www.calciomercato.it/2026/09/19/emergenza-infinita-per-la-juventus-lesione-al-ginocchio-e-6-mesi-di-stop/",
+   "summary": "L'articolo Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-19T17:25:46+00:00",
+   "image": "",
+   "id": "b0adf586c3aa"
+  },
+  {
+   "title": "Milan, nuova svolta Pulisic: cosa cambia",
+   "link": "https://www.calciomercato.it/2026/09/19/milan-nuova-svolta-pulisic-cosa-cambia/",
+   "summary": "L'articolo Milan, nuova svolta Pulisic: cosa cambia proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-19T16:03:44+00:00",
+   "image": "",
+   "id": "c903a281cb13"
+  },
+  {
+   "title": "Esonero De Zerbi, Tottenham di nuovo ko: panchina rovente",
+   "link": "https://www.calciomercato.it/2026/09/19/esonero-de-zerbi-tottenham-di-nuovo-ko-panchina-rovente/",
+   "summary": "L'articolo Esonero De Zerbi, Tottenham di nuovo ko: panchina rovente proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-09-19T14:16:41+00:00",
+   "image": "",
+   "id": "76670e41f16e"
+  },
+  {
+   "title": "Il “bugiardino” del buon tifoso",
+   "link": "https://www.tuttojuve.com/firme-bianconere/bugiardino-buon-tifoso-793950",
+   "summary": "“Non c’è rivalità che possa giustificare la mancanza di rispetto durante un minuto di silenzio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-21T23:52:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a2/a225506f414bc6b3ab16db7b6d72cc11-53474-oooz0000.jpeg",
+   "id": "fd7829a75577"
+  },
+  {
+   "title": "Per Stiller irrompe il Real Madrid: pronta un’offerta da 50 milioni",
+   "link": "https://www.tuttojuve.com/calciomercato/stiller-irrompe-real-madrid-pronta-un-offerta-50-793919",
+   "summary": "Si complica la pista Angelo Stiller per la Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-21T23:30:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b0edfbd2cbdd5263503633f8d8e2dcd1-83602-oooz0000.jpeg",
+   "id": "19019b7c766a",
+   "age_minutes": 134,
+   "also": [],
+   "score": 6.494
+  },
+  {
+   "title": "Juventus, torna di moda Kim Min-jae: il Bayern può ascoltare offerte da 25-30 milioni",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-torna-moda-kim-min-jae-bayern-ascoltare-offerte-25-30-793911",
+   "summary": "Kim Min-jae torna nel mirino della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-21T23:15:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c46497a74be9ad071c0367047ab3ca9-31133-oooz0000.jpeg",
+   "id": "fcee2c995502"
+  },
+  {
+   "title": "Carnesecchi show allo Stadium resta in lista per il futuro",
+   "link": "https://www.tuttojuve.com/calciomercato/carnesecchi-show-stadium-resta-lista-793909",
+   "summary": "La Juventus batte l'Atalanta, ma dall'altra parte del campo prende appunti su Marco Carnesecchi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-09-21T23:00:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b8/b8592e80665b6ac3757a9502a8004f97-56816-oooz0000.jpeg",
+   "id": "5c582adc54e3"
+  },
   {
    "title": "Manchester United, panchina a rischio: spunta Antonio Conte per il dopo Carrick",
    "link": "https://www.tuttojuve.com/calciomercato/manchester-united-panchina-rischio-spunta-antonio-conte-carrick-793907",
@@ -446,9 +872,9 @@
    "published": "2026-09-21T22:15:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/21/21ac6b593c7afb5c113a6c7eb2d8c5eb-59365-oooz0000.jpeg",
    "id": "d70fdbf1282b",
-   "age_minutes": 49,
+   "age_minutes": 209,
    "also": [],
-   "score": 6.924
+   "score": 6.157
   },
   {
    "title": "Kalulu-Rowe, non finisce qui!",
@@ -594,48 +1020,26 @@
    "id": "bddb17cad166"
   },
   {
-   "title": "Lupo: \"Che errore su Grosso. Mai avrei pensato che ci avrebbe fatto vincere il Mondiale\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/lupo-che-errore-grosso-pensato-vincere-mondiale-793936",
-   "summary": "Il direttore sportivo Fabio Lupo, intervenuto a margine dell'evento R Star Palermo Football Meeting, organizzato da Conference403, ha parlato di Fabio Grosso, tecnico ed ex calciatore anche della Juve.",
-   "source": "TuttoJuve",
+   "title": "Flop Hojlund? Zito: \"No, il problema è che non ha rifornimenti! Può fare 15 gol in scioltezza\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/flop-hojlund-zito-no-problema-rifornimenti-15-gol-scioltezza-656935",
+   "summary": "Francesco Zito, analista di Kickest, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania: \"Il Napoli non ha bisogno di un altro attaccant ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-21T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7a/7a46379a22240b0a03bb42a9a757a517-43106-oooz0000.jpeg",
-   "id": "d5c84601d517"
+   "scope": "Napoli",
+   "published": "2026-09-22T01:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b4/b469cd556db1d55f4c1890fd924f2dd6-56440-oooz0000.jpeg",
+   "id": "d6948e024d21"
   },
   {
-   "title": "Capuano: \"La trattenuta di Kalulu su Rowe? Sarri vittima della legge del contrappasso\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/capuano-la-trattenuta-kalulu-rowe-sarri-vittima-legge-contrappasso-793935",
-   "summary": "Sta facendo discutere ancora il contatto tra Pierre Kalulu e Jonathan Rowe durante Juve-Atalanta. E sui social il giornalista Giovanni Capuano ha scritto: \"Sarri vittima della legge del contrappasso.",
-   "source": "TuttoJuve",
+   "title": "Fallimento sul mercato? Molaro: \"Serviva energia nuova! Poche idee...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/molaro-656947",
+   "summary": "Il giornalista Francesco Molaro, intervenuto sulla nostra Radio Tutto Napoli nel corso di Cronaca Azzurra, ha analizzato il pareggio contro la Fiorentina, il rendimento del centrocampo e le scelte compiute dal club durante il calciomercato.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-21T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/31/314bfcfb13b83d4a235f58c20af7d4be-91002-oooz0000.jpeg",
-   "id": "f1cbeb93590a"
-  },
-  {
-   "title": "Mancini: \"Nuovo metro arbitrale? Bene perché qui si giocava a ritmi inferiori\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/mancini-nuovo-metro-arbitrale-giocava-ritmi-inferiori-793927",
-   "summary": "Il commissario tecnico azzurro Roberto Mancini si è detto molto positivo del nuovo metro arbitrale adottato da inizio stagione in Serie A, con meno fischi, tempo effettivo di gioco più lungo e tanti contrasti lasciati correre.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-21T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8c1889733c5ccdfe207e4c8d63be2fd7-71769-oooz0000.jpeg",
-   "id": "5ad1d60f8620"
-  },
-  {
-   "title": "Bonanni \"avvisa\" la Juve: \"Pisacane al Cagliari al di sopra di ogni aspettativa\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/bonanni-avvisa-juve-pisacane-cagliari-aspettativa-793922",
-   "summary": "A TMW Radio, l'ex calciatore e tecnico Massimo Bonanni ha voluto fare i complimenti al Cagliari, prossimo avversario della Juve alla ripresa del campionato dopo la lunga pausa per le Nazionali: \"Pisacane ha fatto nove punti nelle ultime tre ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-09-21T19:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7e/7ee0247e43571636215d66d39b6c438b-02592-oooz0000.jpeg",
-   "id": "86c23ca70cb9"
+   "scope": "Napoli",
+   "published": "2026-09-22T00:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e5/e5312e77c0a136ab6579633736c1921d-07666-oooz0000.jpeg",
+   "id": "28e188c6b3e3"
   },
   {
    "title": "Minervini: \"Allegri con un cambio ha lanciato un brutto messaggio alla squadra\"",
@@ -669,9 +1073,9 @@
    "published": "2026-09-21T21:50:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/40/4052a13e952d8611bfc5f15d5948303a-89487-oooz0000.jpeg",
    "id": "b370ea9d3418",
-   "age_minutes": 74,
+   "age_minutes": 234,
    "also": [],
-   "score": 5.191
+   "score": 4.451
   },
   {
    "title": "Xavi si presenta a Lang e compagni: \"Voglio un'Olanda di possesso e dominio\"",
@@ -749,9 +1153,9 @@
    "published": "2026-09-21T20:40:59+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8d/8dc3593aacb36222f9a9360c55fe505b-64003-oooz0000.jpeg",
    "id": "439c1de8cd81",
-   "age_minutes": 143,
+   "age_minutes": 303,
    "also": [],
-   "score": 5.249
+   "score": 4.58
   },
   {
    "title": "Montervino: \"Il Napoli non si abbassa per scelta di Allegri! Giocatori sono logori\"",
@@ -774,9 +1178,9 @@
    "published": "2026-09-21T20:20:06+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5d/5dcfa197c24bda0e392e27b53485aab2-11849-oooz0000.jpeg",
    "id": "0dec507474cd",
-   "age_minutes": 164,
+   "age_minutes": 324,
    "also": [],
-   "score": 5.353
+   "score": 4.703
   },
   {
    "title": "De Bruyne, l'annuncio dal Belgio: \"Certezza del nuovo CT, ma a minutaggio ridotto\"",
@@ -843,419 +1247,9 @@
    "published": "2026-09-21T19:20:50+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/95/952651ecf02a36e988fdb3ae5b74538c-06831-oooz0000.jpeg",
    "id": "74178112b4ac",
-   "age_minutes": 224,
+   "age_minutes": 383,
    "also": [],
-   "score": 4.494
-  },
-  {
-   "title": "Giuffredi svela: \"Volevo mandare Seba Esposito al Napoli quest'estate\"",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/giuffredi-svela-volevo-portare-seba-esposito-napoli-estate-656952",
-   "summary": "\"Quest'estate volevo mandare Sebastiano Esposito a Napoli\", l'ha svelato il procuratore Mario Giuffredi \"poi per mille cose non si è riuscita a fare\", ha proseguito.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-21T19:10:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d9/d994b99a6b8fabe21006a0cdf31deee2-39716-oooz0000.jpeg",
-   "id": "100286f72750",
-   "_kw": 0.4,
-   "_fresh": 0.7130045730326059,
-   "_fp": "giuffredi svela volevo mandare seba esposito napoli quest estate",
-   "age_minutes": 234
-  },
-  {
-   "title": "Del Genio punge: \"Non facciamo mai il fuorigioco! Esulterò più di un gol...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/genio-punge-non-fuorigioco-esultero-gol-656950",
-   "summary": "Il giornalista Paolo Del Genio è intervenuto ai microfoni Canale 8 nel corso di Linea Calcio. Di seguito le sue parole: \"Voglio dire una cosa che sembra una battuta ma non lo è, credetemi.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-09-21T19:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/52/524e7338e4fa6213b4988ab5d66391ff-97979-oooz0000.jpeg",
-   "id": "d66dab6f65d2"
-  },
-  {
-   "title": "Inter, preoccupazione Lautaro: a rischio contro il Parma",
-   "link": "https://www.calciomercato.it/2026/09/21/inter-preoccupazione-lautaro-a-rischio-contro-il-parma/",
-   "summary": "L'articolo Inter, preoccupazione Lautaro: a rischio contro il Parma proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T21:18:23+00:00",
-   "image": "",
-   "id": "a2e9a2418f8b",
-   "age_minutes": 106,
-   "also": [],
-   "score": 6.829
-  },
-  {
-   "title": "Milan, ora c’è un problema Camarda: occhio al mercato di gennaio",
-   "link": "https://www.calciomercato.it/2026/09/21/milan-ora-ce-un-problema-camarda-occhio-al-mercato-di-gennaio/",
-   "summary": "L'articolo Milan, ora c’è un problema Camarda: occhio al mercato di gennaio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T20:13:29+00:00",
-   "image": "",
-   "id": "b75b040795a0",
-   "age_minutes": 171,
-   "also": [],
-   "score": 7.723
-  },
-  {
-   "title": "Napoli, piove sul bagnato per Allegri: nuovo infortunio",
-   "link": "https://www.calciomercato.it/2026/09/21/napoli-piove-sul-bagnato-per-allegri-nuovo-infortunio/",
-   "summary": "L'articolo Napoli, piove sul bagnato per Allegri: nuovo infortunio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T19:12:48+00:00",
-   "image": "",
-   "id": "312ce50dff94",
-   "age_minutes": 232,
-   "also": [],
-   "score": 6.261
-  },
-  {
-   "title": "Inter, novità importantissime su Spence: c’è la data dell’esordio",
-   "link": "https://www.calciomercato.it/2026/09/21/inter-novita-importantissime-su-spence-ce-la-data-dellesordio/",
-   "summary": "L'articolo Inter, novità importantissime su Spence: c’è la data dell’esordio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T17:30:00+00:00",
-   "image": "",
-   "id": "1b8c4a0f8940",
-   "age_minutes": 334,
-   "also": [],
-   "score": 5.866
-  },
-  {
-   "title": "Nazionale, la prima formazione di Mancini in vista di Italia-Belgio",
-   "link": "https://www.calciomercato.it/2026/09/21/nazionale-la-prima-formazione-di-mancini-in-vista-di-italia-belgio/",
-   "summary": "L'articolo Nazionale, la prima formazione di Mancini in vista di Italia-Belgio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T14:50:55+00:00",
-   "image": "",
-   "id": "7771ceeb0b8f",
-   "age_minutes": 494,
-   "also": [],
-   "score": 5.36
-  },
-  {
-   "title": "Inter, mossa a sorpresa di Chivu: scelta definitiva",
-   "link": "https://www.calciomercato.it/2026/09/21/inter-mossa-a-sorpresa-di-chivu-scelta-definitiva/",
-   "summary": "L'articolo Inter, mossa a sorpresa di Chivu: scelta definitiva proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T14:23:18+00:00",
-   "image": "",
-   "id": "3db1cd176835",
-   "age_minutes": 521,
-   "also": [],
-   "score": 5.283
-  },
-  {
-   "title": "Palmisani firma fino al 2031, è ufficiale: i dettagli",
-   "link": "https://www.calciomercato.it/2026/09/21/palmisani-firma-fino-al-2031-e-ufficiale-i-dettagli/",
-   "summary": "L'articolo Palmisani firma fino al 2031, è ufficiale: i dettagli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T12:46:54+00:00",
-   "image": "",
-   "id": "801316474f50",
-   "age_minutes": 618,
-   "also": [],
-   "score": 9.038
-  },
-  {
-   "title": "Roma, si ferma Malen: le ultimissime sulle sue condizioni",
-   "link": "https://www.calciomercato.it/2026/09/21/roma-si-ferma-malen-le-ultimissime-sulle-sue-condizioni/",
-   "summary": "L'articolo Roma, si ferma Malen: le ultimissime sulle sue condizioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T10:41:59+00:00",
-   "image": "",
-   "id": "7384dc8edf68",
-   "age_minutes": 742,
-   "also": [],
-   "score": 4.768
-  },
-  {
-   "title": "Serie A, in bilico una panchina eccellente: spunta Gilardino",
-   "link": "https://www.calciomercato.it/2026/09/21/serie-a-in-bilico-una-panchina-eccellente-spunta-gilardino/",
-   "summary": "L'articolo Serie A, in bilico una panchina eccellente: spunta Gilardino proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T09:27:07+00:00",
-   "image": "",
-   "id": "8361cec50032",
-   "age_minutes": 817,
-   "also": [],
-   "score": 4.628
-  },
-  {
-   "title": "Juventus, in arrivo lo svincolato: c’è l’annuncio",
-   "link": "https://www.calciomercato.it/2026/09/21/juventus-in-arrivo-lo-svincolato-ce-lannuncio/",
-   "summary": "L'articolo Juventus, in arrivo lo svincolato: c’è l’annuncio proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T07:51:28+00:00",
-   "image": "",
-   "id": "ba51850154e6",
-   "age_minutes": 913,
-   "also": [],
-   "score": 5.469
-  },
-  {
-   "title": "C’è anche una big di Serie A su Darmian: contatto diretto con l’entourage",
-   "link": "https://www.calciomercato.it/2026/09/21/ce-anche-una-big-di-serie-a-su-darmian-contatto-diretto-con-lentourage/",
-   "summary": "L'articolo C’è anche una big di Serie A su Darmian: contatto diretto con l’entourage proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T06:51:22+00:00",
-   "image": "",
-   "id": "57603c8692b1",
-   "age_minutes": 973,
-   "also": [],
-   "score": 4.381
-  },
-  {
-   "title": "Mal di pancia Gyokeres: doppia pista in Italia",
-   "link": "https://www.calciomercato.it/2026/09/21/mal-di-pancia-gyokeres-doppia-pista-in-italia/",
-   "summary": "L'articolo Mal di pancia Gyokeres: doppia pista in Italia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-21T05:22:09+00:00",
-   "image": "",
-   "id": "c232e214fa45",
-   "age_minutes": 1062,
-   "also": [],
-   "score": 4.262
-  },
-  {
-   "title": "De Rossi e Stroppa a rischio, la situazione in Serie A",
-   "link": "https://www.calciomercato.it/2026/09/20/de-rossi-e-stroppa-a-rischio-la-situazione-in-serie-a/",
-   "summary": "L'articolo De Rossi e Stroppa a rischio, la situazione in Serie A proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T21:22:23+00:00",
-   "image": "",
-   "id": "f270080f4ef8",
-   "age_minutes": 1542,
-   "also": [],
-   "score": 3.831
-  },
-  {
-   "title": "Voti Milan-Lecce 3-0, decidono Pulisic, Rabiot e Moreira",
-   "link": "https://www.calciomercato.it/2026/09/20/voti-milan-lecce-3-0-decidono-pulisic-rabiot-e-moreira/",
-   "summary": "L'articolo Voti Milan-Lecce 3-0, decidono Pulisic, Rabiot e Moreira proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T20:43:28+00:00",
-   "image": "",
-   "id": "0c593c6d8291",
-   "age_minutes": 1581,
-   "also": [],
-   "score": 3.808
-  },
-  {
-   "title": "Palmisani nel mirino della Juventus: la strategia bianconera",
-   "link": "https://www.calciomercato.it/2026/09/20/palmisani-nel-mirino-della-juventus-la-strategia-bianconera/",
-   "summary": "L'articolo Palmisani nel mirino della Juventus: la strategia bianconera proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T19:32:55+00:00",
-   "image": "",
-   "id": "c27b66f54c2d",
-   "age_minutes": 1652,
-   "also": [],
-   "score": 3.768
-  },
-  {
-   "title": "PAGELLE e TABELLINO Juventus-Atalanta 2-0: Conceicao e Bremer rilanciano Spalletti",
-   "link": "https://www.calciomercato.it/2026/09/20/pagelle-e-tabellino-juventus-atalanta-2-0-conceicao-e-bremer-rilanciano-spalletti/",
-   "summary": "L'articolo PAGELLE e TABELLINO Juventus-Atalanta 2-0: Conceicao e Bremer rilanciano Spalletti proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T17:53:12+00:00",
-   "image": "",
-   "id": "18ef990116b8"
-  },
-  {
-   "title": "Juventus, il sogno per il prossimo anno si chiama Carnesecchi: quanta concorrenza",
-   "link": "https://www.calciomercato.it/2026/09/20/juventus-il-sogno-per-il-prossimo-anno-si-chiama-carnesecchi-quanta-concorrenza/",
-   "summary": "L'articolo Juventus, il sogno per il prossimo anno si chiama Carnesecchi: quanta concorrenza proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T16:30:12+00:00",
-   "image": "",
-   "id": "32a8d9196671",
-   "age_minutes": 1834,
-   "also": [],
-   "score": 3.683
-  },
-  {
-   "title": "Juve-Atalanta, chi gioca tra Alajbegovic e Conceicao: le ultimissime",
-   "link": "https://www.calciomercato.it/2026/09/20/juve-atalanta-chi-gioca-tra-alajbegovic-e-conceicao-le-ultimissime/",
-   "summary": "L'articolo Juve-Atalanta, chi gioca tra Alajbegovic e Conceicao: le ultimissime proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T13:47:42+00:00",
-   "image": "",
-   "id": "07df87433a0f",
-   "age_minutes": 1997,
-   "also": [],
-   "score": 3.624
-  },
-  {
-   "title": "Roma-Inter, infortunio per Wesley: il punto",
-   "link": "https://www.calciomercato.it/2026/09/20/roma-inter-infortunio-per-wesley-il-punto/",
-   "summary": "L'articolo Roma-Inter, infortunio per Wesley: il punto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T13:41:54+00:00",
-   "image": "",
-   "id": "17cba79b2208",
-   "age_minutes": 2003,
-   "also": [],
-   "score": 3.622
-  },
-  {
-   "title": "Voti Fiorentina-Napoli, le pagelle della sfida: De Gea super, delude De Bruyne",
-   "link": "https://www.calciomercato.it/2026/09/20/voti-fiorentina-napoli-le-pagelle-della-sfida-de-gea-super-delude-de-bruyne/",
-   "summary": "L'articolo Voti Fiorentina-Napoli, le pagelle della sfida: De Gea super, delude De Bruyne proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T12:29:21+00:00",
-   "image": "",
-   "id": "abe351599cb1"
-  },
-  {
-   "title": "Grabara ko, emergenza Juve tra i pali: chi può arrivare",
-   "link": "https://www.calciomercato.it/2026/09/20/grabara-ko-emergenza-juve-tra-i-pali-chi-puo-arrivare/",
-   "summary": "L'articolo Grabara ko, emergenza Juve tra i pali: chi può arrivare proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T11:00:55+00:00",
-   "image": "",
-   "id": "0602b3604e76"
-  },
-  {
-   "title": "Milan-Lecce, clamorosa decisione su Moreira: cosa succede",
-   "link": "https://www.calciomercato.it/2026/09/20/milan-lecce-clamorosa-decisione-su-moreira-cosa-succede/",
-   "summary": "L'articolo Milan-Lecce, clamorosa decisione su Moreira: cosa succede proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T09:48:36+00:00",
-   "image": "",
-   "id": "a06e90aa4a79"
-  },
-  {
-   "title": "Juve forte su Romano, emissari al lavoro: tutti i dettagli",
-   "link": "https://www.calciomercato.it/2026/09/20/juve-forte-su-romano-emissari-al-lavoro-tutti-i-dettagli/",
-   "summary": "L'articolo Juve forte su Romano, emissari al lavoro: tutti i dettagli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T08:02:27+00:00",
-   "image": "",
-   "id": "85e844a70b1f"
-  },
-  {
-   "title": "Conte-Juve, clamoroso annuncio in queste ore",
-   "link": "https://www.calciomercato.it/2026/09/20/conte-juve-clamoroso-annuncio-in-queste-ore/",
-   "summary": "L'articolo Conte-Juve, clamoroso annuncio in queste ore proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T06:59:12+00:00",
-   "image": "",
-   "id": "875e8617f8be"
-  },
-  {
-   "title": "Da Adzic a Varela: gli occhi di Juventus e Bologna al ‘Brianteo’ | CM",
-   "link": "https://www.calciomercato.it/2026/09/20/da-adzic-a-varela-gli-occhi-di-juventus-e-bologna-al-brianteo-cm/",
-   "summary": "L'articolo Da Adzic a Varela: gli occhi di Juventus e Bologna al ‘Brianteo’ | CM proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-20T05:22:38+00:00",
-   "image": "",
-   "id": "daa3d15ec3bf"
-  },
-  {
-   "title": "Tedesco può tornare subito in panchina dopo l’addio al Bologna, la destinazione",
-   "link": "https://www.calciomercato.it/2026/09/19/tedesco-puo-tornare-subito-in-panchina-dopo-laddio-al-bologna-la-destinazione/",
-   "summary": "L'articolo Tedesco può tornare subito in panchina dopo l’addio al Bologna, la destinazione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-19T21:15:31+00:00",
-   "image": "",
-   "id": "6d99af9c383a"
-  },
-  {
-   "title": "Pagelle Roma-Inter 2-2, i voti della sfida: doppiette per Koné e Lautaro",
-   "link": "https://www.calciomercato.it/2026/09/19/pagelle-roma-inter-2-2-i-voti-della-sfida-doppiette-per-kone-e-lautaro/",
-   "summary": "L'articolo Pagelle Roma-Inter 2-2, i voti della sfida: doppiette per Koné e Lautaro proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-19T18:02:11+00:00",
-   "image": "",
-   "id": "f7bf860db534"
-  },
-  {
-   "title": "Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop",
-   "link": "https://www.calciomercato.it/2026/09/19/emergenza-infinita-per-la-juventus-lesione-al-ginocchio-e-6-mesi-di-stop/",
-   "summary": "L'articolo Emergenza infinita per la Juventus: lesione al ginocchio e 6 mesi di stop proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-19T17:25:46+00:00",
-   "image": "",
-   "id": "b0adf586c3aa"
-  },
-  {
-   "title": "Milan, nuova svolta Pulisic: cosa cambia",
-   "link": "https://www.calciomercato.it/2026/09/19/milan-nuova-svolta-pulisic-cosa-cambia/",
-   "summary": "L'articolo Milan, nuova svolta Pulisic: cosa cambia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-19T16:03:44+00:00",
-   "image": "",
-   "id": "c903a281cb13"
-  },
-  {
-   "title": "Esonero De Zerbi, Tottenham di nuovo ko: panchina rovente",
-   "link": "https://www.calciomercato.it/2026/09/19/esonero-de-zerbi-tottenham-di-nuovo-ko-panchina-rovente/",
-   "summary": "L'articolo Esonero De Zerbi, Tottenham di nuovo ko: panchina rovente proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-09-19T14:16:41+00:00",
-   "image": "",
-   "id": "76670e41f16e"
+   "score": 3.898
   },
   {
    "title": "Il vice di Maignan nella Francia diventa il portiere del Como per l'infortunio di Risser",
@@ -1344,9 +1338,9 @@
    "published": "2026-09-21T21:24:40+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ba/baed780f8a078379fffe829e1af33db4-65141-oooz0000.jpeg",
    "id": "275cdcab8827",
-   "age_minutes": 100,
+   "age_minutes": 260,
    "also": [],
-   "score": 5.461
+   "score": 4.748
   },
   {
    "title": "L'Italia U20 femminile vola: mercoledì la semifinale mondiale con la Spagna",
@@ -1446,9 +1440,9 @@
    "published": "2026-09-21T19:36:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c9/c930e9aeb374b4519142f31c7c618b86-69130-oooz0000.jpeg",
    "id": "a8cf8538fb1b",
-   "age_minutes": 208,
+   "age_minutes": 368,
    "also": [],
-   "score": 4.959
+   "score": 4.349
   },
   {
    "title": "Pellegatti: \"Finalmente mi sono divertito. Forse molti non ci credevano, ma il Milan ha fatto punti importanti\"",
@@ -1515,14 +1509,9 @@
    "published": "2026-09-21T21:35:22+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ed/ed09877d60c25fcda36554c49fcb6f0d-54482-oooz0000.jpeg",
    "id": "20f844930b2d",
-   "age_minutes": 89,
-   "also": [
-    {
-     "source": "TuttoNapoli",
-     "link": "https://www.tuttonapoli.net/calciomercato-napoli/giuffredi-svela-volevo-portare-seba-esposito-napoli-estate-656952"
-    }
-   ],
-   "score": 6.114
+   "age_minutes": 249,
+   "also": [],
+   "score": 4.791
   },
   {
    "title": "Inter, ottobre infuocato: 7 impegni in venti giorni tra Serie A e Champions",
@@ -1534,9 +1523,9 @@
    "published": "2026-09-21T21:21:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/30/300dea2f241845dab8b774e4f3395192-83745-oooz0000.jpeg",
    "id": "d52dfe5650a3",
-   "age_minutes": 103,
+   "age_minutes": 263,
    "also": [],
-   "score": 5.042
+   "score": 4.333
   },
   {
    "title": "Quote capocannoniere, Lautaro ora insidia Malen: l'argentino si gioca a 3",
@@ -1658,9 +1647,9 @@
    "published": "2026-09-21T18:45:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/01/019d1fc0d0ee77aa054b729fa1ffcc17-36094-317o68o1428o1179z0bb0.jpeg",
    "id": "d6d084257e4f",
-   "age_minutes": 259,
+   "age_minutes": 419,
    "also": [],
-   "score": 4.948
+   "score": 4.382
   },
   {
    "title": "UFFICIALE - Inter Women, Verrini rinnova e va in prestito al Cesena",
@@ -1672,9 +1661,9 @@
    "published": "2026-09-21T18:31:56+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f3/f32014dfda8f654bcd65653baa1469f9-38052-oooz0000.jpeg",
    "id": "4dbdd0879612",
-   "age_minutes": 273,
+   "age_minutes": 432,
    "also": [],
-   "score": 8.297
+   "score": 7.741
   },
   {
    "title": "Nations League, la Croazia di Sucic visibile due volte sul 20 in chiaro",
