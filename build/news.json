@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-03T00:51:32.830580+02:00",
+ "generated_at": "2026-10-03T03:48:18.816975+02:00",
  "articles": [
+  {
+   "title": "Calciomercato Napoli, Ceccarini: “C’è un nome da tenere d’occhio a parametro zero”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/calciomercato-napoli-ceccarini-c-e-tenere-d-occhio-parametro-zero-657883",
+   "summary": "Sono già tanti i nomi di mercato accostati al Napoli ed è caldo il tema rinnovi.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T23:00:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/41/4144f786308324a7e1098b8bce87f894-96805-oooz0000.jpeg",
+   "id": "fbcee2cbd00f",
+   "age_minutes": 167,
+   "also": [],
+   "score": 8.341
+  },
   {
    "title": "Darmian al Bologna, ci siamo: accordo per un anno più opzione sul secondo",
    "link": "https://www.calciomercato.it/2026/10/02/darmian-al-bologna-ci-siamo-accordo-per-un-anno-piu-opzione-sul-secondo/",
@@ -11,23 +25,9 @@
    "published": "2026-10-02T05:22:39+00:00",
    "image": "",
    "id": "c1f9325e25f8",
-   "age_minutes": 1048,
+   "age_minutes": 1225,
    "also": [],
-   "score": 7.28
-  },
-  {
-   "title": "Francia-Italia 1-1, Bastoni risponde a Olise",
-   "link": "https://www.calciomercato.it/2026/10/02/francia-italia-1-1-bastoni-risponde-a-olise/",
-   "summary": "L'articolo Francia-Italia 1-1, Bastoni risponde a Olise proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-02T20:42:36+00:00",
-   "image": "",
-   "id": "e41e31ec0e0e",
-   "age_minutes": 128,
-   "also": [],
-   "score": 6.72
+   "score": 7.081
   },
   {
    "title": "Mauro Icardi sempre più vicino, possibile colpo a zero",
@@ -39,9 +39,23 @@
    "published": "2026-10-02T09:44:46+00:00",
    "image": "",
    "id": "e2f735da3913",
-   "age_minutes": 786,
+   "age_minutes": 963,
    "also": [],
-   "score": 6.684
+   "score": 6.395
+  },
+  {
+   "title": "Francia-Italia 1-1, Bastoni risponde a Olise",
+   "link": "https://www.calciomercato.it/2026/10/02/francia-italia-1-1-bastoni-risponde-a-olise/",
+   "summary": "L'articolo Francia-Italia 1-1, Bastoni risponde a Olise proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-02T20:42:36+00:00",
+   "image": "",
+   "id": "e41e31ec0e0e",
+   "age_minutes": 305,
+   "also": [],
+   "score": 5.972
   },
   {
    "title": "VIDEO - Polonia a valanga sulla Romania, anche Zielinski mette la firma",
@@ -53,23 +67,9 @@
    "published": "2026-10-02T20:29:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8b6fa562c1e9a2e458da02fbf707c73d-40776-577o625o1371o1419z0f98.jpeg",
    "id": "87ad4072bb4c",
-   "age_minutes": 142,
+   "age_minutes": 319,
    "also": [],
-   "score": 6.457
-  },
-  {
-   "title": "Le Figaro severo con Kalulu: lo juventino da 5 contro gli Azzurri",
-   "link": "https://www.tuttojuve.com/altre-notizie/figaro-severo-kalulu-juventino-5-azzurri-795319",
-   "summary": "Finisce 1-1 allo Stade de France la sfida di Nations League tra Francia e Italia. Gli Azzurri di Roberto Mancini riescono a recuperare lo svantaggio firmato da Olise su calcio di punizione grazie alla rete di Bastoni.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-02T21:40:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4e4a7c897cdb751f4a13deb9eb1071a4-89952-oooz0000.jpeg",
-   "id": "875659f28bf4",
-   "age_minutes": 71,
-   "also": [],
-   "score": 6.408
+   "score": 5.723
   },
   {
    "title": "Un bomber da 70 milioni per Chivu: l’Inter sfida la big inglese",
@@ -81,9 +81,23 @@
    "published": "2026-10-02T19:12:59+00:00",
    "image": "",
    "id": "cefcc73fb729",
-   "age_minutes": 218,
+   "age_minutes": 395,
    "also": [],
-   "score": 6.317
+   "score": 5.66
+  },
+  {
+   "title": "Le Figaro severo con Kalulu: lo juventino da 5 contro gli Azzurri",
+   "link": "https://www.tuttojuve.com/altre-notizie/figaro-severo-kalulu-juventino-5-azzurri-795319",
+   "summary": "Finisce 1-1 allo Stade de France la sfida di Nations League tra Francia e Italia. Gli Azzurri di Roberto Mancini riescono a recuperare lo svantaggio firmato da Olise su calcio di punizione grazie alla rete di Bastoni.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-02T21:40:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4e4a7c897cdb751f4a13deb9eb1071a4-89952-oooz0000.jpeg",
+   "id": "875659f28bf4",
+   "age_minutes": 248,
+   "also": [],
+   "score": 5.595
   },
   {
    "title": "Guidi: \"D’accordo con il Milan e con gli Usa, Pulisic ha deciso di rinunciare alla chiamata della sua nazionale per lavorare a Milanello\"",
@@ -95,9 +109,9 @@
    "published": "2026-10-02T19:36:18+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e9/e9e46aba3d59ba3688a32b59b1d58bda-93217-oooz0000.jpeg",
    "id": "63dd5f26ed1b",
-   "age_minutes": 195,
+   "age_minutes": 372,
    "also": [],
-   "score": 6.217
+   "score": 5.538
   },
   {
    "title": "Bianchin: \"Un anno e mezzo fa, Pavlovic ha avuto una seria proposta turca. Ma ora si discute del rinnovo\"",
@@ -109,9 +123,9 @@
    "published": "2026-10-02T19:24:07+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/3854b4caaae4542489f4bde2675819fc-42022-oooz0000.jpeg",
    "id": "d4d143c22377",
-   "age_minutes": 207,
+   "age_minutes": 384,
    "also": [],
-   "score": 6.165
+   "score": 5.497
   },
   {
    "title": "Dal Napoli alla Juventus: c’è di mezzo anche il Milan",
@@ -123,37 +137,23 @@
    "published": "2026-10-02T18:00:24+00:00",
    "image": "",
    "id": "8641b8336074",
-   "age_minutes": 291,
+   "age_minutes": 467,
    "also": [],
-   "score": 6.027
+   "score": 5.435
   },
   {
-   "title": "Maldini in Nazionale? Bierhoff: \"Ho fatto il tifo per lui, ho visto quanta grinta era pronto a mettere per il calcio italiano\"",
-   "link": "https://www.milannews.it/news/maldini-nazionale-bierhoff-ho-tifo-lui-grinta-pronto-mettere-calcio-italiano-631557",
-   "summary": "A Trento è iniziato il Festival dello Sport. Nel corso del panel \"Una vita da centravanti\" - tenutosi presso il Teatro Sociale di Trento - ha parlato ai microfoni di TuttomercatoWeb.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-02T22:36:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/33/339b308d68a1b95685971da75323b6a3-22665-oooz0000.jpeg",
-   "id": "f022f2cbe00e",
-   "age_minutes": 14,
-   "also": [],
-   "score": 5.916
-  },
-  {
-   "title": "Turchia travolta dal Belgio: 3-0 e zero punti. Güler salta l'Italia. Celik in campo 90 minuti: valutazione e statistiche dello juventino",
-   "link": "https://www.tuttojuve.com/altre-notizie/turchia-travolta-belgio-3-0-zero-punti-guler-salta-italia-celik-campo-90-minuti-valutazione-statisti-795317",
-   "summary": "Continua il momento difficile della Turchia di Vincenzo Montella, battuta 3-0 dal Belgio nella terza giornata del Gruppo 1 della Lega A di Nations League.",
+   "title": "L'Inter non avrebbe dimenticato Tarik Muharemovic.",
+   "link": "https://www.tuttojuve.com/calciomercato/inter-dimenticato-tarik-muharemovic-795276",
+   "summary": "Il difensore bosniaco, cresciuto nel settore bianconero e passato in estate dal Sassuolo al Leeds United, continuerebbe a essere seguito dalla società nerazzurra in vista delle prossime sessioni di mercato, l'Inter…",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-10-02T21:20:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cd/cdf22ea1c99923aef7b735738df14182-86777-614o48o1433o867z0b92.jpeg",
-   "id": "b1dd51f99a43",
-   "age_minutes": 90,
+   "published": "2026-10-02T23:15:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4c76e73a14977fcc0c8ff5d785342e2-85894-oooz0000.jpeg",
+   "id": "9d7c3cb4273a",
+   "age_minutes": 152,
    "also": [],
-   "score": 5.709
+   "score": 5.209
   },
   {
    "title": "Dybala, clamorosa decisione: coinvolte Juventus e Napoli",
@@ -165,37 +165,9 @@
    "published": "2026-10-02T16:22:25+00:00",
    "image": "",
    "id": "e6683a1e8231",
-   "age_minutes": 389,
+   "age_minutes": 565,
    "also": [],
-   "score": 5.68
-  },
-  {
-   "title": "Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere",
-   "link": "https://www.calciomercato.it/2026/10/02/flop-juve-ko-contro-la-cremonese-kolo-muani-e-cambiaso-fanno-discutere/",
-   "summary": "L'articolo Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-02T15:26:56+00:00",
-   "image": "",
-   "id": "14d8e37f9741",
-   "age_minutes": 444,
-   "also": [],
-   "score": 5.505
-  },
-  {
-   "title": "Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida",
-   "link": "https://www.calciomercato.it/2026/10/02/como-roma-problema-al-ginocchio-destro-rischia-di-saltare-la-super-sfida/",
-   "summary": "L'articolo Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-02T15:00:58+00:00",
-   "image": "",
-   "id": "7968c7162953",
-   "age_minutes": 470,
-   "also": [],
-   "score": 5.427
+   "score": 5.167
   },
   {
    "title": "Federico Chiesa verso la Serie A, tripla opzione per l’esterno offensivo",
@@ -207,23 +179,79 @@
    "published": "2026-10-02T06:44:33+00:00",
    "image": "",
    "id": "5de0ea5fda62",
-   "age_minutes": 966,
+   "age_minutes": 1143,
    "also": [],
-   "score": 5.39
+   "score": 5.167
   },
   {
-   "title": "Brambati: \"Inter, punterei su Pio. Facendo cassa con Lautaro o Thuram\"",
-   "link": "https://www.fcinternews.it/news/brambati-inter-punterei-pio-cassa-lautaro-thuram-1019821",
-   "summary": "Intervenendo a 'Maracanà', programma di TMW Radio, Massimo Brambati, ex calciatore e oggi procuratore, ha affrontato vari temi tra cui quello nerazzurro, partendo da due giocatori che stanno facendo molto bene dopo…",
-   "source": "FcInterNews",
+   "title": "La pista Pierre-Emile Højbjerg non sarebbe affatto tramontata per la Juventus.",
+   "link": "https://www.tuttojuve.com/calciomercato/pista-pierre-emile-hojbjerg-non-affatto-tramontata-juventus-795281",
+   "summary": "Arrivano nuove indicazioni che potrebbero rendere il centrocampista danese una delle opportunità più interessanti del prossimo mercato invernale, il Marsiglia sarebbe disposto a valutare la partenza del giocatore già a…",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-02T20:23:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/038ce34aafc08711225840dd5cabc6eb-57814-oooz0000.jpeg",
-   "id": "b9945f8fd9e6",
-   "age_minutes": 148,
+   "scope": "Juventus",
+   "published": "2026-10-02T23:00:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0f5e2cf1bb474c85bbebe96ccd9aab85-44254-oooz0000.jpeg",
+   "id": "6812548e35e1",
+   "age_minutes": 167,
    "also": [],
-   "score": 4.829
+   "score": 5.141
+  },
+  {
+   "title": "Maldini in Nazionale? Bierhoff: \"Ho fatto il tifo per lui, ho visto quanta grinta era pronto a mettere per il calcio italiano\"",
+   "link": "https://www.milannews.it/news/maldini-nazionale-bierhoff-ho-tifo-lui-grinta-pronto-mettere-calcio-italiano-631557",
+   "summary": "A Trento è iniziato il Festival dello Sport. Nel corso del panel \"Una vita da centravanti\" - tenutosi presso il Teatro Sociale di Trento - ha parlato ai microfoni di TuttomercatoWeb.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-02T22:36:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/33/339b308d68a1b95685971da75323b6a3-22665-oooz0000.jpeg",
+   "id": "f022f2cbe00e",
+   "age_minutes": 191,
+   "also": [],
+   "score": 5.034
+  },
+  {
+   "title": "Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere",
+   "link": "https://www.calciomercato.it/2026/10/02/flop-juve-ko-contro-la-cremonese-kolo-muani-e-cambiaso-fanno-discutere/",
+   "summary": "L'articolo Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-02T15:26:56+00:00",
+   "image": "",
+   "id": "14d8e37f9741",
+   "age_minutes": 621,
+   "also": [],
+   "score": 5.031
+  },
+  {
+   "title": "Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida",
+   "link": "https://www.calciomercato.it/2026/10/02/como-roma-problema-al-ginocchio-destro-rischia-di-saltare-la-super-sfida/",
+   "summary": "L'articolo Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-02T15:00:58+00:00",
+   "image": "",
+   "id": "7968c7162953",
+   "age_minutes": 647,
+   "also": [],
+   "score": 4.971
+  },
+  {
+   "title": "Turchia travolta dal Belgio: 3-0 e zero punti. Güler salta l'Italia. Celik in campo 90 minuti: valutazione e statistiche dello juventino",
+   "link": "https://www.tuttojuve.com/altre-notizie/turchia-travolta-belgio-3-0-zero-punti-guler-salta-italia-celik-campo-90-minuti-valutazione-statisti-795317",
+   "summary": "Continua il momento difficile della Turchia di Vincenzo Montella, battuta 3-0 dal Belgio nella terza giornata del Gruppo 1 della Lega A di Nations League.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-02T21:20:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cd/cdf22ea1c99923aef7b735738df14182-86777-614o48o1433o867z0b92.jpeg",
+   "id": "b1dd51f99a43",
+   "age_minutes": 267,
+   "also": [],
+   "score": 4.919
   },
   {
    "title": "Juve, David e Openda via a titolo definitivo la prossima estate: le cifre",
@@ -235,9 +263,9 @@
    "published": "2026-10-02T10:05:33+00:00",
    "image": "",
    "id": "fe3f10c24206",
-   "age_minutes": 765,
+   "age_minutes": 942,
    "also": [],
-   "score": 4.723
+   "score": 4.425
   },
   {
    "title": "Juventus, Spalletti ha deciso: fuori Neto",
@@ -249,9 +277,9 @@
    "published": "2026-10-02T08:56:29+00:00",
    "image": "",
    "id": "97660f8374ee",
-   "age_minutes": 835,
+   "age_minutes": 1011,
    "also": [],
-   "score": 4.598
+   "score": 4.328
   },
   {
    "title": "La Juventus ci proverà per Kayode, il terzino è un obiettivo per il 2027",
@@ -263,9 +291,9 @@
    "published": "2026-10-02T08:15:32+00:00",
    "image": "",
    "id": "c0f1684e40b7",
-   "age_minutes": 876,
+   "age_minutes": 1052,
    "also": [],
-   "score": 4.529
+   "score": 4.275
   },
   {
    "title": "Curtis Jones conquista i tifosi dell’Inter: ecco l’obiettivo dell’inglese | VIDEO CM",
@@ -277,9 +305,23 @@
    "published": "2026-10-02T07:16:17+00:00",
    "image": "",
    "id": "73c0ac68a7a1",
-   "age_minutes": 935,
+   "age_minutes": 1112,
    "also": [],
-   "score": 4.436
+   "score": 4.203
+  },
+  {
+   "title": "Brambati: \"Inter, punterei su Pio. Facendo cassa con Lautaro o Thuram\"",
+   "link": "https://www.fcinternews.it/news/brambati-inter-punterei-pio-cassa-lautaro-thuram-1019821",
+   "summary": "Intervenendo a 'Maracanà', programma di TMW Radio, Massimo Brambati, ex calciatore e oggi procuratore, ha affrontato vari temi tra cui quello nerazzurro, partendo da due giocatori che stanno facendo molto bene dopo…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-02T20:23:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/038ce34aafc08711225840dd5cabc6eb-57814-oooz0000.jpeg",
+   "id": "b9945f8fd9e6",
+   "age_minutes": 325,
+   "also": [],
+   "score": 4.101
   },
   {
    "title": "A gennaio uno tra Tavares e Taylor potrebbe salutare la Lazio: la Juve sull’olandese | CM",
@@ -291,9 +333,9 @@
    "published": "2026-10-01T21:01:49+00:00",
    "image": "",
    "id": "81feca1c5451",
-   "age_minutes": 1549,
+   "age_minutes": 1726,
    "also": [],
-   "score": 3.827
+   "score": 3.731
   },
   {
    "title": "Lazio, occhio ancora tra gli svincolati: spunta l’ex Napoli",
@@ -305,9 +347,9 @@
    "published": "2026-10-01T19:29:51+00:00",
    "image": "",
    "id": "4646e5a45dbc",
-   "age_minutes": 1641,
+   "age_minutes": 1818,
    "also": [],
-   "score": 3.774
+   "score": 3.689
   },
   {
    "title": "Juve, tutto su Hojbjerg per il centrocampo: i dettagli",
@@ -319,9 +361,9 @@
    "published": "2026-10-01T18:08:56+00:00",
    "image": "",
    "id": "97cd85504a2b",
-   "age_minutes": 1722,
+   "age_minutes": 1899,
    "also": [],
-   "score": 3.732
+   "score": 3.658
   },
   {
    "title": "Napoli, slitta la data del rientro di McTominay: quando torna in campo",
@@ -333,9 +375,9 @@
    "published": "2026-10-01T16:35:43+00:00",
    "image": "",
    "id": "633c5776b5be",
-   "age_minutes": 1815,
+   "age_minutes": 1992,
    "also": [],
-   "score": 3.691
+   "score": 3.625
   },
   {
    "title": "Juve, tre grandi nomi per l’attacco: Carnevali sogna in grande",
@@ -347,40 +389,51 @@
    "published": "2026-10-01T15:00:38+00:00",
    "image": "",
    "id": "dcea56216ae3",
-   "age_minutes": 1910,
+   "age_minutes": 2087,
    "also": [],
-   "score": 3.653
-  },
-  {
-   "title": "Francia-Italia, Mancini cambia ancora: le novità",
-   "link": "https://www.calciomercato.it/2026/10/01/francia-italia-mancini-cambia-ancora-le-novita/",
-   "summary": "L'articolo Francia-Italia, Mancini cambia ancora: le novità proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-01T13:03:07+00:00",
-   "image": "",
-   "id": "94db1d8015b3",
-   "age_minutes": 2028,
-   "also": [],
-   "score": 3.614
-  },
-  {
-   "title": "Mancini ribalta l’Italia: non convocati 9 giocatori contro la Francia",
-   "link": "https://www.calciomercato.it/2026/10/01/mancini-cambia-ancora-non-convocati-9-giocatori-contro-la-francia/",
-   "summary": "L'articolo Mancini ribalta l’Italia: non convocati 9 giocatori contro la Francia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-01T11:36:51+00:00",
-   "image": "",
-   "id": "f36b0dcb417f",
-   "age_minutes": 2114,
-   "also": [],
-   "score": 3.589
+   "score": 3.596
   }
  ],
  "raw": [
+  {
+   "title": "Sesko nell'agenda bianconera per l'estate",
+   "link": "https://www.tuttojuve.com/calciomercato/sesko-agenda-bianconera-estate-795269",
+   "summary": "La Juventus guarda già al futuro dell'attacco e uno dei nomi più importanti finiti sul taccuino della dirigenza sarebbe quello di Benjamin Sesko, centravanti sloveno del Manchester United, sulla base delle informazioni pro ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-02T23:30:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/104422acb0685e30e8cc3bbeb56619c1-69122-oooz0000.jpeg",
+   "id": "30b7d7558e9e"
+  },
+  {
+   "title": "L'Inter non avrebbe dimenticato Tarik Muharemovic.",
+   "link": "https://www.tuttojuve.com/calciomercato/inter-dimenticato-tarik-muharemovic-795276",
+   "summary": "Il difensore bosniaco, cresciuto nel settore bianconero e passato in estate dal Sassuolo al Leeds United, continuerebbe a essere seguito dalla società nerazzurra in vista delle prossime sessioni di mercato, l'Inter…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-02T23:15:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a4/a4c76e73a14977fcc0c8ff5d785342e2-85894-oooz0000.jpeg",
+   "id": "9d7c3cb4273a",
+   "age_minutes": 152,
+   "also": [],
+   "score": 5.209
+  },
+  {
+   "title": "La pista Pierre-Emile Højbjerg non sarebbe affatto tramontata per la Juventus.",
+   "link": "https://www.tuttojuve.com/calciomercato/pista-pierre-emile-hojbjerg-non-affatto-tramontata-juventus-795281",
+   "summary": "Arrivano nuove indicazioni che potrebbero rendere il centrocampista danese una delle opportunità più interessanti del prossimo mercato invernale, il Marsiglia sarebbe disposto a valutare la partenza del giocatore già a…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-02T23:00:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0f5e2cf1bb474c85bbebe96ccd9aab85-44254-oooz0000.jpeg",
+   "id": "6812548e35e1",
+   "age_minutes": 167,
+   "also": [],
+   "score": 5.141
+  },
   {
    "title": "Zhegrova continua nel suo buon momento",
    "link": "https://www.tuttojuve.com/altre-notizie/zhegrova-continua-buon-795278",
@@ -468,9 +521,9 @@
    "published": "2026-10-02T21:40:03+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4e4a7c897cdb751f4a13deb9eb1071a4-89952-oooz0000.jpeg",
    "id": "875659f28bf4",
-   "age_minutes": 71,
+   "age_minutes": 248,
    "also": [],
-   "score": 6.408
+   "score": 5.595
   },
   {
    "title": "Borsa: Juventus negativa, in verde Stellantis e Ferrari",
@@ -493,9 +546,9 @@
    "published": "2026-10-02T21:20:52+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cd/cdf22ea1c99923aef7b735738df14182-86777-614o48o1433o867z0b92.jpeg",
    "id": "b1dd51f99a43",
-   "age_minutes": 90,
+   "age_minutes": 267,
    "also": [],
-   "score": 5.709
+   "score": 4.919
   },
   {
    "title": "Alajbegovic salva la Bosnia: gran gol contro la Svezia!",
@@ -575,39 +628,6 @@
    "id": "6beb201c01d7"
   },
   {
-   "title": "Muharemovic, sulle tracce dell'ex Juve c'è ancora l'Inter",
-   "link": "https://www.tuttojuve.com/altre-notizie/muharemovic-tracce-juve-inter-795290",
-   "summary": "L'Inter sta continuando a monitorare Tarik Muharemovic.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-02T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/61986223089f0d06368d2551383c00d6-42661-oooz0000.jpeg",
-   "id": "46ed42cdbb7f"
-  },
-  {
-   "title": "Capello: \"Non sappiamo più difendere. E si osa poco con i giovani\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/capello-non-sappiamo-difendere-osa-giovani-795294",
-   "summary": "Dal Festival dello Sport di Trento ha parlato di Nazionale mister Fabio Capello. Che ha confessato: \"Non sappiamo più difendere.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-02T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/11/11cc945eebdf970a50f8a96867120df8-46382-oooz0000.jpeg",
-   "id": "857545b1a89a"
-  },
-  {
-   "title": "Massimo Orlando: \"Fagioli? La scorsa estate lo voleva mezza Inghilterra\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/massimo-orlando-fagioli-scorsa-estate-voleva-mezza-inghilterra-795299",
-   "summary": "L'ex calciatore Massimo Orlando, intervenuto ai microfoni di TMW Radio, si è espresso anche sul momento di Nicolò Fagioli, visto in ripresa non solo con la Fiorentina ma anche con la Nazionale nell'ultima partita con la Turchia: ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-02T19:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a2/a27988677deede68650f14cbb8dcb69f-33926-oooz0000.jpeg",
-   "id": "5e5bffdf1778"
-  },
-  {
    "title": "Francia-Italia 1-1, Bastoni risponde a Olise",
    "link": "https://www.calciomercato.it/2026/10/02/francia-italia-1-1-bastoni-risponde-a-olise/",
    "summary": "L'articolo Francia-Italia 1-1, Bastoni risponde a Olise proviene da CalcioMercato.it .",
@@ -617,9 +637,9 @@
    "published": "2026-10-02T20:42:36+00:00",
    "image": "",
    "id": "e41e31ec0e0e",
-   "age_minutes": 128,
+   "age_minutes": 305,
    "also": [],
-   "score": 6.72
+   "score": 5.972
   },
   {
    "title": "Un bomber da 70 milioni per Chivu: l’Inter sfida la big inglese",
@@ -631,9 +651,9 @@
    "published": "2026-10-02T19:12:59+00:00",
    "image": "",
    "id": "cefcc73fb729",
-   "age_minutes": 218,
+   "age_minutes": 395,
    "also": [],
-   "score": 6.317
+   "score": 5.66
   },
   {
    "title": "Dal Napoli alla Juventus: c’è di mezzo anche il Milan",
@@ -645,9 +665,9 @@
    "published": "2026-10-02T18:00:24+00:00",
    "image": "",
    "id": "8641b8336074",
-   "age_minutes": 291,
+   "age_minutes": 467,
    "also": [],
-   "score": 6.027
+   "score": 5.435
   },
   {
    "title": "Dybala, clamorosa decisione: coinvolte Juventus e Napoli",
@@ -659,9 +679,9 @@
    "published": "2026-10-02T16:22:25+00:00",
    "image": "",
    "id": "e6683a1e8231",
-   "age_minutes": 389,
+   "age_minutes": 565,
    "also": [],
-   "score": 5.68
+   "score": 5.167
   },
   {
    "title": "Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere",
@@ -673,9 +693,9 @@
    "published": "2026-10-02T15:26:56+00:00",
    "image": "",
    "id": "14d8e37f9741",
-   "age_minutes": 444,
+   "age_minutes": 621,
    "also": [],
-   "score": 5.505
+   "score": 5.031
   },
   {
    "title": "Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida",
@@ -687,9 +707,9 @@
    "published": "2026-10-02T15:00:58+00:00",
    "image": "",
    "id": "7968c7162953",
-   "age_minutes": 470,
+   "age_minutes": 647,
    "also": [],
-   "score": 5.427
+   "score": 4.971
   },
   {
    "title": "Juve, David e Openda via a titolo definitivo la prossima estate: le cifre",
@@ -701,9 +721,9 @@
    "published": "2026-10-02T10:05:33+00:00",
    "image": "",
    "id": "fe3f10c24206",
-   "age_minutes": 765,
+   "age_minutes": 942,
    "also": [],
-   "score": 4.723
+   "score": 4.425
   },
   {
    "title": "Mauro Icardi sempre più vicino, possibile colpo a zero",
@@ -715,9 +735,9 @@
    "published": "2026-10-02T09:44:46+00:00",
    "image": "",
    "id": "e2f735da3913",
-   "age_minutes": 786,
+   "age_minutes": 963,
    "also": [],
-   "score": 6.684
+   "score": 6.395
   },
   {
    "title": "Juventus, Spalletti ha deciso: fuori Neto",
@@ -729,9 +749,9 @@
    "published": "2026-10-02T08:56:29+00:00",
    "image": "",
    "id": "97660f8374ee",
-   "age_minutes": 835,
+   "age_minutes": 1011,
    "also": [],
-   "score": 4.598
+   "score": 4.328
   },
   {
    "title": "La Juventus ci proverà per Kayode, il terzino è un obiettivo per il 2027",
@@ -743,9 +763,9 @@
    "published": "2026-10-02T08:15:32+00:00",
    "image": "",
    "id": "c0f1684e40b7",
-   "age_minutes": 876,
+   "age_minutes": 1052,
    "also": [],
-   "score": 4.529
+   "score": 4.275
   },
   {
    "title": "Curtis Jones conquista i tifosi dell’Inter: ecco l’obiettivo dell’inglese | VIDEO CM",
@@ -757,9 +777,9 @@
    "published": "2026-10-02T07:16:17+00:00",
    "image": "",
    "id": "73c0ac68a7a1",
-   "age_minutes": 935,
+   "age_minutes": 1112,
    "also": [],
-   "score": 4.436
+   "score": 4.203
   },
   {
    "title": "Federico Chiesa verso la Serie A, tripla opzione per l’esterno offensivo",
@@ -771,9 +791,9 @@
    "published": "2026-10-02T06:44:33+00:00",
    "image": "",
    "id": "5de0ea5fda62",
-   "age_minutes": 966,
+   "age_minutes": 1143,
    "also": [],
-   "score": 5.39
+   "score": 5.167
   },
   {
    "title": "Darmian al Bologna, ci siamo: accordo per un anno più opzione sul secondo",
@@ -785,9 +805,9 @@
    "published": "2026-10-02T05:22:39+00:00",
    "image": "",
    "id": "c1f9325e25f8",
-   "age_minutes": 1048,
+   "age_minutes": 1225,
    "also": [],
-   "score": 7.28
+   "score": 7.081
   },
   {
    "title": "A gennaio uno tra Tavares e Taylor potrebbe salutare la Lazio: la Juve sull’olandese | CM",
@@ -799,9 +819,9 @@
    "published": "2026-10-01T21:01:49+00:00",
    "image": "",
    "id": "81feca1c5451",
-   "age_minutes": 1549,
+   "age_minutes": 1726,
    "also": [],
-   "score": 3.827
+   "score": 3.731
   },
   {
    "title": "Lazio, occhio ancora tra gli svincolati: spunta l’ex Napoli",
@@ -813,9 +833,9 @@
    "published": "2026-10-01T19:29:51+00:00",
    "image": "",
    "id": "4646e5a45dbc",
-   "age_minutes": 1641,
+   "age_minutes": 1818,
    "also": [],
-   "score": 3.774
+   "score": 3.689
   },
   {
    "title": "Juve, tutto su Hojbjerg per il centrocampo: i dettagli",
@@ -827,9 +847,9 @@
    "published": "2026-10-01T18:08:56+00:00",
    "image": "",
    "id": "97cd85504a2b",
-   "age_minutes": 1722,
+   "age_minutes": 1899,
    "also": [],
-   "score": 3.732
+   "score": 3.658
   },
   {
    "title": "Napoli, slitta la data del rientro di McTominay: quando torna in campo",
@@ -841,9 +861,9 @@
    "published": "2026-10-01T16:35:43+00:00",
    "image": "",
    "id": "633c5776b5be",
-   "age_minutes": 1815,
+   "age_minutes": 1992,
    "also": [],
-   "score": 3.691
+   "score": 3.625
   },
   {
    "title": "Juve, tre grandi nomi per l’attacco: Carnevali sogna in grande",
@@ -855,9 +875,9 @@
    "published": "2026-10-01T15:00:38+00:00",
    "image": "",
    "id": "dcea56216ae3",
-   "age_minutes": 1910,
+   "age_minutes": 2087,
    "also": [],
-   "score": 3.653
+   "score": 3.596
   },
   {
    "title": "Francia-Italia, Mancini cambia ancora: le novità",
@@ -1018,9 +1038,9 @@
    "published": "2026-10-02T22:36:55+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/33/339b308d68a1b95685971da75323b6a3-22665-oooz0000.jpeg",
    "id": "f022f2cbe00e",
-   "age_minutes": 14,
+   "age_minutes": 191,
    "also": [],
-   "score": 5.916
+   "score": 5.034
   },
   {
    "title": "MN - Ambrosini: “Pulisic estremamente funzionale, può risolvere tanti problemi ad Amorim”",
@@ -1186,9 +1206,9 @@
    "published": "2026-10-02T19:36:18+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e9/e9e46aba3d59ba3688a32b59b1d58bda-93217-oooz0000.jpeg",
    "id": "63dd5f26ed1b",
-   "age_minutes": 195,
+   "age_minutes": 372,
    "also": [],
-   "score": 6.217
+   "score": 5.538
   },
   {
    "title": "Bianchin: \"Un anno e mezzo fa, Pavlovic ha avuto una seria proposta turca. Ma ora si discute del rinnovo\"",
@@ -1200,9 +1220,9 @@
    "published": "2026-10-02T19:24:07+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/3854b4caaae4542489f4bde2675819fc-42022-oooz0000.jpeg",
    "id": "d4d143c22377",
-   "age_minutes": 207,
+   "age_minutes": 384,
    "also": [],
-   "score": 6.165
+   "score": 5.497
   },
   {
    "title": "MN - Eysseric sorpreso da Terracciano: \"Non mi aspettavo sarebbe arrivato a giocare nel Milan\"",
@@ -1390,9 +1410,9 @@
    "published": "2026-10-02T20:29:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8b6fa562c1e9a2e458da02fbf707c73d-40776-577o625o1371o1419z0f98.jpeg",
    "id": "87ad4072bb4c",
-   "age_minutes": 142,
+   "age_minutes": 319,
    "also": [],
-   "score": 6.457
+   "score": 5.723
   },
   {
    "title": "Brambati: \"Inter, punterei su Pio. Facendo cassa con Lautaro o Thuram\"",
@@ -1404,9 +1424,9 @@
    "published": "2026-10-02T20:23:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/038ce34aafc08711225840dd5cabc6eb-57814-oooz0000.jpeg",
    "id": "b9945f8fd9e6",
-   "age_minutes": 148,
+   "age_minutes": 325,
    "also": [],
-   "score": 4.829
+   "score": 4.101
   },
   {
    "title": "Roma, il CEO Galantic vuole l'Under 23: \"Ci servono più Pisilli\"",
@@ -1451,226 +1471,6 @@
    "published": "2026-10-02T19:25:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ff/ff2669d018c8e9c4425f5c8fc10abda8-90179-361o84o1481o1204z0c3a.jpeg",
    "id": "0b32c25d9d0f"
-  },
-  {
-   "title": "Radio Tutto Napoli, il palinsesto di oggi: trasmissioni live dalle 10",
-   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-10-647875",
-   "summary": "Radio Tutto Napoli vi accompagna anche nel week-end con tutti gli aggiornamenti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T22:15:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/421094117ac3b8535d0a70a9b8be3e36-45223-258o324o1086o1152z0b04.jpeg",
-   "id": "c58444fd98ee"
-  },
-  {
-   "title": "De Bruyne-show, due gol e una partita totale: valutato 9.8 per il rating di Sofascore!",
-   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-show-gol-partita-totale-valutato-9-8-rating-sofascore-657988",
-   "summary": "Una prestazione praticamente perfetta. Kevin De Bruyne è stato il grande protagonista del successo per 3-0 del Belgio contro la Turchia in Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T22:10:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ec/ecb5ea36c35416028260576baf010436-31342-oooz0000.jpeg",
-   "id": "3deff193cfb9"
-  },
-  {
-   "title": "Francia-Italia 1-1, le pagelle di Tmw: Vergara dà freschezza e imprevedibilità",
-   "link": "https://www.tuttonapoli.net/notizie/francia-italia-1-1-pagelle-tmw-vergara-da-freschezza-imprevedibilita-657989",
-   "summary": "L’Italia esce imbattuta dallo Stade de France, conquistando un prezioso 1-1 contro la Francia che mantiene gli Azzurri in corsa per il passaggio al turno successivo di Nations League e, nella peggiore delle ipotesi, contribuisce ad allontanare ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T22:00:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/55e0f09281e9d8f9a35056e0f3fc6391-32174-oooz0000.jpeg",
-   "id": "87a56f6d7e39"
-  },
-  {
-   "title": "Belgio, De Bruyne: “Questo stile di gioco mi si addice di più, sto meglio dell’anno scorso”",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/belgio-de-bruyne-doppietta-questo-stile-addice-piu-dell-anno-scorso-657991",
-   "summary": "Kevin De Bruyne è stato il grande protagonista del successo per 3-0 del Belgio contro la Turchia in Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T21:48:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c315bab2408ff7266e97ca9e4c959d42-64776-oooz0000.jpeg",
-   "id": "f12831973f81"
-  },
-  {
-   "title": "Adani punge Allegri: “De Bruyne? In un contesto che funziona e diverte, lui segna e fa segnare!”",
-   "link": "https://www.tuttonapoli.net/le-interviste/adani-punge-allegri-de-bruyne-contesto-funziona-diverte-segna-segnare-657986",
-   "summary": "Al termine di Belgio-Turchia, gara di Nations League terminata 3-0 con una doppietta di Kevin De Bruyne, l’opinionista Rai Lele Adani ha commentato la grande prestazione del centrocampista del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T21:40:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8ad742102f37da0b7392c945588c5557-77428-oooz0000.jpeg",
-   "id": "9c9cb06c9bff"
-  },
-  {
-   "title": "De Bruyne, giallo pesante e salterà la gara in Francia: rientro in anticipo?",
-   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-giallo-pesante-saltera-gara-francia-rientro-anticipo-657985",
-   "summary": "Serata da protagonista per Kevin De Bruyne con il Belgio, ma con una nota negativa nel finale. Il centrocampista del Napoli, autore di una doppietta nel netto 3-0 contro la Turchia, è stato ammonito all’80’ per perdita di tempo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T21:30:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/37/37a5ce194c1e80d0364aba8ae6eab287-90872-oooz0000.jpeg",
-   "id": "9cfbca142aa1"
-  },
-  {
-   "title": "Italia, Mancini felice: “Abbiamo provato sempre a giocare anche nelle difficoltà!”",
-   "link": "https://www.tuttonapoli.net/le-interviste/italia-mancini-felice-abbiamo-provato-giocare-difficolta-657984",
-   "summary": "Il ct della Nazionale italiana Roberto Mancini ha parlato ai microfoni della Rai, dopo il match di Nations League pareggiato 1-1 contro la Francia. Bella prestazione.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T21:15:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c8/c8f3363a957a4b51bf85ed64427d8c3b-55276-oooz0000.jpeg",
-   "id": "c32f88065a03"
-  },
-  {
-   "title": "Italia, Vergara all'esordio: “Felicissimo! Vogliamo giocare a viso aperto con tutte. Ecco cosa mi ha detto il mister\"",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/vergara-esordio-l-italia-vogliamo-giocare-viso-aperto-tutte-657983",
-   "summary": "Antonio Vergara, fantasista del Napoli, ha parlato ai microfoni della Rai dopo il suo esordio con la Nazionale italiana nel pareggio contro la Francia in Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T21:05:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a061176883e0a03f50e323c6ab6c41f4-28945-oooz0000.jpeg",
-   "id": "7dfa3c872af1"
-  },
-  {
-   "title": "La Slovacchia pareggia con le Far Oer, Lobotka gioca 90 minuti: slovacchi primi",
-   "link": "https://www.tuttonapoli.net/notizie/slovacchia-pareggia-far-oer-lobotka-gioca-90-minuti-slovacchi-primi-657982",
-   "summary": "Termina in parità l’unica gara di Nations League C della serata. Isole Far Oer e Slovacchia chiudono sull’1-1, un risultato che consente agli ospiti di consolidare il primo posto nel girone con 7 punti, davanti alla Moldavia.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T21:01:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2c23037c88c78d7429964934e8f37252-78943-oooz0000.jpeg",
-   "id": "fb3326c16d65"
-  },
-  {
-   "title": "Tris Belgio alla Turchia! De Bruyne show, segna anche Lukaku: Italia terza nel girone",
-   "link": "https://www.tuttonapoli.net/notizie/tris-belgio-turchia-de-bruyne-show-segna-lukaku-italia-terza-girone-657981",
-   "summary": "Tutto facile per il Belgio, che supera nettamente la Turchia per 3-0 e conquista tre punti pesantissimi nel Gruppo 1 di Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:51:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c6c492eaf5e0b1a89e3a7cfaac27cd99-60591-oooz0000.jpeg",
-   "id": "7fe40162635f"
-  },
-  {
-   "title": "L’Italia di Mancini gioca (finalmente) a calcio! Pari in Francia e segnali positivi per il futuro",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/l-italia-mancini-gioca-finalmente-calcio-pareggio-francia-segnali-positivi-657980",
-   "summary": "Grande prestazione dell’Italia che esce dallo Stade de France con un prezioso 1-1 contro la Francia, riuscendo a mettere in difficoltà una delle Nazionali più attrezzate al mondo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:43:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/65/654fef38e81b18aef0ee1935136288a5-22674-oooz0000.jpeg",
-   "id": "12375f9fa477"
-  },
-  {
-   "title": "Nuovo Stadio Roma, il CEO: \"Tra 4 anni ci permetterà di fare un salto economico importante\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/roma-ceo-tra-4-stadio-permettera-salto-economico-importante-657967",
-   "summary": "Il CEO della Roma John Galantic, intervenuto al Festival dello Sport, ha fatto il punto sui progetti del club giallorosso, partendo dal nuovo stadio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:40:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f3/f37026027fa449133e68fbf885146bf9-14856-oooz0000.jpeg",
-   "id": "baa77f111173"
-  },
-  {
-   "title": "Ex team manager Ajax lancia Beukema: “Mi chiedo perché non sia in Nazionale”",
-   "link": "https://www.tuttonapoli.net/le-interviste/endt-beukema-napoli-nazionale-olanda-657957",
-   "summary": "Sam Beukema ha le qualità per entrare stabilmente nel giro della Nazionale olandese.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:30:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ad067f4c9f63901f880f1fd18f262d8e-89235-oooz0000.jpeg",
-   "id": "397f866ee964"
-  },
-  {
-   "title": "De Bruyne illumina il calcio europeo! Super-gol da fuori area: doppietta alla Turchia",
-   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-illumina-calcio-europeo-super-gol-area-doppietta-turchia-657979",
-   "summary": "Kevin De Bruyne continua a incantare con la maglia del Belgio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:20:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0a/0acbe4c92f2a481d1b8f80ef433a3af5-27867-oooz0000.jpeg",
-   "id": "9e171fb8bcc8"
-  },
-  {
-   "title": "Francia-Italia, debutto in Nazionale per Vergara: entra per un altro napoletano",
-   "link": "https://www.tuttonapoli.net/notizie/francia-italia-debutto-nazionale-vergara-entra-napoletano-657978",
-   "summary": "Serata da ricordare per Antonio Vergara. Il centrocampista del Napoli ha fatto il suo esordio con la Nazionale maggiore nella sfida di Nations League contro la Francia allo Stade de France.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:10:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/55e0f09281e9d8f9a35056e0f3fc6391-32174-oooz0000.jpeg",
-   "id": "1d7a4e36fbe5"
-  },
-  {
-   "title": "Recupero McTominay, l'ex prep. Febbrari: \"Impossibile programmarlo, ecco come va gestito\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/recupero-mctominay-prof-febbrari-impossibile-programmarlo-gestito-giorno-657971",
-   "summary": "Luigi Febbrari, ex preparatore atletico del Napoli, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania partendo dal recupero di McTominay ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T20:00:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6b/6b6e8e37f295f3327e32d328e6d2fdb7-42286-oooz0000.jpeg",
-   "id": "fbb1a246cf62"
-  },
-  {
-   "title": "Lucca, Caputo: “A Napoli ci si aspetta tanto, ha una pressione diversa addosso\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/lucca-caputo-a-napoli-aspetta-tanto-pressione-diversa-addosso-657968",
-   "summary": "Lorenzo Lucca deve fare i conti anche con la pressione che accompagna la sua esperienza in azzurro.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T19:50:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/adbbcecfe46f3db2327ad4c5732ca607-61194-oooz0000.jpeg",
-   "id": "d1bfbf6667cb"
-  },
-  {
-   "title": "De Bruyne fa 200 gol in carriera: tutti i numeri del fenomeno belga",
-   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-200-gol-carriera-numeri-fenomeno-belga-657976",
-   "summary": "Un'altra pagina importante nella straordinaria carriera di Kevin De Bruyne. Il centrocampista del Napoli, grazie alla splendida rete realizzata con il Belgio contro la Turchia, ha raggiunto quota 200 gol in carriera tra club e Nazionale.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T19:40:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c315bab2408ff7266e97ca9e4c959d42-64776-oooz0000.jpeg",
-   "id": "5e589dd7e7e9"
-  },
-  {
-   "title": "Hojlund e De Bruyne brillano in nazionale, Scotto: “Allegri cambi, serve gioco offensivo!\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/scotto-hojlund-de-bruyne-irriconoscibili-napoli-allegri-cambiare-657948",
-   "summary": "Il giornalista de Il Roma Giovanni Scotto, attraverso il proprio canale YouTube, ha analizzato la prestazione di Rasmus Hojlund con la Danimarca, soffermandosi sulle differenze rispetto a quanto mostrato finora con il Napoli: “Ottima la prestaz ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T19:30:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ea/ea8801aa715fb551c388c4c804ffcb7c-96635-oooz0000.jpeg",
-   "id": "aed1c9ef3477"
-  },
-  {
-   "title": "De Bruyne da fenomeno! Tunnel e tiro: Belgio in vantaggio con la Turchia",
-   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-fenomeno-tunnel-tiro-belgio-vantaggio-turchia-657975",
-   "summary": "Kevin De Bruyne si sblocca con la maglia del Belgio. Il numero 11 del Napoli è andato a segno dopo appena 10 minuti nella sfida di Nations League contro la Turchia di Vincenzo Montella, realizzando una rete di pregevole fattura.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-02T19:10:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/89/892f991b8b0894e60524e5ced9f3bb8d-97896-oooz0000.jpeg",
-   "id": "fdc0d7205cca"
   },
   {
    "title": "Rabiot impressed with Italy spirit and ‘extraordinary’ Donnarumma",
@@ -1891,11 +1691,234 @@
    "published": "2026-10-02T13:53:25+00:00",
    "image": "",
    "id": "b6c37917d946"
+  },
+  {
+   "title": "Hojlund show in nazionale, Marino: \"Fa quasi reparto da solo, tra i più forti in Serie A\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/hojlund-show-nazionale-marino-fa-reparto-solo-forti-serie-a-657929",
+   "summary": "Giuseppe Marino, allenatore ed ex tecnico delle giovanili azzurre, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T01:00:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/321572f63cbc2da9304ac91ef63badf5-81970-oooz0000.jpeg",
+   "id": "09ceea8f3324"
+  },
+  {
+   "title": "De Rienzo: “Frosinone o mai più! Se il Napoli stecca ancora...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-rienzo-frosinone-piu-napoli-stecca-ancora-problema-mentale-657930",
+   "summary": "Jolanda De Rienzo, giornalista, è intervenuta sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T00:00:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5c/5cb81a831fa47f6515030d320a365a3a-07461-oooz0000.jpeg",
+   "id": "4e832f18de31"
+  },
+  {
+   "title": "De Bruyne supera 200 gol in carriera: tutti i numeri del fenomeno belga",
+   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-200-gol-carriera-numeri-fenomeno-belga-657976",
+   "summary": "Un'altra pagina importante nella straordinaria carriera di Kevin De Bruyne.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T23:30:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c315bab2408ff7266e97ca9e4c959d42-64776-oooz0000.jpeg",
+   "id": "5e589dd7e7e9"
+  },
+  {
+   "title": "Altro che discontinuo, Hojlund bomber vero: numeri super a 23 anni",
+   "link": "https://www.tuttonapoli.net/copertina/hojlund-danimarca-napoli-allegri-atalanta-united-657913",
+   "summary": "Altro che bomber discontinuo: i numeri raccontano una storia ben diversa.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T23:10:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4d/4d80f496431ea5da9e42177e51bc3a42-65488-oooz0000.jpeg",
+   "id": "95c77272fd63"
+  },
+  {
+   "title": "Calciomercato Napoli, Ceccarini: “C’è un nome da tenere d’occhio a parametro zero”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/calciomercato-napoli-ceccarini-c-e-tenere-d-occhio-parametro-zero-657883",
+   "summary": "Sono già tanti i nomi di mercato accostati al Napoli ed è caldo il tema rinnovi.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T23:00:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/41/4144f786308324a7e1098b8bce87f894-96805-oooz0000.jpeg",
+   "id": "fbcee2cbd00f",
+   "age_minutes": 167,
+   "also": [],
+   "score": 8.341
+  },
+  {
+   "title": "Radio Tutto Napoli, il palinsesto di oggi: trasmissioni live dalle 10",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-10-647875",
+   "summary": "Radio Tutto Napoli vi accompagna anche nel week-end con tutti gli aggiornamenti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T22:15:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/421094117ac3b8535d0a70a9b8be3e36-45223-258o324o1086o1152z0b04.jpeg",
+   "id": "c58444fd98ee"
+  },
+  {
+   "title": "De Bruyne-show, due gol e una partita totale: valutato 9.8 per il rating di Sofascore!",
+   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-show-gol-partita-totale-valutato-9-8-rating-sofascore-657988",
+   "summary": "Una prestazione praticamente perfetta. Kevin De Bruyne è stato il grande protagonista del successo per 3-0 del Belgio contro la Turchia in Nations League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T22:10:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ec/ecb5ea36c35416028260576baf010436-31342-oooz0000.jpeg",
+   "id": "3deff193cfb9"
+  },
+  {
+   "title": "Francia-Italia 1-1, le pagelle di Tmw: Vergara dà freschezza e imprevedibilità",
+   "link": "https://www.tuttonapoli.net/notizie/francia-italia-1-1-pagelle-tmw-vergara-da-freschezza-imprevedibilita-657989",
+   "summary": "L’Italia esce imbattuta dallo Stade de France, conquistando un prezioso 1-1 contro la Francia che mantiene gli Azzurri in corsa per il passaggio al turno successivo di Nations League e, nella peggiore delle ipotesi, contribuisce ad allontanare ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T22:00:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/55e0f09281e9d8f9a35056e0f3fc6391-32174-oooz0000.jpeg",
+   "id": "87a56f6d7e39"
+  },
+  {
+   "title": "Belgio, De Bruyne: “Questo stile di gioco mi si addice di più, sto meglio dell’anno scorso”",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/belgio-de-bruyne-doppietta-questo-stile-addice-piu-dell-anno-scorso-657991",
+   "summary": "Kevin De Bruyne è stato il grande protagonista del successo per 3-0 del Belgio contro la Turchia in Nations League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T21:48:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c315bab2408ff7266e97ca9e4c959d42-64776-oooz0000.jpeg",
+   "id": "f12831973f81"
+  },
+  {
+   "title": "Adani punge Allegri: “De Bruyne? In un contesto che funziona e diverte, lui segna e fa segnare!”",
+   "link": "https://www.tuttonapoli.net/le-interviste/adani-punge-allegri-de-bruyne-contesto-funziona-diverte-segna-segnare-657986",
+   "summary": "Al termine di Belgio-Turchia, gara di Nations League terminata 3-0 con una doppietta di Kevin De Bruyne, l’opinionista Rai Lele Adani ha commentato la grande prestazione del centrocampista del Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T21:40:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8ad742102f37da0b7392c945588c5557-77428-oooz0000.jpeg",
+   "id": "9c9cb06c9bff"
+  },
+  {
+   "title": "De Bruyne, giallo pesante e salterà la gara in Francia: rientro in anticipo?",
+   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-giallo-pesante-saltera-gara-francia-rientro-anticipo-657985",
+   "summary": "Serata da protagonista per Kevin De Bruyne con il Belgio, ma con una nota negativa nel finale. Il centrocampista del Napoli, autore di una doppietta nel netto 3-0 contro la Turchia, è stato ammonito all’80’ per perdita di tempo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T21:30:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/37/37a5ce194c1e80d0364aba8ae6eab287-90872-oooz0000.jpeg",
+   "id": "9cfbca142aa1"
+  },
+  {
+   "title": "Italia, Mancini felice: “Abbiamo provato sempre a giocare anche nelle difficoltà!”",
+   "link": "https://www.tuttonapoli.net/le-interviste/italia-mancini-felice-abbiamo-provato-giocare-difficolta-657984",
+   "summary": "Il ct della Nazionale italiana Roberto Mancini ha parlato ai microfoni della Rai, dopo il match di Nations League pareggiato 1-1 contro la Francia. Bella prestazione.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T21:15:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c8/c8f3363a957a4b51bf85ed64427d8c3b-55276-oooz0000.jpeg",
+   "id": "c32f88065a03"
+  },
+  {
+   "title": "Italia, Vergara: “Felicissimo! Vogliamo giocare a viso aperto con tutti. Ecco cosa mi ha detto il mister\"",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/vergara-esordio-l-italia-vogliamo-giocare-viso-aperto-tutte-657983",
+   "summary": "Antonio Vergara, fantasista del Napoli, ha parlato ai microfoni della Rai dopo il suo esordio con la Nazionale italiana nel pareggio contro la Francia in Nations League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T21:05:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a061176883e0a03f50e323c6ab6c41f4-28945-oooz0000.jpeg",
+   "id": "7dfa3c872af1"
+  },
+  {
+   "title": "La Slovacchia pareggia con le Far Oer, Lobotka gioca 90 minuti: slovacchi primi",
+   "link": "https://www.tuttonapoli.net/notizie/slovacchia-pareggia-far-oer-lobotka-gioca-90-minuti-slovacchi-primi-657982",
+   "summary": "Termina in parità l’unica gara di Nations League C della serata. Isole Far Oer e Slovacchia chiudono sull’1-1, un risultato che consente agli ospiti di consolidare il primo posto nel girone con 7 punti, davanti alla Moldavia.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T21:01:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2c23037c88c78d7429964934e8f37252-78943-oooz0000.jpeg",
+   "id": "fb3326c16d65"
+  },
+  {
+   "title": "Tris Belgio alla Turchia! De Bruyne show, segna anche Lukaku: Italia terza nel girone",
+   "link": "https://www.tuttonapoli.net/notizie/tris-belgio-turchia-de-bruyne-show-segna-lukaku-italia-terza-girone-657981",
+   "summary": "Tutto facile per il Belgio, che supera nettamente la Turchia per 3-0 e conquista tre punti pesantissimi nel Gruppo 1 di Nations League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T20:51:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c6c492eaf5e0b1a89e3a7cfaac27cd99-60591-oooz0000.jpeg",
+   "id": "7fe40162635f"
+  },
+  {
+   "title": "L’Italia di Mancini gioca (finalmente) a calcio! Pari in Francia e segnali positivi per il futuro",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/l-italia-mancini-gioca-finalmente-calcio-pareggio-francia-segnali-positivi-657980",
+   "summary": "Grande prestazione dell’Italia che esce dallo Stade de France con un prezioso 1-1 contro la Francia, riuscendo a mettere in difficoltà una delle Nazionali più attrezzate al mondo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T20:43:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/65/654fef38e81b18aef0ee1935136288a5-22674-oooz0000.jpeg",
+   "id": "12375f9fa477"
+  },
+  {
+   "title": "Nuovo Stadio Roma, il CEO: \"Ci permetterà di fare un salto economico importante\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/roma-ceo-tra-4-stadio-permettera-salto-economico-importante-657967",
+   "summary": "Il CEO della Roma John Galantic, intervenuto al Festival dello Sport, ha fatto il punto sui progetti del club giallorosso, partendo dal nuovo stadio.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T20:40:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f3/f37026027fa449133e68fbf885146bf9-14856-oooz0000.jpeg",
+   "id": "baa77f111173"
+  },
+  {
+   "title": "Ex team manager Ajax lancia Beukema: “Mi chiedo perché non sia in Nazionale”",
+   "link": "https://www.tuttonapoli.net/le-interviste/endt-beukema-napoli-nazionale-olanda-657957",
+   "summary": "Sam Beukema ha le qualità per entrare stabilmente nel giro della Nazionale olandese.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T20:30:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ad067f4c9f63901f880f1fd18f262d8e-89235-oooz0000.jpeg",
+   "id": "397f866ee964"
+  },
+  {
+   "title": "De Bruyne illumina il calcio europeo! Super-gol da fuori area: doppietta alla Turchia",
+   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-illumina-calcio-europeo-super-gol-area-doppietta-turchia-657979",
+   "summary": "Kevin De Bruyne continua a incantare con la maglia del Belgio.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T20:20:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0a/0acbe4c92f2a481d1b8f80ef433a3af5-27867-oooz0000.jpeg",
+   "id": "9e171fb8bcc8"
+  },
+  {
+   "title": "Francia-Italia, debutto in Nazionale per Vergara: entra per un altro napoletano",
+   "link": "https://www.tuttonapoli.net/notizie/francia-italia-debutto-nazionale-vergara-entra-napoletano-657978",
+   "summary": "Serata da ricordare per Antonio Vergara. Il centrocampista del Napoli ha fatto il suo esordio con la Nazionale maggiore nella sfida di Nations League contro la Francia allo Stade de France.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-02T20:10:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/55e0f09281e9d8f9a35056e0f3fc6391-32174-oooz0000.jpeg",
+   "id": "1d7a4e36fbe5"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 27
+  "in_edizione": 28
  }
 }
