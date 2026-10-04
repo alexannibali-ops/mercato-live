@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T01:37:47.323406+02:00",
+ "generated_at": "2026-10-04T07:09:39.269788+02:00",
  "articles": [
   {
    "title": "Calciomercato Napoli, resistono i nomi di Sow e Dodò per rinforzare le corsie",
@@ -11,9 +11,28 @@
    "published": "2026-10-03T22:00:42+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/30/30b7226fad407d79b67262e0cfb25482-89890-oooz0000.jpeg",
    "id": "8597a2494f11",
-   "age_minutes": 97,
+   "age_minutes": 428,
    "also": [],
-   "score": 8.677
+   "score": 7.353
+  },
+  {
+   "title": "Milan su Endrick",
+   "link": "https://www.tuttojuve.com/calciomercato/milan-endrick-795411",
+   "summary": "Il Milan potrebbe provare il grande colpo Endrick nel mercato di gennaio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-04T04:30:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/45/4556ff34a1581aa59456169fcaeebc6c-62201-oooz0000.jpeg",
+   "id": "cfabad1f1a93",
+   "age_minutes": 39,
+   "also": [
+    {
+     "source": "TuttoJuve",
+     "link": "https://www.tuttojuve.com/calciomercato/endrick-addio-real-madrid-milan-roma-finestra-795406"
+    }
+   ],
+   "score": 7.178
   },
   {
    "title": "Milan, Tomori e Loftus-Cheek sempre più vicini all’addio: le ultime",
@@ -25,9 +44,9 @@
    "published": "2026-10-03T13:19:44+00:00",
    "image": "",
    "id": "edc1b1772949",
-   "age_minutes": 618,
+   "age_minutes": 949,
    "also": [],
-   "score": 7.039
+   "score": 6.415
   },
   {
    "title": "Tegola Napoli, il comunicato ufficiale: infortunio muscolare",
@@ -39,9 +58,23 @@
    "published": "2026-10-03T10:04:42+00:00",
    "image": "",
    "id": "07ce9105aea9",
-   "age_minutes": 813,
+   "age_minutes": 1144,
    "also": [],
-   "score": 6.636
+   "score": 6.166
+  },
+  {
+   "title": "Yildiz, c’è un piano!",
+   "link": "https://www.tuttojuve.com/altre-notizie/yildiz-c-e-piano-795410",
+   "summary": "Kenan Yildiz è uno dei giocatori attorno ai quali la Juventus vuole costruire il proprio futuro, ma il mercato non permette di considerare intoccabile praticamente nessuno quando entrano in gioco offerte superiori ai…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-04T04:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d9/d9a2523978a9dbfa15acbbd8afa11b00-66963-oooz0000.jpeg",
+   "id": "f20b14004165",
+   "age_minutes": 24,
+   "also": [],
+   "score": 5.86
   },
   {
    "title": "Real Madrid su Yildiz, gli spagnoli non mollano la stella della Juventus",
@@ -53,23 +86,9 @@
    "published": "2026-10-03T21:00:46+00:00",
    "image": "",
    "id": "753a7cbc3a60",
-   "age_minutes": 157,
+   "age_minutes": 488,
    "also": [],
-   "score": 6.588
-  },
-  {
-   "title": "Endrick verso l'addio al Real Madrid: Milan e Roma alla finestra",
-   "link": "https://www.tuttojuve.com/calciomercato/endrick-addio-real-madrid-milan-roma-finestra-795406",
-   "summary": "Appena quattro minuti giocati in stagione e un futuro al Real Madrid che torna in discussione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T21:00:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/51ed091d325c107378c8e117e473d18b-59853-oooz0000.jpeg",
-   "id": "5736e9a2470c",
-   "age_minutes": 157,
-   "also": [],
-   "score": 6.388
+   "score": 5.374
   },
   {
    "title": "Duello da 50 milioni tra Inter e Juve: c’è anche il Barcellona",
@@ -81,9 +100,23 @@
    "published": "2026-10-03T19:44:13+00:00",
    "image": "",
    "id": "348f0ab7f7db",
-   "age_minutes": 233,
+   "age_minutes": 565,
    "also": [],
-   "score": 6.255
+   "score": 5.168
+  },
+  {
+   "title": "La Fiorentina piomba su Tiago Gabriel, sfida al Milan",
+   "link": "https://www.calciomercato.it/2026/10/03/la-fiorentina-piomba-su-tiago-gabriel-sfida-al-milan/",
+   "summary": "L'articolo La Fiorentina piomba su Tiago Gabriel, sfida al Milan proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-03T18:15:53+00:00",
+   "image": "",
+   "id": "3e40255a37c0",
+   "age_minutes": 653,
+   "also": [],
+   "score": 4.956
   },
   {
    "title": "McTominay-Anguissa, stallo rinnovi: il Napoli corre ai ripari e prepara due colpi",
@@ -95,51 +128,9 @@
    "published": "2026-10-03T21:40:22+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
    "id": "d0191ad5b6e3",
-   "age_minutes": 117,
+   "age_minutes": 449,
    "also": [],
-   "score": 6.176
-  },
-  {
-   "title": "La Fiorentina piomba su Tiago Gabriel, sfida al Milan",
-   "link": "https://www.calciomercato.it/2026/10/03/la-fiorentina-piomba-su-tiago-gabriel-sfida-al-milan/",
-   "summary": "L'articolo La Fiorentina piomba su Tiago Gabriel, sfida al Milan proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-03T18:15:53+00:00",
-   "image": "",
-   "id": "3e40255a37c0",
-   "age_minutes": 321,
-   "also": [],
-   "score": 5.913
-  },
-  {
-   "title": "Barcellona su Tresoldi",
-   "link": "https://www.tuttojuve.com/calciomercato/barcellona-tresoldi-795359",
-   "summary": "Un altro giovane attaccante entra prepotentemente nel grande mercato europeo e il suo nome non è completamente nuovo nemmeno dalle parti della Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T23:00:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/909ed51280c5aeb33aff3e333590d80e-63190-oooz0000.jpeg",
-   "id": "3192771268e8",
-   "age_minutes": 37,
-   "also": [],
-   "score": 5.79
-  },
-  {
-   "title": "Kim verso la Premier, sfuma la pista Juve",
-   "link": "https://www.tuttojuve.com/calciomercato/kim-premier-sfuma-pista-juve-795365",
-   "summary": "La Juventus potrebbe trovare una nuova occasione sul mercato dei difensori, perché la situazione di Kim Min-jae al Bayern Monaco sembra essere cambiata rispetto al recente passato e una partenza del centrale coreano non…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T22:45:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c46497a74be9ad071c0367047ab3ca9-31133-oooz0000.jpeg",
-   "id": "1f98952e9ac8",
-   "age_minutes": 52,
-   "also": [],
-   "score": 5.71
+   "score": 4.891
   },
   {
    "title": "Juve, cambia il futuro di Adzic: dipende tutto dalla Champions League",
@@ -151,9 +142,9 @@
    "published": "2026-10-03T17:00:10+00:00",
    "image": "",
    "id": "77fea3d8c932",
-   "age_minutes": 397,
+   "age_minutes": 729,
    "also": [],
-   "score": 5.653
+   "score": 4.795
   },
   {
    "title": "Inter, Spence scalda i motori: Chivu pronto a lanciare l’inglese",
@@ -165,23 +156,9 @@
    "published": "2026-10-03T16:20:30+00:00",
    "image": "",
    "id": "c4252100222a",
-   "age_minutes": 437,
+   "age_minutes": 769,
    "also": [],
-   "score": 5.527
-  },
-  {
-   "title": "\"È folle che sia così forte\": Gila innamorato di Yamal. Poi scherza: \"Cardinale deve fare i miracoli\"",
-   "link": "https://www.milannews.it/news/e-folle-forte-gila-ammiratore-yamal-scherza-cardinale-miracoli-631645",
-   "summary": "Tutto il mondo ai piedi di Lamine Yamal. La stella classe 2007 continua a stupire tutti anche con la Spagna a suon di gol e giocate da campione.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-03T23:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ad/ad0c2a19fe6d0c304055fb26bc4a1fb0-42183-oooz0000.jpeg",
-   "id": "acb970b43c44",
-   "age_minutes": 37,
-   "also": [],
-   "score": 5.388
+   "score": 4.717
   },
   {
    "title": "Inter, aggiornamenti importanti su Calhanoglu: c’è la data del rientro",
@@ -193,9 +170,79 @@
    "published": "2026-10-03T15:05:51+00:00",
    "image": "",
    "id": "b4e982eac487",
-   "age_minutes": 511,
+   "age_minutes": 843,
    "also": [],
-   "score": 5.31
+   "score": 4.583
+  },
+  {
+   "title": "Barcellona su Tresoldi",
+   "link": "https://www.tuttojuve.com/calciomercato/barcellona-tresoldi-795359",
+   "summary": "Un altro giovane attaccante entra prepotentemente nel grande mercato europeo e il suo nome non è completamente nuovo nemmeno dalle parti della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T23:00:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/909ed51280c5aeb33aff3e333590d80e-63190-oooz0000.jpeg",
+   "id": "3192771268e8",
+   "age_minutes": 369,
+   "also": [],
+   "score": 4.347
+  },
+  {
+   "title": "Kim verso la Premier, sfuma la pista Juve",
+   "link": "https://www.tuttojuve.com/calciomercato/kim-premier-sfuma-pista-juve-795365",
+   "summary": "La Juventus potrebbe trovare una nuova occasione sul mercato dei difensori, perché la situazione di Kim Min-jae al Bayern Monaco sembra essere cambiata rispetto al recente passato e una partenza del centrale coreano non…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T22:45:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c46497a74be9ad071c0367047ab3ca9-31133-oooz0000.jpeg",
+   "id": "1f98952e9ac8",
+   "age_minutes": 383,
+   "also": [],
+   "score": 4.298
+  },
+  {
+   "title": "Juve sempre più azzurra: nel mirino ci sono tre centrocampisti italiani",
+   "link": "https://www.calciomercato.it/2026/10/03/juve-sempre-piu-azzurra-nel-mirino-ci-sono-tre-centrocampisti-italiani/",
+   "summary": "L'articolo Juve sempre più azzurra: nel mirino ci sono tre centrocampisti italiani proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-03T11:54:30+00:00",
+   "image": "",
+   "id": "225d5e0ae0a2",
+   "age_minutes": 1035,
+   "also": [],
+   "score": 4.297
+  },
+  {
+   "title": "Atalanta, Sarri nei guai: stop di 2-3 settimane per un big",
+   "link": "https://www.calciomercato.it/2026/10/03/atalanta-sarri-nei-guai-stop-di-2-3-settimane-per-un-big/",
+   "summary": "L'articolo Atalanta, Sarri nei guai: stop di 2-3 settimane per un big proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-03T08:03:24+00:00",
+   "image": "",
+   "id": "96c1fc8b718f",
+   "age_minutes": 1266,
+   "also": [],
+   "score": 4.043
+  },
+  {
+   "title": "Bomba Inter, arriva l’annuncio: “Via uno tra Lautaro e Thuram”",
+   "link": "https://www.calciomercato.it/2026/10/03/bomba-inter-arriva-lannuncio-via-uno-tra-lautaro-e-thuram/",
+   "summary": "L'articolo Bomba Inter, arriva l’annuncio: “Via uno tra Lautaro e Thuram” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-03T07:00:28+00:00",
+   "image": "",
+   "id": "31bd368a484b",
+   "age_minutes": 1329,
+   "also": [],
+   "score": 3.987
   },
   {
    "title": "Svizzera-Slovenia 2-1, Jashari e Athekame prendono fiducia",
@@ -207,9 +254,37 @@
    "published": "2026-10-03T20:51:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b4/b45116960cd745027ac75fa0ee33a2c5-82577-oooz0000.jpeg",
    "id": "74d9baf89f0c",
-   "age_minutes": 166,
+   "age_minutes": 498,
    "also": [],
-   "score": 5.145
+   "score": 3.948
+  },
+  {
+   "title": "\"È folle che sia così forte\": Gila innamorato di Yamal. Poi scherza: \"Cardinale deve fare i miracoli\"",
+   "link": "https://www.milannews.it/news/e-folle-forte-gila-ammiratore-yamal-scherza-cardinale-miracoli-631645",
+   "summary": "Tutto il mondo ai piedi di Lamine Yamal. La stella classe 2007 continua a stupire tutti anche con la Spagna a suon di gol e giocate da campione.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-03T23:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ad/ad0c2a19fe6d0c304055fb26bc4a1fb0-42183-oooz0000.jpeg",
+   "id": "acb970b43c44",
+   "age_minutes": 369,
+   "also": [],
+   "score": 3.945
+  },
+  {
+   "title": "Nessun dubbio sul futuro: “La Juve è sempre meglio dell’Inter”",
+   "link": "https://www.calciomercato.it/2026/10/03/nessun-dubbio-sul-futuro-la-juve-e-sempre-meglio-dellinter/",
+   "summary": "L'articolo Nessun dubbio sul futuro: “La Juve è sempre meglio dell’Inter” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-03T05:18:08+00:00",
+   "image": "",
+   "id": "dd0ecc09d8dc",
+   "age_minutes": 1431,
+   "also": [],
+   "score": 3.906
   },
   {
    "title": "Pato ha acquistato una squadra inglese: \"Obiettivo? Arrivare un giorno in Champions\"",
@@ -221,107 +296,9 @@
    "published": "2026-10-03T20:12:05+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/32/32f1e30f1e4a32a8d874c0f3fd2d6c85-83918-344o229o1458o1343z0d2e.jpeg",
    "id": "40ec0cffc311",
-   "age_minutes": 205,
+   "age_minutes": 537,
    "also": [],
-   "score": 4.972
-  },
-  {
-   "title": "Juve sempre più azzurra: nel mirino ci sono tre centrocampisti italiani",
-   "link": "https://www.calciomercato.it/2026/10/03/juve-sempre-piu-azzurra-nel-mirino-ci-sono-tre-centrocampisti-italiani/",
-   "summary": "L'articolo Juve sempre più azzurra: nel mirino ci sono tre centrocampisti italiani proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-03T11:54:30+00:00",
-   "image": "",
-   "id": "225d5e0ae0a2",
-   "age_minutes": 703,
-   "also": [],
-   "score": 4.849
-  },
-  {
-   "title": "Clamoroso dalla Germania: Juve su Gutierrez! Il valore è quasi raddoppiato",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/clamoroso-germania-juve-vuole-gutierrez-valore-aumentato-658046",
-   "summary": "La Juventus continua a monitorare il mercato internazionale alla ricerca di un esterno per la rosa di Luciano Spalletti. Secondo quanto riportato in Germania da Fussball-news.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T19:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c387dc2cec2e7bca1a6032da1f48d2e6-28908-oooz0000.jpeg",
-   "id": "ffc32b7cb825",
-   "age_minutes": 262,
-   "also": [],
-   "score": 4.737
-  },
-  {
-   "title": "Gila svela: \"Mi volevano Napoli e Inter. Vi spiego perché ho scelto il Milan...\"",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/gila-svela-mi-volevano-napoli-inter-spiego-scelto-milan-658045",
-   "summary": "Il mercato estivo ha portato Mario Gila al Milan, ma il difensore spagnolo aveva attirato l’interesse anche di altre big italiane.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T19:00:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fd/fded85af3e4884f992c4a57aea335e65-38762-oooz0000.jpeg",
-   "id": "afbb99acd786",
-   "age_minutes": 276,
-   "also": [],
-   "score": 4.682
-  },
-  {
-   "title": "Buonissima 2026, anteprima all'Allianz Stadium: il menu del Legends Club sarà curato da quattro piole torinesi",
-   "link": "https://www.tuttojuve.com/altre-notizie/buonissima-2026-anteprima-allianz-stadium-menu-legends-club-curato-piole-torinesi-795396",
-   "summary": "Cinque giorni nei quali Torino diventerà punto d'incontro tra alta cucina, arte e bellezza.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T19:45:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f7/f7df00ce153ec95ecb8f5608759774d9-75557-oooz0000.jpeg",
-   "id": "3d62a88b86ae",
-   "age_minutes": 232,
-   "also": [],
-   "score": 4.459
-  },
-  {
-   "title": "Atalanta, Sarri nei guai: stop di 2-3 settimane per un big",
-   "link": "https://www.calciomercato.it/2026/10/03/atalanta-sarri-nei-guai-stop-di-2-3-settimane-per-un-big/",
-   "summary": "L'articolo Atalanta, Sarri nei guai: stop di 2-3 settimane per un big proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-03T08:03:24+00:00",
-   "image": "",
-   "id": "96c1fc8b718f",
-   "age_minutes": 934,
-   "also": [],
-   "score": 4.438
-  },
-  {
-   "title": "Bomba Inter, arriva l’annuncio: “Via uno tra Lautaro e Thuram”",
-   "link": "https://www.calciomercato.it/2026/10/03/bomba-inter-arriva-lannuncio-via-uno-tra-lautaro-e-thuram/",
-   "summary": "L'articolo Bomba Inter, arriva l’annuncio: “Via uno tra Lautaro e Thuram” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-03T07:00:28+00:00",
-   "image": "",
-   "id": "31bd368a484b",
-   "age_minutes": 997,
-   "also": [],
-   "score": 4.348
-  },
-  {
-   "title": "Nessun dubbio sul futuro: “La Juve è sempre meglio dell’Inter”",
-   "link": "https://www.calciomercato.it/2026/10/03/nessun-dubbio-sul-futuro-la-juve-e-sempre-meglio-dellinter/",
-   "summary": "L'articolo Nessun dubbio sul futuro: “La Juve è sempre meglio dell’Inter” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-03T05:18:08+00:00",
-   "image": "",
-   "id": "dd0ecc09d8dc",
-   "age_minutes": 1099,
-   "also": [],
-   "score": 4.217
+   "score": 3.84
   },
   {
    "title": "Francia-Italia 1-1, Bastoni risponde a Olise",
@@ -333,9 +310,9 @@
    "published": "2026-10-02T20:42:36+00:00",
    "image": "",
    "id": "e41e31ec0e0e",
-   "age_minutes": 1615,
+   "age_minutes": 1947,
    "also": [],
-   "score": 3.788
+   "score": 3.64
   },
   {
    "title": "Un bomber da 70 milioni per Chivu: l’Inter sfida la big inglese",
@@ -347,9 +324,9 @@
    "published": "2026-10-02T19:12:59+00:00",
    "image": "",
    "id": "cefcc73fb729",
-   "age_minutes": 1704,
+   "age_minutes": 2036,
    "also": [],
-   "score": 3.741
+   "score": 3.611
   },
   {
    "title": "Dal Napoli alla Juventus: c’è di mezzo anche il Milan",
@@ -361,286 +338,12 @@
    "published": "2026-10-02T18:00:24+00:00",
    "image": "",
    "id": "8641b8336074",
-   "age_minutes": 1777,
+   "age_minutes": 2109,
    "also": [],
-   "score": 3.707
-  },
-  {
-   "title": "Dybala, clamorosa decisione: coinvolte Juventus e Napoli",
-   "link": "https://www.calciomercato.it/2026/10/02/dybala-clamorosa-decisione-coinvolte-juventus-e-napoli/",
-   "summary": "L'articolo Dybala, clamorosa decisione: coinvolte Juventus e Napoli proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-02T16:22:25+00:00",
-   "image": "",
-   "id": "e6683a1e8231",
-   "age_minutes": 1875,
-   "also": [],
-   "score": 3.667
-  },
-  {
-   "title": "Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere",
-   "link": "https://www.calciomercato.it/2026/10/02/flop-juve-ko-contro-la-cremonese-kolo-muani-e-cambiaso-fanno-discutere/",
-   "summary": "L'articolo Flop Juve: KO contro la Cremonese! Kolo Muani e Cambiaso fanno discutere proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-02T15:26:56+00:00",
-   "image": "",
-   "id": "14d8e37f9741",
-   "age_minutes": 1930,
-   "also": [],
-   "score": 3.646
-  },
-  {
-   "title": "Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida",
-   "link": "https://www.calciomercato.it/2026/10/02/como-roma-problema-al-ginocchio-destro-rischia-di-saltare-la-super-sfida/",
-   "summary": "L'articolo Como-Roma, problema al ginocchio destro: rischia di saltare la super sfida proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-02T15:00:58+00:00",
-   "image": "",
-   "id": "7968c7162953",
-   "age_minutes": 1956,
-   "also": [],
-   "score": 3.637
+   "score": 3.59
   }
  ],
  "raw": [
-  {
-   "title": "Anche l'Arsenal su Nusa",
-   "link": "https://www.tuttojuve.com/calciomercato/arsenal-nusa-795360",
-   "summary": "La Juventus potrebbe tornare a guardare con attenzione ad Antonio Nusa, uno dei giovani esterni offensivi più interessanti del panorama europeo e un profilo già accostato in passato al club bianconero.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T23:30:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db7de7b2719f6e560458ad529a8a98ff-54089-oooz0000.jpeg",
-   "id": "5f7ee04ea5e2"
-  },
-  {
-   "title": "Balogun è in lista, ma attenti alla concorrenza",
-   "link": "https://www.tuttojuve.com/calciomercato/balogun-lista-attenti-concorrenza-795363",
-   "summary": "La Juventus continua a guardare con attenzione a Folarin Balogun, attaccante del Monaco che potrebbe diventare uno dei nomi più interessanti per la rivoluzione offensiva programmata in vista dell'estate 2027.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T23:15:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/92/929b110ea181971c8fb9898b4d293ece-66595-oooz0000.jpeg",
-   "id": "88c8473b69f2"
-  },
-  {
-   "title": "Barcellona su Tresoldi",
-   "link": "https://www.tuttojuve.com/calciomercato/barcellona-tresoldi-795359",
-   "summary": "Un altro giovane attaccante entra prepotentemente nel grande mercato europeo e il suo nome non è completamente nuovo nemmeno dalle parti della Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T23:00:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/909ed51280c5aeb33aff3e333590d80e-63190-oooz0000.jpeg",
-   "id": "3192771268e8",
-   "age_minutes": 37,
-   "also": [],
-   "score": 5.79
-  },
-  {
-   "title": "Kim verso la Premier, sfuma la pista Juve",
-   "link": "https://www.tuttojuve.com/calciomercato/kim-premier-sfuma-pista-juve-795365",
-   "summary": "La Juventus potrebbe trovare una nuova occasione sul mercato dei difensori, perché la situazione di Kim Min-jae al Bayern Monaco sembra essere cambiata rispetto al recente passato e una partenza del centrale coreano non…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T22:45:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c46497a74be9ad071c0367047ab3ca9-31133-oooz0000.jpeg",
-   "id": "1f98952e9ac8",
-   "age_minutes": 52,
-   "also": [],
-   "score": 5.71
-  },
-  {
-   "title": "Aumenta la concorrenza per Brahim Diaz",
-   "link": "https://www.tuttojuve.com/calciomercato/aumenta-concorrenza-brahim-diaz-795358",
-   "summary": "La Juventus continua a tenere Brahim Diaz tra i nomi più interessanti per il futuro, ma la strada per arrivare al fantasista marocchino del Real Madrid potrebbe diventare decisamente più complicata.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T22:30:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aab01c19a8254e41ac72073540857fe1-39850-oooz0000.jpeg",
-   "id": "dab362005fed"
-  },
-  {
-   "title": "Il Lione vorrebbe bloccare Openda a gennaio, ma è difficile",
-   "link": "https://www.tuttojuve.com/calciomercato/lione-vorrebbe-bloccare-openda-gennaio-difficile-795368",
-   "summary": "Loïs Openda sta provando a ricostruire la propria carriera al Lione dopo una stagione molto complicata con la Juventus, e le prime settimane francesi hanno restituito qualche segnale incoraggiante.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T22:15:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7c/7cca4e22f62e4de2099b8b159225b1ee-07458-oooz0000.jpeg",
-   "id": "f2979753d43d"
-  },
-  {
-   "title": "Maestro Spalletti, che lezione ai giovani!",
-   "link": "https://www.tuttojuve.com/primo-piano/maestro-spalletti-lezione-giovani-795289",
-   "summary": "La nuova Juventus non vuole soltanto acquistare giovani di talento. Vuole soprattutto trasformarli in giocatori veri, capaci di reggere il peso della maglia bianconera e diventare protagonisti ad alto livello.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T22:05:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
-   "id": "a226a2b62022"
-  },
-  {
-   "title": "Sesko piace ma serve lo sconto",
-   "link": "https://www.tuttojuve.com/calciomercato/sesko-piace-serve-sconto-795361",
-   "summary": "La Juventus pensa in grande per l'attacco della prossima stagione e uno dei nomi più importanti presenti sulla lista della dirigenza sarebbe quello di Benjamin Sesko, centravanti sloveno che continua ad attirare l'interesse d ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T22:00:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3f/3fcb11bb5d1b5463b320c256719d8cbd-34881-oooz0000.jpeg",
-   "id": "a295368f7b95"
-  },
-  {
-   "title": "Pjanic: \"Juve, è presto per lo scudetto. Alajbegovic avrà un futuro importante, quella personalità a quell'età lì non è normale\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/pjanic-juve-presto-scudetto-alajbegovic-importante-personalita-quell-eta-li-normale-795409",
-   "summary": "Miralem Pjanic, ex centrocampista di Roma e Juventus, è stato protagonista al Festival dello Sport di Trento.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T21:45:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/50/501467e7484e7e6a8ae6360fbc5e6daa-58992-792o0o1500o708z0bb8.jpeg",
-   "id": "d0fa75756687"
-  },
-  {
-   "title": "Portogallo, caos Ronaldo: Georgina attacca Jorge Jesus e poi cancella la storia",
-   "link": "https://www.tuttojuve.com/altre-notizie/portogallo-caos-ronaldo-georgina-attacca-jorge-jesus-cancella-storia-795408",
-   "summary": "La vicenda che coinvolge Cristiano Ronaldo, il Portogallo e il commissario tecnico Jorge Jesus si sposta sempre più sui social.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T21:30:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e1/e1fbc53738ab0853f19df8f9c65847b8-97243-oooz0000.jpeg",
-   "id": "966fab198353"
-  },
-  {
-   "title": "Francia-Italia, L'Equipe: \"Kalulu altalenante\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/francia-italia-equipe-kalulu-altalenante-795407",
-   "summary": "Pierre Kalulu non va oltre il 5 in pagella per L'Equipe dopo il pareggio per 1-1 tra Francia e Italia in Nations League.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T21:15:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c0/c0dc7fe9c010fac5de871983311a99f3-71245-553o60o1240o746z0a27.jpeg",
-   "id": "8a42aed4b0c5"
-  },
-  {
-   "title": "Endrick verso l'addio al Real Madrid: Milan e Roma alla finestra",
-   "link": "https://www.tuttojuve.com/calciomercato/endrick-addio-real-madrid-milan-roma-finestra-795406",
-   "summary": "Appena quattro minuti giocati in stagione e un futuro al Real Madrid che torna in discussione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T21:00:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/51ed091d325c107378c8e117e473d18b-59853-oooz0000.jpeg",
-   "id": "5736e9a2470c",
-   "age_minutes": 157,
-   "also": [],
-   "score": 6.388
-  },
-  {
-   "title": "Spagna, tris alla Cechia: Yamal ancora in gol, segnano anche Rodri e Merino",
-   "link": "https://www.tuttojuve.com/altre-notizie/spagna-tris-cechia-yamal-gol-segnano-rodri-merino-795404",
-   "summary": "La Spagna continua a vincere. Nonostante diverse novità nella formazione iniziale, soprattutto tra difesa e attacco, la squadra di De La Fuente supera 3-1 la Cechia a Oviedo e conquista la terza vittoria consecutiva in Nations League.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:45:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/08/08b4bfe86d85bde667bca7f7b4fbbbce-56557-oooz0000.jpeg",
-   "id": "a4436f34029f"
-  },
-  {
-   "title": "Sveglia Juventus! Non è il primo di aprile...",
-   "link": "https://www.tuttojuve.com/firme-bianconere/sveglia-juventus-aprile-795343",
-   "summary": "La Juventus resta l’unica certezza societaria del povero calcio italiano. Oltre un secolo con la stessa famiglia al comando.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:30:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
-   "id": "95c54a8a7b9f"
-  },
-  {
-   "title": "Qui Cagliari - Caprile carica i rossoblù verso la Juve: \"Pronti e motivati\"",
-   "link": "https://www.tuttojuve.com/l-avversario/cagliari-caprile-carica-rossoblu-juve-pronti-motivati-795403",
-   "summary": "Elia Caprile celebra sui social la vittoria del Cagliari contro il Rayo Vallecano nel Trofeo de Vallecas.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:30:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0c/0c9983105c39c31986eff03423c31e47-25527-oooz0000.jpeg",
-   "id": "6d495b8a5b62"
-  },
-  {
-   "title": "John Elkann sbarca su Linkedin e finisce nel mirino di haters e detrattori (anche juventini)",
-   "link": "https://www.tuttojuve.com/altre-notizie/john-elkann-sbarca-linkedin-finisce-mirino-haters-detrattori-anche-juventini-795402",
-   "summary": "Anche John Elkann entra nel mondo dei social. Il presidente di Stellantis e ceo di Exor ha scelto LinkedIn, la piattaforma dedicata soprattutto al mondo professionale, dove il suo debutto ha raccolto circa 3.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:30:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d8/d8257b1e176be37a9d451035a70e2b67-60119-oooz0000.jpeg",
-   "id": "be4c3c7dad13"
-  },
-  {
-   "title": "Torri: \"Mi ha colpito ciò che Gasperini ha detto su Dybala\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/torri-mi-colpito-gasperini-dybala-795401",
-   "summary": "Il giornalista de La Repubblica Piero Torri, intervenuto ai microfoni di Radio Manà Manà Sport Roma (90.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:15:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/af9aa167c3e4f848b3feed168aab265c-23932-oooz0000.jpeg",
-   "id": "cb17924ab159"
-  },
-  {
-   "title": "Figc, pareri Coni: 'tesseramento essenziale', non si parla di commissariamento",
-   "link": "https://www.tuttojuve.com/altre-notizie/figc-pareri-coni-tesseramento-essenziale-parla-commissariamento-795397",
-   "summary": "(Aggiorna e sostituisce servizio delle 15.54) (ANSA) - ROMA, 03 OTT - Il tesseramento era un requisito essenziale per l'elezione a capo della Figc e Giovanni Malagò non ne era in possesso.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:04:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0a/0aec3909a45d4513cecd4418d679010a-47747-oooz0000.jpeg",
-   "id": "23eb3195d68d"
-  },
-  {
-   "title": "Juve, il baby bomber palermitano Pipitò continua a stupire: gol a raffica anche con l'Italia Under 17",
-   "link": "https://www.tuttojuve.com/settore-giovanile/juve-pipito-continua-stupire-gol-raffica-italia-under-17-795400",
-   "summary": "Dalla Sicilia alla Juventus, fino alla maglia azzurra dell'Italia Under 17. Continua la crescita di Giuseppe Pipitò, attaccante palermitano classe 2010 che si sta mettendo in evidenza anche a livello internazionale.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T20:00:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c6/c6660f7f07db270e4510350a7022c34b-28926-oooz0000.jpeg",
-   "id": "76992b7448ec"
-  },
-  {
-   "title": "Buonissima 2026, anteprima all'Allianz Stadium: il menu del Legends Club sarà curato da quattro piole torinesi",
-   "link": "https://www.tuttojuve.com/altre-notizie/buonissima-2026-anteprima-allianz-stadium-menu-legends-club-curato-piole-torinesi-795396",
-   "summary": "Cinque giorni nei quali Torino diventerà punto d'incontro tra alta cucina, arte e bellezza.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-03T19:45:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f7/f7df00ce153ec95ecb8f5608759774d9-75557-oooz0000.jpeg",
-   "id": "3d62a88b86ae",
-   "age_minutes": 232,
-   "also": [],
-   "score": 4.459
-  },
   {
    "title": "Real Madrid su Yildiz, gli spagnoli non mollano la stella della Juventus",
    "link": "https://www.calciomercato.it/2026/10/03/real-madrid-su-yildiz-gli-spagnoli-non-mollano-la-stella-della-juventus/",
@@ -651,9 +354,9 @@
    "published": "2026-10-03T21:00:46+00:00",
    "image": "",
    "id": "753a7cbc3a60",
-   "age_minutes": 157,
+   "age_minutes": 488,
    "also": [],
-   "score": 6.588
+   "score": 5.374
   },
   {
    "title": "Duello da 50 milioni tra Inter e Juve: c’è anche il Barcellona",
@@ -665,9 +368,9 @@
    "published": "2026-10-03T19:44:13+00:00",
    "image": "",
    "id": "348f0ab7f7db",
-   "age_minutes": 233,
+   "age_minutes": 565,
    "also": [],
-   "score": 6.255
+   "score": 5.168
   },
   {
    "title": "La Fiorentina piomba su Tiago Gabriel, sfida al Milan",
@@ -679,9 +382,9 @@
    "published": "2026-10-03T18:15:53+00:00",
    "image": "",
    "id": "3e40255a37c0",
-   "age_minutes": 321,
+   "age_minutes": 653,
    "also": [],
-   "score": 5.913
+   "score": 4.956
   },
   {
    "title": "Juve, cambia il futuro di Adzic: dipende tutto dalla Champions League",
@@ -693,9 +396,9 @@
    "published": "2026-10-03T17:00:10+00:00",
    "image": "",
    "id": "77fea3d8c932",
-   "age_minutes": 397,
+   "age_minutes": 729,
    "also": [],
-   "score": 5.653
+   "score": 4.795
   },
   {
    "title": "Inter, Spence scalda i motori: Chivu pronto a lanciare l’inglese",
@@ -707,9 +410,9 @@
    "published": "2026-10-03T16:20:30+00:00",
    "image": "",
    "id": "c4252100222a",
-   "age_minutes": 437,
+   "age_minutes": 769,
    "also": [],
-   "score": 5.527
+   "score": 4.717
   },
   {
    "title": "Inter, aggiornamenti importanti su Calhanoglu: c’è la data del rientro",
@@ -721,9 +424,9 @@
    "published": "2026-10-03T15:05:51+00:00",
    "image": "",
    "id": "b4e982eac487",
-   "age_minutes": 511,
+   "age_minutes": 843,
    "also": [],
-   "score": 5.31
+   "score": 4.583
   },
   {
    "title": "Milan, Tomori e Loftus-Cheek sempre più vicini all’addio: le ultime",
@@ -735,9 +438,9 @@
    "published": "2026-10-03T13:19:44+00:00",
    "image": "",
    "id": "edc1b1772949",
-   "age_minutes": 618,
+   "age_minutes": 949,
    "also": [],
-   "score": 7.039
+   "score": 6.415
   },
   {
    "title": "Juve sempre più azzurra: nel mirino ci sono tre centrocampisti italiani",
@@ -749,9 +452,9 @@
    "published": "2026-10-03T11:54:30+00:00",
    "image": "",
    "id": "225d5e0ae0a2",
-   "age_minutes": 703,
+   "age_minutes": 1035,
    "also": [],
-   "score": 4.849
+   "score": 4.297
   },
   {
    "title": "Tegola Napoli, il comunicato ufficiale: infortunio muscolare",
@@ -763,9 +466,9 @@
    "published": "2026-10-03T10:04:42+00:00",
    "image": "",
    "id": "07ce9105aea9",
-   "age_minutes": 813,
+   "age_minutes": 1144,
    "also": [],
-   "score": 6.636
+   "score": 6.166
   },
   {
    "title": "Atalanta, Sarri nei guai: stop di 2-3 settimane per un big",
@@ -777,9 +480,9 @@
    "published": "2026-10-03T08:03:24+00:00",
    "image": "",
    "id": "96c1fc8b718f",
-   "age_minutes": 934,
+   "age_minutes": 1266,
    "also": [],
-   "score": 4.438
+   "score": 4.043
   },
   {
    "title": "Bomba Inter, arriva l’annuncio: “Via uno tra Lautaro e Thuram”",
@@ -791,9 +494,9 @@
    "published": "2026-10-03T07:00:28+00:00",
    "image": "",
    "id": "31bd368a484b",
-   "age_minutes": 997,
+   "age_minutes": 1329,
    "also": [],
-   "score": 4.348
+   "score": 3.987
   },
   {
    "title": "Nessun dubbio sul futuro: “La Juve è sempre meglio dell’Inter”",
@@ -805,9 +508,9 @@
    "published": "2026-10-03T05:18:08+00:00",
    "image": "",
    "id": "dd0ecc09d8dc",
-   "age_minutes": 1099,
+   "age_minutes": 1431,
    "also": [],
-   "score": 4.217
+   "score": 3.906
   },
   {
    "title": "Francia-Italia 1-1, Bastoni risponde a Olise",
@@ -819,9 +522,9 @@
    "published": "2026-10-02T20:42:36+00:00",
    "image": "",
    "id": "e41e31ec0e0e",
-   "age_minutes": 1615,
+   "age_minutes": 1947,
    "also": [],
-   "score": 3.788
+   "score": 3.64
   },
   {
    "title": "Un bomber da 70 milioni per Chivu: l’Inter sfida la big inglese",
@@ -833,9 +536,9 @@
    "published": "2026-10-02T19:12:59+00:00",
    "image": "",
    "id": "cefcc73fb729",
-   "age_minutes": 1704,
+   "age_minutes": 2036,
    "also": [],
-   "score": 3.741
+   "score": 3.611
   },
   {
    "title": "Dal Napoli alla Juventus: c’è di mezzo anche il Milan",
@@ -847,9 +550,9 @@
    "published": "2026-10-02T18:00:24+00:00",
    "image": "",
    "id": "8641b8336074",
-   "age_minutes": 1777,
+   "age_minutes": 2109,
    "also": [],
-   "score": 3.707
+   "score": 3.59
   },
   {
    "title": "Dybala, clamorosa decisione: coinvolte Juventus e Napoli",
@@ -1026,6 +729,484 @@
    "id": "dcea56216ae3"
   },
   {
+   "title": "La Juve prepara il tour de force",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-prepara-tour-de-force-795413",
+   "summary": "Sette partite in una ventina di giorni e un'infermeria ancora troppo affollata obbligano Luciano Spalletti a inventarsi qualcosa.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-04T05:00:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/79/79c9870e933366db00f0e7869bcffcd6-30464-oooz0000.jpeg",
+   "id": "51f9bfa40ff6"
+  },
+  {
+   "title": "Yildiz, c’è un piano!",
+   "link": "https://www.tuttojuve.com/altre-notizie/yildiz-c-e-piano-795410",
+   "summary": "Kenan Yildiz è uno dei giocatori attorno ai quali la Juventus vuole costruire il proprio futuro, ma il mercato non permette di considerare intoccabile praticamente nessuno quando entrano in gioco offerte superiori ai…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-04T04:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d9/d9a2523978a9dbfa15acbbd8afa11b00-66963-oooz0000.jpeg",
+   "id": "f20b14004165",
+   "age_minutes": 24,
+   "also": [],
+   "score": 5.86
+  },
+  {
+   "title": "Milan su Endrick",
+   "link": "https://www.tuttojuve.com/calciomercato/milan-endrick-795411",
+   "summary": "Il Milan potrebbe provare il grande colpo Endrick nel mercato di gennaio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-04T04:30:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/45/4556ff34a1581aa59456169fcaeebc6c-62201-oooz0000.jpeg",
+   "id": "cfabad1f1a93",
+   "age_minutes": 39,
+   "also": [
+    {
+     "source": "TuttoJuve",
+     "link": "https://www.tuttojuve.com/calciomercato/endrick-addio-real-madrid-milan-roma-finestra-795406"
+    }
+   ],
+   "score": 7.178
+  },
+  {
+   "title": "Sveglia Juventus! Non è il primo di aprile...",
+   "link": "https://www.tuttojuve.com/firme-bianconere/sveglia-juventus-aprile-795343",
+   "summary": "La Juventus resta l’unica certezza societaria del povero calcio italiano. Oltre un secolo con la stessa famiglia al comando.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-04T04:04:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
+   "id": "95c54a8a7b9f"
+  },
+  {
+   "title": "Anche l'Arsenal su Nusa",
+   "link": "https://www.tuttojuve.com/calciomercato/arsenal-nusa-795360",
+   "summary": "La Juventus potrebbe tornare a guardare con attenzione ad Antonio Nusa, uno dei giovani esterni offensivi più interessanti del panorama europeo e un profilo già accostato in passato al club bianconero.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T23:30:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db7de7b2719f6e560458ad529a8a98ff-54089-oooz0000.jpeg",
+   "id": "5f7ee04ea5e2"
+  },
+  {
+   "title": "Balogun è in lista, ma attenti alla concorrenza",
+   "link": "https://www.tuttojuve.com/calciomercato/balogun-lista-attenti-concorrenza-795363",
+   "summary": "La Juventus continua a guardare con attenzione a Folarin Balogun, attaccante del Monaco che potrebbe diventare uno dei nomi più interessanti per la rivoluzione offensiva programmata in vista dell'estate 2027.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T23:15:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/92/929b110ea181971c8fb9898b4d293ece-66595-oooz0000.jpeg",
+   "id": "88c8473b69f2"
+  },
+  {
+   "title": "Barcellona su Tresoldi",
+   "link": "https://www.tuttojuve.com/calciomercato/barcellona-tresoldi-795359",
+   "summary": "Un altro giovane attaccante entra prepotentemente nel grande mercato europeo e il suo nome non è completamente nuovo nemmeno dalle parti della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T23:00:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/909ed51280c5aeb33aff3e333590d80e-63190-oooz0000.jpeg",
+   "id": "3192771268e8",
+   "age_minutes": 369,
+   "also": [],
+   "score": 4.347
+  },
+  {
+   "title": "Kim verso la Premier, sfuma la pista Juve",
+   "link": "https://www.tuttojuve.com/calciomercato/kim-premier-sfuma-pista-juve-795365",
+   "summary": "La Juventus potrebbe trovare una nuova occasione sul mercato dei difensori, perché la situazione di Kim Min-jae al Bayern Monaco sembra essere cambiata rispetto al recente passato e una partenza del centrale coreano non…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T22:45:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c46497a74be9ad071c0367047ab3ca9-31133-oooz0000.jpeg",
+   "id": "1f98952e9ac8",
+   "age_minutes": 383,
+   "also": [],
+   "score": 4.298
+  },
+  {
+   "title": "Aumenta la concorrenza per Brahim Diaz",
+   "link": "https://www.tuttojuve.com/calciomercato/aumenta-concorrenza-brahim-diaz-795358",
+   "summary": "La Juventus continua a tenere Brahim Diaz tra i nomi più interessanti per il futuro, ma la strada per arrivare al fantasista marocchino del Real Madrid potrebbe diventare decisamente più complicata.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T22:30:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/aa/aab01c19a8254e41ac72073540857fe1-39850-oooz0000.jpeg",
+   "id": "dab362005fed"
+  },
+  {
+   "title": "Il Lione vorrebbe bloccare Openda a gennaio, ma è difficile",
+   "link": "https://www.tuttojuve.com/calciomercato/lione-vorrebbe-bloccare-openda-gennaio-difficile-795368",
+   "summary": "Loïs Openda sta provando a ricostruire la propria carriera al Lione dopo una stagione molto complicata con la Juventus, e le prime settimane francesi hanno restituito qualche segnale incoraggiante.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T22:15:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7c/7cca4e22f62e4de2099b8b159225b1ee-07458-oooz0000.jpeg",
+   "id": "f2979753d43d"
+  },
+  {
+   "title": "Maestro Spalletti, che lezione ai giovani!",
+   "link": "https://www.tuttojuve.com/primo-piano/maestro-spalletti-lezione-giovani-795289",
+   "summary": "La nuova Juventus non vuole soltanto acquistare giovani di talento. Vuole soprattutto trasformarli in giocatori veri, capaci di reggere il peso della maglia bianconera e diventare protagonisti ad alto livello.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T22:05:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
+   "id": "a226a2b62022"
+  },
+  {
+   "title": "Sesko piace ma serve lo sconto",
+   "link": "https://www.tuttojuve.com/calciomercato/sesko-piace-serve-sconto-795361",
+   "summary": "La Juventus pensa in grande per l'attacco della prossima stagione e uno dei nomi più importanti presenti sulla lista della dirigenza sarebbe quello di Benjamin Sesko, centravanti sloveno che continua ad attirare l'interesse d ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T22:00:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3f/3fcb11bb5d1b5463b320c256719d8cbd-34881-oooz0000.jpeg",
+   "id": "a295368f7b95"
+  },
+  {
+   "title": "Pjanic: \"Juve, è presto per lo scudetto. Alajbegovic avrà un futuro importante, quella personalità a quell'età lì non è normale\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/pjanic-juve-presto-scudetto-alajbegovic-importante-personalita-quell-eta-li-normale-795409",
+   "summary": "Miralem Pjanic, ex centrocampista di Roma e Juventus, è stato protagonista al Festival dello Sport di Trento.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T21:45:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/50/501467e7484e7e6a8ae6360fbc5e6daa-58992-792o0o1500o708z0bb8.jpeg",
+   "id": "d0fa75756687"
+  },
+  {
+   "title": "Portogallo, caos Ronaldo: Georgina attacca Jorge Jesus e poi cancella la storia",
+   "link": "https://www.tuttojuve.com/altre-notizie/portogallo-caos-ronaldo-georgina-attacca-jorge-jesus-cancella-storia-795408",
+   "summary": "La vicenda che coinvolge Cristiano Ronaldo, il Portogallo e il commissario tecnico Jorge Jesus si sposta sempre più sui social.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T21:30:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e1/e1fbc53738ab0853f19df8f9c65847b8-97243-oooz0000.jpeg",
+   "id": "966fab198353"
+  },
+  {
+   "title": "Francia-Italia, L'Equipe: \"Kalulu altalenante\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/francia-italia-equipe-kalulu-altalenante-795407",
+   "summary": "Pierre Kalulu non va oltre il 5 in pagella per L'Equipe dopo il pareggio per 1-1 tra Francia e Italia in Nations League.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T21:15:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c0/c0dc7fe9c010fac5de871983311a99f3-71245-553o60o1240o746z0a27.jpeg",
+   "id": "8a42aed4b0c5"
+  },
+  {
+   "title": "Endrick verso l'addio al Real Madrid: Milan e Roma alla finestra",
+   "link": "https://www.tuttojuve.com/calciomercato/endrick-addio-real-madrid-milan-roma-finestra-795406",
+   "summary": "Appena quattro minuti giocati in stagione e un futuro al Real Madrid che torna in discussione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T21:00:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/51ed091d325c107378c8e117e473d18b-59853-oooz0000.jpeg",
+   "id": "5736e9a2470c",
+   "_kw": 2.0,
+   "_fresh": 0.4936121503593839,
+   "_fp": "endrick verso addio real madrid milan roma finestra",
+   "age_minutes": 488
+  },
+  {
+   "title": "Spagna, tris alla Cechia: Yamal ancora in gol, segnano anche Rodri e Merino",
+   "link": "https://www.tuttojuve.com/altre-notizie/spagna-tris-cechia-yamal-gol-segnano-rodri-merino-795404",
+   "summary": "La Spagna continua a vincere. Nonostante diverse novità nella formazione iniziale, soprattutto tra difesa e attacco, la squadra di De La Fuente supera 3-1 la Cechia a Oviedo e conquista la terza vittoria consecutiva in Nations League.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T20:45:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/08/08b4bfe86d85bde667bca7f7b4fbbbce-56557-oooz0000.jpeg",
+   "id": "a4436f34029f"
+  },
+  {
+   "title": "Qui Cagliari - Caprile carica i rossoblù verso la Juve: \"Pronti e motivati\"",
+   "link": "https://www.tuttojuve.com/l-avversario/cagliari-caprile-carica-rossoblu-juve-pronti-motivati-795403",
+   "summary": "Elia Caprile celebra sui social la vittoria del Cagliari contro il Rayo Vallecano nel Trofeo de Vallecas.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T20:30:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0c/0c9983105c39c31986eff03423c31e47-25527-oooz0000.jpeg",
+   "id": "6d495b8a5b62"
+  },
+  {
+   "title": "John Elkann sbarca su Linkedin e finisce nel mirino di haters e detrattori (anche juventini)",
+   "link": "https://www.tuttojuve.com/altre-notizie/john-elkann-sbarca-linkedin-finisce-mirino-haters-detrattori-anche-juventini-795402",
+   "summary": "Anche John Elkann entra nel mondo dei social. Il presidente di Stellantis e ceo di Exor ha scelto LinkedIn, la piattaforma dedicata soprattutto al mondo professionale, dove il suo debutto ha raccolto circa 3.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T20:30:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d8/d8257b1e176be37a9d451035a70e2b67-60119-oooz0000.jpeg",
+   "id": "be4c3c7dad13"
+  },
+  {
+   "title": "Torri: \"Mi ha colpito ciò che Gasperini ha detto su Dybala\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/torri-mi-colpito-gasperini-dybala-795401",
+   "summary": "Il giornalista de La Repubblica Piero Torri, intervenuto ai microfoni di Radio Manà Manà Sport Roma (90.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-03T20:15:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/af9aa167c3e4f848b3feed168aab265c-23932-oooz0000.jpeg",
+   "id": "cb17924ab159"
+  },
+  {
+   "title": "Hojlund, Lang e Milinkovic oggi in campo: dove vedere le gare degli azzurri",
+   "link": "https://www.tuttonapoli.net/brevi/hojlund-lang-milinkovic-campo-vedere-gare-azzurri-658059",
+   "summary": "Domenica 4 ottobre con diversi appuntamenti di Nations League e particolare attenzione ai calciatori del Napoli impegnati con le rispettive nazionali. Alle 20.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-04T05:00:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4d/4d80f496431ea5da9e42177e51bc3a42-65488-oooz0000.jpeg",
+   "id": "6ed3262c06a6"
+  },
+  {
+   "title": "Montervino: \"Vergara può essere il futuro del Napoli! Non mi serviva l'esordio con l'Italia...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/montervino-vergara-napoli-serviva-esordio-italia-658028",
+   "summary": "Il Napoli guarda alla ripresa del campionato con alcune indicazioni positive arrivate dalla sosta per le Nazionali.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-04T04:00:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e8/e83efef2be83c4357b92dc711b2b0d3b-81777-oooz0000.jpeg",
+   "id": "cfddc248565d"
+  },
+  {
+   "title": "Paganini: \"Riserve Napoli non all'altezza dei titolari! Passare da Gabriel Jesus a Lucca...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/paganini-riserve-napoli-altezza-titolari-passare-658020",
+   "summary": "Il Napoli si prepara ad affrontare un periodo decisivo della stagione, con un calendario fitto di impegni e diverse questioni da affrontare anche fuori dal campo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-04T03:00:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/77/778077c32113603ecb549a85eb27f194-95110-oooz0000.jpeg",
+   "id": "10aef0479c9d"
+  },
+  {
+   "title": "Vergara incanta all’esordio, Mignano: “Suggerisco ad Allegri di mutuare le parole di Mancini”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/vergara-incanta-all-esordio-mignano-suggerisco-allegri-mutuare-parole-mancini-658031",
+   "summary": "L’Italia riparte dalla prestazione contro la Francia e da una generazione di giovani che sembra finalmente pronta a prendersi la scena.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-04T02:00:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/50/50b2f81eb226ae014daa2bb743330eab-87691-oooz0000.jpeg",
+   "id": "5f07cdf3b6f3"
+  },
+  {
+   "title": "De Bruyne e Hojlund show in nazionale, Caporale: “Mi pongo una domanda”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-bruyne-hojlund-show-nazionale-caporale-mi-pongo-domanda-658034",
+   "summary": "Le nazionali lasciano indicazioni importanti anche in chiave Napoli: Kevin De Bruyne ancora protagonista con il Belgio e Antonio Vergara capace di mettersi in mostra con personalità e qualità con l'Italia.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-04T01:00:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a02463d5ffba12e42e2351d28631354-36371-oooz0000.jpeg",
+   "id": "f1f62ef4f4fc"
+  },
+  {
+   "title": "Allegri cambia modulo? Marino: \"Vi dico quale può essere il vantaggio del nuovo sistema\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/marino-jjj-658024",
+   "summary": "La Nazionale riparte dalla reazione mostrata contro la Francia, mentre in casa Napoli si guarda alla sosta per trovare soluzioni e correggere ciò che finora non ha funzionato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-04T00:00:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/38/38c31716222baa6c0a81418de1256d4a-82000-oooz0000.jpeg",
+   "id": "b3271f0f16f7"
+  },
+  {
+   "title": "Di Lorenzo, l'abdicazione silenziosa: Kayode gli ha preso la fascia destra dell'Italia",
+   "link": "https://www.tuttonapoli.net/copertina/lorenzo-abdicazione-silenziosa-kayode-preso-fascia-destra-italia-658003",
+   "summary": "Questa mega sosta per le Nazionali rischia di essere ricordata come lo spartiacque della carriera in azzurro di Giovanni Di Lorenzo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T23:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/40/40eca3f8be315d450706f1fb96455f09-39281-oooz0000.jpeg",
+   "id": "9f6433dcc306"
+  },
+  {
+   "title": "De Bruyne supera 200 gol in carriera: tutti i numeri del fenomeno belga",
+   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-200-gol-carriera-numeri-fenomeno-belga-657976",
+   "summary": "Un'altra pagina importante nella straordinaria carriera di Kevin De Bruyne.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T22:30:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c315bab2408ff7266e97ca9e4c959d42-64776-oooz0000.jpeg",
+   "id": "5e589dd7e7e9"
+  },
+  {
+   "title": "Calciomercato Napoli, resistono i nomi di Sow e Dodò per rinforzare le corsie",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-resistono-nomi-sow-dodo-rinforzare-corsie-658061",
+   "summary": "Il Napoli studia rinforzi anche sulle corsie esterne in vista delle prossime sessioni di mercato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T22:00:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/30/30b7226fad407d79b67262e0cfb25482-89890-oooz0000.jpeg",
+   "id": "8597a2494f11",
+   "age_minutes": 428,
+   "also": [],
+   "score": 7.353
+  },
+  {
+   "title": "Nuovo centro sportivo? Lo Monaco: \"A Napoli sarebbe boom. Porta punti e patrimonio...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/centro-sportivo-monaco-a-napoli-boom-porta-punti-patrimonio-658056",
+   "summary": "Il tema del centro sportivo continua a essere uno dei nodi più importanti per il futuro del Napoli, soprattutto in ottica patrimoniale e di crescita strutturale del club.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T21:50:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/66/66f6da0d2b918fd1592d76b14eb7557f-80743-oooz0000.jpeg",
+   "id": "b9fdb677cf26"
+  },
+  {
+   "title": "McTominay-Anguissa, stallo rinnovi: il Napoli corre ai ripari e prepara due colpi",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/mctominay-anguissa-stallo-rinnovi-napoli-corre-ripari-segue-centrocampisti-658060",
+   "summary": "Il Napoli guarda già al calciomercato invernale e osserva attentamente la situazione nel reparto di centrocampo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T21:40:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
+   "id": "d0191ad5b6e3",
+   "age_minutes": 449,
+   "also": [],
+   "score": 4.891
+  },
+  {
+   "title": "Pjanic e l'aneddoto su Allegri: \"Vincemmo a Napoli perché costrinse Ronaldo a uscire...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/pjanic-aneddoto-allegri-vincemmo-napoli-costrinse-ronaldo-uscire-658057",
+   "summary": "Il rapporto con Massimiliano Allegri e la corsa Scudetto in Serie A sono stati alcuni dei temi affrontati da Miralem Pjanic al Festival dello Sport di Trento.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T21:30:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f6/f60f512cab04f0748562a24331a1ddef-25688-oooz0000.jpeg",
+   "id": "34a527ea4618"
+  },
+  {
+   "title": "Basket Napoli, che avvio di stagione: battuta anche la Reggiana 99-93",
+   "link": "https://www.tuttonapoli.net/basket-napoli/basket-napoli-avvio-stagione-battuta-reggiana-99-93-658055",
+   "summary": "Il Basket Napoli continua il suo ottimo avvio di stagione e supera 99-93 la Reggiana nella seconda giornata di campionato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T21:15:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2afb235ab1b42f9a6ac617a6baa127b9-33482-oooz0000.jpeg",
+   "id": "cce43de4d066"
+  },
+  {
+   "title": "Nations League, la Svizzera passa di misura con la Slovenia: a segno Ndoye",
+   "link": "https://www.tuttonapoli.net/notizie/nations-league-svizzera-passa-misura-slovenia-segno-ndoye-658054",
+   "summary": "La Svizzera supera di misura la Slovenia: vittoria per 2-1 nella terza giornata di Nations League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T21:00:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a6/a65310747e79c3cf7f2f00f6b43194ea-57082-oooz0000.jpeg",
+   "id": "1609b987ed04"
+  },
+  {
+   "title": "Spagna inarrestabile: la vittoria con la Repubblica Ceca è il 41° risultato utile di fila",
+   "link": "https://www.tuttonapoli.net/notizie/spagna-inarrestabile-vittoria-repubblica-ceca-41-risultato-utile-fila-658053",
+   "summary": "La Spagna continua la propria marcia inarrestabile battendo 3-1 la Repubblica Ceca nella terza giornata di Nations League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T20:50:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fa/faf329e9c8d9d22c850475e10aa1020d-03569-oooz0000.jpeg",
+   "id": "c833d90a593c"
+  },
+  {
+   "title": "Gilmour protagonista con la Scozia: assist e 88' nel 2-0 contro la Macedonia del Nord",
+   "link": "https://www.tuttonapoli.net/notizie/gilmour-protagonista-scozia-assist-88-2-0-macedonia-nord-658052",
+   "summary": "La Scozia supera 2-0 la Macedonia del Nord nella sfida di Nations League, trovando il vantaggio già al 7’ con Bowie, servito proprio da Billy Gilmour.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T20:40:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/324c9027a946fd2be373aa657be6bd6e-14047-oooz0000.jpeg",
+   "id": "c71ebea8a60e"
+  },
+  {
+   "title": "Mele ad Allegri: \"Vergara-Hojlund-De Bruyne, segnali che non puoi ignorare. Basta prudenza\"",
+   "link": "https://www.tuttonapoli.net/dai-social/mele-allegri-vergara-hojlund-de-bruyne-segnali-puoi-ignorare-prudenza-658050",
+   "summary": "Le ultime partite delle Nazionali hanno offerto diversi spunti anche in chiave Napoli, soprattutto per il rendimento di alcuni giocatori chiamati a essere protagonisti anche con il club a partire dal rientro dalla sosta.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T20:30:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/30/30e83533ae38b63aeef133557637bafa-29460-oooz0000.jpeg",
+   "id": "bd3c52cb21e6"
+  },
+  {
+   "title": "Del Genio: “Allegri deve cambiare! Basta sacrificare Hojlund e De Bruyne, così dove andiamo?”",
+   "link": "https://www.tuttonapoli.net/le-interviste/genio-allegri-cambiare-sacrificare-hojlund-de-bruyne-andiamo-658051",
+   "summary": "Il rendimento di Kevin De Bruyne continua a essere uno dei temi centrali nel dibattito sul momento del Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T20:15:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cc/cc46351400f42c2345c44acc7abc8a90-75010-oooz0000.jpeg",
+   "id": "3562db21a2f6"
+  },
+  {
+   "title": "ADL vuole eliminare l'intervallo, Bellinazzo: \"Provocazione, ma il fenomeno è palese...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/adl-vuole-eliminare-intervallo-bellinazzo-provocazione-fenomeno-palese-658049",
+   "summary": "Il tema dell’attenzione degli spettatori sta diventando sempre più centrale anche nel calcio, tra tempi morti, durata delle partite e necessità di rendere il prodotto più dinamico.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T20:00:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/96/96e914d13ecb6391b297df4dc919c2b3-88799-oooz0000.jpeg",
+   "id": "4e8754ce6528"
+  },
+  {
+   "title": "Infortuni Napoli, dott. Casucci: \"Calciatori spremuti! Un tempo 35 gare all'anno, ora 50 e più\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/infortuni-napoli-dott-casucci-calciatori-spremuti-35-gare-anno-50-piu-658048",
+   "summary": "Gerardo Casucci, medico neurologo e giornalista sportivo, è intervenuto ai microfoni di Radio Tutto Napoli per analizzare il momento della squadra azzurra.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-03T19:45:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c960b8e4bfc7815b00ffa11de42bb806-40164-oooz0000.jpeg",
+   "id": "3206f3c31c3b"
+  },
+  {
+   "title": "Milan, ultimo giorno di riposo: da lunedì si ritorna a Milanello",
+   "link": "https://www.milannews.it/news/milan-riposo-lunedi-ritorna-milanello-631648",
+   "summary": "Ultimo giorno di riposo prima della ripresa degli allenamenti e conseguente tour de force tra Serie A ed Europa League. Lunedì si riprende il lavoro a Milanello e pian piano torneranno i rossoneri impegnati con le nazionali.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-04T05:00:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e3/e37c084f67b01dd70ecae8de451d995c-37626-oooz0000.jpeg",
+   "id": "595eba21bafb"
+  },
+  {
    "title": "\"È folle che sia così forte\": Gila innamorato di Yamal. Poi scherza: \"Cardinale deve fare i miracoli\"",
    "link": "https://www.milannews.it/news/e-folle-forte-gila-ammiratore-yamal-scherza-cardinale-miracoli-631645",
    "summary": "Tutto il mondo ai piedi di Lamine Yamal. La stella classe 2007 continua a stupire tutti anche con la Spagna a suon di gol e giocate da campione.",
@@ -1035,9 +1216,9 @@
    "published": "2026-10-03T23:00:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ad/ad0c2a19fe6d0c304055fb26bc4a1fb0-42183-oooz0000.jpeg",
    "id": "acb970b43c44",
-   "age_minutes": 37,
+   "age_minutes": 369,
    "also": [],
-   "score": 5.388
+   "score": 3.945
   },
   {
    "title": "La Croazia perde 7-0, Modric: \"Per la prima volta mi vergogno dopo una partita\"",
@@ -1159,9 +1340,9 @@
    "published": "2026-10-03T20:51:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b4/b45116960cd745027ac75fa0ee33a2c5-82577-oooz0000.jpeg",
    "id": "74d9baf89f0c",
-   "age_minutes": 166,
+   "age_minutes": 498,
    "also": [],
-   "score": 5.145
+   "score": 3.948
   },
   {
    "title": "Gila, parole da leader: “Non sono così determinante, aiuto il più possibile. Terzino? Mi piace e mi stimola”",
@@ -1195,9 +1376,9 @@
    "published": "2026-10-03T20:12:05+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/32/32f1e30f1e4a32a8d874c0f3fd2d6c85-83918-344o229o1458o1343z0d2e.jpeg",
    "id": "40ec0cffc311",
-   "age_minutes": 205,
+   "age_minutes": 537,
    "also": [],
-   "score": 4.972
+   "score": 3.84
   },
   {
    "title": "Gila su Amorim: \"È un allenatore moderno, che trasmette grinta. Ha intenzioni e idee giustissime\"",
@@ -1242,249 +1423,6 @@
    "published": "2026-10-03T19:24:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f419a74a2e66612c5dd39df7aa4ba9f-42016-oooz0000.jpeg",
    "id": "172c4eb6f167"
-  },
-  {
-   "title": "Pato e il gol al Barcellona dopo pochi secondi: \"E' stato bellissimo, tutti si ricordano di quella rete\"",
-   "link": "https://www.milannews.it/gli-ex/pato-gol-barcellona-pochi-secondi-e-bellissimo-ricordano-rete-631600",
-   "summary": "Alexandre Pato, ex attaccante che ha vestito la maglia del Milan dal 2007 al 2013, ha commentato così la sua esperienza in rossonero durante il suo intervento al Festival dello Sport di Trento: Sul gol al Barcellona dopo pochi secondi: &quo ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-03T19:12:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/30/30edb6a85b8d4db97ba688f03e172d75-34632-oooz0000.jpeg",
-   "id": "a27256d5a191"
-  },
-  {
-   "title": "Di Lorenzo, l'abdicazione silenziosa: Kayode gli ha preso la fascia destra dell'Italia",
-   "link": "https://www.tuttonapoli.net/copertina/lorenzo-abdicazione-silenziosa-kayode-preso-fascia-destra-italia-658003",
-   "summary": "Questa mega sosta per le Nazionali rischia di essere ricordata come lo spartiacque della carriera in azzurro di Giovanni Di Lorenzo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T23:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/40/40eca3f8be315d450706f1fb96455f09-39281-oooz0000.jpeg",
-   "id": "9f6433dcc306"
-  },
-  {
-   "title": "De Bruyne supera 200 gol in carriera: tutti i numeri del fenomeno belga",
-   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-200-gol-carriera-numeri-fenomeno-belga-657976",
-   "summary": "Un'altra pagina importante nella straordinaria carriera di Kevin De Bruyne.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T22:30:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c315bab2408ff7266e97ca9e4c959d42-64776-oooz0000.jpeg",
-   "id": "5e589dd7e7e9"
-  },
-  {
-   "title": "Calciomercato Napoli, resistono i nomi di Sow e Dodò per rinforzare le corsie",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-resistono-nomi-sow-dodo-rinforzare-corsie-658061",
-   "summary": "Il Napoli studia rinforzi anche sulle corsie esterne in vista delle prossime sessioni di mercato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T22:00:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/30/30b7226fad407d79b67262e0cfb25482-89890-oooz0000.jpeg",
-   "id": "8597a2494f11",
-   "age_minutes": 97,
-   "also": [],
-   "score": 8.677
-  },
-  {
-   "title": "Nuovo centro sportivo? Lo Monaco: \"A Napoli sarebbe boom. Porta punti e patrimonio...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/centro-sportivo-monaco-a-napoli-boom-porta-punti-patrimonio-658056",
-   "summary": "Il tema del centro sportivo continua a essere uno dei nodi più importanti per il futuro del Napoli, soprattutto in ottica patrimoniale e di crescita strutturale del club.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T21:50:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/66/66f6da0d2b918fd1592d76b14eb7557f-80743-oooz0000.jpeg",
-   "id": "b9fdb677cf26"
-  },
-  {
-   "title": "McTominay-Anguissa, stallo rinnovi: il Napoli corre ai ripari e prepara due colpi",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/mctominay-anguissa-stallo-rinnovi-napoli-corre-ripari-segue-centrocampisti-658060",
-   "summary": "Il Napoli guarda già al calciomercato invernale e osserva attentamente la situazione nel reparto di centrocampo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T21:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
-   "id": "d0191ad5b6e3",
-   "age_minutes": 117,
-   "also": [],
-   "score": 6.176
-  },
-  {
-   "title": "Pjanic e l'aneddoto su Allegri: \"Vincemmo a Napoli perché costrinse Ronaldo a uscire...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/pjanic-aneddoto-allegri-vincemmo-napoli-costrinse-ronaldo-uscire-658057",
-   "summary": "Il rapporto con Massimiliano Allegri e la corsa Scudetto in Serie A sono stati alcuni dei temi affrontati da Miralem Pjanic al Festival dello Sport di Trento.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T21:30:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f6/f60f512cab04f0748562a24331a1ddef-25688-oooz0000.jpeg",
-   "id": "34a527ea4618"
-  },
-  {
-   "title": "Basket Napoli, che avvio di stagione: battuta anche la Reggiana 99-93",
-   "link": "https://www.tuttonapoli.net/basket-napoli/basket-napoli-avvio-stagione-battuta-reggiana-99-93-658055",
-   "summary": "Il Basket Napoli continua il suo ottimo avvio di stagione e supera 99-93 la Reggiana nella seconda giornata di campionato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T21:15:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2afb235ab1b42f9a6ac617a6baa127b9-33482-oooz0000.jpeg",
-   "id": "cce43de4d066"
-  },
-  {
-   "title": "Nations League, la Svizzera passa di misura con la Slovenia: a segno Ndoye",
-   "link": "https://www.tuttonapoli.net/notizie/nations-league-svizzera-passa-misura-slovenia-segno-ndoye-658054",
-   "summary": "La Svizzera supera di misura la Slovenia: vittoria per 2-1 nella terza giornata di Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T21:00:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a6/a65310747e79c3cf7f2f00f6b43194ea-57082-oooz0000.jpeg",
-   "id": "1609b987ed04"
-  },
-  {
-   "title": "Spagna inarrestabile: la vittoria con la Repubblica Ceca è il 41° risultato utile di fila",
-   "link": "https://www.tuttonapoli.net/notizie/spagna-inarrestabile-vittoria-repubblica-ceca-41-risultato-utile-fila-658053",
-   "summary": "La Spagna continua la propria marcia inarrestabile battendo 3-1 la Repubblica Ceca nella terza giornata di Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T20:50:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fa/faf329e9c8d9d22c850475e10aa1020d-03569-oooz0000.jpeg",
-   "id": "c833d90a593c"
-  },
-  {
-   "title": "Gilmour protagonista con la Scozia: assist e 88' nel 2-0 contro la Macedonia del Nord",
-   "link": "https://www.tuttonapoli.net/notizie/gilmour-protagonista-scozia-assist-88-2-0-macedonia-nord-658052",
-   "summary": "La Scozia supera 2-0 la Macedonia del Nord nella sfida di Nations League, trovando il vantaggio già al 7’ con Bowie, servito proprio da Billy Gilmour.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/324c9027a946fd2be373aa657be6bd6e-14047-oooz0000.jpeg",
-   "id": "c71ebea8a60e"
-  },
-  {
-   "title": "Mele ad Allegri: \"Vergara-Hojlund-De Bruyne, segnali che non puoi ignorare. Basta prudenza\"",
-   "link": "https://www.tuttonapoli.net/dai-social/mele-allegri-vergara-hojlund-de-bruyne-segnali-puoi-ignorare-prudenza-658050",
-   "summary": "Le ultime partite delle Nazionali hanno offerto diversi spunti anche in chiave Napoli, soprattutto per il rendimento di alcuni giocatori chiamati a essere protagonisti anche con il club a partire dal rientro dalla sosta.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T20:30:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/30/30e83533ae38b63aeef133557637bafa-29460-oooz0000.jpeg",
-   "id": "bd3c52cb21e6"
-  },
-  {
-   "title": "Del Genio: “Allegri deve cambiare! Basta sacrificare Hojlund e De Bruyne, così dove andiamo?”",
-   "link": "https://www.tuttonapoli.net/le-interviste/genio-allegri-cambiare-sacrificare-hojlund-de-bruyne-andiamo-658051",
-   "summary": "Il rendimento di Kevin De Bruyne continua a essere uno dei temi centrali nel dibattito sul momento del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T20:15:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cc/cc46351400f42c2345c44acc7abc8a90-75010-oooz0000.jpeg",
-   "id": "3562db21a2f6"
-  },
-  {
-   "title": "ADL vuole eliminare l'intervallo, Bellinazzo: \"Provocazione, ma il fenomeno è palese...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/adl-vuole-eliminare-intervallo-bellinazzo-provocazione-fenomeno-palese-658049",
-   "summary": "Il tema dell’attenzione degli spettatori sta diventando sempre più centrale anche nel calcio, tra tempi morti, durata delle partite e necessità di rendere il prodotto più dinamico.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T20:00:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/96/96e914d13ecb6391b297df4dc919c2b3-88799-oooz0000.jpeg",
-   "id": "4e8754ce6528"
-  },
-  {
-   "title": "Infortuni Napoli, dott. Casucci: \"Calciatori spremuti! Un tempo 35 gare all'anno, ora 50 e più\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/infortuni-napoli-dott-casucci-calciatori-spremuti-35-gare-anno-50-piu-658048",
-   "summary": "Gerardo Casucci, medico neurologo e giornalista sportivo, è intervenuto ai microfoni di Radio Tutto Napoli per analizzare il momento della squadra azzurra.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T19:45:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c960b8e4bfc7815b00ffa11de42bb806-40164-oooz0000.jpeg",
-   "id": "3206f3c31c3b"
-  },
-  {
-   "title": "Nations League, che batosta per la Croazia: Inghilterra a valanga, finisce 7-0",
-   "link": "https://www.tuttonapoli.net/notizie/nations-league-inghilterra-valanga-croazia-vittoria-7-0-658047",
-   "summary": "L’Inghilterra travolge la Croazia con un netto 7-0 nella terza giornata di Nations League, chiudendo di fatto la partita già nel primo tempo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T19:30:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/46/462c7067c71c0f375afaf7951798d9dc-09139-oooz0000.jpeg",
-   "id": "f8ab5746cd94"
-  },
-  {
-   "title": "Clamoroso dalla Germania: Juve su Gutierrez! Il valore è quasi raddoppiato",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/clamoroso-germania-juve-vuole-gutierrez-valore-aumentato-658046",
-   "summary": "La Juventus continua a monitorare il mercato internazionale alla ricerca di un esterno per la rosa di Luciano Spalletti. Secondo quanto riportato in Germania da Fussball-news.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T19:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c387dc2cec2e7bca1a6032da1f48d2e6-28908-oooz0000.jpeg",
-   "id": "ffc32b7cb825",
-   "age_minutes": 262,
-   "also": [],
-   "score": 4.737
-  },
-  {
-   "title": "Gila svela: \"Mi volevano Napoli e Inter. Vi spiego perché ho scelto il Milan...\"",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/gila-svela-mi-volevano-napoli-inter-spiego-scelto-milan-658045",
-   "summary": "Il mercato estivo ha portato Mario Gila al Milan, ma il difensore spagnolo aveva attirato l’interesse anche di altre big italiane.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T19:00:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fd/fded85af3e4884f992c4a57aea335e65-38762-oooz0000.jpeg",
-   "id": "afbb99acd786",
-   "age_minutes": 276,
-   "also": [],
-   "score": 4.682
-  },
-  {
-   "title": "Serie A, Altobelli: \"Sarebbe bello vedere anche Napoli e Milan in lotta\"",
-   "link": "https://www.tuttonapoli.net/serie-a/serie-a-altobelli-sarebbe-bello-vedere-napoli-milan-lotta-658044",
-   "summary": "La Serie A sta per entrare nel vivo e, tra le squadre indicate ai vertici, l’Inter continua a essere considerata una delle principali candidate al titolo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T18:45:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d5/d59995df0585b4ef72206738100d804a-16821-oooz0000.jpeg",
-   "id": "0381ffd57e37"
-  },
-  {
-   "title": "Svizzera-Slovenia, formazioni ufficiali: Manzambi dal 1', la scelta su Ndoye",
-   "link": "https://www.tuttonapoli.net/notizie/svizzera-slovenia-formazioni-ufficiali-manzambi-1-scelta-ndoye-658043",
-   "summary": "Sono state rese note le formazioni ufficiali di Svizzera-Slovenia, match valido per il terzo turno della Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T18:30:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7e/7e7f25db4cdff620767512ad80fbfac3-79234-oooz0000.jpeg",
-   "id": "634e30ccca47"
-  },
-  {
-   "title": "Spagna-Repubblica Ceca, formazioni ufficiali: c'è Yamal, out Fabian Ruiz",
-   "link": "https://www.tuttonapoli.net/notizie/spagna-slovenia-formazioni-ufficiali-yamal-guida-furie-rosse-scelta-fabian-658042",
-   "summary": "Sono state rese note le formazioni ufficiali di Spagna-Repubblica Ceca, sfida valida per il terzo turno della Nations League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-03T18:25:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e1/e18b49acb836b2ede46eee19bba92e5f-07835-oooz0000.jpeg",
-   "id": "687921dbe296"
   },
   {
    "title": "Bastoni zittisce fischi e teppisti",
@@ -1930,6 +1868,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 29
+  "in_edizione": 24
  }
 }
