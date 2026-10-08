@@ -1,25 +1,6 @@
 {
- "generated_at": "2026-10-07T22:43:39.380103+02:00",
+ "generated_at": "2026-10-08T02:50:55.924917+02:00",
  "articles": [
-  {
-   "title": "Addio di Messi all'Argentina, Nico Paz: \"Addio del migliore della storia\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/addio-messi-argentina-messaggio-nico-paz-addio-nazionale-migliore-storia-795875",
-   "summary": "Nico Paz ha scelto il suo proprio profilo Instagram per salutare Lionel Messi dopo l'addio alla nazionale argentina da parte dell'otto volte Pallone d'oro. Il talento del Como era in campo contro il Benin, trovando…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:50:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/63/639893656a07ae1a084c4e27eec38628-77493-oooz0000.jpeg",
-   "id": "d06bf4119b69",
-   "age_minutes": 53,
-   "also": [
-    {
-     "source": "TuttoJuve",
-     "link": "https://www.tuttojuve.com/altre-notizie/addio-messi-argentina-mastantuono-difficile-immaginare-argentina-te-795881"
-    }
-   ],
-   "score": 7.502
-  },
   {
    "title": "Julian Alvarez prende una clamorosa decisione, addio sempre più vicino",
    "link": "https://www.calciomercato.it/2026/10/07/julian-alvarez-prende-una-clamorosa-decisione-addio-sempre-piu-vicino/",
@@ -30,51 +11,9 @@
    "published": "2026-10-07T12:14:18+00:00",
    "image": "",
    "id": "668eb2631fce",
-   "age_minutes": 509,
+   "age_minutes": 756,
    "also": [],
-   "score": 7.317
-  },
-  {
-   "title": "Messi, addio all’Argentina con un pensiero per Maradona: “Ci ha aiutato anche dal cielo”",
-   "link": "https://www.tuttonapoli.net/le-interviste/messi-addio-argentina-messaggio-maradona-monumental-658407",
-   "summary": "La storia di Lionel Messi con l’Argentina si è chiusa nella notte del 6 ottobre 2026, a oltre ventuno anni dal debutto del 17 agosto 2005.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T20:40:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/04/04075ab403412a2e4e2ee2c21a0aa7c9-13374-oooz0000.jpeg",
-   "id": "93e135891c51",
-   "age_minutes": 3,
-   "also": [],
-   "score": 7.181
-  },
-  {
-   "title": "Ex Milan, Fabio Borini saluta e dice addio al calcio giocato",
-   "link": "https://www.milannews.it/gli-ex/milan-fabio-borini-saluta-addio-calcio-giocato-632021",
-   "summary": "Con la maglia del Milan, l'esterno italiano ha giocato dalla stagione 2017/2018 fino al gennaio 2020, totalizzando 75 presenze, 8 e 6 gol ufficiali.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T20:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/63/635a8fbc11676cfa0f3b8c4b402ec027-75377-oooz0000.jpeg",
-   "id": "a6315eee337c",
-   "age_minutes": 31,
-   "also": [],
-   "score": 7.021
-  },
-  {
-   "title": "Doppia sorpresa in casa Inter con il Parma: esordio per Provedel e un big fuori",
-   "link": "https://www.calciomercato.it/2026/10/07/doppia-sorpresa-in-casa-inter-con-il-parma-esordio-per-provedel-e-un-big-fuori/",
-   "summary": "L'articolo Doppia sorpresa in casa Inter con il Parma: esordio per Provedel e un big fuori proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-07T19:22:19+00:00",
-   "image": "",
-   "id": "f895a5e6150c",
-   "age_minutes": 81,
-   "also": [],
-   "score": 6.957
+   "score": 6.741
   },
   {
    "title": "Juve, assalto a Bernasconi: la formula dell’affare con l’Atalanta",
@@ -86,9 +25,9 @@
    "published": "2026-10-07T08:37:55+00:00",
    "image": "",
    "id": "a25a5b5f2112",
-   "age_minutes": 725,
+   "age_minutes": 973,
    "also": [],
-   "score": 6.803
+   "score": 6.381
   },
   {
    "title": "Milan-Maignan, possibile addio a fine stagione: il sostituto è in Serie A | CM",
@@ -100,23 +39,79 @@
    "published": "2026-10-07T08:00:25+00:00",
    "image": "",
    "id": "0bc304449504",
-   "age_minutes": 763,
+   "age_minutes": 1010,
    "also": [],
-   "score": 6.729
+   "score": 6.33
   },
   {
-   "title": "Pasotto: \"Non è da escludere un addio già a gennaio di Tomori al Milan\"",
-   "link": "https://www.milannews.it/calciomercato-milan/pasotto-non-escludere-addio-gennaio-tomori-milan-631953",
-   "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sul futuro al Milan di Fikayo Tomori, difensore centrale inglese: \"L'epurato riabilitato. Ma è con tutta evidenza una riabilitazione parziale.",
+   "title": "Milan: c’è un allarme rosso. Sassuolo, mercato, calendario. E la grande manovra in FIGC",
+   "link": "https://www.milannews.it/editoriale/milan-c-e-allarme-rosso-sassuolo-mercato-calendario-manovra-figc-632007",
+   "summary": "Sono giorni da allarme rosso. Ed è bene spiegare velocemente il motivo.",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-10-07T19:12:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/00/00ea268fed03e6f096de05cbfef416a5-38235-oooz0000.jpeg",
-   "id": "ba3c39b5fd9b",
-   "age_minutes": 91,
+   "published": "2026-10-07T22:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/99/995d86de39c6e56243f08e135ab3ea2a-06254-600o384o2268o2052z14b8.jpeg",
+   "id": "8539fed1f3a2",
+   "age_minutes": 170,
    "also": [],
-   "score": 6.706
+   "score": 6.325
+  },
+  {
+   "title": "Sassuolo-Milan, Amorim prepara la sorpresa: un fedelissimo verso la panchina",
+   "link": "https://www.calciomercato.it/2026/10/07/sassuolo-milan-amorim-prepara-la-sorpresa-un-fedelissimo-verso-la-panchina/",
+   "summary": "L'articolo Sassuolo-Milan, Amorim prepara la sorpresa: un fedelissimo verso la panchina proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-07T20:51:01+00:00",
+   "image": "",
+   "id": "2410c5429adc",
+   "age_minutes": 239,
+   "also": [],
+   "score": 6.229
+  },
+  {
+   "title": "Messi, addio all’Argentina con un pensiero per Maradona: “Ci ha aiutato anche dal cielo”",
+   "link": "https://www.tuttonapoli.net/le-interviste/messi-addio-argentina-messaggio-maradona-monumental-658407",
+   "summary": "La storia di Lionel Messi con l’Argentina si è chiusa nella notte del 6 ottobre 2026, a oltre ventuno anni dal debutto del 17 agosto 2005.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T20:40:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/04/04075ab403412a2e4e2ee2c21a0aa7c9-13374-oooz0000.jpeg",
+   "id": "93e135891c51",
+   "age_minutes": 250,
+   "also": [],
+   "score": 5.986
+  },
+  {
+   "title": "Doppia sorpresa in casa Inter con il Parma: esordio per Provedel e un big fuori",
+   "link": "https://www.calciomercato.it/2026/10/07/doppia-sorpresa-in-casa-inter-con-il-parma-esordio-per-provedel-e-un-big-fuori/",
+   "summary": "L'articolo Doppia sorpresa in casa Inter con il Parma: esordio per Provedel e un big fuori proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-07T19:22:19+00:00",
+   "image": "",
+   "id": "f895a5e6150c",
+   "age_minutes": 328,
+   "also": [],
+   "score": 5.889
+  },
+  {
+   "title": "Ex Milan, Fabio Borini saluta e dice addio al calcio giocato",
+   "link": "https://www.milannews.it/gli-ex/milan-fabio-borini-saluta-addio-calcio-giocato-632021",
+   "summary": "Con la maglia del Milan, l'esterno italiano ha giocato dalla stagione 2017/2018 fino al gennaio 2020, totalizzando 75 presenze, 8 e 6 gol ufficiali.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T20:12:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/63/635a8fbc11676cfa0f3b8c4b402ec027-75377-oooz0000.jpeg",
+   "id": "a6315eee337c",
+   "age_minutes": 278,
+   "also": [],
+   "score": 5.874
   },
   {
    "title": "Juve, già deciso il futuro di David: cosa accadrà a giugno",
@@ -128,65 +123,9 @@
    "published": "2026-10-07T18:29:20+00:00",
    "image": "",
    "id": "c58ed8fa6466",
-   "age_minutes": 134,
+   "age_minutes": 381,
    "also": [],
-   "score": 6.695
-  },
-  {
-   "title": "Ricci: \"Il messaggio di CR7 non è casuale e arriva a poche ore dall'addio di Messi\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/ricci-il-messaggio-cr7-casuale-arriva-poche-addio-messi-795866",
-   "summary": "Filippo Maria Ricci è intervenuto sul caso Cristiano Ronaldo, attaccante bianconero dal 2018 al 2021, in onda sulle frequenze di Radio 24. \"Ieri in poche ore abbiamo vissuto due momenti molto diversi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:20:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1e/1e0baac5c5125856b49970795f99dad9-88007-oooz0000.jpeg",
-   "id": "8cdd9063a835",
-   "age_minutes": 143,
-   "also": [],
-   "score": 6.451
-  },
-  {
-   "title": "Napoli, Allegri stravolge l’attacco contro il Frosinone: le ultimissime",
-   "link": "https://www.calciomercato.it/2026/10/07/napoli-allegri-stravolge-lattacco-contro-il-frosinone-le-ultimissime/",
-   "summary": "L'articolo Napoli, Allegri stravolge l’attacco contro il Frosinone: le ultimissime proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-07T16:56:53+00:00",
-   "image": "",
-   "id": "21466f3ec0af",
-   "age_minutes": 226,
-   "also": [],
-   "score": 6.283
-  },
-  {
-   "title": "Frosinone, retroscena Bobcek: operato al menisco in estate, col Napoli può essere titolare",
-   "link": "https://www.tuttonapoli.net/serie-a/napoli-frosinone-bobcek-operazione-menisco-titolare-658395",
-   "summary": "Emergono nuovi dettagli sulle condizioni di Tomas Bobcek, arrivato al Frosinone sul finire del mercato estivo diventando l'acquisto più costoso nella storia del club ciociaro.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:40:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b571147b786fb9b6e29168d33b380468-32406-oooz0000.jpeg",
-   "id": "9a17ee7f39d2",
-   "age_minutes": 123,
-   "also": [],
-   "score": 6.147
-  },
-  {
-   "title": "Serie C e professionismo: a Roma incontro su previdenza e adempimenti",
-   "link": "https://www.tuttojuve.com/settore-giovanile/serie-professionismo-roma-incontro-previdenza-adempimenti-795882",
-   "summary": "È andato in scena oggi a Palazzo Wedekind di Roma l'incontro formativo promosso da Inps e serie C rivolto alle società sportive professionistiche.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T20:20:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ce/ce9f8af659011b17dbd6436823abdff6-46154-oooz0000.jpeg",
-   "id": "26d88593b299",
-   "age_minutes": 23,
-   "also": [],
-   "score": 6.069
+   "score": 5.705
   },
   {
    "title": "Roma, doppio colpo in arrivo per Gasperini: i giallorossi sognano | CM",
@@ -198,79 +137,65 @@
    "published": "2026-10-06T15:05:16+00:00",
    "image": "",
    "id": "5ca5868786e7",
-   "age_minutes": 1778,
+   "age_minutes": 2025,
    "also": [],
-   "score": 5.707
+   "score": 5.615
   },
   {
-   "title": "VIDEO - Arianna Fontana: \"Ogni volta che incontro Marotta o i giocatori dell'Inter mi sento come a casa\"",
-   "link": "https://www.fcinternews.it/news/arianna-fontana-ogni-incontro-marotta-giocatori-inter-sento-casa-1020255",
-   "summary": "Arianna Fontana, pattinatrice di short track italiana che nel corso della sua carriera ha vinto 14 medaglie ai Giochi olimpici invernali, ha parlato dell'Inter e del suo rapporto con i colori nerazzurri nel corso del…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T19:09:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/29/298919a102b45b807e1d3a7e59bd5346-68970-oooz0000.jpeg",
-   "id": "646364f55c07",
-   "age_minutes": 94,
-   "also": [],
-   "score": 5.69
-  },
-  {
-   "title": "FIGC, elezioni il 14 dicembre: slitta la convocazione dell’assemblea",
-   "link": "https://www.tuttonapoli.net/notizie/figc-elezioni-14-dicembre-malago-presidente-assemblea-658388",
-   "summary": "Bisognerà attendere ancora qualche ora per la convocazione dell’assemblea elettiva straordinaria della FIGC, inizialmente prevista per oggi.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:10:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0a/0aec3909a45d4513cecd4418d679010a-47747-oooz0000.jpeg",
-   "id": "b9485df81cc4",
-   "age_minutes": 152,
-   "also": [],
-   "score": 5.408
-  },
-  {
-   "title": "Padovan: “Napoli-Frosinone partita-trappola. Dopo la lunga sosta mi aspetto qualche sorpresa”",
-   "link": "https://www.tuttonapoli.net/le-interviste/padovan-napoli-frosinone-partita-trappola-pio-esposito-658394",
-   "summary": "Giancarlo Padovan, giornalista, è intervenuto alla radio di Tuttomercatoweb.com, nel corso di 'Maracanà'.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:50:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fb/fb567035c0bc8ddf1a0c8fc9c0c1b739-84741-oooz0000.jpeg",
-   "id": "09264534ea4f",
-   "age_minutes": 113,
-   "also": [],
-   "score": 5.396
-  },
-  {
-   "title": "Juve forte su tre centrocampisti, Spalletti incrocia le dita: i nomi",
-   "link": "https://www.calciomercato.it/2026/10/07/juve-forte-su-tre-centrocampisti-spalletti-incrocia-le-dita-i-nomi/",
-   "summary": "L'articolo Juve forte su tre centrocampisti, Spalletti incrocia le dita: i nomi proviene da CalcioMercato.it .",
+   "title": "Napoli, Allegri stravolge l’attacco contro il Frosinone: le ultimissime",
+   "link": "https://www.calciomercato.it/2026/10/07/napoli-allegri-stravolge-lattacco-contro-il-frosinone-le-ultimissime/",
+   "summary": "L'articolo Napoli, Allegri stravolge l’attacco contro il Frosinone: le ultimissime proviene da CalcioMercato.it .",
    "source": "Calciomercato.it",
    "source_weight": 1.2,
    "scope": "generalista",
-   "published": "2026-10-07T11:02:35+00:00",
+   "published": "2026-10-07T16:56:53+00:00",
    "image": "",
-   "id": "14133e675650",
-   "age_minutes": 581,
+   "id": "21466f3ec0af",
+   "age_minutes": 474,
    "also": [],
-   "score": 5.128
+   "score": 5.417
   },
   {
-   "title": "Giuliani: “Mancini ha dato un senso all’Italia in 4 partite, Allegri non ha ancora trovato la chiave”",
-   "link": "https://www.tuttonapoli.net/le-interviste/giuliani-allegri-napoli-mancini-idea-base-658389",
-   "summary": "La Serie A è pronta a ripartire dopo la lunga sosta per le Nazionali e per il Napoli di Massimiliano Allegri arriva subito un passaggio importante della stagione. Intervenuto alla radio di Tuttomercatoweb.",
+   "title": "Cagliari-Juventus, la probabile formazione per domenica",
+   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-juventus-probabile-formazione-domenica-795824",
+   "summary": "Luciano Spalletti prepara la Juventus per la trasferta di Cagliari tra rientri dalle nazionali, assenze e diversi ballottaggi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T23:15:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
+   "id": "5872569f434a",
+   "age_minutes": 95,
+   "also": [],
+   "score": 5.085
+  },
+  {
+   "title": "Pato ricorda l’esordio contro il Napoli: “Segnai e partecipai alla festa, un’emozione incredibile”",
+   "link": "https://www.tuttonapoli.net/le-interviste/pato-napoli-gol-esordio-milan-san-siro-2008-658406",
+   "summary": "Alexandre Pato torna con la memoria al 13 gennaio 2008, giorno del suo debutto ufficiale con il Milan.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-10-07T17:50:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/27/2744a4c3792b21595c5ada350e642780-65670-oooz0000.jpeg",
-   "id": "21200909dbe5",
-   "age_minutes": 173,
+   "published": "2026-10-07T21:50:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/32f1e30f1e4a32a8d874c0f3fd2d6c85-83918-oooz0000.jpeg",
+   "id": "d28ed26e9209",
+   "age_minutes": 180,
    "also": [],
-   "score": 5.113
+   "score": 5.084
+  },
+  {
+   "title": "Serie A, si riparte! Braglia: \"Mi aspetto un cambio di passo dal Milan che non ha ancora un'identità\"",
+   "link": "https://www.milannews.it/news/serie-a-riparte-braglia-mi-aspetto-cambio-passo-milan-identita-632004",
+   "summary": "L'ex portiere Simone Braglia, intervenuto ai microfoni della radio di Tuttomercatoweb.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T21:00:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1d/1dac8a999fd53d6d272abf0a1f238e83-57107-oooz0000.jpeg",
+   "id": "1f402556cd8c",
+   "age_minutes": 230,
+   "also": [],
+   "score": 4.867
   },
   {
    "title": "Emergenza Milan sulle fasce, si torna sul mercato: i nomi",
@@ -282,9 +207,65 @@
    "published": "2026-10-06T16:40:35+00:00",
    "image": "",
    "id": "a3402bb3014a",
-   "age_minutes": 1683,
+   "age_minutes": 1930,
    "also": [],
-   "score": 4.952
+   "score": 4.846
+  },
+  {
+   "title": "Evacuo: \"Serie A sempre imprevedibile. Benevento? Saio, scuola Juve, si sta confermando\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/evacuo-serie-imprevedibile-benevento-saio-scuola-juve-confermando-795877",
+   "summary": "A Tuttomercatoweb.com ha parlato l'ex calciatore e operatore di mercato Felice Evacuo, che ha parlato della Serie A: \"Come sempre è un campionato bello, avvincente.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T20:50:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/ed67e82de35eb70277a92cb8e5b672cc-91102-oooz0000.jpeg",
+   "id": "04d9033f4760",
+   "age_minutes": 240,
+   "also": [],
+   "score": 4.825
+  },
+  {
+   "title": "VIDEO - Arianna Fontana: \"Ogni volta che incontro Marotta o i giocatori dell'Inter mi sento come a casa\"",
+   "link": "https://www.fcinternews.it/news/arianna-fontana-ogni-incontro-marotta-giocatori-inter-sento-casa-1020255",
+   "summary": "Arianna Fontana, pattinatrice di short track italiana che nel corso della sua carriera ha vinto 14 medaglie ai Giochi olimpici invernali, ha parlato dell'Inter e del suo rapporto con i colori nerazzurri nel corso del…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T19:09:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/29/298919a102b45b807e1d3a7e59bd5346-68970-oooz0000.jpeg",
+   "id": "646364f55c07",
+   "age_minutes": 341,
+   "also": [],
+   "score": 4.642
+  },
+  {
+   "title": "Tutti pazzi per il 2011 Ejodamen del Dortmund: c'è anche il Milan sul \"nuovo Bellingham\"",
+   "link": "https://www.milannews.it/calciomercato-milan/pazzi-2011-ejodamen-dortmund-milan-nuovo-bellingham-632008",
+   "summary": "C'è un giovanissimo talento del Borussia Dortmund che è finito nel mirino di diversi top club europei: si tratta di Justin Ehikioya Ejodamen, centrocampista classe 2011 che milita nella formazione Under 16 giallonera ed…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T21:36:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01b728057c356f6067b286bed65c9585-24243-215o143o911o839z083c.jpeg",
+   "id": "0f60977ed13d",
+   "age_minutes": 194,
+   "also": [],
+   "score": 4.621
+  },
+  {
+   "title": "Juve forte su tre centrocampisti, Spalletti incrocia le dita: i nomi",
+   "link": "https://www.calciomercato.it/2026/10/07/juve-forte-su-tre-centrocampisti-spalletti-incrocia-le-dita-i-nomi/",
+   "summary": "L'articolo Juve forte su tre centrocampisti, Spalletti incrocia le dita: i nomi proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-07T11:02:35+00:00",
+   "image": "",
+   "id": "14133e675650",
+   "age_minutes": 828,
+   "also": [],
+   "score": 4.609
   },
   {
    "title": "Presente Inter, ma futuro in sospeso per Calhanoglu: ‘Gala’ e Juve in agguato | CM",
@@ -296,9 +277,9 @@
    "published": "2026-10-07T06:54:33+00:00",
    "image": "",
    "id": "4bc916ca8695",
-   "age_minutes": 829,
+   "age_minutes": 1076,
    "also": [],
-   "score": 4.608
+   "score": 4.245
   },
   {
    "title": "Un campione d’Inghilterra per la Juve: sfida tra big",
@@ -310,9 +291,9 @@
    "published": "2026-10-07T05:18:16+00:00",
    "image": "",
    "id": "c5b6d1a79657",
-   "age_minutes": 925,
+   "age_minutes": 1172,
    "also": [],
-   "score": 4.451
+   "score": 4.136
   },
   {
    "title": "Per la Juventus è durissima: c’è la fila per Kayode",
@@ -324,9 +305,9 @@
    "published": "2026-10-06T21:22:02+00:00",
    "image": "",
    "id": "bc442865c6d5",
-   "age_minutes": 1401,
+   "age_minutes": 1648,
    "also": [],
-   "score": 3.928
+   "score": 3.77
   },
   {
    "title": "Inter, novità Calhanoglu: la decisione in vista del Parma",
@@ -338,9 +319,9 @@
    "published": "2026-10-06T20:33:43+00:00",
    "image": "",
    "id": "84380f74775d",
-   "age_minutes": 1449,
+   "age_minutes": 1697,
    "also": [],
-   "score": 3.893
+   "score": 3.745
   },
   {
    "title": "Allenamento Roma, le condizioni di Malen e Wesley in vista del Como",
@@ -352,9 +333,9 @@
    "published": "2026-10-06T19:21:57+00:00",
    "image": "",
    "id": "f2e931c6993f",
-   "age_minutes": 1521,
+   "age_minutes": 1768,
    "also": [],
-   "score": 3.844
+   "score": 3.711
   },
   {
    "title": "Infortunio Vergara, brutte notizie per il Napoli: ecco quanto dovrà restare fermo",
@@ -366,9 +347,9 @@
    "published": "2026-10-06T17:04:47+00:00",
    "image": "",
    "id": "3e366095452c",
-   "age_minutes": 1658,
+   "age_minutes": 1906,
    "also": [],
-   "score": 3.765
+   "score": 3.655
   },
   {
    "title": "La Juve sfida l’Arsenal per un talento brasiliano, di chi si tratta",
@@ -380,40 +361,136 @@
    "published": "2026-10-06T13:14:46+00:00",
    "image": "",
    "id": "6d9f089892ea",
-   "age_minutes": 1888,
+   "age_minutes": 2136,
    "also": [],
-   "score": 3.661
-  },
-  {
-   "title": "Carvajal sbarca in Serie A? Milan o Juventus: come stanno le cose",
-   "link": "https://www.calciomercato.it/2026/10/06/carvajal-sbarca-in-serie-a-milan-o-juventus-come-stanno-le-cose/",
-   "summary": "L'articolo Carvajal sbarca in Serie A? Milan o Juventus: come stanno le cose proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-06T11:13:44+00:00",
-   "image": "",
-   "id": "fcb943c117b4",
-   "age_minutes": 2009,
-   "also": [],
-   "score": 3.62
-  },
-  {
-   "title": "Juve, allarme Alajbegovic: Spalletti col fiato sospeso",
-   "link": "https://www.calciomercato.it/2026/10/06/juve-allarme-alajbegovic-spalletti-col-fiato-sospeso/",
-   "summary": "L'articolo Juve, allarme Alajbegovic: Spalletti col fiato sospeso proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-06T09:13:38+00:00",
-   "image": "",
-   "id": "0fb70fed16cb",
-   "age_minutes": 2130,
-   "also": [],
-   "score": 3.585
+   "score": 3.583
   }
  ],
  "raw": [
+  {
+   "title": "Laudisa: \"Allegri valorizzi qualità di De Bruyne! Mercato? C'è un problema...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/laudisa-hojlund-certezza-de-bruyne-ritorno-atteso-mercato-napoli-tante-alternative-658343",
+   "summary": "Carlo Laudisa, giornalista de La Gazzetta dello Sport, esperto di mercato, è stato nostro ospite a Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-08T00:00:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/57/57fcec657be5522d755940a202efe066-01861-oooz0000.jpeg",
+   "id": "f2d6f00ce5f5"
+  },
+  {
+   "title": "Restyling Maradona, cons. Simeone: “Parcheggi sotterranei e 2° anello fino al campo”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/restyling-maradona-cons-simeone-parcheggi-sotterranei-recuperati-2-anello-bordo-campo-658415",
+   "summary": "Nino Simeone è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T23:00:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d9/d90f6e355127a893d200d20ca7b137c0-37997-oooz0000.jpeg",
+   "id": "6047d42ba90b"
+  },
+  {
+   "title": "Radio Tutto Napoli, il palinsesto di oggi: trasmissioni live dalle 8",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-live-8-657597",
+   "summary": "Inizia un'altra lunga giornata insieme con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T22:15:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "f88d2ca230a8"
+  },
+  {
+   "title": "Schwoch: “Lucca finora non all’altezza, faccio fatica a vederlo come sostituto di Hojlund\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/schwoch-napoli-hojlund-lucca-allegri-vergara-658411",
+   "summary": "L’ex bomber azzurro Stefan Schwoch, a margine della presentazione de \"Il Bello del Calcio\", ha analizzato il momento del Napoli, soffermandosi in particolare sulle difficoltà di Lorenzo Lucca e sulle gerarchie dell’attacc ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T22:00:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/97/971d01f22124c848bac3b1d56e9d65b6-09254-oooz0000.jpeg",
+   "id": "a1933f981dc9"
+  },
+  {
+   "title": "Pato ricorda l’esordio contro il Napoli: “Segnai e partecipai alla festa, un’emozione incredibile”",
+   "link": "https://www.tuttonapoli.net/le-interviste/pato-napoli-gol-esordio-milan-san-siro-2008-658406",
+   "summary": "Alexandre Pato torna con la memoria al 13 gennaio 2008, giorno del suo debutto ufficiale con il Milan.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T21:50:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/32f1e30f1e4a32a8d874c0f3fd2d6c85-83918-oooz0000.jpeg",
+   "id": "d28ed26e9209",
+   "age_minutes": 180,
+   "also": [],
+   "score": 5.084
+  },
+  {
+   "title": "Inter, Marotta: “Triplete? È un sogno e i sogni si possono realizzare\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/marotta-inter-triplete-sogno-campionato-658412",
+   "summary": "Beppe Marotta, presidente dell’Inter, è stato tra i protagonisti del Premio Gentleman a Milano.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T21:40:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/55532475150f0bc2a3c0473949c91a68-09355-oooz0000.jpeg",
+   "id": "da2b5e28bd45"
+  },
+  {
+   "title": "Gattuso: “A Napoli persi la Champions con 77 punti. Nessuna rivincita, calcio fatto di episodi”",
+   "link": "https://www.tuttonapoli.net/le-interviste/gattuso-lazio-napoli-champions-mancini-nazionale-658408",
+   "summary": "Il tecnico della Lazio Rino Gattuso ha parlato a margine del Premio Colalucci all’Antico Tiro a Volo, soffermandosi sul suo momento in biancoceleste, sul rapporto con i calciatori e sugli obiettivi della squadra.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T21:30:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fb/fb07016d7463a3e388951313aba86f99-86640-oooz0000.jpeg",
+   "id": "3cb77d08f7a3"
+  },
+  {
+   "title": "Di Gennaro: “KDB può essere il nuovo acquisto. Il Napoli non può sbagliare più nulla!”",
+   "link": "https://www.tuttonapoli.net/le-interviste/di-gennaro-napoli-de-bruyne-giovani-stranieri-658410",
+   "summary": "L'ex calciatore Antonio Di Gennaro è intervenuto in diretta a Radio Kiss Kiss Napoli per analizzare la ripresa del campionato dopo la lunga sosta per le Nazionali.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T21:20:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5a/5a26de50a084eb73d4d24348f2858e70-76474-oooz0000.jpeg",
+   "id": "bc485424d15c"
+  },
+  {
+   "title": "Giuntoli ricorda Sarri a Napoli: “Ha sempre fatto fatica all’inizio, ci vuole tempo d'apprendimento”",
+   "link": "https://www.tuttonapoli.net/le-interviste/giuntoli-atalanta-sarri-napoli-identita-658409",
+   "summary": "Cristiano Giuntoli, direttore sportivo dell’Atalanta, ospite di Bergamo TV, ha parlato del suo ambientamento in nerazzurro e del progetto che il club vuole portare avanti: “Noi vogliamo respirare questo clima straordinario che si è ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T21:10:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e9/e9a650cf7674ca2e21e3bcdfdc9ea70d-86698-oooz0000.jpeg",
+   "id": "c0239590a946"
+  },
+  {
+   "title": "Sky, Marianella: “McTominay fondamentale, il Napoli non può farne a meno. Dispiace per Vergara\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/marianella-napoli-mctominay-fondamentale-vergara-calendario-658404",
+   "summary": "Il Napoli si prepara ad affrontare un ciclo particolarmente intenso dopo la lunga sosta per le Nazionali, ma secondo Massimo Marianella il calendario può offrire agli azzurri l'opportunità di trovare continuità.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T21:00:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c8/c80ccc7057b28cae1f2fb9c440288593-15960-oooz0000.jpeg",
+   "id": "9d45cc26f1b2"
+  },
+  {
+   "title": "Paradiso: “Bisogna aggiornarsi! Ora non ci sono campioni e tutti giocano, non si vince in contropiede!”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/paradiso-napoli-allegri-de-bruyne-hojlund-mctominay-658413",
+   "summary": "Angelo Paradiso è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania, per analizzare l’emergenza infort ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-07T20:50:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1f/1fb0db1ce2bd14d0f549310c8acdc5af-16720-oooz0000.jpeg",
+   "id": "cbefbfb07d27"
+  },
   {
    "title": "Messi, addio all’Argentina con un pensiero per Maradona: “Ci ha aiutato anche dal cielo”",
    "link": "https://www.tuttonapoli.net/le-interviste/messi-addio-argentina-messaggio-maradona-monumental-658407",
@@ -424,9 +501,9 @@
    "published": "2026-10-07T20:40:25+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/04/04075ab403412a2e4e2ee2c21a0aa7c9-13374-oooz0000.jpeg",
    "id": "93e135891c51",
-   "age_minutes": 3,
+   "age_minutes": 250,
    "also": [],
-   "score": 7.181
+   "score": 5.986
   },
   {
    "title": "Benitez: \"Credo nel Napoli, ma quanti infortuni! Hojlund una garanzia, De Bruyne enorme\"",
@@ -517,137 +594,360 @@
    "id": "b4b56b5523b5"
   },
   {
-   "title": "Messi saluta l’Argentina con 208 presenze e 126 gol: solo CR7 ha giocato di più",
-   "link": "https://www.tuttonapoli.net/notizie/messi-addio-argentina-208-presenze-126-gol-record-658399",
-   "summary": "Dopo 21 anni, 208 presenze e 126 gol, si è conclusa la straordinaria storia di Lionel Messi con la Nazionale argentina.",
-   "source": "TuttoNapoli",
+   "title": "La Juve stava per prendere Pannichelli",
+   "link": "https://www.tuttojuve.com/calciomercato/juve-prendere-pannichelli-795828",
+   "summary": "Joaquin Panichelli avrebbe potuto vestire la maglia della Juventus.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T19:10:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/63/639893656a07ae1a084c4e27eec38628-77493-oooz0000.jpeg",
-   "id": "f3f8d9d7aa9d"
+   "scope": "Juventus",
+   "published": "2026-10-07T23:30:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/14/14d758df4f961c1ccdc180253c4aa02e-40057-oooz0000.jpeg",
+   "id": "b9e56d4d77f7"
   },
   {
-   "title": "Cons. Simeone sul restyling Maradona punge ADL: “200mln alla faccia di chi lo definiva mezzocesso!”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/simeone-maradona-200-milioni-stadio-napoli-658390",
-   "summary": "Nino Simeone è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone, smartTv e DAB Campania.",
-   "source": "TuttoNapoli",
+   "title": "Cagliari-Juventus, la probabile formazione per domenica",
+   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-juventus-probabile-formazione-domenica-795824",
+   "summary": "Luciano Spalletti prepara la Juventus per la trasferta di Cagliari tra rientri dalle nazionali, assenze e diversi ballottaggi.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T19:00:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d986462c4cc59d56e3fea31613b1124-22765-oooz0000.jpeg",
-   "id": "89054d81ea02"
-  },
-  {
-   "title": "Padovan: “Napoli-Frosinone partita-trappola. Dopo la lunga sosta mi aspetto qualche sorpresa”",
-   "link": "https://www.tuttonapoli.net/le-interviste/padovan-napoli-frosinone-partita-trappola-pio-esposito-658394",
-   "summary": "Giancarlo Padovan, giornalista, è intervenuto alla radio di Tuttomercatoweb.com, nel corso di 'Maracanà'.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:50:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fb/fb567035c0bc8ddf1a0c8fc9c0c1b739-84741-oooz0000.jpeg",
-   "id": "09264534ea4f",
-   "age_minutes": 113,
+   "scope": "Juventus",
+   "published": "2026-10-07T23:15:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
+   "id": "5872569f434a",
+   "age_minutes": 95,
    "also": [],
-   "score": 5.396
+   "score": 5.085
   },
   {
-   "title": "Frosinone, retroscena Bobcek: operato al menisco in estate, col Napoli può essere titolare",
-   "link": "https://www.tuttonapoli.net/serie-a/napoli-frosinone-bobcek-operazione-menisco-titolare-658395",
-   "summary": "Emergono nuovi dettagli sulle condizioni di Tomas Bobcek, arrivato al Frosinone sul finire del mercato estivo diventando l'acquisto più costoso nella storia del club ciociaro.",
-   "source": "TuttoNapoli",
+   "title": "Sarr può essere la grande novità della Juventus: Spalletti pensa a lui per Cagliari",
+   "link": "https://www.tuttojuve.com/altre-notizie/sarr-novita-juventus-spalletti-pensa-cagliari-795823",
+   "summary": "Pape Matar Sarr avanza nelle gerarchie della Juventus e contro il Cagliari potrebbe trovare spazio dal primo minuto.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:40:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b571147b786fb9b6e29168d33b380468-32406-oooz0000.jpeg",
-   "id": "9a17ee7f39d2",
-   "age_minutes": 123,
+   "scope": "Juventus",
+   "published": "2026-10-07T23:00:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3b/3bf454de3d6b809f07d50319ac8caf40-73125-oooz0000.jpeg",
+   "id": "a705a63621ab"
+  },
+  {
+   "title": "Zhegrova manda un messaggio a Spalletti: ora vuole spazio nella Juventus",
+   "link": "https://www.tuttojuve.com/altre-notizie/zhegrova-manda-messaggio-spalletti-vuole-spazio-juventus-795822",
+   "summary": "Edon Zhegrova torna alla Juventus con una candidatura pesante per una maglia da titolare. L'esterno ha sfruttato la sosta con il Kosovo mostrando una condizione in crescita e adesso può chiedere maggiore spazio a Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T22:45:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/93/930334f266f9387ecf883f531e749685-83548-oooz0000.jpeg",
+   "id": "d81be8ec38df"
+  },
+  {
+   "title": "Alajbegovic, sospiro di sollievo: il giovane bosniaco sta bene",
+   "link": "https://www.tuttojuve.com/calciomercato/alajbegovic-sospiro-sollievo-giovane-bosniaco-795821",
+   "summary": "Buone notizie per la Juventus sul fronte Kerim Alajbegovic. Il problema accusato con la Bosnia non sembra destare particolare preoccupazione: gli accertamenti non avrebbero evidenziato lesioni o sovraccarichi muscolari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T22:30:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c2/c29d7404922ec7dbfa8618ae58beb825-42479-oooz0000.jpeg",
+   "id": "76613e3b7ade"
+  },
+  {
+   "title": "Yildiz, futuro sotto osservazione: Real, Arsenal e Bayern sfidano la Juventus",
+   "link": "https://www.tuttojuve.com/calciomercato/yildiz-osservazione-real-arsenal-bayern-sfidano-juventus-795818",
+   "summary": "Kenan Yildiz continua a essere uno dei nomi più osservati dalle grandi potenze del calcio europeo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T22:15:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/40/4018b2df2b9a448d82691965fd612b09-10879-oooz0000.jpeg",
+   "id": "8b15c5745800"
+  },
+  {
+   "title": "Juve, attenta alla trappola Cagliari",
+   "link": "https://www.tuttojuve.com/primo-piano/juve-attenta-trappola-cagliari-795751",
+   "summary": "La Juventus riparte da Cagliari e probabilmente non poteva esserci una partita più delicata dopo la sosta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T22:05:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d1/d19b0df81217e220fbf7ff17216f1b41-20969-oooz0000.jpeg",
+   "id": "cf79bba3ee6e"
+  },
+  {
+   "title": "Cabal ci prova per il Cagliari",
+   "link": "https://www.tuttojuve.com/altre-notizie/cabal-prova-cagliari-795819",
+   "summary": "Juan Cabal potrebbe essere una delle novità della Juventus in vista della trasferta contro il Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T22:00:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/68/68e6ba5ab30f926121a239b5735eac83-27375-oooz0000.jpeg",
+   "id": "cac2a28a20ba"
+  },
+  {
+   "title": "Il grande mistero Koop! Come X-Files: “I want to believe”…",
+   "link": "https://www.tuttojuve.com/firme-bianconere/mistero-koop-x-files-i-want-to-believe-795786",
+   "summary": "Ricordate sicuramente Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), soprattutto se avete un po’ di primavere sulle spalle.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T22:00:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/68/686ec7a41f1f35cae9f55210425830b5-83946-oooz0000.jpeg",
+   "id": "cfaa87c5038a"
+  },
+  {
+   "title": "FIGC, stoccata di Binaghi a Malagò: \"Prima volta nella storia che il commissario è causa del commissariamento\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/figc-stoccata-binaghi-malago-795901",
+   "summary": "Angelo Binaghi, presidente della Federtennis e storico avversario sia di Giovanni Malagò sia di Luciano Buonfiglio, ha commentato il commissariamento della FIGC a margine del premio Colalucci. Le sue dichiarazioni sono state riprese da Tmw.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:50:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/62/628fe548f1b69e7b5127be9bd4e4a399-73190-oooz0000.jpeg",
+   "id": "ecf53f0e166c"
+  },
+  {
+   "title": "FIGC, il Premier Meloni prende le distanze dalla nomina di Malagò: \"Se fossi intervenuta, l'esito sarebbe stato diverso\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/figc-premier-meloni-prende-distanze-nomina-malago-se-intervenuta-esito-diverso-795902",
+   "summary": "La presidente del Consiglio Giorgia Meloni prende le distanze dal commissariamento della FIGC e dalla nomina di Giovanni Malagò a commissario della Federcalcio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:45:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/41/41ef713713cb77e7a57796c3c15e15bc-57164-oooz0000.jpeg",
+   "id": "e13c89226a05"
+  },
+  {
+   "title": "Juve prima in Serie A per monte ingaggi: 142 milioni, Inter staccata di quattro. Capolavoro Cagliari con 30 milioni",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-serie-monte-ingaggi-142-milioni-inter-staccata-quattro-capolavoro-cagliari-30-795900",
+   "summary": "La Juventus è la società di Serie A con il monte ingaggi più elevato. Secondo i dati riportati dal Quotidiano di Puglia, il club bianconero sostiene una spesa annuale di 142 milioni di euro per gli stipendi dei propri calciatori.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:40:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/de/de570e43384da4602bbc8a02b948ce43-85232-oooz0000.jpeg",
+   "id": "6b75f1f2d15c"
+  },
+  {
+   "title": "Ripresa in campionato: come arriva la Juve? Tre esperti a confronto",
+   "link": "https://www.tuttojuve.com/altre-notizie/ripresa-campionato-attualita-juve-esperti-confronto-795893",
+   "summary": "Attualità bianconera al centro del dibattito radio-televisivo. Secondo il telecronista Maurizio Compagnoni, l'argentino Nico Gonzalez è chiamato a fare ancora la differenza nella Juventus al rientro dalla sosta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:30:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f5/f55d2ce491b97bfd4c952e79e922fd29-38889-oooz0000.jpeg",
+   "id": "7d3f9880cf9c"
+  },
+  {
+   "title": "John Elkann: \"Ferrari Luce? Non volevamo creare una vettura controversa, ora siamo ancora più convinti\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/john-elkann-ferrari-luce-volevamo-creare-vettura-controversa-convinti-795899",
+   "summary": "La Ferrari Luce, prima vettura completamente elettrica della casa di Maranello, ha suscitato reazioni che hanno sorpreso la stessa azienda. A raccontarlo è stato il presidente John Elkann, intervenuto a Wave by Vento, alle Ogr di Torino.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:20:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f2/f2bd232f1670ce5769c8a6fb901d7c8b-97645-oooz0000.jpeg",
+   "id": "e5fdfb1f539e"
+  },
+  {
+   "title": "Borsa, Juventus in forte calo. Ferrari sotto la parità, Stellantis positiva",
+   "link": "https://www.tuttojuve.com/altre-notizie/borsa-juventus-forte-calo-ferrari-parita-stellantis-positiva-795896",
+   "summary": "Seduta pesante per Piazza Affari, che chiude con la performance peggiore tra le principali Borse europee.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:10:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/74/74a45504e33cd34a191dcb497d5a94d4-19038-oooz0000.jpeg",
+   "id": "5e6cc2ec1667"
+  },
+  {
+   "title": "La classifica delle città sportive 2026: New York in testa, Milano 7ª, Roma al 21ª e Torino al 75° posto",
+   "link": "https://www.tuttojuve.com/altre-notizie/classifica-sportive-2026-new-york-testa-milano-7a-roma-21-torino-75-795892",
+   "summary": "Milano è presente nella top 10 delle città sportive mondiali.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T21:00:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e8a20d1ebe12f22c288e43bfc030dc3-42391-oooz0000.jpeg",
+   "id": "b89d734d3650"
+  },
+  {
+   "title": "Evacuo: \"Serie A sempre imprevedibile. Benevento? Saio, scuola Juve, si sta confermando\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/evacuo-serie-imprevedibile-benevento-saio-scuola-juve-confermando-795877",
+   "summary": "A Tuttomercatoweb.com ha parlato l'ex calciatore e operatore di mercato Felice Evacuo, che ha parlato della Serie A: \"Come sempre è un campionato bello, avvincente.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-07T20:50:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ed/ed67e82de35eb70277a92cb8e5b672cc-91102-oooz0000.jpeg",
+   "id": "04d9033f4760",
+   "age_minutes": 240,
    "also": [],
-   "score": 6.147
+   "score": 4.825
   },
   {
-   "title": "Stadio Napoli nell’area Q8, Manfredi: “Mi auguro che l’ipotesi di ADL vada avanti”",
-   "link": "https://www.tuttonapoli.net/le-interviste/manfredi-maradona-euro-2032-stadio-napoli-q8-658397",
-   "summary": "Il sindaco di Napoli Gaetano Manfredi, a margine dell’evento “Il Bello del Calcio” a Palazzo Petrucci, ha fatto il punto sui principali progetti legati agli impianti sportivi della città, dalla candidatura di Napoli per Euro ...",
-   "source": "TuttoNapoli",
+   "title": "Marotta: \"Quest'anno il calendario è particolare. Triplete? I sogni si possono realizzare\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/marotta-quest-calendario-particolare-triplete-sogni-possono-realizzare-795897",
+   "summary": "Beppe Marotta, presidente dell'Inter, è intervenuto a Milano in occasione del premio Gentleman, soffermandosi sul percorso della propria carriera e sugli obiettivi della formazione nerazzurra. Le sue dichiarazioni sono state riprese da Tmw.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c69aacc6c6f24e79fbc9868544ba1742-48767-oooz0000.jpeg",
-   "id": "7125e0670a16"
+   "scope": "Juventus",
+   "published": "2026-10-07T20:45:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/55/55532475150f0bc2a3c0473949c91a68-09355-oooz0000.jpeg",
+   "id": "46d2c00e90c3"
   },
   {
-   "title": "Napoli-Frosinone, Maradona verso il sold out: ultimi posti in diversi settori",
-   "link": "https://www.tuttonapoli.net/notizie/napoli-frosinone-maradona-tutto-esaurito-biglietti-658400",
-   "summary": "Cresce l'attesa per Napoli-Frosinone, in programma sabato sera allo Stadio Diego Armando Maradona. A pochi giorni dalla sfida, la vendita dei biglietti procede a ritmo sostenuto e l'impianto di Fuorigrotta viaggia verso il tutto esaurito.",
-   "source": "TuttoNapoli",
+   "title": "Borrelli: \"Juve e Milan, curioso di vedere se partono con delle certezze Spalletti e Amorim\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/borrelli-juve-milan-curioso-vedere-partono-certezze-spalletti-amorim-795889",
+   "summary": "Il giornalista di Netweek Michele Borrelli è intervenuto ai microfoni di TMW Radio, dove ha parlato della ripresa del campionato dopo la lunga sosta per le nazionali: \"Mi aspetto una partita super interessante tra Como e Roma.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:20:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2d/2de1ce5a1cb2834ed1340021718f7fbe-34097-oooz0000.jpeg",
-   "id": "a75571c54fe5"
+   "scope": "Juventus",
+   "published": "2026-10-07T20:40:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
+   "id": "169617fa8366"
   },
   {
-   "title": "Radio Tutto Napoli, risintonizzate il vostro Dab: ci trovate cercando \"TuttoNapoli\"",
-   "link": "https://www.tuttonapoli.net/radio-tn/radio-tuttonapoli-cresce-ancora-e-anche-nelle-auto-col-dab-cerca-tuttonapoli-636865",
-   "summary": "Radio Tutto Napoli, prima radio tematica sul Napoli, potete seguirla con tutte le modalità di fruizione.",
-   "source": "TuttoNapoli",
+   "title": "Archiviata la sosta Nazionali, verso la ripartenza: le big secondo cinque esperti",
+   "link": "https://www.tuttojuve.com/altre-notizie/archiviata-sosta-nazionali-ripartenza-big-esperti-795885",
+   "summary": "Verso la ripresa del campionato, a Tmw Radio si parla della situazione delle big di serie A dopo la sosta per le Nazionali. \"Qualche squadra sarà ingolfata – dice Stefano Impallomeni a Maracanà –.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:15:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/37/375bf8b2335f62f5e6fa7266569f0bf0-67050-oooz0000.jpeg",
-   "id": "41bd7452faed"
+   "scope": "Juventus",
+   "published": "2026-10-07T20:30:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/15/152de80f406dd3222332d5ff95870452-93470-oooz0000.jpeg",
+   "id": "97a8561b909b"
   },
   {
-   "title": "FIGC, elezioni il 14 dicembre: slitta la convocazione dell’assemblea",
-   "link": "https://www.tuttonapoli.net/notizie/figc-elezioni-14-dicembre-malago-presidente-assemblea-658388",
-   "summary": "Bisognerà attendere ancora qualche ora per la convocazione dell’assemblea elettiva straordinaria della FIGC, inizialmente prevista per oggi.",
-   "source": "TuttoNapoli",
+   "title": "Nuovo ranking Fifa: Spagna sempre leader e l'Italia resta 15/a",
+   "link": "https://www.milannews.it/dall-estero/ranking-fifa-spagna-leader-italia-resta-15-a-632015",
+   "summary": "(ANSA) - ROMA, 07 OTT - L'Italia resta 15/a nella classifica della Fifa, aggiornata dopo gli incontri internazionali disputati dopo il Mondiale e fino a oggi, in totale 338 partite in tutto il mondo.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T18:10:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0a/0aec3909a45d4513cecd4418d679010a-47747-oooz0000.jpeg",
-   "id": "b9485df81cc4",
-   "age_minutes": 152,
+   "scope": "Milan",
+   "published": "2026-10-07T22:48:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/75/7549efe4bd43ecd73117145c48584d64-48983-oooz0000.jpeg",
+   "id": "11e0366963f2"
+  },
+  {
+   "title": "Bartesaghi o Estupinan? Per Marianella non ci sono dubbi",
+   "link": "https://www.milannews.it/news/bartesaghi-estupinan-marianella-dubbi-632014",
+   "summary": "Massimo Marianella, telecronista e noto opinionista sportivo, ha parlato così sul Milan e sui propri giocatori in diretta a Sky Sport, in occasione della serata Premio Gentleman Fair Play tenutosi quest'oggi presso la Scuola Militare Teuli ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T22:36:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/07/071f410759c800029fcdfca796352553-36503-oooz0000.jpeg",
+   "id": "416ec1ba68c6"
+  },
+  {
+   "title": "La classifica dei giocatori con più presenze in nazionale: Modric può superare Messi nella prossima sosta",
+   "link": "https://www.milannews.it/news/classifica-giocatori-presenze-nazionale-modric-superare-messi-prossima-sosta-631991",
+   "summary": "Nell'ultimo match di questa sosta ontro la Spagna, Luka Modric ha collezionato la sua 206^ presenza con la maglia della Croazia ed è ora solo ad una partita di distanza da Lionel Messi che nelle scorse ore ha giocato la sua ultima gara con ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T22:24:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d9/d9e9588be5f1e1778654383cbe51564f-45355-oooz0000.jpeg",
+   "id": "62b73a5b1ac3"
+  },
+  {
+   "title": "Ramazzotti: \"Con Endrick insieme a Pulisic, Moreira e Ramos, il Milan avrebbe una qualità e un potenziale notevoli\"",
+   "link": "https://www.milannews.it/calciomercato-milan/ramazzotti-con-endrick-pulisic-moreira-ramos-milan-qualita-potenziale-notevoli-631951",
+   "summary": "Andrea Ramazzotti, giornalista, si è così espresso su La Gazzetta dello Sport sull'idea Endrick del Real Madrid per il Milan: \"Con la linea a quattro dietro, le possibili opzioni sono il 4-4-2, il 4-2-3-1 o il 4-3-2-1.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T22:12:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/11/11309b501adad53045f4fc2460815491-06274-oooz0000.jpeg",
+   "id": "29c63d114f47"
+  },
+  {
+   "title": "Milan: c’è un allarme rosso. Sassuolo, mercato, calendario. E la grande manovra in FIGC",
+   "link": "https://www.milannews.it/editoriale/milan-c-e-allarme-rosso-sassuolo-mercato-calendario-manovra-figc-632007",
+   "summary": "Sono giorni da allarme rosso. Ed è bene spiegare velocemente il motivo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T22:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/99/995d86de39c6e56243f08e135ab3ea2a-06254-600o384o2268o2052z14b8.jpeg",
+   "id": "8539fed1f3a2",
+   "age_minutes": 170,
    "also": [],
-   "score": 5.408
+   "score": 6.325
   },
   {
-   "title": "Idoneità McTominay, quando tornerà in campo? Le due ipotesi",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/mctominay-idoneita-napoli-rientro-frosinone-villarreal-658398",
-   "summary": "Arriva finalmente la notizia che Massimiliano Allegri e il Napoli aspettavano: Scott McTominay ha ottenuto l'idoneità agonistica ed è tornato ad allenarsi con il gruppo.",
-   "source": "TuttoNapoli",
+   "title": "Serafini: \"Il Milan ha grandi potenzialità. Chi mi ha sorpreso di più finora è Moreira\"",
+   "link": "https://www.milannews.it/news/mn-serafini-milan-ha-grandi-potenzialita-sorpreso-finora-moreira-631899",
+   "summary": "Intervistato in esclusiva da MilanNews.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T17:57:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f1/f19700edd4eea2120774e201af175fc9-94354-oooz0000.jpeg",
-   "id": "acc3b01a7c29"
+   "scope": "Milan",
+   "published": "2026-10-07T21:48:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/75/757ce7cf4aa72a55dd7906a6411b6a2f-89123-oooz0000.jpeg",
+   "id": "99efa4192d1f"
   },
   {
-   "title": "Giuliani: “Mancini ha dato un senso all’Italia in 4 partite, Allegri non ha ancora trovato la chiave”",
-   "link": "https://www.tuttonapoli.net/le-interviste/giuliani-allegri-napoli-mancini-idea-base-658389",
-   "summary": "La Serie A è pronta a ripartire dopo la lunga sosta per le Nazionali e per il Napoli di Massimiliano Allegri arriva subito un passaggio importante della stagione. Intervenuto alla radio di Tuttomercatoweb.",
-   "source": "TuttoNapoli",
+   "title": "Tutti pazzi per il 2011 Ejodamen del Dortmund: c'è anche il Milan sul \"nuovo Bellingham\"",
+   "link": "https://www.milannews.it/calciomercato-milan/pazzi-2011-ejodamen-dortmund-milan-nuovo-bellingham-632008",
+   "summary": "C'è un giovanissimo talento del Borussia Dortmund che è finito nel mirino di diversi top club europei: si tratta di Justin Ehikioya Ejodamen, centrocampista classe 2011 che milita nella formazione Under 16 giallonera ed…",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T17:50:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/27/2744a4c3792b21595c5ada350e642780-65670-oooz0000.jpeg",
-   "id": "21200909dbe5",
-   "age_minutes": 173,
+   "scope": "Milan",
+   "published": "2026-10-07T21:36:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01b728057c356f6067b286bed65c9585-24243-215o143o911o839z083c.jpeg",
+   "id": "0f60977ed13d",
+   "age_minutes": 194,
    "also": [],
-   "score": 5.113
+   "score": 4.621
   },
   {
-   "title": "Elezioni AIA, tre candidati per la presidenza: ecco i nomi",
-   "link": "https://www.tuttonapoli.net/serie-a/elezioni-aia-candidati-presidenza-nomi-658385",
-   "summary": "Si avvicina il momento delle nuove elezioni dell'Associazione Italiana Arbitri.",
-   "source": "TuttoNapoli",
+   "title": "Verso Olympiacos-Milan: AIMC e Curva Sud stanno organizzando due voli charter. Tutte le info",
+   "link": "https://www.milannews.it/news/olympiacos-milan-aimc-curva-sud-organizzando-voli-charter-tifosi-rossoneri-info-631988",
+   "summary": "In vista della trasferta di Europa League del Milan ad Atene contro l'Olympiacos del prossimo 26 novembre, ecco il comunicato dell'Associazione Italiana Milan Club che, insieme alla Curva Sud Milano, sta organizzando due voli charter per i ti ...",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-07T17:40:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/62/624a464e41c9a2fdb75a1e04e197647f-64731-oooz0000.jpeg",
-   "id": "c6300d463376"
+   "scope": "Milan",
+   "published": "2026-10-07T21:24:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3b/3b4ca3d11946cff6945ebf66cac11f96-32591-oooz0000.jpeg",
+   "id": "60ccf4815c76"
+  },
+  {
+   "title": "Italia U21, Baldini: \"Almeno 11-12 giocatori pronti per la Nazionale maggiore\"",
+   "link": "https://www.milannews.it/news/baldini-almeno-11-12-giocatori-u-21-pronti-nazionale-maggiore-632023",
+   "summary": "(ANSA) - ROMA, 07 OTT - \"In Italia i giocatori ci sono, i talenti non sono spariti. Non ci sono invece i dirigenti all'altezza, che investano sui giovani.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T21:22:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/54/54d67587afc405aad4685a1189e95b6b-65688-oooz0000.jpeg",
+   "id": "df0fd0d0fdd5"
+  },
+  {
+   "title": "Serie A, si riparte! Braglia: \"Mi aspetto un cambio di passo dal Milan che non ha ancora un'identità\"",
+   "link": "https://www.milannews.it/news/serie-a-riparte-braglia-mi-aspetto-cambio-passo-milan-identita-632004",
+   "summary": "L'ex portiere Simone Braglia, intervenuto ai microfoni della radio di Tuttomercatoweb.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T21:00:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1d/1dac8a999fd53d6d272abf0a1f238e83-57107-oooz0000.jpeg",
+   "id": "1f402556cd8c",
+   "age_minutes": 230,
+   "also": [],
+   "score": 4.867
+  },
+  {
+   "title": "Modric: \"Mi sento bene, ho ancora la passione, l'ambizione e le forze. E finché mi sentirò così voglio continuare a giocare\"",
+   "link": "https://www.milannews.it/news/calcio-modric-real-club-piacerebbe-tornare-632002",
+   "summary": "(ANSA) - MILANO, 07 OTT - \"Ovviamente il Real Madrid è la mia casa, è il club della mia vita: sono stato lì per 13 anni. Vedremo cosa succederà in futuro.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-07T20:48:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/73/732dbfe299c2c8e2c80bfa0fa5af19b5-56357-oooz0000.jpeg",
+   "id": "02ebe7ace2c6"
   },
   {
    "title": "Nuovo San Siro, quali sono i prossimi passi? Rendering, inizio dei lavori nel 2027 e stadio pronto nel 2031",
@@ -692,9 +992,9 @@
    "published": "2026-10-07T20:12:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/63/635a8fbc11676cfa0f3b8c4b402ec027-75377-oooz0000.jpeg",
    "id": "a6315eee337c",
-   "age_minutes": 31,
+   "age_minutes": 278,
    "also": [],
-   "score": 7.021
+   "score": 5.874
   },
   {
    "title": "Nuovo San Siro, l'ssessora Riva dopo la sentenza del TAR: \"È il momento di lasciarsi le polemiche alle spalle e di guardare avanti, puntando con decisione sull’obiettivo dei Euro 2032\"",
@@ -752,351 +1052,18 @@
    "id": "bc51a5195e0f"
   },
   {
-   "title": "Pasotto: \"Non è da escludere un addio già a gennaio di Tomori al Milan\"",
-   "link": "https://www.milannews.it/calciomercato-milan/pasotto-non-escludere-addio-gennaio-tomori-milan-631953",
-   "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sul futuro al Milan di Fikayo Tomori, difensore centrale inglese: \"L'epurato riabilitato. Ma è con tutta evidenza una riabilitazione parziale.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T19:12:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/00/00ea268fed03e6f096de05cbfef416a5-38235-oooz0000.jpeg",
-   "id": "ba3c39b5fd9b",
-   "age_minutes": 91,
+   "title": "Sassuolo-Milan, Amorim prepara la sorpresa: un fedelissimo verso la panchina",
+   "link": "https://www.calciomercato.it/2026/10/07/sassuolo-milan-amorim-prepara-la-sorpresa-un-fedelissimo-verso-la-panchina/",
+   "summary": "L'articolo Sassuolo-Milan, Amorim prepara la sorpresa: un fedelissimo verso la panchina proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-07T20:51:01+00:00",
+   "image": "",
+   "id": "2410c5429adc",
+   "age_minutes": 239,
    "also": [],
-   "score": 6.706
-  },
-  {
-   "title": "MN - Bartesaghi ammette: \"Gila forte e molto duttile, mi ha impressionato anche Hutchinson per la sua tecnica\"",
-   "link": "https://www.milannews.it/news/mn-bartesaghi-ammette-gila-forte-duttile-impressionato-hutchinson-tecnica-632013",
-   "summary": "Il difensore del Milan e della Nazionale Under-21, Davide Bartesaghi ha parlato così direttamente dal Premio Gentleman Fair Play. Un estratto delle sue interessanti considerazioni in esclusiva per la Redazione di MilanNews.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T19:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/56/562fc395250c674ad3104e2b0bede91f-10483-oooz0000.jpeg",
-   "id": "882509d32114"
-  },
-  {
-   "title": "Bartesaghi sul percorso in U21: \"Possiamo vincere l'Europeo, siamo un grande gruppo\"",
-   "link": "https://www.milannews.it/news/bartesaghi-percorso-u21-possiamo-vincere-europeo-gruppo-632012",
-   "summary": "In occasione della 31esima edizione del Premio Gentleman Fair Play, ai microfoni di Sky Sport ha parlato così poco fa il difensore del Milan e della Nazionale Under-21 Davide Bartesaghi.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0d/0dcd9e81a91a6bd818a14e535f086220-14946-oooz0000.jpeg",
-   "id": "4f1895284b47"
-  },
-  {
-   "title": "MN - Zieliński: \"Per lo scudetto ci saranno anche Milan e Como\"",
-   "link": "https://www.milannews.it/news/mn-zielinski-632010",
-   "summary": "E' in corso la bellissima e consueta serata per il Premio Gentleman relativo alla stagione calcistica italiana 2025/2026.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:39:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f8/f80636dde313453e9707d37cc980ab5e-88084-oooz0000.jpeg",
-   "id": "cced75464dfb"
-  },
-  {
-   "title": "Guidi: \"Il Milan può reggere dall'inizio in contemporanea Ramos, Chukwueze, Moreira, Pulisic e Modric?\"",
-   "link": "https://www.milannews.it/news/guidi-chiede-il-milan-reggere-inizio-contemporanea-ramos-chukwueze-moreira-pulisic-modric-631948",
-   "summary": "Marco Guidi, giornalista, si è così espresso su La Gazzetta dello Sport sulle scelte di formazione di Ruben Amorim: \"Amorim dovrà pensare anche al sostituto di Saelemaekers, per cui nel pomeriggio il club ha emesso una nota ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:36:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3c/3ca27e715e45e7d3ae0fe23ef2ca43bc-19997-oooz0000.jpeg",
-   "id": "5b3faddf3c7a"
-  },
-  {
-   "title": "MN - Bartesaghi: \"Ad Amorim voglio bene, è un grande allenatore. Ruolo? Non ho preferenze\"",
-   "link": "https://www.milannews.it/news/mn-bartesaghi-ad-amorim-voglio-bene-allenatore-sentito-giusta-fiducia-632011",
-   "summary": "In occasione della 31esima edizione del Premio Gentleman Awards 2025/2026, questo quanto raccolto in esclusiva dalla redazione di MilanNews.it grazie al fedele lavoro del nostro inviato sul posto.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:28:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b5/b53d4223a5f9d3fa7a9becfa5dd9fb69-35918-oooz0000.jpeg",
-   "id": "3f10d969cb43"
-  },
-  {
-   "title": "Modric sul ritiro di Messi: \"È un peccato si ritiri dalla Nazionale. È unico, gli auguro il meglio\"",
-   "link": "https://www.milannews.it/news/modric-ritiro-messi-e-ritiri-nazionale-unico-auguro-meglio-631987",
-   "summary": "Intervistato dai colleghi di Partidazo de Cope, il centrocampista del Milan Luka Modric ha analizzato i momenti di due grandi campioni, che ha sfidato e con i quali ha giocato nel corso della sua strabiliante carriera: Lionel Messi e Cristiano Ronald ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:24:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/db/db78661851629d17dc6112412d5bea0e-26053-oooz0000.jpeg",
-   "id": "6fb516c40ae9"
-  },
-  {
-   "title": "Pellegatti: “Amorim deve trovare la soluzione per Ramos, deve essere il terminale offensivo”",
-   "link": "https://www.milannews.it/news/pellegatti-sicuro-amorim-trovare-soluzione-ramos-terminale-offensivo-631927",
-   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato di Gonçalo Ramos e di quello che dovrà fare con la maglia del Milan per trovare il gol con più continuità come fatto con la maglia del Portogallo. Queste le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:12:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0f35eaaf8bd1ad13a2e31f14686339ad-86156-oooz0000.jpeg",
-   "id": "33af10f6392f"
-  },
-  {
-   "title": "Paramount-Warner Bros: ecco quanto ha investito RedBird per finanziare l’operazione",
-   "link": "https://www.milannews.it/news/paramount-warner-bros-investito-redbird-finanziare-l-operazione-632006",
-   "summary": "Nelle scorse ore, Skydance Corporation (precedentemente Paramount Skydance Corporation) ha annunciato oggi il completamento dell'acquisizione di Warner Bros. Discovery, Inc.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T18:00:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9b/9bdc2f2688e0de74f099a4ced95d1ae6-06033-oooz0000.jpeg",
-   "id": "cfe1dd370429"
-  },
-  {
-   "title": "Pato: \"Prenderei la maglia di Modric. È impressionante e gioca benissimo con il Milan\"",
-   "link": "https://www.milannews.it/gli-ex/pato-prenderei-maglia-modric-impressionante-gioca-milan-631996",
-   "summary": "Alexandre Pato, ex attaccante del Milan, è stato protagonista di una lunga intervista da parte del canale della Lega di Serie A per la serie di interviste Storie di Serie A.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T17:48:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9b/9b0ff1be37d290c1d70f79d3ad8e707f-30330-oooz0000.jpeg",
-   "id": "7006995ce9d5"
-  },
-  {
-   "title": "Anche il ct dell'Italia Mancini non favorevole alle quattro partita in fila per le nazionali",
-   "link": "https://www.milannews.it/news/nations-league-mancini-4-partite-tante-credo-format-ideale-631920",
-   "summary": "(ANSA) - RIMINI, 06 OTT - \"Stare con i ragazzi è stata una cosa positiva, questo è sicuro. Quattro partite così sono veramente tante non credo sia un format ideale questo\".",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-07T17:36:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/26/26f02724241cb35bf365b2c095354960-99197-oooz0000.jpeg",
-   "id": "3047e6cd8c5d"
-  },
-  {
-   "title": "VIDEO - Marotta: \"Triplete? Sognare è un diritto. Poi abbiamo il dovere di fare bene\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/video-marotta-triplete-sognare-diritto-dovere-bene-1020262",
-   "summary": "Arriva un riconoscimento anche per Beppe Marotta, presidente dell'Inter, al 'Premio Gentleman FairPlay', di scena questa sera alla Scuola Militare Teuliè di Milano.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T20:40:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/86/86d3b19ace9adf94ada5e22ccd2cfe83-71257-oooz0000.jpeg",
-   "id": "ec75770f64c4"
-  },
-  {
-   "title": "VIDEO - Dimarco: \"Scudetto o Champions? Non scelgo. Il pensiero è vincere nuovi trofei\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/video-dimarco-scudetto-champions-scelgo-pensiero-vincere-trofei-1020261",
-   "summary": "Continuano ad alternarsi gli ospiti sul palco del 'Premio Gentleman FairPlay', nella serata evento di scena alla Scuola Militare Teuliè di Milano.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T20:25:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/78/784ed2977b8519b6030a8be13271ffea-47467-oooz0000.jpeg",
-   "id": "fc1593d08719"
-  },
-  {
-   "title": "Ronaldo: \"Messi, hai tutto il mio rispetto. La tua eredità durerà per sempre\"",
-   "link": "https://www.fcinternews.it/news/ronaldo-messi-stima-eredita-durera-sempre-1020258",
-   "summary": "\"Ieri ho giocato la mia ultima partita e sento già la mancanza di indossare la celeste y blanca. So di aver preso la decisione giusta.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T20:20:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d2/d27b6b53043fafb324c3c3be1bba1e9a-58279-oooz0000.jpeg",
-   "id": "84542233cb4c"
-  },
-  {
-   "title": "VIDEO - Mosconi: \"L'esordio con l'Inter un sogno. Lavoro a testa bassa per avere un'altra opportunità\"",
-   "link": "https://www.fcinternews.it/focus/video-mosconi-l-esordio-inter-sogno-lavoro-testa-bassa-altra-opportunita-1020259",
-   "summary": "Il palco del 'Premio Gentleman FairPlay' accoglie un altro interista dopo Piotr Zielinski.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T20:05:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/82/8250a1a39b2b08fadda848f8ed424c85-59592-oooz0000.jpeg",
-   "id": "d8e62cd3e35a"
-  },
-  {
-   "title": "VIDEO - Zielinski: \"Chivu grandissima persona, spero di restare con lui a lungo\"",
-   "link": "https://www.fcinternews.it/copertina/gentleman-fair-play-zielinski-premiato-chivu-grandissima-persona-spero-restare-lungo-1020257",
-   "summary": "Premiato sul palco del Premio Gentleman FairPlay, Piotr Zielinski ha fatto un breve discorso soffermandosi su Chivu, sulla sosta per le nazionali e non solo.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T19:53:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9a/9a2362fcf5032467e75c4b2497959cd0-09889-oooz0000.jpeg",
-   "id": "84711e74a4f7"
-  },
-  {
-   "title": "Milan, Bartesaghi: \"Inter favorita? Pensiamo a noi stessi, non agli altri\"",
-   "link": "https://www.fcinternews.it/il-resto-della-a/milan-bartesaghi-inter-favorita-pensiamo-stessi-altri-1020256",
-   "summary": "Intervenendo a margine del 'Premio Gentleman FairPlay', di scena questa sera alla Scuola Militare Teuliè di Milano, Davide Bartesaghi ha risposto alle domande dei cronisti presenti, tra cui il nostro inviato.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T19:37:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9f/9fb65562891e63ae4592fc485370dcd3-96294-oooz0000.jpeg",
-   "id": "3f18a8ae5b1a"
-  },
-  {
-   "title": "Città Sportive 2026, comanda New York. Milano arriva al settimo posto",
-   "link": "https://www.fcinternews.it/news/sportive-2026-comanda-new-york-milano-arriva-settimo-1020221",
-   "summary": "Milano entra nella top 10 delle città sportive mondiali e guadagna due posizioni rispetto allo scorso anno.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T19:23:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/20/20fcbb73ef660a17f5f919ce9616906a-21609-oooz0000.jpeg",
-   "id": "14632870f974"
-  },
-  {
-   "title": "VIDEO - Arianna Fontana: \"Ogni volta che incontro Marotta o i giocatori dell'Inter mi sento come a casa\"",
-   "link": "https://www.fcinternews.it/news/arianna-fontana-ogni-incontro-marotta-giocatori-inter-sento-casa-1020255",
-   "summary": "Arianna Fontana, pattinatrice di short track italiana che nel corso della sua carriera ha vinto 14 medaglie ai Giochi olimpici invernali, ha parlato dell'Inter e del suo rapporto con i colori nerazzurri nel corso del…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T19:09:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/29/298919a102b45b807e1d3a7e59bd5346-68970-oooz0000.jpeg",
-   "id": "646364f55c07",
-   "age_minutes": 94,
-   "also": [],
-   "score": 5.69
-  },
-  {
-   "title": "Lautaro testimone della storia del calcio: \"Messi, sarai sempre il più grande di tutti i tempi\"",
-   "link": "https://www.fcinternews.it/focus/lautaro-testimone-storia-calcio-messi-tempi-1020254",
-   "summary": "Dopo aver calcato il campo del Monumental di Buenos Aires per 79 minuti, in occasione dell'ultimo tango con l'Argentina di Lionel Messi, Lautaro Martinez ha voluto mostrare una volta ancora tutta la sua gratitudine al compagno di squadra che ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T18:55:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0a/0a4b7b0dcc8a5d3a8f0da9886960fd47-35317-oooz0000.jpeg",
-   "id": "bf924584f4b2"
-  },
-  {
-   "title": "Roma capolista con l'Inter, Ludi: \"Giallorossi candidati a essere competitivi fino alla fine\"",
-   "link": "https://www.fcinternews.it/il-resto-della-a/roma-capolista-inter-ludi-giallorossi-candidati-competitivi-fine-1020247",
-   "summary": "Carlalberto Ludi, direttore sportivo del Como, ha parlato a Sky Sport in vista della sfida contro la Roma in programma domenica.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T18:40:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4a/4aa141915a8960809b4d27eff285a1ec-03652-oooz0000.jpeg",
-   "id": "79ecd78802b5"
-  },
-  {
-   "title": "GdS - Champions ancora più ricca dal 27-28: gli eventuali incassi garantiti dell'Inter",
-   "link": "https://www.fcinternews.it/focus/i-gds-i-champions-ricca-2027-eventuali-incassi-garantiti-inter-1020251",
-   "summary": "La Champions League sarà ancora più ricca nel prossimo quadriennio, Come scrive Gazzetta.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T18:26:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/45ea440c1a380f0a064cac97460b5f8c-36331-oooz0000.jpeg",
-   "id": "b575308dba99"
-  },
-  {
-   "title": "VIDEO - Zielinski: \"Champions un sogno. Non è da tutti giocare così al Bernabeu\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/zielinski-champions-sogno-non-da-tutti-giocare-cos-al-bernabeu-1020252",
-   "summary": "Ospite del Premio Gentleman FairPlay, Piotr Zielinski ha parlato ai cronisti presenti dell'obiettivo dei nerazzurri in questo ottobre pieno di impegni: \"In queste nove partite vogliamo vincere il più possibile\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T18:13:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/df/dfe4c7fa812d1d5101e7159b6b986f8f-38378-oooz0000.jpeg",
-   "id": "8cc0276b0314"
-  },
-  {
-   "title": "McTominay, ecco l'idoneità sportiva: lo scozzese si è allenato in gruppo",
-   "link": "https://www.fcinternews.it/il-resto-della-a/mctominay-idoneita-sportiva-scozzese-allenato-1020250",
-   "summary": "Via libera per Scott McTominay, che oggi è tornato ad allenarsi in gruppo a un mese dall'intervento di correzione mediante ablazione effettuato in seguito all'insorgenza di una lieve aritmia benigna.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T17:57:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/19/19b358425fe96357e4570f946785ad3f-84142-746o156o1469o879z0cb2.jpeg",
-   "id": "fc03f0ff53cf"
-  },
-  {
-   "title": "Under 21, Baldini: \"Con Mancini c'è collaborazione. Ranieri uomo chiave\"",
-   "link": "https://www.fcinternews.it/news/under-21-baldini-con-mancini-collaborazione-ranieri-chiave-1020248",
-   "summary": "\"In Italia non ci sono i dirigenti per poter fare le cose per bene. Vedete come si esprimono i giovani in Nazionale, da subito si è vista una nuova aria, un nuovo spirito.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T17:43:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e9/e9d685473ff47c7dd07218e441575ac8-30394-421o12o1420o1011z0b30.jpeg",
-   "id": "7ffcca01aa9a"
-  },
-  {
-   "title": "Omicidio Boiocchi, si avvicina la sentenza: il 15 dicembre la requisitoria",
-   "link": "https://www.fcinternews.it/news/omicidio-boiocchi-avvicina-sentenza-15-dicembre-requisitoria-1020242",
-   "summary": "Si avvicina alla conclusione il processo riguardo l'omicidio di Vittorio Boiocchi, storico leader del tifo organizzato interista, freddato sotto casa sua nel febbraio 2022.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T17:29:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f5/f5e448246b8d1c8fc2c2156dde7786bc-16271-732o384o2352o2004z1560.jpeg",
-   "id": "2c1c8c70ef0b"
-  },
-  {
-   "title": "Palacios si inchina di fronte a Messi: \"Mi sento un privilegiato\"",
-   "link": "https://www.fcinternews.it/inter-social-club/palacios-inchina-fronte-messi-mi-sento-privilegiato-1020244",
-   "summary": "Anche Tomas Palacios si è inchinato di fronte alla grandezza di Lionel Messi, che la scorsa notte ha ballato l'ultimo tango con addosso la maglia della nazionale argentina.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T17:14:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/76/766d4ba983d61bfe8ffbdd45fcb648a2-66332-oooz0000.jpeg",
-   "id": "e5178397597d"
-  },
-  {
-   "title": "Rivivi la diretta! Da STANKOVIC a DIOUF, CHIVU spiega la sua INTER. RETROSCENA su ICARDI. -3 a INTER-PARMA",
-   "link": "https://www.fcinternews.it/in-primo-piano/live-diretta-inter-parma-chivu-stankovic-diouf-1020233",
-   "summary": "Appuntamento in diretta con il Salotto di FcInterNews. Pausa nazionali archiviata, prepariamoci insieme a Inter-Parma in programma sabato.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T17:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/83/831948391dc1628dfc3a388ffadee632-62944-oooz0000.jpeg",
-   "id": "f422f6b63a20"
-  },
-  {
-   "title": "Inter-Genoa, torna l'appuntamento dedicato ai soci degli Inter Club",
-   "link": "https://www.fcinternews.it/news/inter-genoa-torna-appuntamento-dedicato-soci-inter-club-1020240",
-   "summary": "In occasione di Inter-Genoa, gara valida per la 13esima giornata di Serie A in programma sabato 28 novembre alle 20:45 a San Siro, si rinnova l'appuntamento con la partita speciale dedicata agli Inter Club per il girone d'andata.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T16:47:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fd0b8c3f12b332edbd445cdae6d91621-95777-oooz0000.jpeg",
-   "id": "4ce0a21d045f"
-  },
-  {
-   "title": "Qui Parma - Gilardino ritrova Sierro e Britschgi. Differenziato per Frigan, Bernabé e Delprato",
-   "link": "https://www.fcinternews.it/l-avversario/parma-gilardino-ritrova-sierro-britschgi-differenziato-frigan-bernabe-delprato-1020238",
-   "summary": "Scivola via la sosta nazionali e, così come l'Inter, anche il Parma recupera pian piano tutti i suoi elementi. E' bene ricordare che proprio la squadra emiliana sarà la prossima avversaria dell'Inter sabato 10 ottobre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T16:32:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0b/0bef1707d2ba3b37055f046e64fa0f05-09829-863o0o2363o1499z1275.jpeg",
-   "id": "210d8a4cab34"
-  },
-  {
-   "title": "Spezia, il presidente Stillitano inaugura il museo del club e scherza: \"Siamo più vecchi dell'Inter\"",
-   "link": "https://www.fcinternews.it/news/spezia-presidente-stillitano-inaugura-museo-club-scherza-siamo-vecchi-inter-1020230",
-   "summary": "Nato nel 1906, lo Spezia festeggia in questo 2026 ben 120 anni di storia. Ieri allo stadio Picco il club ha aperto il proprio museo permanente, con l'inagurazione che ha visto l'intervento del presidente Charlie Stillitano.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-07T16:18:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/14/14648ee3f7e01576cd9d3c16b04cae3d-54236-420o294o1110o984z0af8.jpeg",
-   "id": "bb319b5ba180"
+   "score": 6.229
   },
   {
    "title": "Doppia sorpresa in casa Inter con il Parma: esordio per Provedel e un big fuori",
@@ -1108,9 +1075,9 @@
    "published": "2026-10-07T19:22:19+00:00",
    "image": "",
    "id": "f895a5e6150c",
-   "age_minutes": 81,
+   "age_minutes": 328,
    "also": [],
-   "score": 6.957
+   "score": 5.889
   },
   {
    "title": "Juve, già deciso il futuro di David: cosa accadrà a giugno",
@@ -1122,9 +1089,9 @@
    "published": "2026-10-07T18:29:20+00:00",
    "image": "",
    "id": "c58ed8fa6466",
-   "age_minutes": 134,
+   "age_minutes": 381,
    "also": [],
-   "score": 6.695
+   "score": 5.705
   },
   {
    "title": "Napoli, Allegri stravolge l’attacco contro il Frosinone: le ultimissime",
@@ -1136,9 +1103,9 @@
    "published": "2026-10-07T16:56:53+00:00",
    "image": "",
    "id": "21466f3ec0af",
-   "age_minutes": 226,
+   "age_minutes": 474,
    "also": [],
-   "score": 6.283
+   "score": 5.417
   },
   {
    "title": "Yildiz via dalla Juve per quasi 150 milioni, l’annuncio in diretta",
@@ -1161,9 +1128,9 @@
    "published": "2026-10-07T12:14:18+00:00",
    "image": "",
    "id": "668eb2631fce",
-   "age_minutes": 509,
+   "age_minutes": 756,
    "also": [],
-   "score": 7.317
+   "score": 6.741
   },
   {
    "title": "Juve forte su tre centrocampisti, Spalletti incrocia le dita: i nomi",
@@ -1175,9 +1142,9 @@
    "published": "2026-10-07T11:02:35+00:00",
    "image": "",
    "id": "14133e675650",
-   "age_minutes": 581,
+   "age_minutes": 828,
    "also": [],
-   "score": 5.128
+   "score": 4.609
   },
   {
    "title": "Juve, assalto a Bernasconi: la formula dell’affare con l’Atalanta",
@@ -1189,9 +1156,9 @@
    "published": "2026-10-07T08:37:55+00:00",
    "image": "",
    "id": "a25a5b5f2112",
-   "age_minutes": 725,
+   "age_minutes": 973,
    "also": [],
-   "score": 6.803
+   "score": 6.381
   },
   {
    "title": "Milan-Maignan, possibile addio a fine stagione: il sostituto è in Serie A | CM",
@@ -1203,9 +1170,9 @@
    "published": "2026-10-07T08:00:25+00:00",
    "image": "",
    "id": "0bc304449504",
-   "age_minutes": 763,
+   "age_minutes": 1010,
    "also": [],
-   "score": 6.729
+   "score": 6.33
   },
   {
    "title": "Presente Inter, ma futuro in sospeso per Calhanoglu: ‘Gala’ e Juve in agguato | CM",
@@ -1217,9 +1184,9 @@
    "published": "2026-10-07T06:54:33+00:00",
    "image": "",
    "id": "4bc916ca8695",
-   "age_minutes": 829,
+   "age_minutes": 1076,
    "also": [],
-   "score": 4.608
+   "score": 4.245
   },
   {
    "title": "Un campione d’Inghilterra per la Juve: sfida tra big",
@@ -1231,9 +1198,9 @@
    "published": "2026-10-07T05:18:16+00:00",
    "image": "",
    "id": "c5b6d1a79657",
-   "age_minutes": 925,
+   "age_minutes": 1172,
    "also": [],
-   "score": 4.451
+   "score": 4.136
   },
   {
    "title": "Per la Juventus è durissima: c’è la fila per Kayode",
@@ -1245,9 +1212,9 @@
    "published": "2026-10-06T21:22:02+00:00",
    "image": "",
    "id": "bc442865c6d5",
-   "age_minutes": 1401,
+   "age_minutes": 1648,
    "also": [],
-   "score": 3.928
+   "score": 3.77
   },
   {
    "title": "Inter, novità Calhanoglu: la decisione in vista del Parma",
@@ -1259,9 +1226,9 @@
    "published": "2026-10-06T20:33:43+00:00",
    "image": "",
    "id": "84380f74775d",
-   "age_minutes": 1449,
+   "age_minutes": 1697,
    "also": [],
-   "score": 3.893
+   "score": 3.745
   },
   {
    "title": "Allenamento Roma, le condizioni di Malen e Wesley in vista del Como",
@@ -1273,9 +1240,9 @@
    "published": "2026-10-06T19:21:57+00:00",
    "image": "",
    "id": "f2e931c6993f",
-   "age_minutes": 1521,
+   "age_minutes": 1768,
    "also": [],
-   "score": 3.844
+   "score": 3.711
   },
   {
    "title": "Infortunio Vergara, brutte notizie per il Napoli: ecco quanto dovrà restare fermo",
@@ -1287,9 +1254,9 @@
    "published": "2026-10-06T17:04:47+00:00",
    "image": "",
    "id": "3e366095452c",
-   "age_minutes": 1658,
+   "age_minutes": 1906,
    "also": [],
-   "score": 3.765
+   "score": 3.655
   },
   {
    "title": "Emergenza Milan sulle fasce, si torna sul mercato: i nomi",
@@ -1301,9 +1268,9 @@
    "published": "2026-10-06T16:40:35+00:00",
    "image": "",
    "id": "a3402bb3014a",
-   "age_minutes": 1683,
+   "age_minutes": 1930,
    "also": [],
-   "score": 4.952
+   "score": 4.846
   },
   {
    "title": "Roma, doppio colpo in arrivo per Gasperini: i giallorossi sognano | CM",
@@ -1315,9 +1282,9 @@
    "published": "2026-10-06T15:05:16+00:00",
    "image": "",
    "id": "5ca5868786e7",
-   "age_minutes": 1778,
+   "age_minutes": 2025,
    "also": [],
-   "score": 5.707
+   "score": 5.615
   },
   {
    "title": "La Juve sfida l’Arsenal per un talento brasiliano, di chi si tratta",
@@ -1329,9 +1296,9 @@
    "published": "2026-10-06T13:14:46+00:00",
    "image": "",
    "id": "6d9f089892ea",
-   "age_minutes": 1888,
+   "age_minutes": 2136,
    "also": [],
-   "score": 3.661
+   "score": 3.583
   },
   {
    "title": "Carvajal sbarca in Serie A? Milan o Juventus: come stanno le cose",
@@ -1342,10 +1309,7 @@
    "scope": "generalista",
    "published": "2026-10-06T11:13:44+00:00",
    "image": "",
-   "id": "fcb943c117b4",
-   "age_minutes": 2009,
-   "also": [],
-   "score": 3.62
+   "id": "fcb943c117b4"
   },
   {
    "title": "Juve, allarme Alajbegovic: Spalletti col fiato sospeso",
@@ -1356,10 +1320,7 @@
    "scope": "generalista",
    "published": "2026-10-06T09:13:38+00:00",
    "image": "",
-   "id": "0fb70fed16cb",
-   "age_minutes": 2130,
-   "also": [],
-   "score": 3.585
+   "id": "0fb70fed16cb"
   },
   {
    "title": "Infortunio Saelemaekers, brutte notizie per i rossoneri: la situazione",
@@ -1472,253 +1433,227 @@
    "id": "d53e5aed0da0"
   },
   {
-   "title": "Italia-Turchia, i convocati di Mancini: 7 esclusioni",
-   "link": "https://www.calciomercato.it/2026/10/05/italia-turchia-i-convocati-di-mancini-7-esclusioni/",
-   "summary": "L'articolo Italia-Turchia, i convocati di Mancini: 7 esclusioni proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-05T09:14:01+00:00",
-   "image": "",
-   "id": "29995b0522d5"
+   "title": "Ranking FIFA - Spagna sempre più regina. Italia ferma al 15esimo posto",
+   "link": "https://www.fcinternews.it/news/ranking-fifa-spagna-regina-italia-ferma-15esimo-1020243",
+   "summary": "Da quando si è concluso il Mondiale lo scorso 19 luglio, si sono disputate complessivamente 338 partite a livello di Nazionali.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-08T00:30:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e1/e1524946eb82a7279bb25be3a462fc8d-24240-oooz0000.jpeg",
+   "id": "de13ab158602"
   },
   {
-   "title": "Archiviata la sosta Nazionali, verso la ripartenza: le big secondo cinque esperti",
-   "link": "https://www.tuttojuve.com/altre-notizie/archiviata-sosta-nazionali-ripartenza-big-esperti-795885",
-   "summary": "Verso la ripresa del campionato, a Tmw Radio si parla della situazione delle big di serie A dopo la sosta per le Nazionali. \"Qualche squadra sarà ingolfata – dice Stefano Impallomeni a Maracanà –.",
-   "source": "TuttoJuve",
+   "title": "Savoia, iniziativa speciale in vista della sfida contro l'Inter U23",
+   "link": "https://www.fcinternews.it/inter-u23/savoia-iniziativa-speciale-invitare-tifosi-sfida-inter-u23-1020249",
+   "summary": "Il Savoia ha annunciato un'iniziativa speciale in vista dell'imminente ritorno allo stadio Giraud previsto in occasione della prossima gara casalinga contro l'Inter U23.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T20:30:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/15/152de80f406dd3222332d5ff95870452-93470-oooz0000.jpeg",
-   "id": "97a8561b909b"
+   "scope": "Inter",
+   "published": "2026-10-07T23:30:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2b/2b673f7e74ab1a689151e1999d385c23-82929-oooz0000.jpeg",
+   "id": "2c7660f7e87a"
   },
   {
-   "title": "Serie C e professionismo: a Roma incontro su previdenza e adempimenti",
-   "link": "https://www.tuttojuve.com/settore-giovanile/serie-professionismo-roma-incontro-previdenza-adempimenti-795882",
-   "summary": "È andato in scena oggi a Palazzo Wedekind di Roma l'incontro formativo promosso da Inps e serie C rivolto alle società sportive professionistiche.",
-   "source": "TuttoJuve",
+   "title": "Da Messi a Chivu: la sosta impone una riflessione sul tempo nel calcio",
+   "link": "https://www.fcinternews.it/editoriale/messi-chivu-sosta-impone-riflessione-calcio-1020253",
+   "summary": "La sosta dei campionati, per sua natura, impone una riflessione sul tempo, a maggior ragione in questa finestra internazionale FIFA insolitamente extralarge.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T20:20:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ce/ce9f8af659011b17dbd6436823abdff6-46154-oooz0000.jpeg",
-   "id": "26d88593b299",
-   "age_minutes": 23,
+   "scope": "Inter",
+   "published": "2026-10-07T22:00:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c70fc92fb79b00863993430fca1b5fb5-22299-oooz0000.jpeg",
+   "id": "0c9bef88f2d4"
+  },
+  {
+   "title": "Martinez: \"Nazionale un sogno diventato realtà. Ora testa ai prossimi obiettivi\"",
+   "link": "https://www.fcinternews.it/focus/martinez-nazionale-sogno-realta-testa-prossimi-obiettivi-1020264",
+   "summary": "Pur senza aver fatto il suo debutto in gare ufficiali con la nazionale spagnola, Pepo Martinez tornerà alla Pinetina arricchito dall'esperienza senza prezzo vissuta assieme alla squadra campione del mondo, capace in questa finest ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T21:53:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/36/36d96f88be7e886b797959c821f45f93-39894-361o60o1420o1119z0b90.jpeg",
+   "id": "4a20359eea05"
+  },
+  {
+   "title": "Cagliari, Pisacane ricorda: \"Contro l'Inter abbiamo rischiato tantissimo perché...\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/cagliari-pisacane-ricorda-contro-inter-rischiato-tantissimo-perche-1020245",
+   "summary": "Fabio Pisacane, tecnico del Cagliari, ha parlato a DAZN della primissima porzione di campionato della propria squadra: \"Udine è la partita che mi ha lasciato maggiormente soddisfatto, dal punto di vista della mentalità.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T21:38:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b5/b5b95012de523c1119c630a8f864c56b-47660-oooz0000.jpeg",
+   "id": "f8775b44ce18"
+  },
+  {
+   "title": "Sagna lo ribadisce: \"Sono interista, mi attrae tutto del club\"",
+   "link": "https://www.fcinternews.it/news/sagna-ribadisce-sono-interista-attrae-club-1020263",
+   "summary": "L'Inter è rimasta impressa nella mente e nel cuore di Bacary Sagna, che pure non ha mai collezionato una sola presenza per la Beneamata.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T21:23:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e3/e3dcd83f105ac86dae54b3568303e218-49214-306o6o1026o726z0810.jpeg",
+   "id": "b232aae0df65"
+  },
+  {
+   "title": "Inter, contro il Parma numeri chiari: importante serie di risultati positivi",
+   "link": "https://www.fcinternews.it/stats/inter-parma-numeri-chiari-importante-serie-risultati-positivi-1020246",
+   "summary": "L'Inter vuole continuare il suo cammino in testa al campionato di Serie A, magari provando a staccare la Roma, che ora è co-capolista con i nerazzurri.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T21:09:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/9322afc5f7fd2c35a79608b634c010cc-47793-oooz0000.jpeg",
+   "id": "fd1d600b3930"
+  },
+  {
+   "title": "Pellegrini: \"E' complicato dire che Como-Roma deciderà l'anti-Inter\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/pellegrini-e-complicato-como-roma-decidera-anti-inter-1020260",
+   "summary": "Lorenzo Pellegrini scalpita per tornare finalmente in campo dopo sei mesi in cui ha dovuto guardare i compagni dalla panchina. Il momento tanto atteso per il centrocampista della Roma potrebbe arrivare domenica, alle 12.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T20:55:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7e/7e21ef89a6a5b3e1424eaf25e8323e9c-91310-oooz0000.jpeg",
+   "id": "5122311979c7"
+  },
+  {
+   "title": "VIDEO - Marotta: \"Triplete? Sognare è un diritto. Poi abbiamo il dovere di fare bene\"",
+   "link": "https://www.fcinternews.it/in-primo-piano/video-marotta-triplete-sognare-diritto-dovere-bene-1020262",
+   "summary": "Arriva un riconoscimento anche per Beppe Marotta, presidente dell'Inter, al 'Premio Gentleman FairPlay', di scena questa sera alla Scuola Militare Teuliè di Milano.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T20:40:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/86/86d3b19ace9adf94ada5e22ccd2cfe83-71257-oooz0000.jpeg",
+   "id": "ec75770f64c4"
+  },
+  {
+   "title": "VIDEO - Dimarco: \"Scudetto o Champions? Non scelgo. Il pensiero è vincere nuovi trofei\"",
+   "link": "https://www.fcinternews.it/focus/video-dimarco-scudetto-champions-scelgo-pensiero-vincere-trofei-1020261",
+   "summary": "Continuano ad alternarsi gli ospiti sul palco del 'Premio Gentleman FairPlay', nella serata evento di scena alla Scuola Militare Teuliè di Milano.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T20:25:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/78/784ed2977b8519b6030a8be13271ffea-47467-oooz0000.jpeg",
+   "id": "5ab8744d4d70"
+  },
+  {
+   "title": "Ronaldo: \"Messi, hai tutto il mio rispetto. La tua eredità durerà per sempre\"",
+   "link": "https://www.fcinternews.it/news/ronaldo-messi-stima-eredita-durera-sempre-1020258",
+   "summary": "\"Ieri ho giocato la mia ultima partita e sento già la mancanza di indossare la celeste y blanca. So di aver preso la decisione giusta.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T20:20:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d2/d27b6b53043fafb324c3c3be1bba1e9a-58279-oooz0000.jpeg",
+   "id": "84542233cb4c"
+  },
+  {
+   "title": "VIDEO - Mosconi: \"L'esordio con l'Inter un sogno. Lavoro a testa bassa per avere un'altra opportunità\"",
+   "link": "https://www.fcinternews.it/focus/video-mosconi-l-esordio-inter-sogno-lavoro-testa-bassa-altra-opportunita-1020259",
+   "summary": "Il palco del 'Premio Gentleman FairPlay' accoglie un altro interista dopo Piotr Zielinski.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T20:05:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/82/8250a1a39b2b08fadda848f8ed424c85-59592-oooz0000.jpeg",
+   "id": "d8e62cd3e35a"
+  },
+  {
+   "title": "VIDEO - Zielinski: \"Chivu grandissima persona, spero di restare con lui a lungo\"",
+   "link": "https://www.fcinternews.it/copertina/gentleman-fair-play-zielinski-premiato-chivu-grandissima-persona-spero-restare-lungo-1020257",
+   "summary": "Premiato sul palco del Premio Gentleman FairPlay, Piotr Zielinski ha fatto un breve discorso soffermandosi su Chivu, sulla sosta per le nazionali e non solo.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T19:53:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9a/9a2362fcf5032467e75c4b2497959cd0-09889-oooz0000.jpeg",
+   "id": "84711e74a4f7"
+  },
+  {
+   "title": "Milan, Bartesaghi: \"Inter favorita? Pensiamo a noi stessi, non agli altri\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/milan-bartesaghi-inter-favorita-pensiamo-stessi-altri-1020256",
+   "summary": "Intervenendo a margine del 'Premio Gentleman FairPlay', di scena questa sera alla Scuola Militare Teuliè di Milano, Davide Bartesaghi ha risposto alle domande dei cronisti presenti, tra cui il nostro inviato.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T19:37:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9f/9fb65562891e63ae4592fc485370dcd3-96294-oooz0000.jpeg",
+   "id": "3f18a8ae5b1a"
+  },
+  {
+   "title": "Città Sportive 2026, comanda New York. Milano arriva al settimo posto",
+   "link": "https://www.fcinternews.it/news/sportive-2026-comanda-new-york-milano-arriva-settimo-1020221",
+   "summary": "Milano entra nella top 10 delle città sportive mondiali e guadagna due posizioni rispetto allo scorso anno.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T19:23:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/20/20fcbb73ef660a17f5f919ce9616906a-21609-oooz0000.jpeg",
+   "id": "14632870f974"
+  },
+  {
+   "title": "VIDEO - Arianna Fontana: \"Ogni volta che incontro Marotta o i giocatori dell'Inter mi sento come a casa\"",
+   "link": "https://www.fcinternews.it/news/arianna-fontana-ogni-incontro-marotta-giocatori-inter-sento-casa-1020255",
+   "summary": "Arianna Fontana, pattinatrice di short track italiana che nel corso della sua carriera ha vinto 14 medaglie ai Giochi olimpici invernali, ha parlato dell'Inter e del suo rapporto con i colori nerazzurri nel corso del…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-07T19:09:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/29/298919a102b45b807e1d3a7e59bd5346-68970-oooz0000.jpeg",
+   "id": "646364f55c07",
+   "age_minutes": 341,
    "also": [],
-   "score": 6.069
+   "score": 4.642
   },
   {
-   "title": "Ravezzani: \"Commissariamento FIGC nuova indegna farsa. Tutta l'Europa ride di noi\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/ravezzani-commissariamento-figc-nuova-indegna-farsa-europa-ride-noi-795883",
-   "summary": "Sul caso commissariamento della FIGC si è espresso, sul suo canale Youtube, il giornalista Fabio Ravezzani: \"L'incredibile, l'indegna farsa che noi sportivi italiani, amanti del calcio, abbiamo dovuto vedere in questo balletto rid ...",
-   "source": "TuttoJuve",
+   "title": "Lautaro testimone della storia del calcio: \"Messi, sarai sempre il più grande di tutti i tempi\"",
+   "link": "https://www.fcinternews.it/focus/lautaro-testimone-storia-calcio-messi-tempi-1020254",
+   "summary": "Dopo aver calcato il campo del Monumental di Buenos Aires per 79 minuti, in occasione dell'ultimo tango con l'Argentina di Lionel Messi, Lautaro Martinez ha voluto mostrare una volta ancora tutta la sua gratitudine al compagno di squadra che ...",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T20:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/70/70f80a07a20ed882fe40b4e031c6fe4b-46867-oooz0000.jpeg",
-   "id": "ae75e4257551"
+   "scope": "Inter",
+   "published": "2026-10-07T18:55:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0a/0a4b7b0dcc8a5d3a8f0da9886960fd47-35317-oooz0000.jpeg",
+   "id": "bf924584f4b2"
   },
   {
-   "title": "Elezioni presidenziali AIA, ecco quali sono i tre candidati per il dopo-Zappi",
-   "link": "https://www.tuttojuve.com/altre-notizie/elezioni-presidenziali-aia-candidati-dopo-zappi-795880",
-   "summary": "Gli organi dell’AIA hanno verificato i requisiti delle candidature presentate in vista delle prossime elezioni presidenziali, che si terranno questo sabato, 10 ottobre, a Roma.",
-   "source": "TuttoJuve",
+   "title": "Roma capolista con l'Inter, Ludi: \"Giallorossi candidati a essere competitivi fino alla fine\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/roma-capolista-inter-ludi-giallorossi-candidati-competitivi-fine-1020247",
+   "summary": "Carlalberto Ludi, direttore sportivo del Como, ha parlato a Sky Sport in vista della sfida contro la Roma in programma domenica.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6f/6fa6a89baa4996f945c123528d927853-72670-oooz0000.jpeg",
-   "id": "af8d187c289f"
+   "scope": "Inter",
+   "published": "2026-10-07T18:40:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4a/4aa141915a8960809b4d27eff285a1ec-03652-oooz0000.jpeg",
+   "id": "79ecd78802b5"
   },
   {
-   "title": "Addio di Messi all'Argentina, Nico Paz: \"Addio del migliore della storia\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/addio-messi-argentina-messaggio-nico-paz-addio-nazionale-migliore-storia-795875",
-   "summary": "Nico Paz ha scelto il suo proprio profilo Instagram per salutare Lionel Messi dopo l'addio alla nazionale argentina da parte dell'otto volte Pallone d'oro. Il talento del Como era in campo contro il Benin, trovando…",
-   "source": "TuttoJuve",
+   "title": "GdS - Champions ancora più ricca dal 27-28: gli eventuali incassi garantiti dell'Inter",
+   "link": "https://www.fcinternews.it/focus/i-gds-i-champions-ricca-2027-eventuali-incassi-garantiti-inter-1020251",
+   "summary": "La Champions League sarà ancora più ricca nel prossimo quadriennio, Come scrive Gazzetta.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:50:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/63/639893656a07ae1a084c4e27eec38628-77493-oooz0000.jpeg",
-   "id": "d06bf4119b69",
-   "age_minutes": 53,
-   "also": [
-    {
-     "source": "TuttoJuve",
-     "link": "https://www.tuttojuve.com/altre-notizie/addio-messi-argentina-mastantuono-difficile-immaginare-argentina-te-795881"
-    }
-   ],
-   "score": 7.502
+   "scope": "Inter",
+   "published": "2026-10-07T18:26:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/45ea440c1a380f0a064cac97460b5f8c-36331-oooz0000.jpeg",
+   "id": "b575308dba99"
   },
   {
-   "title": "Addio di Messi all'Argentina, Mastantuono: \"Difficile immaginare l'Argentina senza di te\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/addio-messi-argentina-mastantuono-difficile-immaginare-argentina-te-795881",
-   "summary": "Era presente anche Franco Mastantuono in campo nell'ultima gara di Lionel Messi con l'Argentina. Il giocatore della Fiorentina ha affidato al suo profilo Instagram il proprio messaggio per l'ultima gara di Messi con l'albiceleste.",
-   "source": "TuttoJuve",
+   "title": "VIDEO - Zielinski: \"Champions un sogno. Non è da tutti giocare così al Bernabeu\"",
+   "link": "https://www.fcinternews.it/in-primo-piano/zielinski-champions-sogno-non-da-tutti-giocare-cos-al-bernabeu-1020252",
+   "summary": "Ospite del Premio Gentleman FairPlay, Piotr Zielinski ha parlato ai cronisti presenti dell'obiettivo dei nerazzurri in questo ottobre pieno di impegni: \"In queste nove partite vogliamo vincere il più possibile\".",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:40:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/63/639893656a07ae1a084c4e27eec38628-77493-oooz0000.jpeg",
-   "id": "bcd02293f295",
-   "_kw": 2.0,
-   "_fresh": 0.9132087354649485,
-   "_fp": "addio messi all argentina mastantuono difficile immaginare argentina senza",
-   "age_minutes": 62
-  },
-  {
-   "title": "Italia femminile, Soncin: \"Ci siamo preparate al meglio, è il nostro momento\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/italia-femminile-soncin-ci-preparate-meglio-momento-795876",
-   "summary": "Ai microfoni Rai ha parlato il ct della Nazionale femminile Andrea Soncin, che del match contro la Bielorussia ha detto: \"E' il nostro momento, il momento che volevamo, che stiamo aspettando da tempo: ci siamo preparate al meglio, quel che p ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4f/4f880986453f53e55dc949424830a6e4-28707-oooz0000.jpeg",
-   "id": "2176eaadac20"
-  },
-  {
-   "title": "Giuliani: \"Se nelle prossime due partite il Napoli di Allegri non dà risposte positive...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/giuliani-se-prossime-partite-napoli-allegri-da-risposte-positive-795888",
-   "summary": "Il giornalista Fulvio Giuliani ha parlato ai microfoni di TMW Radio del momento complicato in casa Napoli, non solo per i risultati ma anche per gli infortuni che stanno decimando la squadra dell'ex Juve Massimiliano Allegri: \"Non provo gran ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:25:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/78/78b81d3b40c10dcad34d104383020176-20322-oooz0000.jpeg",
-   "id": "d1730ca29477"
-  },
-  {
-   "title": "Cristiano Ronaldo scrive a Messi: \"Tutto il mio rispetto per ciò che hai ottenuto con l'Argentina\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/cristiano-ronaldo-scrive-messi-tutto-ottenuto-argentina-795895",
-   "summary": "Sono giorni complicati per Cristiano Ronaldo, che dopo aver lasciato giorni fa il ritiro in polemica con il ct del Portogallo Jorge Jesus, è tornato ieri sui suoi passi accusando sì il tecnico ma chiedendo scusa a tifosi e Federazione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/fc/fcd7788d5b542f99dee8264a9e3a9111-94995-oooz0000.jpeg",
-   "id": "98afbdf87660"
-  },
-  {
-   "title": "Frosinone, Stirpe: \"Inter e Juve su Palmisani? Non ci sono richieste concrete\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/frosinone-stirpe-inter-juve-palmisani-richieste-concrete-795894",
-   "summary": "Lorenzo Palmisani è nel mirino delle big italiane.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/24/24c51a714d508400cd44bfd9e01cb24f-57082-oooz0000.jpeg",
-   "id": "573e7f8d141b"
-  },
-  {
-   "title": "Morina: \"Cagliari trasferta pericolosa. Spero nel recupero di Cambiaso\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/morina-cagliari-trasferta-pericolosa-spero-recupero-cambiaso-795874",
-   "summary": "Ezio Morina è intervenuto a Radio Bianconera, durante Ieri e Oggi, e ha parlato della sfida col Cagliari: \"Dopo cinque giornate può accadere che il Cagliari sia davanti alla Juventus, anche se bisogna dire che non do ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e3/e3782eb4a90faf21014187f2f004c633-22294-oooz0000.jpeg",
-   "id": "dc3db232e778"
-  },
-  {
-   "title": "Il presente di Spalletti, il futuro di Conte e della Juventus: il podcast di Tj",
-   "link": "https://www.tuttojuve.com/podcast-tj/presente-spalletti-conte-juventus-podcast-tj-795872",
-   "summary": "La Juventus è in testa ai pensieri di Luciano Spalletti. Antonio Conte, tuttavia, lancia un messaggio quanto meno sibillino sul club che vorrebbe allenare.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T19:00:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/85/85d02c6475d075c92a78e10056115eb3-08933-270o183o1232o1146z0b0f.jpeg",
-   "id": "366bf7b9539a"
-  },
-  {
-   "title": "Di Livio, la confessione dell'ex Juve: \"Stregato da un giocatore della Serie C\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/livio-confessione-juve-stregato-giocatore-serie-c-795870",
-   "summary": "Intervenuto al Premio Vialli, l'ex Juve Angelo Di Livio ha parlato anche di nuovi talenti italiani nelle serie minori.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ca/cac248b35c04faf23e6a477acc7ab8c4-51462-oooz0000.jpeg",
-   "id": "9913ebc07f87"
-  },
-  {
-   "title": "Cornacchia (TuttoCagliari.net): \"La piazza si gode il momento. Romano? La prossima estate...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/cornacchia-tuttocagliari-net-la-piazza-gode-momento-romano-prossima-estate-795886",
-   "summary": "A Radio Bianconera è intervenuto il giornalista di Tuttocagliari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/20/200d3f541932926ab238333b10753fc4-12582-oooz0000.jpeg",
-   "id": "512c97c01f57"
-  },
-  {
-   "title": "Di Dio: \"Juve, inizio complicato ma è lì in alto. Spalletti agitato nei momenti di difficoltà\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/dio-juve-inizio-complicato-li-alto-spalletti-agitato-momenti-difficolta-795864",
-   "summary": "Il giornalista Marcello Di Dio (Il Giornale) è intervenuto nel corso di Fuori di Juve, trasmissione di Radio Bianconera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e2/e2727e9062fb40d93002ca5ba05d3bfe-94264-oooz0000.jpeg",
-   "id": "94316f09082a"
-  },
-  {
-   "title": "Gallo e il caso Malagò: \"Situazione grottesca per una questione pretestuosa\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/gallo-malago-situazione-grottesca-questione-pretestuosa-795869",
-   "summary": "Massimiliano Gallo è intervenuto su Radio 24 parlando dell'Italia e soffermandosi sul caso legato a Giovanni Malagò.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:30:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cc/ccb4a7310cd0d54726997fd8fe6b9e11-43305-oooz0000.jpeg",
-   "id": "64e6bc8ca9f1"
-  },
-  {
-   "title": "Ricci: \"Il messaggio di CR7 non è casuale e arriva a poche ore dall'addio di Messi\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/ricci-il-messaggio-cr7-casuale-arriva-poche-addio-messi-795866",
-   "summary": "Filippo Maria Ricci è intervenuto sul caso Cristiano Ronaldo, attaccante bianconero dal 2018 al 2021, in onda sulle frequenze di Radio 24. \"Ieri in poche ore abbiamo vissuto due momenti molto diversi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:20:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1e/1e0baac5c5125856b49970795f99dad9-88007-oooz0000.jpeg",
-   "id": "8cdd9063a835",
-   "age_minutes": 143,
-   "also": [],
-   "score": 6.451
-  },
-  {
-   "title": "Fonti Palazzo Chigi: \"Nessuna intromissione nelle dinamiche del Coni della premier Meloni\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/fonti-palazzo-chigi-nessuna-intromissione-dinamiche-coni-premier-meloni-795891",
-   "summary": "Nelle scorse ore il direttore di Sportitalia Michele Criscitiello ha parlato di un intervento della premier Giorgia Meloni nella questione commissariamento FIGC.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a1f3ddc9e9db048eab15e55af5d824eb-40052-oooz0000.jpeg",
-   "id": "df99c29851a7"
-  },
-  {
-   "title": "Tomaselli: \"Spalletti non mi sembra serenissimo ma deve risolvere i suoi problemi in fretta\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/tomaselli-spalletti-serenissimo-risolvere-problemi-fretta-795865",
-   "summary": "Il giornalista del Corriere della Sera, Paolo Tomaselli, ha parlato del momento in casa Juventus: \"Forse era lecito aspettarsi che dopo un anno questa squadra fosse un po' più avanti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e6/e690a57c08f980cbe1e90c7a98c0f8ab-64628-oooz0000.jpeg",
-   "id": "67239bb875c6"
-  },
-  {
-   "title": "Conceicao scalpita: si è allenato da solo e vuole una maglia da titolare contro il Cagliari",
-   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-scalpita-allenato-vuole-maglia-titolare-cagliari-795890",
-   "summary": "Oggi Chico Conceicao è arrivato in ritardo rispetto alla tabella di marcia poiché ha avuto problemi con i voli di ritorno a Torino.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-07T18:09:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/43/432c771dce1f67fb301c61202a78188d-42443-oooz0000.jpeg",
-   "id": "247b216c3fea"
+   "scope": "Inter",
+   "published": "2026-10-07T18:13:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/df/dfe4c7fa812d1d5101e7159b6b986f8f-38378-oooz0000.jpeg",
+   "id": "8cc0276b0314"
   },
   {
    "title": "Borini, ex-Italy, Liverpool, Chelsea, Milan, Roma and Sunderland striker, retires at 35",
@@ -1944,6 +1879,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 29
+  "in_edizione": 26
  }
 }
