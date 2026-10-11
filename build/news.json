@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:23:04.521920+02:00",
+ "generated_at": "2026-10-11T02:22:24.108809+02:00",
  "articles": [
   {
    "title": "Juve, nome nuovo in attacco: ha una clausola rescissoria da 100 milioni",
@@ -11,14 +11,9 @@
    "published": "2026-10-10T21:11:54+00:00",
    "image": "",
    "id": "a5a51ece4aca",
-   "age_minutes": 11,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/09/juve-sfida-con-latletico-madrid-per-un-super-nome-in-attacco-50-milioni/"
-    }
-   ],
-   "score": 9.936
+   "age_minutes": 190,
+   "also": [],
+   "score": 8.438
   },
   {
    "title": "Nico Gonzalez-Juventus: firma e ufficialità del nuovo accordo",
@@ -30,23 +25,9 @@
    "published": "2026-10-09T15:22:26+00:00",
    "image": "",
    "id": "fde18315eacc",
-   "age_minutes": 1800,
+   "age_minutes": 1979,
    "also": [],
-   "score": 7.697
-  },
-  {
-   "title": "Milan alla ricerca dell'erede di Modric: tra i candidati anche il classe 2000 dell'Union Saint-Gilloise",
-   "link": "https://www.milannews.it/calciomercato-milan/milan-ricerca-erede-modric-candidati-classe-2000-union-saint-gilloise-632229",
-   "summary": "Nel corso del consueto appuntamento con il suo editoria per TMW, Niccolò Ceccarini ha fatto il punto sul calciomercato in entrata del Milan, pronto a prendersi la scena anche a gennaio dopo un'estate ricca, sotto ogni…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T19:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/29/29e359ff388ed1f4ba136db20b6b8f00-40442-oooz0000.jpeg",
-   "id": "8ea80440ae6a",
-   "age_minutes": 142,
-   "also": [],
-   "score": 7.056
+   "score": 7.629
   },
   {
    "title": "Milan, nuovo assalto a Gonçalo Inacio: le cifre dell’affare",
@@ -58,9 +39,23 @@
    "published": "2026-10-10T09:51:25+00:00",
    "image": "",
    "id": "fc4f749dc44d",
-   "age_minutes": 691,
+   "age_minutes": 870,
    "also": [],
-   "score": 6.873
+   "score": 6.537
+  },
+  {
+   "title": "Juventus, pioggia di rinnovi: altri cinque giocatori verso la firma fino al 2030 e 2031",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-pioggia-rinnovi-giocatori-firma-2030-2031-796229",
+   "summary": "La Juventus accelera sul fronte dei rinnovi contrattuali, con l'obiettivo di consolidare l'organico a disposizione di Luciano Spalletti e programmare il futuro attraverso la conferma di alcuni elementi della rosa.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T21:00:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/da/da06cb77a3b50e88ec929bb7103791ad-55431-oooz0000.jpeg",
+   "id": "a1dec4189fa7",
+   "age_minutes": 202,
+   "also": [],
+   "score": 6.188
   },
   {
    "title": "Tre rinnovi in arrivo in casa Milan, i rossoneri vogliono chiudere entro il 2026",
@@ -72,9 +67,9 @@
    "published": "2026-10-10T19:22:37+00:00",
    "image": "",
    "id": "c0b91f448827",
-   "age_minutes": 120,
+   "age_minutes": 299,
    "also": [],
-   "score": 6.761
+   "score": 5.994
   },
   {
    "title": "Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina”",
@@ -86,65 +81,9 @@
    "published": "2026-10-10T19:09:35+00:00",
    "image": "",
    "id": "44668cdcb796",
-   "age_minutes": 133,
+   "age_minutes": 312,
    "also": [],
-   "score": 6.699
-  },
-  {
-   "title": "Pellegatti rivela: “Cardinale vuole intervenire in maniera pesante sul mercato di gennaio, sa dell’importanza del Milan”",
-   "link": "https://www.milannews.it/news/pellegatti-rivela-cardinale-vuole-intervenire-maniera-pesante-mercato-gennaio-sa-dell-importanza-mil-632238",
-   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato di Gerry Cardinale e della sua volontà di intervenire in maniera importate anche nel mercato di gennaio. Queste le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T18:24:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b5/b54ebdb9e4dba81088acec5a4e45b971-92761-oooz0000.jpeg",
-   "id": "5a812e7d38bb",
-   "age_minutes": 178,
-   "also": [],
-   "score": 6.291
-  },
-  {
-   "title": "Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali",
-   "link": "https://www.calciomercato.it/2026/10/10/juve-tutto-deciso-arrivera-a-titolo-definitivo-per-10-milioni-totali/",
-   "summary": "L'articolo Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-10T16:34:44+00:00",
-   "image": "",
-   "id": "c1fc0f44503d",
-   "age_minutes": 288,
-   "also": [],
-   "score": 6.038
-  },
-  {
-   "title": "Lang a Sky: \"Questo è l'anno zero, spero di avere una grande stagione\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/lang-sky-questo-zero-spero-stagione-658678",
-   "summary": "Noa Lang va a segno nel 3-0 del Napoli contro il Frosinone e firma una delle sue migliori prestazioni in azzurro.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:10:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3f60c10eccc27c7ed5e40f1f06fb7f27-58996-oooz0000.jpeg",
-   "id": "43971bbb0401",
-   "age_minutes": 12,
-   "also": [],
-   "score": 5.929
-  },
-  {
-   "title": "De Bruyne a Sky: \"Ruolo? Preferisco da 8 o da 10. Buona gara, ma sofferto un po' nel 2T...\"",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/de-bruyne-sky-ruolo-preferisco-8-10-buona-gara-sofferto-2t-658677",
-   "summary": "Kevin De Bruyne si prende la scena nel successo del Napoli contro il Frosinone, firmando una doppietta e trascinando gli azzurri in una serata importante per rilanciarsi in campionato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:05:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/001760bbef2dccb9933e75f590184292-75655-oooz0000.jpeg",
-   "id": "002a9f95b132",
-   "age_minutes": 18,
-   "also": [],
-   "score": 5.897
+   "score": 5.946
   },
   {
    "title": "Juve, dopo Yildiz si prova un altro colpo in casa Bayern Monaco: può arrivare a zero",
@@ -156,9 +95,65 @@
    "published": "2026-10-09T19:21:13+00:00",
    "image": "",
    "id": "c13869903f02",
-   "age_minutes": 1561,
+   "age_minutes": 1741,
    "also": [],
-   "score": 5.819
+   "score": 5.724
+  },
+  {
+   "title": "Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali",
+   "link": "https://www.calciomercato.it/2026/10/10/juve-tutto-deciso-arrivera-a-titolo-definitivo-per-10-milioni-totali/",
+   "summary": "L'articolo Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-10T16:34:44+00:00",
+   "image": "",
+   "id": "c1fc0f44503d",
+   "age_minutes": 467,
+   "also": [],
+   "score": 5.436
+  },
+  {
+   "title": "Pellegatti sottolinea: “Va bene Endrick e Inacio ma la cosa più importante è prendere il giusto Head of football”",
+   "link": "https://www.milannews.it/news/pellegatti-sottolinea-va-endrick-inacio-importante-prendere-giusto-head-of-football-632240",
+   "summary": "Nel suo canale YouTube, Carlo Pellegatti afferma che la sua attenzione più grande non è rivolta al mercato di gennaio ma alla scelta dell'Head of Football, figura secondo il giornalista fondamentale. Queste le sue…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T21:24:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/df/df858d104361d168f77e77f0db123a54-02704-oooz0000.jpeg",
+   "id": "64ee1f59a4a7",
+   "age_minutes": 178,
+   "also": [],
+   "score": 5.092
+  },
+  {
+   "title": "Capuano protesta: \"Rigorino per il Napoli! Del tutto fuori dalla linea Orsato\"",
+   "link": "https://www.tuttonapoli.net/dai-social/capuano-protesta-rigorino-napoli-linea-orsato-658692",
+   "summary": "Il rigore assegnato al Napoli contro il Frosinone continua a far discutere.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:20:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/98/984e363e8633887daa6ed1d43a0ead42-04170-oooz0000.jpeg",
+   "id": "77f1dcf983c1",
+   "age_minutes": 122,
+   "also": [],
+   "score": 4.952
+  },
+  {
+   "title": "Rigore Napoli, Marelli sicuro: \"Non andava fischiato!\". Poi spiega il motivo della ripetizione",
+   "link": "https://www.tuttonapoli.net/le-interviste/rigore-napoli-marelli-sicuro-non-andava-fischiato-spiega-motivo-ripetizione-658691",
+   "summary": "Il rigore assegnato al Napoli contro il Frosinone continua a far discutere anche nel post partita.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:10:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fe/fea501c9079cb986b6e8113f294897ae-35525-oooz0000.jpeg",
+   "id": "9b694e713e12",
+   "age_minutes": 132,
+   "also": [],
+   "score": 4.904
   },
   {
    "title": "Esposito celebra lo Spezia: \"Spero di avervi lasciato qualcosa\"",
@@ -170,9 +165,9 @@
    "published": "2026-10-10T19:43:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bc/bc184ee13d873ad875407089a28ed6c4-87226-301o36o1361o1096z0aea.jpeg",
    "id": "b8388b99d3f9",
-   "age_minutes": 100,
+   "age_minutes": 279,
    "also": [],
-   "score": 5.462
+   "score": 4.672
   },
   {
    "title": "Questa Inter è una cooperativa del gol: in campionato già 10 giocatori diversi in rete",
@@ -184,23 +179,9 @@
    "published": "2026-10-10T20:39:20+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d681a9e0d71a9f06577f479ff12e54e2-96298-oooz0000.jpeg",
    "id": "a96cc33d64a0",
-   "age_minutes": 43,
+   "age_minutes": 223,
    "also": [],
-   "score": 5.355
-  },
-  {
-   "title": "Parma, Diego Carlos in conferenza: \"Il rigore? Capisco la scelta dell'arbitro\"",
-   "link": "https://www.fcinternews.it/l-avversario/parma-giocatore-conferenza-1020464",
-   "summary": "Diego Carlos è il giocatore del Parma che si presenta in sala conferenze a San Siro per commentare l'esito dell'incontro con l'Inter. Ecco il punto di vista del giocatore emiliano ripreso dall'inviato di FcInterNews.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:59:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d1/d1fe01393401774061e42c64e6f6a354-76043-486o57o1209o780z09e4.jpeg",
-   "id": "47aa4a9be6cf",
-   "age_minutes": 143,
-   "also": [],
-   "score": 4.851
+   "score": 4.498
   },
   {
    "title": "Roma, conferme su Kvernadze: operazione da circa 25 milioni",
@@ -212,9 +193,9 @@
    "published": "2026-10-10T07:50:01+00:00",
    "image": "",
    "id": "72e334ea9541",
-   "age_minutes": 813,
+   "age_minutes": 992,
    "also": [],
-   "score": 4.636
+   "score": 4.354
   },
   {
    "title": "Dieci nuovi nomi in vista di novembre, Mancini prepara nuove sorprese tra i convocati",
@@ -226,9 +207,9 @@
    "published": "2026-10-10T06:55:16+00:00",
    "image": "",
    "id": "959b0cc7246e",
-   "age_minutes": 867,
+   "age_minutes": 1047,
    "also": [],
-   "score": 4.542
+   "score": 4.282
   },
   {
    "title": "Milan, contro il Sassuolo Amorim cambia modulo: la formazione rossonera",
@@ -240,894 +221,9 @@
    "published": "2026-10-10T05:23:08+00:00",
    "image": "",
    "id": "4f83998e95b3",
-   "age_minutes": 959,
+   "age_minutes": 1139,
    "also": [],
-   "score": 4.4
-  },
-  {
-   "title": "Mister 100 milioni incanta Juve e Milan: asta folle per il bomber",
-   "link": "https://www.calciomercato.it/2026/10/09/mister-100-milioni-incanta-juve-e-milan-asta-folle-per-il-bomber/",
-   "summary": "L'articolo Mister 100 milioni incanta Juve e Milan: asta folle per il bomber proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-09T20:44:39+00:00",
-   "image": "",
-   "id": "e2866e0875bb",
-   "age_minutes": 1478,
-   "also": [],
-   "score": 3.873
-  },
-  {
-   "title": "Como-Roma, Gasperini spiazza tutti: clamorosa decisione",
-   "link": "https://www.calciomercato.it/2026/10/09/como-roma-gasperini-spiazza-tutti-clamorosa-decisione/",
-   "summary": "L'articolo Como-Roma, Gasperini spiazza tutti: clamorosa decisione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-09T18:05:44+00:00",
-   "image": "",
-   "id": "abf7d31ecee2",
-   "age_minutes": 1637,
-   "also": [],
-   "score": 3.776
-  },
-  {
-   "title": "Lazio-Monza, Juric esalta Gattuso e punge Mancini: “Tempo perso”",
-   "link": "https://www.calciomercato.it/2026/10/09/lazio-monza-juric-esalta-gattuso-e-punge-mancini-tempo-perso/",
-   "summary": "L'articolo Lazio-Monza, Juric esalta Gattuso e punge Mancini: “Tempo perso” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-09T14:41:59+00:00",
-   "image": "",
-   "id": "f87e53884112",
-   "age_minutes": 1841,
-   "also": [],
-   "score": 3.68
-  },
-  {
-   "title": "Chivu sbotta: “Si parla sempre di anti-Inter”. Retroscena Calhanoglu",
-   "link": "https://www.calciomercato.it/2026/10/09/chivu-sbotta-si-parla-sempre-di-anti-inter-retroscena-calhanoglu/",
-   "summary": "L'articolo Chivu sbotta: “Si parla sempre di anti-Inter”. Retroscena Calhanoglu proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-09T13:56:44+00:00",
-   "image": "",
-   "id": "78554f0bd9fd",
-   "age_minutes": 1886,
-   "also": [],
-   "score": 3.662
-  },
-  {
-   "title": "Fiorentina, tegola Atta: le ultime sul centrocampista",
-   "link": "https://www.calciomercato.it/2026/10/09/fiorentina-tegola-atta-le-ultime-sul-centrocampista/",
-   "summary": "L'articolo Fiorentina, tegola Atta: le ultime sul centrocampista proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-09T11:51:42+00:00",
-   "image": "",
-   "id": "779a0e372240",
-   "age_minutes": 2011,
-   "also": [],
-   "score": 3.619
-  },
-  {
-   "title": "Non solo Juventus: doppietta italiana per Bruno Fernandes",
-   "link": "https://www.calciomercato.it/2026/10/09/non-solo-juventus-doppietta-italiana-per-bruno-fernandes/",
-   "summary": "L'articolo Non solo Juventus: doppietta italiana per Bruno Fernandes proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-09T10:10:53+00:00",
-   "image": "",
-   "id": "8b4e5ddee791",
-   "age_minutes": 2112,
-   "also": [],
-   "score": 3.589
-  }
- ],
- "raw": [
-  {
-   "title": "Doppietta di De Bruyne e Lang, Napoli-Frosinone 3-0. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/doppietta-de-bruyne-lang-napoli-frosinone-3-0-classifica-aggiornata-796228",
-   "summary": "Il Napoli ritrova la vittoria superando il Frosinone per 3-0, al termine di una partita indirizzata già nel primo tempo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T20:45:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/61c32235cd096e3b7a151ff32585a372-08116-oooz0000.jpeg",
-   "id": "3a7b402e8956"
-  },
-  {
-   "title": "Cagliari-Juventus, i bookie vedono Kolo Muani favorito tra i marcatori",
-   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-juventus-bookie-vedono-kolo-muani-favorito-marcatori-796227",
-   "summary": "a Juventus cerca continuità dopo le convincenti vittorie contro NEC e Atalanta, ma la trasferta sul campo del Cagliari si presenta tutt'altro che semplice.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T20:30:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/77/7782e1590e7d6cea0405cb1ee3d1abc5-03875-oooz0000.jpeg",
-   "id": "8c5f97572f8c"
-  },
-  {
-   "title": "Rocchi debutta su DAZN con Cagliari-Juventus, Pistocchi lo stronca: \"Quale credibilità potrà avere?",
-   "link": "https://www.tuttojuve.com/altre-notizie/rocchi-debutta-dazn-cagliari-juventus-pistocchi-stronca-quale-credibilita-potra-avere-796226",
-   "summary": "Gianluca Rocchi cambia ruolo e approda su DAZN come opinionista per la stagione 2026-2027 di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T20:15:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9757e346f66318c019f7f26f408bcff-65249-oooz0000.jpeg",
-   "id": "7f23a209dd76"
-  },
-  {
-   "title": "Calendario Serie A, Ordine torna all'attacco: \"L'Inter gioca 7 volte a San Siro su 11\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/calendario-serie-a-ordine-torna-attacco-l-inter-gioca-7-san-siro-11-796225",
-   "summary": "Franco Ordine torna a sollevare dubbi sulla distribuzione delle partite casalinghe e delle trasferte nel calendario di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T20:00:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/17/17ea931892d07c6a170d657be08e8614-80417-oooz0000.jpeg",
-   "id": "b5f21aa425ca"
-  },
-  {
-   "title": "Napoli-Frosinone, sui social esplode la polemica: \"Questo è un rigorino\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/napoli-frosinone-social-esplode-polemica-questo-rigorino-796224",
-   "summary": "Non mancano le polemiche arbitrali in Napoli-Frosinone, con gli azzurri che riescono a sbloccare il risultato grazie a un calcio di rigore trasformato da Kevin De Bruyne.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T19:45:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dd/ddf7654f6815a9d60ab05fba60c6b7b6-67184-oooz0000.jpeg",
-   "id": "774e1ca2a508"
-  },
-  {
-   "title": "Inter, San Siro centro del potere calcistico: in tribuna a ridosso di Marotta e Zanetti spunta anche il vice segretario generale Uefa Marchetti",
-   "link": "https://www.tuttojuve.com/altre-notizie/inter-san-siro-centro-potere-calcistico-tribuna-ridosso-marotta-zanetti-spunta-vice-segretario-uefa-796223",
-   "summary": "Non soltanto calcio giocato a San Siro in occasione di Inter-Parma.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T19:30:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/610d2697885ba244e5c3a9ca2fbf0c71-78644-oooz0000.jpeg",
-   "id": "34d83c8f0482"
-  },
-  {
-   "title": "Brambilla: “È un peccato perché a volte siamo noi a complicarci le partite. La classifica si sistemerà, dobbiamo rimanere tranquilli”",
-   "link": "https://www.tuttojuve.com/altre-notizie/brambilla-siamo-leggeri-calco-d-angolo-portato-vantaggio-dell-arzignano-complicarci-partite-796220",
-   "summary": "Massimo Brambilla ha parlato al sito della Juventus dopo la sconfitta della Next Gen contro l'Arzigano: \"Il primo tempo è stato equilibrato, ma siamo stati un po' leggeri in occasione del calcio d'angolo che ha portato al vant ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T19:15:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/92/92a6e5c44a1b800b34069cdbed8b587f-90892-oooz0000.jpeg",
-   "id": "ddd2fbba568d"
-  },
-  {
-   "title": "Marianella: “Credo che Douglas Luiz possa essere la chiave della stagione della Juve. Non sono un fan di Woltemade”",
-   "link": "https://www.tuttojuve.com/altre-notizie/marianella-credo-douglas-luiz-chiave-stagione-juve-796219",
-   "summary": "Il tema legato al centravanti della Juventus resta sempre molto caldo e in particolare di questo argomento ne ha parlato Massimo Marianella giornalista di Sky Sport.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T19:00:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3ecbea277b9a97d2cc9ffc1b6a0b49fd-71534-oooz0000.jpeg",
-   "id": "fee91c2b1142"
-  },
-  {
-   "title": "McKennie, l'arma segreta di Spalletti: i numeri da record dell’americano",
-   "link": "https://www.tuttojuve.com/altre-notizie/mckennie-arma-segreta-spalletti-numeri-record-dell-americano-796218",
-   "summary": "Weston McKennie è uno degli uomini fondamentali per Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T18:45:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/79/79c9870e933366db00f0e7869bcffcd6-30464-oooz0000.jpeg",
-   "id": "1a29c80ec9e1"
-  },
-  {
-   "title": "Cagliari-Juventus, ecco chi saranno i telecronisti del match su Dazn",
-   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-juventus-telecronisti-match-dazn-796217",
-   "summary": "Il match tra la Juventus e il Cagliari di domani sera sarà visibile in esclusiva su DAZN.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T18:30:00+00:00",
-   "image": "",
-   "id": "31fedcaca7ee"
-  },
-  {
-   "title": "Napoli-Frosinone, le formazioni ufficiali del match delle 20:45",
-   "link": "https://www.tuttojuve.com/altre-notizie/napoli-frosinone-formazioni-ufficiali-match-20-45-796216",
-   "summary": "Alle 20:45 ci sarà la sfida tra il Napoli e il Frosinone, un appuntamento importante per entrambe le squadre, chiamate a dare continuità ai rispettivi percorsi in questo avvio di campionato.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T18:15:18+00:00",
-   "image": "",
-   "id": "0cc00dcca614"
-  },
-  {
-   "title": "Inter-Parma 3-0: ai nerazzurri basta un tempo per avere la meglio sui gialloblù. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/inter-parma-3-0-nerazzurri-gialloblu-classifica-aggiornata-796215",
-   "summary": "Si è da poco conclusa la sfida tra l'Inter e il Parma con il punteggio di 3-0, un successo netto che permette alla squadra di Chivu di consolidare ulteriormente il proprio ottimo avvio di stagione, confermando le ambizioni di vertice della ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T18:00:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f6/f65c08313f4a3077bf5ad0a5d84b31ff-99496-oooz0000.jpeg",
-   "id": "16eb64c4484e"
-  },
-  {
-   "title": "Condò: “L’aumento di capitale della Juventus ci informa della voglia dei bianconeri di essere ambiziosi”",
-   "link": "https://www.tuttojuve.com/altre-notizie/condo-l-aumento-capitale-juventus-informa-voglia-ambiziosi-796214",
-   "summary": "La Juventus è pronta a riprendere il suo cammino e la squadra di Spalletti non è poi così distante dalla vetta.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T17:45:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a3b88f1604e5c2b3f69409212e6b2572-86478-oooz0000.jpeg",
-   "id": "2780b991e5f9"
-  },
-  {
-   "title": "Elimoghale e Durmisi in crescita, ma non bastano alla Juventus Next Gen",
-   "link": "https://www.tuttojuve.com/altre-notizie/elimoghale-durmisi-crescita-796213",
-   "summary": "La Juventus Next Gen oggi è tornata in campo contro l'Arzignano e per i bianconeri ha segnato Durmisi su assist di Elimoghale.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T17:30:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/68/6841bc80b6592ed2eade7bf6fee7df65-53661-oooz0000.jpeg",
-   "id": "7a10a32eeefe"
-  },
-  {
-   "title": "Arzignano-Juventus Next Gen 2-1, bianconeri sfortunati, ma è terzultimo posto in classifica",
-   "link": "https://www.tuttojuve.com/primo-piano/arzignano-juventus-next-gen-trasferta-ostica-bianconeri-formazioni-ufficiali-796063",
-   "summary": "90'+6 - Finisce il match!! Una buona Juve non riesce ad uscire con punti in tasca dalla trasferta di Arzignano, e finisce al terzultimo posto in classifica a 6 punti, anche se con una partita in meno.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T17:24:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b3/b3a6ab64b420aa0acc0b7470c874b606-00376-oooz0000.jpeg",
-   "id": "24409515b3f3"
-  },
-  {
-   "title": "Qui Cagliari - I 26 convocati di Pisacane per la gara con la Juventus: l’elenco completo",
-   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-26-convocati-pisacane-gara-juventus-l-elenco-completo-796212",
-   "summary": "La Juventus domani riprenderà il suo cammino in campionato e di fronte a sé si troverà il Cagliari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T17:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7e/7ee0247e43571636215d66d39b6c438b-02592-oooz0000.jpeg",
-   "id": "769ccfa840f7"
-  },
-  {
-   "title": "Juventus, Zidane a Merano ricorda l'Avvocato Agnelli: \"Mi chiamava alle sei del mattino\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-zidane-merano-ricorda-avvocato-agnelli-mi-chiamava-mattino-796211",
-   "summary": "Zinedine Zidane si è concesso una breve vacanza in Alto Adige e oggi a Merano ha avuto modo di incontrare diversi giovani delle scuole calcio, un momento di condivisione e spensieratezza lontano dai riflettori del grande calcio, ma comunque ca ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T17:00:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/13/130a6f2768b761be6be7b1d07d52b297-38738-oooz0000.jpeg",
-   "id": "b1ea38ec5b25"
-  },
-  {
-   "title": "LETTERA DEL TIFOSO Gianluca: \"La guarigione miracolosa di Calhanoglu. Che ne pensa Montella?\"",
-   "link": "https://www.tuttojuve.com/lettera-del-tifoso/lettera-tifoso-gianluca-la-guarigione-miracolosa-calhanoglu-pensa-montella-796210",
-   "summary": "Non è la prima volta che i giocatori dell'Inter saltano gli impegni con le loro nazionali e poi miracolosamente si presentano dopo la sosta sanissimi e prontissimi per giocare titolari con l'Inter.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T16:55:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/66/6601701ee014dcd8f18bb21df9b17137-89439-oooz0000.jpeg",
-   "id": "208a497c1156"
-  },
-  {
-   "title": "Gentile: “La Juventus ha fatto una partita giusta contro l’Atalanta. Il vero problema dei bianconeri è…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/gentile-la-juventus-partita-giusta-l-atalanta-vero-problema-bianconeri-e-796209",
-   "summary": "La Juventus, domani, tornerà in campo per affrontare il Cagliari. I bianconeri prima della pausa hanno vinto contro il Nec e l'Atalanta e vorranno dare seguito a questi risultati.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T16:45:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cc/cc4ff36d93de8a12957ab00b54eea4bf-07330-oooz0000.jpeg",
-   "id": "7ee567ff289b"
-  },
-  {
-   "title": "Aia, Francesco Massini nuovo presidente: battuto Pacifici in una vera e propria volata",
-   "link": "https://www.tuttojuve.com/altre-notizie/aia-francesco-massini-presidente-battuto-pacifici-vera-propria-volata-796208",
-   "summary": "L'Aia, Associazione Italiana Arbitri, ha un nuovo presidente e si tratta di Francesco Massini, eletto al termine di una votazione particolarmente combattuta che ha tenuto con il fiato sospeso l'intero mondo arbitrale italiano fino all'ult ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-10T16:30:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8ceec0cf928cef8cf53b123c94205938-33135-oooz0000.jpeg",
-   "id": "c02819b7925e"
-  },
-  {
-   "title": "Badiashile a Sky: \"Contento dei 90' e dei tre punti! Stiamo crescendo\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/badiashile-sky-contento-90-punti-crescendo-658680",
-   "summary": "Benoît Badiashile si prende una serata importante nel successo del Napoli contro il Frosinone.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:15:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/00dd98d97d57fed8a7a2821869039a25-13441-oooz0000.jpeg",
-   "id": "556844329dd2"
-  },
-  {
-   "title": "Allegri a Sky: \"Aggressività e voglia! De Bruyne ancora meglio da play. Badiashile? Sbagliato io a Milano\"",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/allegri-sky-658679",
-   "summary": "La vittoria contro il Frosinone restituisce al Napoli tre punti importanti e diverse indicazioni positive.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0d/0db9e77f182d4b562b33e470d050cb71-89531-oooz0000.jpeg",
-   "id": "cd4246cacc20"
-  },
-  {
-   "title": "Lang a Sky: \"Questo è l'anno zero, spero di avere una grande stagione\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/lang-sky-questo-zero-spero-stagione-658678",
-   "summary": "Noa Lang va a segno nel 3-0 del Napoli contro il Frosinone e firma una delle sue migliori prestazioni in azzurro.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:10:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3f60c10eccc27c7ed5e40f1f06fb7f27-58996-oooz0000.jpeg",
-   "id": "43971bbb0401",
-   "age_minutes": 12,
-   "also": [],
-   "score": 5.929
-  },
-  {
-   "title": "Frosinone, tra poco Alvini in conferenza stampa: segui la diretta testuale su TN",
-   "link": "https://www.tuttonapoli.net/le-interviste/frosinone-alvini-conferenza-stampa-segui-diretta-testuale-tn-658656",
-   "summary": "premi F5 o aggiorna la pagina per seguire il live o CLICCA QUI per viverla con noi su Radio Tutto Napoli Al termine del match valido per la sesta giornata di campionato contro il Napoli, il tecnico del Frosinone Massimiliano Alvini inter ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:08:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/17/178a26a86435444bab11f6aed35a04ee-47416-oooz0000.jpeg",
-   "id": "a03ebefb6468"
-  },
-  {
-   "title": "Tra poco Allegri in conferenza stampa: segui la diretta testuale su TN",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/allegri-conferenza-stampa-segui-diretta-testuale-tn-658654",
-   "summary": "premi F5 o aggiorna la pagina per seguire il live o CLICCA QUI per viverla con noi su Radio Tutto Napoli Al termine del match valido per la sesta giornata di campionato contro il Frosinone, il tecnico del Napoli Massimiliano Allegri interverr ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:05:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/35/35a3a2e7146f03cdfd56471a1c5e8c5d-26521-oooz0000.jpeg",
-   "id": "39f6e87912b5"
-  },
-  {
-   "title": "De Bruyne a Sky: \"Ruolo? Preferisco da 8 o da 10. Buona gara, ma sofferto un po' nel 2T...\"",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/de-bruyne-sky-ruolo-preferisco-8-10-buona-gara-sofferto-2t-658677",
-   "summary": "Kevin De Bruyne si prende la scena nel successo del Napoli contro il Frosinone, firmando una doppietta e trascinando gli azzurri in una serata importante per rilanciarsi in campionato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:05:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/001760bbef2dccb9933e75f590184292-75655-oooz0000.jpeg",
-   "id": "002a9f95b132",
-   "age_minutes": 18,
-   "also": [],
-   "score": 5.897
-  },
-  {
-   "title": "Napoli show ma c'è un bocciato, Giuliani: \"Lucca deve andare altrove! E Allegri...\"",
-   "link": "https://www.tuttonapoli.net/dai-social/napoli-show-bocciato-giuliani-lucca-andare-altrove-allegri-658676",
-   "summary": "Il successo del Napoli contro il Frosinone lascia sensazioni positive, ma anche qualche tema da approfondire in vista dei prossimi impegni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T21:00:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/27/2744a4c3792b21595c5ada350e642780-65670-oooz0000.jpeg",
-   "id": "3fba33f52675"
-  },
-  {
-   "title": "Sosa: \"Che De Bruyne! L'età è relativa. Tra i migliori anche Badiashile\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/sosa-che-de-bruyne-eta-relativa-migliori-badiashile-658674",
-   "summary": "Il Napoli ritrova la vittoria contro il Frosinone e raccoglie giudizi positivi soprattutto per quanto mostrato nel primo tempo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:50:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ed/ed2d595a908051bd330b946533f1b362-17517-oooz0000.jpeg",
-   "id": "31aa000e1e7c"
-  },
-  {
-   "title": "Questo è il Napoli che vogliamo",
-   "link": "https://www.tuttonapoli.net/copertina/napoli-vogliamo-658675",
-   "summary": "Era importante vincere, ma anche provare timidamente a far gioco. Così è stato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:49:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/4a/4a488b8441e098d318733471cb66ce68-44674-oooz0000.jpeg",
-   "id": "b771b42e9905"
-  },
-  {
-   "title": "KDB show! Il post Napoli-Frosinone su Radio Tutto Napoli: chiamaci o scrivici live",
-   "link": "https://www.tuttonapoli.net/radio-tn/vivi-partite-napoli-con-noi-su-radio-tutto-napoli-dalle-17-c-e-napoli-in-campo-645096",
-   "summary": "Anche oggi puoi vivere tutti i commenti sulla gara del Napoli su Radio TuttoNapoli, prima radio tematica sul Napoli, in onda tutti i giorni dalle 8, e col Napoli in serale fino a mezzanotte.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:43:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/50/50409def7bdd42e95830b3f4dcdbbd85-11997-oooz0000.jpeg",
-   "id": "3b193d2290d8"
-  },
-  {
-   "title": "Napoli-Frosinone 3-0, le pagelle: che classe KDB, finalmente Lang! Reazione Badiashile, Hojlund timido",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/napoli-frosinone-3-0-pagelle-classe-kdb-lang-reazione-badiashile-hojlund-timido-658672",
-   "summary": "Meret 6 - Viene chiamato in causa soprattutto con conclusioni da fuori e risponde presente.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:41:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e7/e74653ec291750b19dc9913d34a82783-49480-oooz0000.jpeg",
-   "id": "4f35b790dbfe"
-  },
-  {
-   "title": "Il Napoli vince e sale al 6° posto (per ora), a -6 l'Inter: la classifica aggiornata",
-   "link": "https://www.tuttonapoli.net/serie-a/napoli-vince-aggancia-juve-como-6-posto-classifica-aggiornata-658671",
-   "summary": "Il Napoli torna a vincere e sale a quota 10 punti in classifica, agganciando almeno momentaneamente Juventus e Como al sesto posto, oltre al Frosinone stesso.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/42df136ab631f7c756f58f41ad2407d2-38892-oooz0000.jpeg",
-   "id": "60376974d63b"
-  },
-  {
-   "title": "Napoli-Frosinone 3-0 (29', 94' De Bruyne, 33' Lang): gli azzurri ritrovano la vittoria",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/napoli-frosinone-658626",
-   "summary": "premi F5 o aggiorna la pagina per seguire il live o CLICCA QUI per viverla con noi su Radio Tutto NapolI 94' Termina 3-0 in favore del Napoli al Maradona contro il Frosinone. Gli azzurri ritrovano i tre punti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:18:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ba/ba8c55d3d91fc63f42c714cf61ad1b7d-41953-oooz0000.jpeg",
-   "id": "b8139e0d129e"
-  },
-  {
-   "title": "Doppio cambio Napoli: spazio per Gilmour e Giovane",
-   "link": "https://www.tuttonapoli.net/brevi/cambio-napoli-spazio-gilmour-giovane-658670",
-   "summary": "Spazio anche per Billy Gilmour e Giovane al 71' di Napoli-Frosinone. Dopo gli ingressi di Lucca e McTominay, il tecnico Massimiliano Allegri opera un'altra doppia sostituzione.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:15:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fb/fbf8ef24bc5e4fea0198115ee87dd912-09399-oooz0000.jpeg",
-   "id": "b0a2c77fb352"
-  },
-  {
-   "title": "Ecco le prime mosse di Allegri: torna McTominay ed entra anche Lucca",
-   "link": "https://www.tuttonapoli.net/brevi/prime-mosse-allegri-torna-mctominay-entra-lucca-658669",
-   "summary": "Dopo un'ora di gioco arrivano le prime sostituzioni di Massimiliano Allegri: sul parziale di 2-0 a favore, entrano Lorenzo Lucca e Scott McTominay, a fargli spazio sono Rasmus Hojlund e David Neres.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T20:05:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/27/27453b7fb6021c89bfa53b59027c7c49-43245-oooz0000.jpeg",
-   "id": "432e34200f0e"
-  },
-  {
-   "title": "Il miglior primo tempo del Napoli di Allegri: 2-0 sul Frosinone al 45'",
-   "link": "https://www.tuttonapoli.net/brevi/miglior-napoli-allegri-2-0-frosinone-45-658668",
-   "summary": "Il Napoli è in vantaggio 2-0 sul Frosinone al 45'.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T19:33:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/38/382bc2611c65e72938cedb1227850915-65580-oooz0000.jpeg",
-   "id": "f1a49c9036cd"
-  },
-  {
-   "title": "Raddoppio Napoli! Si sblocca Lang, che avvio della squadra di Allegri",
-   "link": "https://www.tuttonapoli.net/brevi/raddoppio-napoli-sblocca-lang-avvio-squadra-allegri-658667",
-   "summary": "Il Napoli raddoppia! Si sblocca anche Noa Lang: tutto facile per l'olandese che deve solo depositare in rete la palla, con la porta rimasta vuota dopo l'intervento di Palmisani su Di Lorenzo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T19:20:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8a0e13a947b26c5eb7c39ad8ba746913-05696-oooz0000.jpeg",
-   "id": "b861de3133e3"
-  },
-  {
-   "title": "Napoli in vantaggio! Hojlund sbaglia il rigore, ma si ripete e De Bruyne è glaciale",
-   "link": "https://www.tuttonapoli.net/brevi/napoli-vantaggio-hojlund-sbaglia-rigore-ripete-de-bruyne-glaciale-658666",
-   "summary": "Il Napoli passa in vantaggio sul Frosinone al minuto 29! Rasmus Hojlund si guadagna il calcio di rigore - viene sgambettato in area dal difensore - e si incarica della battuta, ma finisce per farsi ipnotizzare da Palmisani.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T19:15:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6e/6e1a5f0df0107af9dd7885d54c4edd50-01231-oooz0000.jpeg",
-   "id": "58bf6c044f47"
-  },
-  {
-   "title": "Frosinone, Masini a Sky: \"Giochiamo per battere il Napoli! Alvini ci ha detto...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/frosinone-masini-sky-giochiamo-battere-napoli-alvini-detto-658665",
-   "summary": "Il Frosinone arriva al Maradona con entusiasmo e con una classifica che, alla vigilia, vede i ciociari davanti al Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T18:38:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d1/d1005605a1b242d5b55ae29eccac9609-34351-oooz0000.jpeg",
-   "id": "0b4d29415f11"
-  },
-  {
-   "title": "Frosinone, Masini a Dazn: \"Alvini ha idee innovative e ce le trasmette con passione\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/frosinone-masini-i-dazn-i-alvini-idee-innovative-ce-trasmette-passione-658664",
-   "summary": "Patrizio Masini, centrocampista del Frosinone, a pochi minuti dal match col Frosinone è intervenuto al microfono di Dazn: \"Abbiamo tanto entusiasmo, il mister è bravissimo a trasmettercelo, ma purtroppo sono passate solo cinque par ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-10T18:33:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d1/d1005605a1b242d5b55ae29eccac9609-34351-oooz0000.jpeg",
-   "id": "f32d7d679a1e"
-  },
-  {
-   "title": "Chukwueze torna al Mapei: l'ultima volta due gol annullati per fuorigiochi millimetrici",
-   "link": "https://www.milannews.it/news/chukwueze-torna-mapei-gol-annullati-fuorigiochi-millimetrici-632285",
-   "summary": "Domani il Milan torna al Mapei Stadium per affrontare il Sassuolo, in questa stagione allenato da Alberto Aquilani: l'ex centrocampista - che ha giocato anche nei rossoneri - sta continuando a far vedere quanto di buono ha dimostrato l'anno s ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T21:12:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0d/0d9e4a3b70769f1aa029eeb428aad0af-15222-oooz0000.jpeg",
-   "id": "796420ab2041"
-  },
-  {
-   "title": "Europa League, Milan-Ferencvaros: siamo nella fase di vendita libera",
-   "link": "https://www.milannews.it/news/europa-league-milan-ferencvaros-fase-vendita-libera-632284",
-   "summary": "Il Milan ha aperto la vendita per i biglietti della seconda partita casalinga in Europa League, contro il Ferencvaros.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T21:00:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cc/cc6e12211bc7d2af28bd2760c2b0ac05-47795-oooz0000.jpeg",
-   "id": "7fdd5c20d2c0"
-  },
-  {
-   "title": "Serie A, Napoli-Frosinone 3-0 nel segno di De Bruyne. Ma il rigore dell'1-0 è più che dubbio",
-   "link": "https://www.milannews.it/news/serie-a-napoli-frosinone-3-0-segno-de-bruyne-rigore-1-0-dubbio-632289",
-   "summary": "Tutto facile per il Napoli di Massimiliano Allegri, che allo stadio Maradona batte 3-0 il Frosinone di Alvini. Mattatore di serata Kevin De Bruyne con una doppietta; Lang segna il secondo.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T20:47:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2d/2dced10a82739af1a5b09d44a452c414-11348-oooz0000.jpeg",
-   "id": "fac41a6cd3ae"
-  },
-  {
-   "title": "Milan Primavera sconfitto dall'Atalanta, il tabellino del match",
-   "link": "https://www.milannews.it/news/milan-primavera-sconfitto-atalanta-tabellino-match-632283",
-   "summary": "Rientro dopo la sosta amaro per il Milan Primavera, che al rientro perde la sua terza gara consecutiva. La formazione rossonera era partita bene in stagione con 7 punti nelle prime tre partite di campionato.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T20:36:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/98/988549111746a4b8464fd19a8ea91cb0-82436-oooz0000.jpeg",
-   "id": "c1e8689200a2"
-  },
-  {
-   "title": "Arbitri, Simonelli a Massini: \"Auspico lavoro di squadra con Messina e Orsato\"",
-   "link": "https://www.milannews.it/news/arbitri-simonelli-massini-auspico-lavoro-squadra-messina-orsato-632282",
-   "summary": "(ANSA) - ROMA, 10 OTT - \"A nome della Lega Calcio Serie A, rivolgo al nuovo Presidente dell'AIA Francesco Massini le più sincere congratulazioni per l'elezione e i migliori auguri di buon lavoro per il prestigioso incarico che lo ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T20:24:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d9/d917fe348c8dfdb1a35d16f75f767808-17011-oooz0000.jpeg",
-   "id": "32ad10f43a94"
-  },
-  {
-   "title": "Il Milan Club Gaeta festeggia 40 anni con la Supercoppa Italiana vinta 3-2 contro l’Inter",
-   "link": "https://www.milannews.it/news/milan-club-gaeta-festeggia-40-supercoppa-italiana-vinta-3-2-l-inter-632281",
-   "summary": "Lo storico Milan Club Gaeta ha festeggiato ieri venerdi 9 ottobre il suo quarantesimo compleanno.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T20:12:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fd/fdbd5c525e0201a93fa2afdad32b325c-00071-oooz0000.jpeg",
-   "id": "43c9bb8b6a35"
-  },
-  {
-   "title": "Aquilani ricorda la sua esperienza al Milan: \"Orgoglio di aver vestito questa maglia. Sono stato però anche sfortunato...\"",
-   "link": "https://www.milannews.it/l-avversario/aquilani-ricorda-esperienza-milan-orgoglio-vestito-maglia-sfortunato-632247",
-   "summary": "Alla vigilia di Sassuolo-Milan, sfida valida per la sesta giornata del campionato di Serie A Enilive, l'allenatore dei neroverdi Alberto Aquilani, ex Diavolo, è intervenuto in conferenza stampa per presentare la partita del Mapei Stadium.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T20:00:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/93/93a6e64c5c5eed5ab0acf98dd6622754-43357-oooz0000.jpeg",
-   "id": "383143997cf1"
-  },
-  {
-   "title": "Pellegatti guarda avanti: “I tre anni passati li abbiamo criticati, basta parlarne. Cardinale si è reso conto”",
-   "link": "https://www.milannews.it/news/pellegatti-guarda-avanti-i-passati-criticati-parlarne-cardinale-reso-conto-632239",
-   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha descritto la situazione intorno a Gerry Cardinale sottolineando come ci sia ancora tanta prevenzione ai suoi danni vista la gestione del club fino a pochi mesi fa. Queste le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T19:48:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0f35eaaf8bd1ad13a2e31f14686339ad-86156-oooz0000.jpeg",
-   "id": "bd3eece4ed6b"
-  },
-  {
-   "title": "Massini sul VAR: \"Ha cambiato il modo di arbitrare. Non si può più tornare indietro\"",
-   "link": "https://www.milannews.it/news/massimi-var-ha-cambiato-arbitrare-tornare-indietro-632230",
-   "summary": "L'attuale reggente dell'AIA Francesco Massini ha parlato ai taccuini dell'edizione odierna de La Gazzetta dello Sport di uno degli argomenti più discussi di questo inizio di stagione e non solo, il VAR.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T19:36:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a8/a8d85f7c2bacbdd23af9c76eab8900a8-98831-oooz0000.jpeg",
-   "id": "9427e9dec828"
-  },
-  {
-   "title": "Mister Amorim spiega perché non è soddisfatto nonostante la media di 2 gol a partita",
-   "link": "https://www.milannews.it/news/mister-amorim-spiega-soddisfatto-media-2-gol-partita-632266",
-   "summary": "Dopo tre lunghe settimane di sosta torna finalmente la Serie A ed il Milan, che domani sarà impegnato a Reggio Emilia contro il Sassuolo dell'ex Alberto Aquilani.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T19:24:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ac/ac66240edbff50cb5842f9d58e02d410-88854-oooz0000.jpeg",
-   "id": "77fc07f35a4b"
-  },
-  {
-   "title": "Malagò: \"Mesi incredibili, dobbiamo fare qualcosa di coraggioso\"",
-   "link": "https://www.milannews.it/news/malago-mesi-incredibili-dobbiamo-coraggioso-632271",
-   "summary": "(ANSA) - ROMA, 10 OTT - \"Sono stati mesi incredibili e faticosi. Mi ritrovo commissario.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T19:12:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/88/88dbed8cfa72e731b463ed718da989e4-98515-oooz0000.jpeg",
-   "id": "35bf293bf26e"
-  },
-  {
-   "title": "Milan alla ricerca dell'erede di Modric: tra i candidati anche il classe 2000 dell'Union Saint-Gilloise",
-   "link": "https://www.milannews.it/calciomercato-milan/milan-ricerca-erede-modric-candidati-classe-2000-union-saint-gilloise-632229",
-   "summary": "Nel corso del consueto appuntamento con il suo editoria per TMW, Niccolò Ceccarini ha fatto il punto sul calciomercato in entrata del Milan, pronto a prendersi la scena anche a gennaio dopo un'estate ricca, sotto ogni…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T19:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/29/29e359ff388ed1f4ba136db20b6b8f00-40442-oooz0000.jpeg",
-   "id": "8ea80440ae6a",
-   "age_minutes": 142,
-   "also": [],
-   "score": 7.056
-  },
-  {
-   "title": "Ravezzani spiega: “Viglione dietro la panchina dell’Inter dopo lo scudetto non ci poteva stare… forse qualcuno lo ha invitato”",
-   "link": "https://www.milannews.it/news/ravezzani-spiega-viglione-panchina-dell-inter-scudetto-poteva-stare-li-invitato-632251",
-   "summary": "Nel suo canale YouTube, il direttore di Telelombardia Fabio Ravezzani ha parlato di Giancarlo Viglione, prossimo a diventare segretario generale della FIGC e di quanto accaduto due anni fa in seguito alla vittoria dello scudetto dell'Inter.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T18:48:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4c/4cf05571daa0e40c3c2632a6b5f9bf2f-52830-oooz0000.jpeg",
-   "id": "5baff809277f"
-  },
-  {
-   "title": "Serie A, l’Inter vince e torna in testa: la classifica aggiornata",
-   "link": "https://www.milannews.it/news/serie-a-classifica-aggiornata-632270",
-   "summary": "In seguito alla vittoria dei nerazzurri contro il Parma di Gilardino, questa è la classifica aggiornata. SERIE A, LA CLASSIFICA DOPO 5 GIORNATE 1.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T18:36:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/93/931e7f8bb31e00eeff4dc49302a423d6-75625-oooz0000.jpeg",
-   "id": "7cafc9ec2bb1"
-  },
-  {
-   "title": "Pellegatti rivela: “Cardinale vuole intervenire in maniera pesante sul mercato di gennaio, sa dell’importanza del Milan”",
-   "link": "https://www.milannews.it/news/pellegatti-rivela-cardinale-vuole-intervenire-maniera-pesante-mercato-gennaio-sa-dell-importanza-mil-632238",
-   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato di Gerry Cardinale e della sua volontà di intervenire in maniera importate anche nel mercato di gennaio. Queste le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T18:24:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b5/b54ebdb9e4dba81088acec5a4e45b971-92761-oooz0000.jpeg",
-   "id": "5a812e7d38bb",
-   "age_minutes": 178,
-   "also": [],
-   "score": 6.291
-  },
-  {
-   "title": "Serie A, passano i nerazzurri a San Siro: Inter-Parma 3-0",
-   "link": "https://www.milannews.it/news/inter-parma-632269",
-   "summary": "È terminata poco fa la partita che ha visto sfidarsi l'Inter di Chivu contro il suo passato, il Parma.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T18:12:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4b/4b34038e271fd3e717758d4a39c356c2-56890-oooz0000.jpeg",
-   "id": "096fb83d469d"
-  },
-  {
-   "title": "Probabile formazione Milan: verso la conferma della difesa a 4, Moreira e Chukwu insieme",
-   "link": "https://www.milannews.it/primo-piano/probabile-formazione-milan-conferma-difesa-4-moreira-chukwu-632278",
-   "summary": "Dopo una lunga e inedita sosta, finalmente domani torna in campo al Milan.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T18:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3a/3aff17ab09c17fef11ffa41ca3dcbd13-44381-oooz0000.jpeg",
-   "id": "7a4ac2385c68"
-  },
-  {
-   "title": "Ravezzani ricorda: Viglione ha un tarlo, si è fatto fotografare con Inzaghi a bordo campo dopo lo scudetto”",
-   "link": "https://www.milannews.it/news/ravezzani-ricorda-viglione-tarlo-fotografare-inzaghi-bordo-campo-scudetto-632250",
-   "summary": "Nel suo canale YouTube, il direttore di Telelombardia Fabio Ravezzani ha parlato di Giancarlo Viglione, prossimo a diventare segretario generale della FIGC e di quanto accaduto due anni fa in seguito alla vittoria dello scudetto dell'Inter.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T17:48:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/26/2691f561b68d8c5f1f5bae7021ea3b8c-45512-oooz0000.jpeg",
-   "id": "233bb906db95"
-  },
-  {
-   "title": "Fullkrug beffa il Dortmund, al 92’ segna il gol del 2-2: è il 4° in 5 partite in Bundesliga",
-   "link": "https://www.milannews.it/news/fullkrug-beffa-dortmund-92-segna-gol-2-2-4-gol-5-partite-bundesliga-632245",
-   "summary": "Al Signal Iduna Park è andata in scena ieri sera una partita folle tra Borussia Dortmund e Werder Brema. I padroni di casa hanno infatti sbloccato la partita al minuto 80 grazie al gol di Svensson.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T17:36:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/35/357a6f5b41d4700cc9616f06242ccfa0-69965-oooz0000.jpeg",
-   "id": "9d0f3141b9a5"
-  },
-  {
-   "title": "Incredibile Nkunku, tripletta in un tempo contro l'Eintracht Francoforte",
-   "link": "https://www.milannews.it/news/incredibile-nkunku-tripletta-eintracht-francoforte-632280",
-   "summary": "Il Lipsia questo pomeriggio ha visto una versione di Nkunku che non si vedeva da parecchio.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-10T17:23:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3b/3bff9cd5d577dc800654b4c42fa77fc8-95494-oooz0000.jpeg",
-   "id": "95e7e4f1c473"
-  },
-  {
-   "title": "Reo-Coker: \"Thuram? Può diventare uno dei migliori al mondo. Ma gli serve più mordente\"",
-   "link": "https://www.fcinternews.it/news/reo-coker-thuram-migliori-mondo-serve-mordente-1020495",
-   "summary": "L'ex calciatore Nigel Reo-Coker, presente negli studi di CBS Sports-Golazo, ha tracciato un punto valutativo su Marcus Thuram, elogiandone in modo grandioso le sue qualità: \"Sono un suo grande fan, sorride spesso e vorrei vederlo pi&u ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T21:08:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d4/d47b8c3a98ff2391b48c4f5a6a82c7e2-64998-oooz0000.jpeg",
-   "id": "515865b09bce"
-  },
-  {
-   "title": "Gattuso: \"Ho spinto affinché Frattesi venisse alla Lazio\"",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/gattuso-ho-spinto-frattesi-venisse-lazio-1020463",
-   "summary": "Durante la conferenza stampa alla vigilia della partita casalinga contro il Monza, Gennaro Gattuso - tecnico della Lazio - ha speso alcune parole su Davide Frattesi, raccontando alcuni retroscena in merito al passaggio del centrocampista romano dall& ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T21:07:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/64/64e0714628147ce036130e210703e3ec-47407-587o59o2111o1583z10f4.jpeg",
-   "id": "5ee320997b92"
-  },
-  {
-   "title": "Arriva anche il tris del Napoli: liquidata la pratica Frosinone",
-   "link": "https://www.fcinternews.it/il-resto-della-a/arriva-tris-napoli-liquidata-pratica-frosinone-1020494",
-   "summary": "Serviva una vittoria al Napoli per risalire la china in campionato. E il successo è arrivato: i partenopei hanno calato il tris al Frosinone.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T20:54:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3b/3b63da273daf17f7975bbd0f95cd22df-31952-oooz0000.jpeg",
-   "id": "c17072e8bb8e"
-  },
-  {
-   "title": "Questa Inter è una cooperativa del gol: in campionato già 10 giocatori diversi in rete",
-   "link": "https://www.fcinternews.it/focus/inter-cooperativa-gol-10-giocatori-diversi-rete-1020481",
-   "summary": "Rosa ampia e profonda. La richiesta volenterosa di Chivu in estate era proprio questa e i nerazzurri stanno gestendo gli impegni al meglio.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T20:39:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d681a9e0d71a9f06577f479ff12e54e2-96298-oooz0000.jpeg",
-   "id": "a96cc33d64a0",
-   "age_minutes": 43,
-   "also": [],
-   "score": 5.355
-  },
-  {
-   "title": "Marcus Thuram, il gol al Parma vale un altro record: il dato che lo avvicina a...",
-   "link": "https://www.fcinternews.it/stats/marcus-thuram-gol-parma-record-dato-avvicina-a-1020480",
-   "summary": "Marcus Thuram ha messo la pratica interista in archivio nella serata di San Siro dove l'Inter ha calato il tris contro il Parma.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T20:25:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a5/a516c5a6afd636a255bd83ef24bd6d7f-91903-oooz0000.jpeg",
-   "id": "f8b27d7f2ffb"
-  },
-  {
-   "title": "Il Club Brugge arriva a San Siro con fiducia: poker in trasferta e primato confermato",
-   "link": "https://www.fcinternews.it/l-avversario/club-brugge-arriva-san-siro-fiducia-poker-trasferta-primato-confermato-1020493",
-   "summary": "Il Club Brugge vince e convince in Jupiler League: settima vittoria in otto giornate di campionato. In serata è arrivato il poker esterno sul RAAL La Louviere.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T20:12:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f437c1367262bae1f6972f79c46b107-27028-oooz0000.jpeg",
-   "id": "019a6e2b0d50"
-  },
-  {
-   "title": "Bisseck scherza: \"Mi ero dimenticato che non fosse obbligatorio il doppio svantaggio\"",
-   "link": "https://www.fcinternews.it/copertina/bisseck-scherza-mi-dimenticato-obbligatorio-svantaggio-1020492",
-   "summary": "Yann Bisseck la prende sul ridere in un post pubblicato sui social dopo il tris dei nerazzurri contro il Parma: \"Mi ero quasi dimenticato che non è obbligatorio trovarsi in svantaggio per 2-0\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T19:57:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/03f6a9ae4acfc904744c35f777046b7f-66829-oooz0000.jpeg",
-   "id": "6f5e116effb9"
-  },
-  {
-   "title": "Esposito celebra lo Spezia: \"Spero di avervi lasciato qualcosa\"",
-   "link": "https://www.fcinternews.it/news/esposito-celebra-spezia-spero-avervi-qualcosa-1020466",
-   "summary": "In occasione dell'anniversario della fondazione dello Spezia, club che proprio oggi celebra 120 anni di storia, Pio Esposito ha voluto manifestare la propria riconoscenza per il club ligure presso cui ha disputato due…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T19:43:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bc/bc184ee13d873ad875407089a28ed6c4-87226-301o36o1361o1096z0aea.jpeg",
-   "id": "b8388b99d3f9",
-   "age_minutes": 100,
-   "also": [],
-   "score": 5.462
-  },
-  {
-   "title": "Bologna, Darmian: \"All'Inter ho vissuto sei anni fantastici, devo ringraziare tutti\"",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/darmian-all-inter-vissuto-fantastici-ringraziare-tutti-1020487",
-   "summary": "Matteo Darmian è da qualche giorno un nuovo giocatore del Bologna e ha parlato quest'oggi ai canali ufficiali del club felsineo, ricordando anche l'esperienza con la maglia dell'Inter: \"È una nuova sfida, una nuova espe ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T19:29:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c0/c04e2871b08898c6ac4d49eef1adfc3b-02251-oooz0000.jpeg",
-   "id": "4c0b906ab257"
-  },
-  {
-   "title": "Inter-Parma, la moviola - Bonacina si perde un rigore gigantesco",
-   "link": "https://www.fcinternews.it/moviola/inter-parma-moviola-bonacina-1020453",
-   "summary": "Dopo quasi un mese di stop per gli impegni delle Nazionali, la Serie A torna a farla da padrona nel weekend degli appassionati di calcio italiani.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T19:14:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a8/a8f1aa2d9a8928a66e17b9cce5153864-51018-409o72o1493o1156z0c3a.jpeg",
-   "id": "45b349f3bcc3"
-  },
-  {
-   "title": "Pavard a ITV: \"Da difensore speravo di raggiungere la porta inviolata\"",
-   "link": "https://www.fcinternews.it/news/pavard-i-itv-i-da-difensore-speravo-raggiungere-porta-inviolata-1020478",
-   "summary": "Si è conclusa da pochi minuti la sfida di Serie A tra Inter e Parma, sfida valida per la 6ª giornata di campionato che ha visto il Biscione trionfare per 3-0.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T19:05:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b4/b41016cc768210cb527a8f8d2baaa00b-07093-578o48o1697o1168z0da3.jpeg",
-   "id": "2092d160b554"
+   "score": 4.172
   },
   {
    "title": "Parma, Diego Carlos in conferenza: \"Il rigore? Capisco la scelta dell'arbitro\"",
@@ -1139,98 +235,68 @@
    "published": "2026-10-10T18:59:26+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d1/d1fe01393401774061e42c64e6f6a354-76043-486o57o1209o780z09e4.jpeg",
    "id": "47aa4a9be6cf",
-   "age_minutes": 143,
+   "age_minutes": 322,
    "also": [],
-   "score": 4.851
+   "score": 4.109
   },
   {
-   "title": "Chivu in conferenza: \"Spence, botta di adrenalina da San Siro. Ma non possiamo mandarlo fuori giri\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/chivu-conferenza-1020489",
-   "summary": "L'Inter riparte dopo la maxi-sosta con un convincente 3-0 al Parma, liquidando la pratica nel giro di 31'. Tre punti che permettono ai nerazzurri di restare al comando della classifica, aspettando i risultati delle altre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:56:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cc/cc808fcb707c7267f74a5617c6dd07b8-02662-486o96o1184o793z09ff.jpeg",
-   "id": "cec93e40ddc1"
+   "title": "Mister 100 milioni incanta Juve e Milan: asta folle per il bomber",
+   "link": "https://www.calciomercato.it/2026/10/09/mister-100-milioni-incanta-juve-e-milan-asta-folle-per-il-bomber/",
+   "summary": "L'articolo Mister 100 milioni incanta Juve e Milan: asta folle per il bomber proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-09T20:44:39+00:00",
+   "image": "",
+   "id": "e2866e0875bb",
+   "age_minutes": 1657,
+   "also": [],
+   "score": 3.765
   },
   {
-   "title": "Chivu a ITV: \"Ci siamo calati subito nella parte e dopo la sosta non era scontato\"",
-   "link": "https://www.fcinternews.it/news/chivu-i-itv-i-ci-calati-sosta-scontato-1020477",
-   "summary": "Tris convincente dell'Inter, abile a liquidare il Parma con tre reti nel primo tempo che chiudono con netto anticipo la pratica: risultato finale 3-0.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:55:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/17/176d10cb90eacde332e4f22eb52495a2-11567-107o23o1487o1403z0bcc.jpeg",
-   "id": "8383bd64c942"
+   "title": "Como-Roma, Gasperini spiazza tutti: clamorosa decisione",
+   "link": "https://www.calciomercato.it/2026/10/09/como-roma-gasperini-spiazza-tutti-clamorosa-decisione/",
+   "summary": "L'articolo Como-Roma, Gasperini spiazza tutti: clamorosa decisione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-09T18:05:44+00:00",
+   "image": "",
+   "id": "abf7d31ecee2",
+   "age_minutes": 1816,
+   "also": [],
+   "score": 3.69
   },
   {
-   "title": "VIDEO - Inter-Parma 3-0, Tramontana: \"Vittoria fantastica. Spence ci servirà\"",
-   "link": "https://www.fcinternews.it/vento-di-tramontana/video-inter-parma-3-0-tramontana-vittoria-fantastica-spence-servira-1020491",
-   "summary": "Nel consueto video editoriale per FcInterNews, Filippo Tramontana ha commentato la vittoria dell'Inter per 3-0 contro il Parma. \"Vittoria fantastica, strameritata, grande Inter, grande ritmo e grande gioco - le sue parole -.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:52:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7a/7a142f92cce57cb248fa6217ffca7134-24340-oooz0000.jpeg",
-   "id": "f549d48f0b46"
+   "title": "Lazio-Monza, Juric esalta Gattuso e punge Mancini: “Tempo perso”",
+   "link": "https://www.calciomercato.it/2026/10/09/lazio-monza-juric-esalta-gattuso-e-punge-mancini-tempo-perso/",
+   "summary": "L'articolo Lazio-Monza, Juric esalta Gattuso e punge Mancini: “Tempo perso” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-09T14:41:59+00:00",
+   "image": "",
+   "id": "f87e53884112",
+   "age_minutes": 2020,
+   "also": [],
+   "score": 3.616
   },
   {
-   "title": "Mkhitaryan a Sky: \"Siamo ambiziosi e questo gruppo è una grande famiglia\"",
-   "link": "https://www.fcinternews.it/news/mkhitaryan-i-sky-i-siamo-ambiziosi-famiglia-1020490",
-   "summary": "Henrikh Mkhitaryan, centrocampista dei nerazzurri, ha parlato ai microfoni di Sky Sport dopo il successo contro il Parma: \"Sapevamo di aver iniziato male alcune partite con l'approccio, oggi siamo partiti forte.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f9bd3cff33d7ff9519cb5505d56a9c1-12250-oooz0000.jpeg",
-   "id": "4a6af51ae35f"
-  },
-  {
-   "title": "Pavard a DAZN: \"Cerco sempre di farmi trovare pronto, contento di esser tornato\"",
-   "link": "https://www.fcinternews.it/news/pavard-i-dazn-i-1020488",
-   "summary": "Benjamin Pavard si è presentato ai microfoni di DAZN per parlare del post-partita: \"Abbiamo lavorato molto sull'approccio, oggi abbiamo fatto una grande partita senza concedere occasioni e portandoci a casa il clean sheet.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:43:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a5/a56eafc355813f6c161b67f037d09e58-58134-oooz0000.jpeg",
-   "id": "8b81b4bed6e3"
-  },
-  {
-   "title": "Chivu a DAZN: \"Contento della partita di tutti, ho dato minutaggio a tanti. Esposito può crescere ancora\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/chivu-i-dazn-i-contento-partita-tutti-dato-minutaggio-tanti-esposito-crescere-ancora-1020486",
-   "summary": "Cristian Chivu commenta così la partita a Dazn a fine partita: \"Era un'incognita dopo 3 settimane di sosta, non era mai capitato, non sapevamo come sarebbe andata.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:37:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/40/40ada58950aff629ef1c81a68a903f7b-32674-oooz0000.jpeg",
-   "id": "3691cc9b3c6a"
-  },
-  {
-   "title": "Parma, Gilardino in conferenza: \"C'è amarezza ma dobbiamo ripartire con fiducia\"",
-   "link": "https://www.fcinternews.it/l-avversario/parma-gilardino-conferenza-1020465",
-   "summary": "Alberto Gilardino, allenatore del Parma, completa il giro di interviste post-partita con le parole in conferenza stampa a San Siro riportate dall'inviato di FcInterNews.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:32:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/25/25a962a2fc5f863d1639e6e9cc570e74-44917-422o121o1152o851z09f2.jpeg",
-   "id": "b2910286626d"
-  },
-  {
-   "title": "Spence a ITV: \"Accoglienza dei tifosi strepitosa. Chivu sa come gestire il gruppo\"",
-   "link": "https://www.fcinternews.it/focus/spence-i-itv-i-accoglienza-tifosi-strepitosa-chivu-sa-gestire-gruppo-1020456",
-   "summary": "Si è conclusa da pochi minuti la sfida di Serie A tra Inter e Parma, sfida valida per la 6ª giornata di campionato che ha visto il Biscione trionfare per 3-0.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-10T18:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/85/85dabad6dcaebd353e4fbc8249b69058-77556-804o60o2208o1464z11b8.jpeg",
-   "id": "8aeb0ace04f7"
-  },
+   "title": "Chivu sbotta: “Si parla sempre di anti-Inter”. Retroscena Calhanoglu",
+   "link": "https://www.calciomercato.it/2026/10/09/chivu-sbotta-si-parla-sempre-di-anti-inter-retroscena-calhanoglu/",
+   "summary": "L'articolo Chivu sbotta: “Si parla sempre di anti-Inter”. Retroscena Calhanoglu proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-09T13:56:44+00:00",
+   "image": "",
+   "id": "78554f0bd9fd",
+   "age_minutes": 2065,
+   "also": [],
+   "score": 3.603
+  }
+ ],
+ "raw": [
   {
    "title": "Juve, nome nuovo in attacco: ha una clausola rescissoria da 100 milioni",
    "link": "https://www.calciomercato.it/2026/10/10/juve-nome-nuovo-in-attacco-ha-una-clausola-rescissoria-da-100-milioni/",
@@ -1241,14 +307,9 @@
    "published": "2026-10-10T21:11:54+00:00",
    "image": "",
    "id": "a5a51ece4aca",
-   "age_minutes": 11,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/09/juve-sfida-con-latletico-madrid-per-un-super-nome-in-attacco-50-milioni/"
-    }
-   ],
-   "score": 9.936
+   "age_minutes": 190,
+   "also": [],
+   "score": 8.438
   },
   {
    "title": "Pagelle Napoli-Frosinone 3-0, voti e tabellino della partita",
@@ -1271,9 +332,9 @@
    "published": "2026-10-10T19:22:37+00:00",
    "image": "",
    "id": "c0b91f448827",
-   "age_minutes": 120,
+   "age_minutes": 299,
    "also": [],
-   "score": 6.761
+   "score": 5.994
   },
   {
    "title": "Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina”",
@@ -1285,9 +346,9 @@
    "published": "2026-10-10T19:09:35+00:00",
    "image": "",
    "id": "44668cdcb796",
-   "age_minutes": 133,
+   "age_minutes": 312,
    "also": [],
-   "score": 6.699
+   "score": 5.946
   },
   {
    "title": "PAGELLE e TABELLINO Inter-Parma 3-0: Sucic spegne i rumors, ‘Gila’ travolto",
@@ -1310,9 +371,9 @@
    "published": "2026-10-10T16:34:44+00:00",
    "image": "",
    "id": "c1fc0f44503d",
-   "age_minutes": 288,
+   "age_minutes": 467,
    "also": [],
-   "score": 6.038
+   "score": 5.436
   },
   {
    "title": "Pagelle Genoa-Fiorentina 2-1, voti e tabellino della sfida",
@@ -1357,9 +418,9 @@
    "published": "2026-10-10T09:51:25+00:00",
    "image": "",
    "id": "fc4f749dc44d",
-   "age_minutes": 691,
+   "age_minutes": 870,
    "also": [],
-   "score": 6.873
+   "score": 6.537
   },
   {
    "title": "Roma, conferme su Kvernadze: operazione da circa 25 milioni",
@@ -1371,9 +432,9 @@
    "published": "2026-10-10T07:50:01+00:00",
    "image": "",
    "id": "72e334ea9541",
-   "age_minutes": 813,
+   "age_minutes": 992,
    "also": [],
-   "score": 4.636
+   "score": 4.354
   },
   {
    "title": "Dieci nuovi nomi in vista di novembre, Mancini prepara nuove sorprese tra i convocati",
@@ -1385,9 +446,9 @@
    "published": "2026-10-10T06:55:16+00:00",
    "image": "",
    "id": "959b0cc7246e",
-   "age_minutes": 867,
+   "age_minutes": 1047,
    "also": [],
-   "score": 4.542
+   "score": 4.282
   },
   {
    "title": "Milan, contro il Sassuolo Amorim cambia modulo: la formazione rossonera",
@@ -1399,9 +460,9 @@
    "published": "2026-10-10T05:23:08+00:00",
    "image": "",
    "id": "4f83998e95b3",
-   "age_minutes": 959,
+   "age_minutes": 1139,
    "also": [],
-   "score": 4.4
+   "score": 4.172
   },
   {
    "title": "Mister 100 milioni incanta Juve e Milan: asta folle per il bomber",
@@ -1413,9 +474,9 @@
    "published": "2026-10-09T20:44:39+00:00",
    "image": "",
    "id": "e2866e0875bb",
-   "age_minutes": 1478,
+   "age_minutes": 1657,
    "also": [],
-   "score": 3.873
+   "score": 3.765
   },
   {
    "title": "Juve, dopo Yildiz si prova un altro colpo in casa Bayern Monaco: può arrivare a zero",
@@ -1427,9 +488,9 @@
    "published": "2026-10-09T19:21:13+00:00",
    "image": "",
    "id": "c13869903f02",
-   "age_minutes": 1561,
+   "age_minutes": 1741,
    "also": [],
-   "score": 5.819
+   "score": 5.724
   },
   {
    "title": "Como-Roma, Gasperini spiazza tutti: clamorosa decisione",
@@ -1441,9 +502,9 @@
    "published": "2026-10-09T18:05:44+00:00",
    "image": "",
    "id": "abf7d31ecee2",
-   "age_minutes": 1637,
+   "age_minutes": 1816,
    "also": [],
-   "score": 3.776
+   "score": 3.69
   },
   {
    "title": "Nico Gonzalez-Juventus: firma e ufficialità del nuovo accordo",
@@ -1455,9 +516,9 @@
    "published": "2026-10-09T15:22:26+00:00",
    "image": "",
    "id": "fde18315eacc",
-   "age_minutes": 1800,
+   "age_minutes": 1979,
    "also": [],
-   "score": 7.697
+   "score": 7.629
   },
   {
    "title": "Lazio-Monza, Juric esalta Gattuso e punge Mancini: “Tempo perso”",
@@ -1469,9 +530,9 @@
    "published": "2026-10-09T14:41:59+00:00",
    "image": "",
    "id": "f87e53884112",
-   "age_minutes": 1841,
+   "age_minutes": 2020,
    "also": [],
-   "score": 3.68
+   "score": 3.616
   },
   {
    "title": "Chivu sbotta: “Si parla sempre di anti-Inter”. Retroscena Calhanoglu",
@@ -1483,9 +544,9 @@
    "published": "2026-10-09T13:56:44+00:00",
    "image": "",
    "id": "78554f0bd9fd",
-   "age_minutes": 1886,
+   "age_minutes": 2065,
    "also": [],
-   "score": 3.662
+   "score": 3.603
   },
   {
    "title": "Fiorentina, tegola Atta: le ultime sul centrocampista",
@@ -1617,6 +678,929 @@
    "published": "2026-10-08T15:07:02+00:00",
    "image": "",
    "id": "ab4a4bddf210"
+  },
+  {
+   "title": "Juventus, Sarr vuole diventare un titolare: Spalletti intravede il salto di qualità, ma deve migliorare ancora",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-sarr-vuole-diventare-un-titolare-spalletti-intravede-il-salto-di-qualita-ma-deve-migliorare-796237",
+   "summary": "Pape Matar Sarr vuole sfruttare il momento per conquistare un ruolo sempre più importante nella Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T23:30:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/71/7134307704ac5703393a18adea1b32bc-49406-oooz0000.jpeg",
+   "id": "661fd815bc43"
+  },
+  {
+   "title": "Cagliari, la probabile formazione contro la Juventus: Pisacane si affida a Mina, Maldini e Mendy. Romano la sorpresa",
+   "link": "https://www.tuttojuve.com/l-avversario/cagliari-la-probabile-formazione-contro-la-juventus-pisacane-si-affida-a-mina-maldini-e-mendy-romano-796235",
+   "summary": "Il Cagliari prepara la sfida contro la Juventus con entusiasmo e grande fiducia.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T23:15:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/97/972dddc8714f8cb767dedb3b25468070-46372-oooz0000.jpeg",
+   "id": "1fabaec04ec3"
+  },
+  {
+   "title": "Juventus, attenzione a Mina: provocazioni, trattenute e battaglia psicologica. Spalletti deve evitare la trappola",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-attenzione-a-mina-provocazioni-trattenute-e-battaglia-psicologica-spalletti-deve-evitare-la-796240",
+   "summary": "La Juventus si prepara alla trasferta di Cagliari sapendo di dover affrontare non soltanto una squadra organizzata e aggressiva, ma anche uno&nbs ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T23:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b051d546c4f45d065908b61702b48a87-60612-oooz0000.jpeg",
+   "id": "4478d25f46af"
+  },
+  {
+   "title": "Juventus, Spalletti deve vincere anche dalla panchina: i cinque cambi possono diventare l'arma decisiva",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-spalletti-deve-vincere-anche-dalla-panchina-i-cinque-cambi-possono-diventare-l-arma-decisiv-796239",
+   "summary": "La Juventus si prepara ad affrontare un periodo particolarmente intenso e Luciano Spalletti dovrà dimostrare di saper gestire non soltanto la&n ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T22:45:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e7/e7aade9891311a0faee261ef139f3cf8-67160-oooz0000.jpeg",
+   "id": "87eb88d191ee"
+  },
+  {
+   "title": "Juventus, Koopmeiners vuole riprendersi tutto: Spalletti non lo ha scaricato, ora serve la vera svolta",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-koopmeiners-vuole-riprendersi-tutto-spalletti-non-lo-ha-scaricato-ora-serve-la-vera-svolta-796236",
+   "summary": "Teun Koopmeiners non è ancora un caso chiuso per la Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T22:30:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b0c178ad62a574ffb2fcea38076335c5-63893-oooz0000.jpeg",
+   "id": "2525a7ffe212"
+  },
+  {
+   "title": "Juventus, la probabile formazione contro il Cagliari: Spalletti sceglie la difesa a tre, Cambiaso torna e Sarr vede una maglia",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-la-probabile-formazione-contro-il-cagliari-spalletti-sceglie-la-difesa-a-tre-cambiaso-torna-796233",
+   "summary": "La Juventus si prepara alla trasferta di Cagliari con alcune certezze e diversi ballottaggi ancora aperti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T22:15:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
+   "id": "a05e47ff2603"
+  },
+  {
+   "title": "FIGC, il compromesso risolve l’incarico ma lascia aperti gli interrogativi, qualcuno ha troppo potere?",
+   "link": "https://www.tuttojuve.com/primo-piano/figc-compromesso-risolve-l-incarico-lascia-aperti-interrogativi-potere-796086",
+   "summary": "Il calcio italiano ha bisogno di stabilità, ma soprattutto di istituzioni credibili.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T22:05:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c3dbe7b3f6c55ac8635df1538a46050-09326-oooz0000.jpeg",
+   "id": "89e8f942f196"
+  },
+  {
+   "title": "Il palazzo si copre di ridicolo, ma la Juve ora deve rispondere sul campo!",
+   "link": "https://www.tuttojuve.com/firme-bianconere/palazzo-copre-ridicolo-juve-rispondere-campo-796221",
+   "summary": "C’è un calcio che si gioca dentro gli stadi e un calcio che si gioca nelle stanze. Oggi, per la Juve e i suoi tifosi il secondo è un film da non credere.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T22:01:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32dad724f2d5d627188bb5e92775015c-06564-oooz0000.jpeg",
+   "id": "398d1b956d51"
+  },
+  {
+   "title": "Juventus, scintille a distanza tra Pisacane e Spalletti: Cagliari-Juve si accende già alla vigilia",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-scintille-a-distanza-tra-pisacane-e-spalletti-cagliari-juve-si-accende-gia-alla-vigilia-796230",
+   "summary": "Cagliari-Juventus non è soltanto una partita importante per la classifica, ma anche un confronto tra due allenatori che vogliono imporre la&nbs ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T22:00:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c7/c790ab93ab183323f72b9a8d37fe4839-75502-oooz0000.jpeg",
+   "id": "dad8399cfd09"
+  },
+  {
+   "title": "Verso Juventus-Lazio: la situazione disciplinare a una settima dal match",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-situazione-disciplinare-settima-match-796238",
+   "summary": "La Juventus si prepara a un ciclo di impegni ravvicinati che la porterà prima a Cagliari, poi in Spagna per affrontare il Celta Vigo e infine nuovamente all'Allianz Stadium, dove è in programma la sfida contro la Lazio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T21:45:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/23/23a5ee620f18e10d0b23f1965e706915-03581-oooz0000.jpeg",
+   "id": "9dbcd87bb9b4"
+  },
+  {
+   "title": "Juventus, occhi su Taylor: il centrocampista della Lazio può tornare nel mirino",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-occhi-taylor-centrocampista-lazio-tornare-mirino-796234",
+   "summary": "Kenneth Taylor è diventato uno dei punti di riferimento del centrocampo della Lazio di Gennaro Gattuso.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T21:30:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db6acb1dc257d7773b081e7ae3ca973a-31959-oooz0000.jpeg",
+   "id": "bbb43637865f"
+  },
+  {
+   "title": "Napoli, Allegri: \"Potevamo chiuderla prima. Lang? Ha fatto meno di quanto poteva, la responsabilità è sua\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/napoli-allegri-potevamo-chiuderla-prima-lang-poteva-responsabilita-sua-796231",
+   "summary": "Massimiliano Allegri, allenatore del Napoli, ha analizzato ai microfoni di DAZN il successo per 3-0 contro il Frosinone, soffermandosi sulla prestazione della squadra, sulla posizione di Kevin De Bruyne e sui margini di miglioramento degli azzurri.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T21:15:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0d/0db9e77f182d4b562b33e470d050cb71-89531-oooz0000.jpeg",
+   "id": "5444b97ca423"
+  },
+  {
+   "title": "Juventus, pioggia di rinnovi: altri cinque giocatori verso la firma fino al 2030 e 2031",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-pioggia-rinnovi-giocatori-firma-2030-2031-796229",
+   "summary": "La Juventus accelera sul fronte dei rinnovi contrattuali, con l'obiettivo di consolidare l'organico a disposizione di Luciano Spalletti e programmare il futuro attraverso la conferma di alcuni elementi della rosa.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T21:00:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/da/da06cb77a3b50e88ec929bb7103791ad-55431-oooz0000.jpeg",
+   "id": "a1dec4189fa7",
+   "age_minutes": 202,
+   "also": [],
+   "score": 6.188
+  },
+  {
+   "title": "Doppietta di De Bruyne e Lang, Napoli-Frosinone 3-0. La classifica aggiornata",
+   "link": "https://www.tuttojuve.com/altre-notizie/doppietta-de-bruyne-lang-napoli-frosinone-3-0-classifica-aggiornata-796228",
+   "summary": "Il Napoli ritrova la vittoria superando il Frosinone per 3-0, al termine di una partita indirizzata già nel primo tempo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T20:45:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/61c32235cd096e3b7a151ff32585a372-08116-oooz0000.jpeg",
+   "id": "3a7b402e8956"
+  },
+  {
+   "title": "Cagliari-Juventus, i bookie vedono Kolo Muani favorito tra i marcatori",
+   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-juventus-bookie-vedono-kolo-muani-favorito-marcatori-796227",
+   "summary": "a Juventus cerca continuità dopo le convincenti vittorie contro NEC e Atalanta, ma la trasferta sul campo del Cagliari si presenta tutt'altro che semplice.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T20:30:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/77/7782e1590e7d6cea0405cb1ee3d1abc5-03875-oooz0000.jpeg",
+   "id": "8c5f97572f8c"
+  },
+  {
+   "title": "Rocchi debutta su DAZN con Cagliari-Juventus, Pistocchi lo stronca: \"Quale credibilità potrà avere?",
+   "link": "https://www.tuttojuve.com/altre-notizie/rocchi-debutta-dazn-cagliari-juventus-pistocchi-stronca-quale-credibilita-potra-avere-796226",
+   "summary": "Gianluca Rocchi cambia ruolo e approda su DAZN come opinionista per la stagione 2026-2027 di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T20:15:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9757e346f66318c019f7f26f408bcff-65249-oooz0000.jpeg",
+   "id": "7f23a209dd76"
+  },
+  {
+   "title": "Calendario Serie A, Ordine torna all'attacco: \"L'Inter gioca 7 volte a San Siro su 11\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/calendario-serie-a-ordine-torna-attacco-l-inter-gioca-7-san-siro-11-796225",
+   "summary": "Franco Ordine torna a sollevare dubbi sulla distribuzione delle partite casalinghe e delle trasferte nel calendario di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T20:00:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/17/17ea931892d07c6a170d657be08e8614-80417-oooz0000.jpeg",
+   "id": "b5f21aa425ca"
+  },
+  {
+   "title": "Napoli-Frosinone, sui social esplode la polemica: \"Questo è un rigorino\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/napoli-frosinone-social-esplode-polemica-questo-rigorino-796224",
+   "summary": "Non mancano le polemiche arbitrali in Napoli-Frosinone, con gli azzurri che riescono a sbloccare il risultato grazie a un calcio di rigore trasformato da Kevin De Bruyne.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T19:45:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dd/ddf7654f6815a9d60ab05fba60c6b7b6-67184-oooz0000.jpeg",
+   "id": "774e1ca2a508"
+  },
+  {
+   "title": "Inter, San Siro centro del potere calcistico: in tribuna a ridosso di Marotta e Zanetti spunta anche il vice segretario generale Uefa Marchetti",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-san-siro-centro-potere-calcistico-tribuna-ridosso-marotta-zanetti-spunta-vice-segretario-uefa-796223",
+   "summary": "Non soltanto calcio giocato a San Siro in occasione di Inter-Parma.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T19:30:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/610d2697885ba244e5c3a9ca2fbf0c71-78644-oooz0000.jpeg",
+   "id": "34d83c8f0482"
+  },
+  {
+   "title": "Brambilla: “È un peccato perché a volte siamo noi a complicarci le partite. La classifica si sistemerà, dobbiamo rimanere tranquilli”",
+   "link": "https://www.tuttojuve.com/altre-notizie/brambilla-siamo-leggeri-calco-d-angolo-portato-vantaggio-dell-arzignano-complicarci-partite-796220",
+   "summary": "Massimo Brambilla ha parlato al sito della Juventus dopo la sconfitta della Next Gen contro l'Arzigano: \"Il primo tempo è stato equilibrato, ma siamo stati un po' leggeri in occasione del calcio d'angolo che ha portato al vant ...",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-10T19:15:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/92/92a6e5c44a1b800b34069cdbed8b587f-90892-oooz0000.jpeg",
+   "id": "ddd2fbba568d"
+  },
+  {
+   "title": "Lucca bocciato? Allegri lo protegge: \"È in difficoltà, va aiutato! Il gruppo lo stima\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/lucca-bocciato-allegri-protegge-e-difficolta-aiutato-stima-658699",
+   "summary": "Lorenzo Lucca sta attraversando un momento complicato, ma Massimiliano Allegri non ha alcuna intenzione di lasciarlo indietro.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T00:00:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b2/b27fad2df9143c980c084b1da4993473-03444-oooz0000.jpeg",
+   "id": "7f6127c61d16"
+  },
+  {
+   "title": "KDB trascina il Napoli, Il Roma lo esalta: \"De Bruyne Show\"",
+   "link": "https://www.tuttonapoli.net/brevi/kdb-trascina-napoli-roma-esalta-de-bruyne-show-658697",
+   "summary": "“De Bruyne Show”, apre così in prima pagina il quotidiano Il Roma nell’edizione odierna, celebrando il protagonista assoluto della vittoria degli azzurri contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T23:00:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/97/975c8a2af899f24aac9dde156fc7b19f-24643-oooz0000.jpeg",
+   "id": "94e91a4a2704"
+  },
+  {
+   "title": "Rigore Hojlund, Allegri netto: \"Gli ho detto che doveva ridare la palla a De Bruyne\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/rigore-hojlund-allegri-netto-ho-doveva-ridare-palla-de-bruyne-658698",
+   "summary": "Il rigore del Napoli contro il Frosinone ha avuto anche un curioso retroscena legato a Rasmus Højlund e Kevin De Bruyne.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:50:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/24/241189381374bf291b9b5f646493420c-74012-oooz0000.jpeg",
+   "id": "a2f9799cb2bd"
+  },
+  {
+   "title": "Radio Tutto Napoli live anche di domenica, il palinsesto di oggi: si parte dalle 10",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-live-domenica-palinsesto-oggi-10-657429",
+   "summary": "Radio Tutto Napoli non si ferma mai e vi accompagna anche di domenica.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:45:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/421094117ac3b8535d0a70a9b8be3e36-45223-306o390o1116o1200z0bc4.jpeg",
+   "id": "8edb7dcd9f22"
+  },
+  {
+   "title": "Badiashile a Dazn: \"Allegri tra i migliori in fase difensiva. Ho imparato la parola 'calma'\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/badiashile-dazn-allegri-migliori-fase-difensiva-imparato-parola-calma-658695",
+   "summary": "Il debutto da titolare al Maradona lascia sensazioni positive per Benoît Badiashile, protagonista nel 3-0 del Napoli contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:40:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/00dd98d97d57fed8a7a2821869039a25-13441-oooz0000.jpeg",
+   "id": "6bbfca750b6f"
+  },
+  {
+   "title": "Napoli-Frosinone, Gaito: \"Quel 1T diventi normalità! De Bruyne, dicevano 'bollito'...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-frosinone-punto-gaito-passi-avanti-658693",
+   "summary": "Il Napoli ritrova vittoria e segnali incoraggianti nel 3-0 contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:30:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c9e2d6cf318f69043a3deb24a27c942d-93341-oooz0000.jpeg",
+   "id": "babe185dbbf7"
+  },
+  {
+   "title": "Capuano protesta: \"Rigorino per il Napoli! Del tutto fuori dalla linea Orsato\"",
+   "link": "https://www.tuttonapoli.net/dai-social/capuano-protesta-rigorino-napoli-linea-orsato-658692",
+   "summary": "Il rigore assegnato al Napoli contro il Frosinone continua a far discutere.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:20:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/98/984e363e8633887daa6ed1d43a0ead42-04170-oooz0000.jpeg",
+   "id": "77f1dcf983c1",
+   "age_minutes": 122,
+   "also": [],
+   "score": 4.952
+  },
+  {
+   "title": "Rigore Napoli, Marelli sicuro: \"Non andava fischiato!\". Poi spiega il motivo della ripetizione",
+   "link": "https://www.tuttonapoli.net/le-interviste/rigore-napoli-marelli-sicuro-non-andava-fischiato-spiega-motivo-ripetizione-658691",
+   "summary": "Il rigore assegnato al Napoli contro il Frosinone continua a far discutere anche nel post partita.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:10:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/fe/fea501c9079cb986b6e8113f294897ae-35525-oooz0000.jpeg",
+   "id": "9b694e713e12",
+   "age_minutes": 132,
+   "also": [],
+   "score": 4.904
+  },
+  {
+   "title": "Eurorivali, il Villarreal perde di misura col Real Madrid: è già il 5° ko in stagione",
+   "link": "https://www.tuttonapoli.net/champions-league/eurorivali-villarreal-perde-misura-real-madrid-5-ko-stagione-658690",
+   "summary": "Il Villarreal, prossimo avversario del Napoli in Champions League, arriva alla sfida europea dopo una sconfitta di misura contro il Real Madrid. Al Bernabeu finisce 1-0 per i Blancos, con il match deciso al 62’ da Diomande su assist di Valverde.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T22:00:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a4/a4101f4cb3824084d9e7397210539298-79831-oooz0000.jpeg",
+   "id": "e31b00bbb217"
+  },
+  {
+   "title": "Napoli-Frosinone, le pagelle di Caporale: \"De Bruyne il migliore, Lucca rimandato\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-frosinone-pagelle-caporale-658689",
+   "summary": "Il Napoli ritrova vittoria e convinzioni nel 3-0 contro il Frosinone, mostrando soprattutto nel primo tempo un atteggiamento più aggressivo e continuo rispetto alle precedenti uscite.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:50:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a02463d5ffba12e42e2351d28631354-36371-oooz0000.jpeg",
+   "id": "f54078a23f46"
+  },
+  {
+   "title": "Lang attacca Conte, Ferrara: \"Scorretto! Perché glielo dice ora che è andato via?\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/lang-attacca-conte-ferrara-scorretto-andato-via-658686",
+   "summary": "Il gol contro il Frosinone non è stato l’unico motivo per cui Noa Lang ha fatto parlare di sé nel post partita.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:45:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/65/6579ac14a69b3398875551b6b818d8c6-65070-oooz0000.jpeg",
+   "id": "c8f7f4f7a1a1"
+  },
+  {
+   "title": "Frosinone, Alvini a Dazn: \"Ko meritato, ma risultato troppo ampio. Rigore? Ci può stare\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/frosinone-alvini-i-dazn-i-ko-meritato-risultato-ampio-rigore-stare-658687",
+   "summary": "Il Frosinone esce sconfitto per 3-0 dal Maradona contro il Napoli, ma Massimiliano Alvini non vuole che il risultato ridimensioni quanto costruito dalla sua squadra in questo avvio di stagione.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:39:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3b/3b7d611e2ef4f155e246baa7c349d084-43800-oooz0000.jpeg",
+   "id": "4891c54a44cf"
+  },
+  {
+   "title": "Frosinone, Alvini in conferenza: \"Vittoria meritata del Napoli, ma il 3-0 è troppo ampio”",
+   "link": "https://www.tuttonapoli.net/le-interviste/frosinone-alvini-conferenza-stampa-segui-diretta-testuale-tn-658656",
+   "summary": "Al termine del match valido per la sesta giornata di campionato contro il Napoli, il tecnico del Frosinone Massimiliano Alvini interverrà nella sala conferenze dallo Stadio Diego Armando Maradona per rispondere alle domande della sta ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:38:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0f/0fd5b3a44b2f5e8253dce2dddab5b4fb-21521-oooz0000.jpeg",
+   "id": "a03ebefb6468"
+  },
+  {
+   "title": "Di Lorenzo in conferenza: “Il 3-0 dovevamo farlo prima. Badiashile? Ci darà una grossa mano”",
+   "link": "https://www.tuttonapoli.net/zoom/lorenzo-conferenza-il-3-0-dovevamo-farlo-prima-badiashile-dara-grossa-mano-658685",
+   "summary": "Al termine del match vinto 3-0 contro il Frosinone, il capitano del Napoli Giovanni Di Lorenzo è intervenuto in conferenza stampa: “Il mister ci aveva chiesto di partire forte e penso che ci siamo riusciti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:33:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e1/e12aeeb7a33b1dbbe3149a93de268cee-23150-oooz0000.jpeg",
+   "id": "529cc2053a01"
+  },
+  {
+   "title": "De Bruyne trascina con una doppietta: è lui l'MVP di Napoli-Frosinone",
+   "link": "https://www.tuttonapoli.net/notizie/de-bruyne-trascina-doppietta-mvp-napoli-frosinone-658683",
+   "summary": "Kevin De Bruyne è stato premiato come Panini Player of the Match dopo la vittoria del Napoli contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:30:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/66/6699f82f91ca1d46b91ebaddfc0cdf17-91241-301o252o1360o1312z0c99.jpeg",
+   "id": "60a996b04884"
+  },
+  {
+   "title": "Lang durissimo: “Allegri mi parla e mi dà fiducia rispetto all’allenatore dell’anno scorso!\"",
+   "link": "https://www.tuttonapoli.net/zoom/lang-stilettata-conte-a-differenza-sua-allegri-parla-spiega-muovermi-658684",
+   "summary": "Noa Lang, esterno offensivo del Napoli, dopo la vittoria contro il Frosinone è intervenuto al microfono di Dazn: \"C'è ancora tanto da migliorare. Speriamo di continuare così, ma c'è tanto da fare.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:29:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3f60c10eccc27c7ed5e40f1f06fb7f27-58996-oooz0000.jpeg",
+   "id": "de967522371f"
+  },
+  {
+   "title": "Alvini a Sky: \"Rigore evitabile. Vittoria meritata del Napoli ma risultato troppo ampio\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/alvini-sky-rigore-evitabile-vittoria-meritata-napoli-risultato-ampio-658682",
+   "summary": "Il Frosinone esce sconfitto 3-0 contro il Napoli, ma Massimiliano Alvini difende la prestazione dei suoi e giudica il passivo troppo pesante rispetto a quanto visto in campo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:20:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/0f/0fd5b3a44b2f5e8253dce2dddab5b4fb-21521-oooz0000.jpeg",
+   "id": "e1b12001653c"
+  },
+  {
+   "title": "Allegri a Dazn: \"Dovevamo fare più gol! Lang? Chieda di più a se stesso. Su KDB e Badiashile...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/allegri-i-dazn-i-dovevamo-gol-lang-chieda-stesso-kdb-badiashile-658681",
+   "summary": "Massimiliano Allegri, allenatore del Napoli, dopo il successo contro il Frosinone è intervenuto al microfono di Dazn: \"Siamo stati molto aggressivi all'inizio, abbiamo avuto delle situazioni favorevoli che secondo me non abbiamo sfrut ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:19:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/268c9ecc7180d7f6b5ae6ab28f8eb30f-48908-oooz0000.jpeg",
+   "id": "e06cf7aa7464"
+  },
+  {
+   "title": "Badiashile a Sky: \"Contento dei 90' e dei tre punti! Stiamo crescendo\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/badiashile-sky-contento-90-punti-crescendo-658680",
+   "summary": "Benoît Badiashile si prende una serata importante nel successo del Napoli contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:15:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/00dd98d97d57fed8a7a2821869039a25-13441-oooz0000.jpeg",
+   "id": "556844329dd2"
+  },
+  {
+   "title": "Allegri in conferenza: \"Bisogna uccidere le partite! Rigore? Hojlund mi ha detto che De Bruyne gli aveva dato la palla...\"",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/allegri-conferenza-bisogna-uccidere-partite-rigore-hojlund-de-bruyne-dato-palla-658654",
+   "summary": "Al termine del match valido per la sesta giornata di campionato contro il Frosinone, il tecnico del Napoli Massimiliano Allegri interverrà nella sala conferenze dallo Stadio Diego Armando Maradona per rispondere alle domande della stampa.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-10T21:14:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/35/35a3a2e7146f03cdfd56471a1c5e8c5d-26521-oooz0000.jpeg",
+   "id": "c07b948192a9"
+  },
+  {
+   "title": "Costacurta: \"Mi piace questa formazione, Amorim spera che Pulisic possa fare con Ramos lo stesso lavoro di Joao Felix in nazionale\"",
+   "link": "https://www.milannews.it/news/costacurta-mi-piace-formazione-amorim-spera-pulisic-ramos-lavoro-joao-felix-nazionale-632294",
+   "summary": "Contro il Sassuolo Amorim dovrebbe schierare nuovamente il Milan con la difesa a 4 vista con il Lecce, con qualche piccolo cambiamento. Billy Costacurta, in diretta su Sky Sport 24, apprezza le possibili scelte del tecnico rossonero.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T23:00:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/06/066843ea82060cf0796e0415ff96d2ba-79606-oooz0000.jpeg",
+   "id": "30ecb23aa21f"
+  },
+  {
+   "title": "Amorim: \"Ad inizio stagione vedevo Athekame più come un Moreira. Sta facendo molto bene con Fonseca, poi vedremo in futuro\"",
+   "link": "https://www.milannews.it/news/amorim-ad-inizio-stagione-vedevo-athekame-moreira-fonseca-vedremo-futuro-632288",
+   "summary": "In questa prima parte di stagione Zachary Athekame è tra i terzini più efficaci ed in forma d'Europa.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T22:48:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/99/99fba66028568680d2332dc1d5db5d89-61885-oooz0000.jpeg",
+   "id": "251e66b8227e"
+  },
+  {
+   "title": "Massini è il nuovo presidente dell'AIA, vince al ballottaggio contro Pacifici",
+   "link": "https://www.milannews.it/news/massini-presidente-aia-vince-ballottaggio-pacifici-632291",
+   "summary": "(ANSA) - ROMA, 10 OTT - Francesco Massini vince al ballottaggio le elezioni dell'AIA ed è il nuovo presidente degli arbitri italiani: il vicepresidente della passata gestione ha ottenuto 461 delle preferenze, battendo Carlo Pacifici al qua ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T22:36:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/8c/8ceec0cf928cef8cf53b123c94205938-33135-oooz0000.jpeg",
+   "id": "3e74aa159d6f"
+  },
+  {
+   "title": "Ancora Gila terzino? Lo spagnolo non si tira indietro: \"Mi piace, mi stimola\"",
+   "link": "https://www.milannews.it/news/domani-gila-terzino-spagnolo-tira-indietro-mi-piace-stimola-632286",
+   "summary": "Domenica, ore 18:00, il Milan tornerà finalmente in campo in Serie A. L'avversario è di quelli da non prendere mai sottogamba, soprattutto visti i precedenti recenti: il Sassuolo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T22:24:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2b56d75ab88ac6ffbbe1722a9e6f4996-23893-oooz0000.jpeg",
+   "id": "90e3f81262b9"
+  },
+  {
+   "title": "Roma, tegola Svilar. Al suo posto reintegrato l'ex Milan Vasquez",
+   "link": "https://www.milannews.it/news/roma-tegola-svilar-reintegrato-milan-vasquez-632290",
+   "summary": "Tegola in casa Roma, con il portiere Mile Svilar dovrà rimanere ai box per più di un mese a causa di una frattura da stress alla parte inferiore del quinto dito del piede.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T22:11:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/86/86a1b47baa7ff8abaf3822f1d43857dc-58641-oooz0000.jpeg",
+   "id": "767243cbba59"
+  },
+  {
+   "title": "Finalmente il Milan! Le mosse di Cardinale. Mancano 2 figure...",
+   "link": "https://www.milannews.it/editoriale/milan-mosse-cardinale-mancano-2-figure-632279",
+   "summary": "La ripresa del campionato è stata un po' come l'arrivo del Natale per i bambini.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0ceb3f34d726704a62a3bfc54e5e4dd-56687-oooz0000.jpeg",
+   "id": "f5457c60cf73"
+  },
+  {
+   "title": "Sassuolo-Milan, Amorim sceglie ancora la difesa a quattro. Le ultime di formazione da Sky",
+   "link": "https://www.milannews.it/news/sassuolo-milan-amorim-sceglie-difesa-quattro-ultime-formazione-sky-632295",
+   "summary": "Nell'ultimo collegamento di giornata su Sky Sport 24, Peppe Di Stefano ha raccontato quella che potrebbe essere la formazione di domani pomeriggio del Milan contro il Sassuolo di Aquilani.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T21:48:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/82/8254058a8da939faaa88c4b3d18d1582-28301-oooz0000.jpeg",
+   "id": "4f368483cbfc"
+  },
+  {
+   "title": "Cardinale a Milanello, 'Make Milan Great Again' sul cappellino",
+   "link": "https://www.milannews.it/news/cardinale-milanello-make-milan-great-again-cappellino-632287",
+   "summary": "(ANSA) - MILANO, 10 OTT - Da Milanello, il patron rossonero Gerry Cardinale manda messaggi chiari: mentre il tecnico Ruben Amorim chiede tempo per tornare a vincere titoli e trofei, lui 'adotta' il motto Maga, adattandolo alle circostanze: &# ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T21:36:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0e/0e89de8d0874ed6d81b1e6271183d170-54536-oooz0000.jpeg",
+   "id": "782680c7997c"
+  },
+  {
+   "title": "Pellegatti sottolinea: “Va bene Endrick e Inacio ma la cosa più importante è prendere il giusto Head of football”",
+   "link": "https://www.milannews.it/news/pellegatti-sottolinea-va-endrick-inacio-importante-prendere-giusto-head-of-football-632240",
+   "summary": "Nel suo canale YouTube, Carlo Pellegatti afferma che la sua attenzione più grande non è rivolta al mercato di gennaio ma alla scelta dell'Head of Football, figura secondo il giornalista fondamentale. Queste le sue…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T21:24:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/df/df858d104361d168f77e77f0db123a54-02704-oooz0000.jpeg",
+   "id": "64ee1f59a4a7",
+   "age_minutes": 178,
+   "also": [],
+   "score": 5.092
+  },
+  {
+   "title": "Chukwueze torna al Mapei: l'ultima volta due gol annullati per fuorigiochi millimetrici",
+   "link": "https://www.milannews.it/news/chukwueze-torna-mapei-gol-annullati-fuorigiochi-millimetrici-632285",
+   "summary": "Domani il Milan torna al Mapei Stadium per affrontare il Sassuolo, in questa stagione allenato da Alberto Aquilani: l'ex centrocampista - che ha giocato anche nei rossoneri - sta continuando a far vedere quanto di buono ha dimostrato l'anno s ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T21:12:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0d/0d9e4a3b70769f1aa029eeb428aad0af-15222-oooz0000.jpeg",
+   "id": "796420ab2041"
+  },
+  {
+   "title": "Europa League, Milan-Ferencvaros: siamo nella fase di vendita libera",
+   "link": "https://www.milannews.it/news/europa-league-milan-ferencvaros-fase-vendita-libera-632284",
+   "summary": "Il Milan ha aperto la vendita per i biglietti della seconda partita casalinga in Europa League, contro il Ferencvaros.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T21:00:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cc/cc6e12211bc7d2af28bd2760c2b0ac05-47795-oooz0000.jpeg",
+   "id": "7fdd5c20d2c0"
+  },
+  {
+   "title": "Serie A, Napoli-Frosinone 3-0 nel segno di De Bruyne. Ma il rigore dell'1-0 è più che dubbio",
+   "link": "https://www.milannews.it/news/serie-a-napoli-frosinone-3-0-segno-de-bruyne-rigore-1-0-dubbio-632289",
+   "summary": "Tutto facile per il Napoli di Massimiliano Allegri, che allo stadio Maradona batte 3-0 il Frosinone di Alvini. Mattatore di serata Kevin De Bruyne con una doppietta; Lang segna il secondo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T20:47:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2d/2dced10a82739af1a5b09d44a452c414-11348-oooz0000.jpeg",
+   "id": "fac41a6cd3ae"
+  },
+  {
+   "title": "Milan Primavera sconfitto dall'Atalanta, il tabellino del match",
+   "link": "https://www.milannews.it/news/milan-primavera-sconfitto-atalanta-tabellino-match-632283",
+   "summary": "Rientro dopo la sosta amaro per il Milan Primavera, che al rientro perde la sua terza gara consecutiva. La formazione rossonera era partita bene in stagione con 7 punti nelle prime tre partite di campionato.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T20:36:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/98/988549111746a4b8464fd19a8ea91cb0-82436-oooz0000.jpeg",
+   "id": "c1e8689200a2"
+  },
+  {
+   "title": "Arbitri, Simonelli a Massini: \"Auspico lavoro di squadra con Messina e Orsato\"",
+   "link": "https://www.milannews.it/news/arbitri-simonelli-massini-auspico-lavoro-squadra-messina-orsato-632282",
+   "summary": "(ANSA) - ROMA, 10 OTT - \"A nome della Lega Calcio Serie A, rivolgo al nuovo Presidente dell'AIA Francesco Massini le più sincere congratulazioni per l'elezione e i migliori auguri di buon lavoro per il prestigioso incarico che lo ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T20:24:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d9/d917fe348c8dfdb1a35d16f75f767808-17011-oooz0000.jpeg",
+   "id": "32ad10f43a94"
+  },
+  {
+   "title": "Il Milan Club Gaeta festeggia 40 anni con la Supercoppa Italiana vinta 3-2 contro l’Inter",
+   "link": "https://www.milannews.it/news/milan-club-gaeta-festeggia-40-supercoppa-italiana-vinta-3-2-l-inter-632281",
+   "summary": "Lo storico Milan Club Gaeta ha festeggiato ieri venerdi 9 ottobre il suo quarantesimo compleanno.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T20:12:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fd/fdbd5c525e0201a93fa2afdad32b325c-00071-oooz0000.jpeg",
+   "id": "43c9bb8b6a35"
+  },
+  {
+   "title": "Aquilani ricorda la sua esperienza al Milan: \"Orgoglio di aver vestito questa maglia. Sono stato però anche sfortunato...\"",
+   "link": "https://www.milannews.it/l-avversario/aquilani-ricorda-esperienza-milan-orgoglio-vestito-maglia-sfortunato-632247",
+   "summary": "Alla vigilia di Sassuolo-Milan, sfida valida per la sesta giornata del campionato di Serie A Enilive, l'allenatore dei neroverdi Alberto Aquilani, ex Diavolo, è intervenuto in conferenza stampa per presentare la partita del Mapei Stadium.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T20:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/93/93a6e64c5c5eed5ab0acf98dd6622754-43357-oooz0000.jpeg",
+   "id": "383143997cf1"
+  },
+  {
+   "title": "Pellegatti guarda avanti: “I tre anni passati li abbiamo criticati, basta parlarne. Cardinale si è reso conto”",
+   "link": "https://www.milannews.it/news/pellegatti-guarda-avanti-i-passati-criticati-parlarne-cardinale-reso-conto-632239",
+   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha descritto la situazione intorno a Gerry Cardinale sottolineando come ci sia ancora tanta prevenzione ai suoi danni vista la gestione del club fino a pochi mesi fa. Queste le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T19:48:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0f35eaaf8bd1ad13a2e31f14686339ad-86156-oooz0000.jpeg",
+   "id": "bd3eece4ed6b"
+  },
+  {
+   "title": "Massini sul VAR: \"Ha cambiato il modo di arbitrare. Non si può più tornare indietro\"",
+   "link": "https://www.milannews.it/news/massimi-var-ha-cambiato-arbitrare-tornare-indietro-632230",
+   "summary": "L'attuale reggente dell'AIA Francesco Massini ha parlato ai taccuini dell'edizione odierna de La Gazzetta dello Sport di uno degli argomenti più discussi di questo inizio di stagione e non solo, il VAR.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T19:36:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a8/a8d85f7c2bacbdd23af9c76eab8900a8-98831-oooz0000.jpeg",
+   "id": "9427e9dec828"
+  },
+  {
+   "title": "Mister Amorim spiega perché non è soddisfatto nonostante la media di 2 gol a partita",
+   "link": "https://www.milannews.it/news/mister-amorim-spiega-soddisfatto-media-2-gol-partita-632266",
+   "summary": "Dopo tre lunghe settimane di sosta torna finalmente la Serie A ed il Milan, che domani sarà impegnato a Reggio Emilia contro il Sassuolo dell'ex Alberto Aquilani.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T19:24:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ac/ac66240edbff50cb5842f9d58e02d410-88854-oooz0000.jpeg",
+   "id": "77fc07f35a4b"
+  },
+  {
+   "title": "Malagò: \"Mesi incredibili, dobbiamo fare qualcosa di coraggioso\"",
+   "link": "https://www.milannews.it/news/malago-mesi-incredibili-dobbiamo-coraggioso-632271",
+   "summary": "(ANSA) - ROMA, 10 OTT - \"Sono stati mesi incredibili e faticosi. Mi ritrovo commissario.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-10T19:12:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/88/88dbed8cfa72e731b463ed718da989e4-98515-oooz0000.jpeg",
+   "id": "35bf293bf26e"
+  },
+  {
+   "title": "E anche stavolta sorrisi e nuove bellezze",
+   "link": "https://www.fcinternews.it/editoriale/stavolta-sorrisi-nuove-bellezze-1020376",
+   "summary": "Tre reti al Parma, tre prelibate novelle. Al di là del risultato tondo, della storia che a S.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/38/38f63b1c773d35415ba90f73a36aded0-56063-oooz0000.jpeg",
+   "id": "836df46e9991"
+  },
+  {
+   "title": "AIA, Massini eletto nuovo presidente: sconfitto Pacifici al ballottaggio",
+   "link": "https://www.fcinternews.it/news/aia-massini-eletto-presidente-sconfitto-pacifici-ballottaggio-1020475",
+   "summary": "Il nuovo presidente dell'AIA è Francesco Massini. Come evidenzia Gazzetta.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T21:50:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/62/624a464e41c9a2fdb75a1e04e197647f-64731-oooz0000.jpeg",
+   "id": "c1be70c11561"
+  },
+  {
+   "title": "Spence suona la carica: \"Un onore il debutto a San Siro, pronto a dare il cuore per l'Inter\"",
+   "link": "https://www.fcinternews.it/focus/spence-suona-carica-un-onore-debutto-san-siro-pronto-dare-cuore-inter-1020496",
+   "summary": "Djed Spence ha fatto vedere di che pasta è fatto, con qualche galoppata sulla destra che è solamente un assaggio delle sue potenzialità fisiche.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T21:46:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4a/4a3628b6a8cf393052957609e72f734f-97616-oooz0000.jpeg",
+   "id": "4a5eab343a41"
+  },
+  {
+   "title": "Radrizzani: \"Ben vengano le proprietà USA se ci aiutano coi diritti TV\"",
+   "link": "https://www.fcinternews.it/news/radrizzani-ben-vengano-proprieta-usa-aiutano-diritti-tv-1020446",
+   "summary": "Intervistato da Calcio e Finanza, Andrea Radrizzani, grande esperto di calcio-business e diritti televisivi nel mondo dello sport con un passato anche da presidente del Leeds United, ha raccontato un aneddoto risalente agli anni Duemila che vede prot ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T21:36:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6d/6d2e0879dfaa27bb4fd78255295e655d-09288-oooz0000.jpeg",
+   "id": "2a64a8d278d6"
+  },
+  {
+   "title": "Amelia: \"Inter tra le favorite per la Champions? Difficile per me\"",
+   "link": "https://www.fcinternews.it/news/amelia-inter-favorite-champions-difficile-1020435",
+   "summary": "Anche l'ex portiere Marco Amelia si esprime in merito alla corsa per la Champions League interpellato da SportWeek: \"Partirei da un dato di fatto, forse scontato ma importante: la Champions League è una competizione molto dura, lunga, ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T21:22:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bb/bb763e642b3e2f4de64d1ba47e873bab-48921-oooz0000.jpeg",
+   "id": "0db004fb745f"
+  },
+  {
+   "title": "Reo-Coker: \"Thuram? Può diventare uno dei migliori al mondo. Ma gli serve più mordente\"",
+   "link": "https://www.fcinternews.it/news/reo-coker-thuram-migliori-mondo-serve-mordente-1020495",
+   "summary": "L'ex calciatore Nigel Reo-Coker, presente negli studi di CBS Sports-Golazo, ha tracciato un punto valutativo su Marcus Thuram, elogiandone in modo grandioso le sue qualità: \"Sono un suo grande fan, sorride spesso e vorrei vederlo pi&u ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T21:08:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d4/d47b8c3a98ff2391b48c4f5a6a82c7e2-64998-oooz0000.jpeg",
+   "id": "515865b09bce"
+  },
+  {
+   "title": "Gattuso: \"Ho spinto affinché Frattesi venisse alla Lazio\"",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/gattuso-ho-spinto-frattesi-venisse-lazio-1020463",
+   "summary": "Durante la conferenza stampa alla vigilia della partita casalinga contro il Monza, Gennaro Gattuso - tecnico della Lazio - ha speso alcune parole su Davide Frattesi, raccontando alcuni retroscena in merito al passaggio del centrocampista romano dall& ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T21:07:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/64/64e0714628147ce036130e210703e3ec-47407-587o59o2111o1583z10f4.jpeg",
+   "id": "5ee320997b92"
+  },
+  {
+   "title": "Arriva anche il tris del Napoli: liquidata la pratica Frosinone",
+   "link": "https://www.fcinternews.it/il-resto-della-a/arriva-tris-napoli-liquidata-pratica-frosinone-1020494",
+   "summary": "Serviva una vittoria al Napoli per risalire la china in campionato. E il successo è arrivato: i partenopei hanno calato il tris al Frosinone.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T20:54:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3b/3b63da273daf17f7975bbd0f95cd22df-31952-oooz0000.jpeg",
+   "id": "c17072e8bb8e"
+  },
+  {
+   "title": "Questa Inter è una cooperativa del gol: in campionato già 10 giocatori diversi in rete",
+   "link": "https://www.fcinternews.it/focus/inter-cooperativa-gol-10-giocatori-diversi-rete-1020481",
+   "summary": "Rosa ampia e profonda. La richiesta volenterosa di Chivu in estate era proprio questa e i nerazzurri stanno gestendo gli impegni al meglio.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T20:39:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d681a9e0d71a9f06577f479ff12e54e2-96298-oooz0000.jpeg",
+   "id": "a96cc33d64a0",
+   "age_minutes": 223,
+   "also": [],
+   "score": 4.498
+  },
+  {
+   "title": "Marcus Thuram, il gol al Parma vale un altro record: il dato che lo avvicina a...",
+   "link": "https://www.fcinternews.it/stats/marcus-thuram-gol-parma-record-dato-avvicina-a-1020480",
+   "summary": "Marcus Thuram ha messo la pratica interista in archivio nella serata di San Siro dove l'Inter ha calato il tris contro il Parma.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T20:25:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a5/a516c5a6afd636a255bd83ef24bd6d7f-91903-oooz0000.jpeg",
+   "id": "f8b27d7f2ffb"
+  },
+  {
+   "title": "Il Club Brugge arriva a San Siro con fiducia: poker in trasferta e primato confermato",
+   "link": "https://www.fcinternews.it/l-avversario/club-brugge-arriva-san-siro-fiducia-poker-trasferta-primato-confermato-1020493",
+   "summary": "Il Club Brugge vince e convince in Jupiler League: settima vittoria in otto giornate di campionato. In serata è arrivato il poker esterno sul RAAL La Louviere.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T20:12:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f437c1367262bae1f6972f79c46b107-27028-oooz0000.jpeg",
+   "id": "019a6e2b0d50"
+  },
+  {
+   "title": "Bisseck scherza: \"Mi ero dimenticato che non fosse obbligatorio il doppio svantaggio\"",
+   "link": "https://www.fcinternews.it/copertina/bisseck-scherza-mi-dimenticato-obbligatorio-svantaggio-1020492",
+   "summary": "Yann Bisseck la prende sul ridere in un post pubblicato sui social dopo il tris dei nerazzurri contro il Parma: \"Mi ero quasi dimenticato che non è obbligatorio trovarsi in svantaggio per 2-0\".",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T19:57:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/03f6a9ae4acfc904744c35f777046b7f-66829-oooz0000.jpeg",
+   "id": "6f5e116effb9"
+  },
+  {
+   "title": "Esposito celebra lo Spezia: \"Spero di avervi lasciato qualcosa\"",
+   "link": "https://www.fcinternews.it/news/esposito-celebra-spezia-spero-avervi-qualcosa-1020466",
+   "summary": "In occasione dell'anniversario della fondazione dello Spezia, club che proprio oggi celebra 120 anni di storia, Pio Esposito ha voluto manifestare la propria riconoscenza per il club ligure presso cui ha disputato due…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T19:43:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bc/bc184ee13d873ad875407089a28ed6c4-87226-301o36o1361o1096z0aea.jpeg",
+   "id": "b8388b99d3f9",
+   "age_minutes": 279,
+   "also": [],
+   "score": 4.672
+  },
+  {
+   "title": "Bologna, Darmian: \"All'Inter ho vissuto sei anni fantastici, devo ringraziare tutti\"",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/darmian-all-inter-vissuto-fantastici-ringraziare-tutti-1020487",
+   "summary": "Matteo Darmian è da qualche giorno un nuovo giocatore del Bologna e ha parlato quest'oggi ai canali ufficiali del club felsineo, ricordando anche l'esperienza con la maglia dell'Inter: \"È una nuova sfida, una nuova espe ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T19:29:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c0/c04e2871b08898c6ac4d49eef1adfc3b-02251-oooz0000.jpeg",
+   "id": "4c0b906ab257"
+  },
+  {
+   "title": "Inter-Parma, la moviola - Bonacina si perde un rigore gigantesco",
+   "link": "https://www.fcinternews.it/moviola/inter-parma-moviola-bonacina-1020453",
+   "summary": "Dopo quasi un mese di stop per gli impegni delle Nazionali, la Serie A torna a farla da padrona nel weekend degli appassionati di calcio italiani.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T19:14:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a8/a8f1aa2d9a8928a66e17b9cce5153864-51018-409o72o1493o1156z0c3a.jpeg",
+   "id": "45b349f3bcc3"
+  },
+  {
+   "title": "Pavard a ITV: \"Da difensore speravo di raggiungere la porta inviolata\"",
+   "link": "https://www.fcinternews.it/news/pavard-i-itv-i-da-difensore-speravo-raggiungere-porta-inviolata-1020478",
+   "summary": "Si è conclusa da pochi minuti la sfida di Serie A tra Inter e Parma, sfida valida per la 6ª giornata di campionato che ha visto il Biscione trionfare per 3-0.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T19:05:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b4/b41016cc768210cb527a8f8d2baaa00b-07093-578o48o1697o1168z0da3.jpeg",
+   "id": "2092d160b554"
+  },
+  {
+   "title": "Parma, Diego Carlos in conferenza: \"Il rigore? Capisco la scelta dell'arbitro\"",
+   "link": "https://www.fcinternews.it/l-avversario/parma-giocatore-conferenza-1020464",
+   "summary": "Diego Carlos è il giocatore del Parma che si presenta in sala conferenze a San Siro per commentare l'esito dell'incontro con l'Inter. Ecco il punto di vista del giocatore emiliano ripreso dall'inviato di FcInterNews.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T18:59:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d1/d1fe01393401774061e42c64e6f6a354-76043-486o57o1209o780z09e4.jpeg",
+   "id": "47aa4a9be6cf",
+   "age_minutes": 322,
+   "also": [],
+   "score": 4.109
+  },
+  {
+   "title": "Chivu in conferenza: \"Spence, botta di adrenalina da San Siro. Ma non possiamo mandarlo fuori giri\"",
+   "link": "https://www.fcinternews.it/in-primo-piano/chivu-conferenza-1020489",
+   "summary": "L'Inter riparte dopo la maxi-sosta con un convincente 3-0 al Parma, liquidando la pratica nel giro di 31'. Tre punti che permettono ai nerazzurri di restare al comando della classifica, aspettando i risultati delle altre.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T18:56:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cc/cc808fcb707c7267f74a5617c6dd07b8-02662-486o96o1184o793z09ff.jpeg",
+   "id": "cec93e40ddc1"
+  },
+  {
+   "title": "Chivu a ITV: \"Ci siamo calati subito nella parte e dopo la sosta non era scontato\"",
+   "link": "https://www.fcinternews.it/news/chivu-i-itv-i-ci-calati-sosta-scontato-1020477",
+   "summary": "Tris convincente dell'Inter, abile a liquidare il Parma con tre reti nel primo tempo che chiudono con netto anticipo la pratica: risultato finale 3-0.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T18:55:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/17/176d10cb90eacde332e4f22eb52495a2-11567-107o23o1487o1403z0bcc.jpeg",
+   "id": "8383bd64c942"
+  },
+  {
+   "title": "VIDEO - Inter-Parma 3-0, Tramontana: \"Vittoria fantastica. Spence ci servirà\"",
+   "link": "https://www.fcinternews.it/vento-di-tramontana/video-inter-parma-3-0-tramontana-vittoria-fantastica-spence-servira-1020491",
+   "summary": "Nel consueto video editoriale per FcInterNews, Filippo Tramontana ha commentato la vittoria dell'Inter per 3-0 contro il Parma. \"Vittoria fantastica, strameritata, grande Inter, grande ritmo e grande gioco - le sue parole -.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-10T18:52:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7a/7a142f92cce57cb248fa6217ffca7134-24340-oooz0000.jpeg",
+   "id": "f549d48f0b46"
+  },
+  {
+   "title": "Lang lashes out at Conte: ‘This Napoli coach talks to me, which is new’",
+   "link": "https://football-italia.net/lang-lashes-out-conte-napoli-coach-talks-to-me/",
+   "summary": "Noa Lang aimed another vicious sideswipe at former Napoli coach Antonio Conte, explaining what has...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-10-10T22:06:33+00:00",
+   "image": "",
+   "id": "940d60a2162d"
+  },
+  {
+   "title": "Alvini: ‘Napoli 3-0 Frosinone result is too harsh on my team’",
+   "link": "https://football-italia.net/alvini-napoli-3-0-frosinone-result-too-harsh/",
+   "summary": "Massimiliano Alvini rues Frosinone mistakes in the 3-0 defeat to Napoli, insisting the ‘victory was...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-10-10T21:31:48+00:00",
+   "image": "",
+   "id": "4dd699dd033f"
   },
   {
    "title": "Allegri: ‘De Bruyne doesn’t like new role, what I told Hojlund’ in penalty farce",
@@ -1815,33 +1799,11 @@
    "published": "2026-10-10T16:33:47+00:00",
    "image": "",
    "id": "547b7757cb12"
-  },
-  {
-   "title": "Calafiori scores in Beckham boots as Arsenal fight back: ‘My goal is to play is as many positions as possible’",
-   "link": "https://football-italia.net/arsenal-star-calafiori-goal-beckham-boots/",
-   "summary": "Riccardo Calafiori sparked Arsenal’s comeback against Leeds United on Saturday, and he did it in...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-10-10T16:26:33+00:00",
-   "image": "",
-   "id": "13be0a1c6bfe"
-  },
-  {
-   "title": "Official: Italian Referees Association elect new President Massini",
-   "link": "https://football-italia.net/italian-referees-association-elect-president-2/",
-   "summary": "The Italian Referees’ Association (AIA) have elected Francesco Massini as their new President, narrowly beating...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-10-10T16:25:51+00:00",
-   "image": "",
-   "id": "42cb29bed128"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 23
+  "in_edizione": 21
  }
 }
