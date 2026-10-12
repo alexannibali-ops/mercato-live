@@ -1,20 +1,6 @@
 {
- "generated_at": "2026-10-12T00:19:48.769470+02:00",
+ "generated_at": "2026-10-12T03:36:42.289602+02:00",
  "articles": [
-  {
-   "title": "Milan, cantiere che preoccupa. Chi si prende responsabilità? Mercato di gennaio: per quale modulo?",
-   "link": "https://www.milannews.it/editoriale/milan-cantiere-preoccupa-prende-responsabilita-mercato-gennaio-modulo-632407",
-   "summary": "La ripresa del campionato ci ha detto tante cose, alcune delle quali sono state spesso sottolineate nel corso dell’estate e che, puntualmente, si sono palesate.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-11T22:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d872ba90c2a59e3a506b727f39e97afd-40275-oooz0000.jpeg",
-   "id": "7b2f71827faa",
-   "age_minutes": 19,
-   "also": [],
-   "score": 7.087
-  },
   {
    "title": "La Juventus ritrova Cambiaso, ma gli assenti restano 7: out anche Neto",
    "link": "https://www.calciomercato.it/2026/10/11/la-juventus-ritrova-cambiaso-ma-gli-assenti-restano-7-out-anche-neto/",
@@ -25,23 +11,23 @@
    "published": "2026-10-11T16:27:10+00:00",
    "image": "",
    "id": "4ae21dcdbe72",
-   "age_minutes": 352,
+   "age_minutes": 549,
    "also": [],
-   "score": 6.804
+   "score": 6.209
   },
   {
-   "title": "Infortunio Gabbia, ansia Milan: nuova tegola per Amorim",
-   "link": "https://www.calciomercato.it/2026/10/11/infortunio-gabbia-ansia-milan-nuova-tegola-per-amorim/",
-   "summary": "L'articolo Infortunio Gabbia, ansia Milan: nuova tegola per Amorim proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-11T19:32:38+00:00",
-   "image": "",
-   "id": "42baddfd6f6d",
-   "age_minutes": 167,
+   "title": "Milan, cantiere che preoccupa. Chi si prende responsabilità? Mercato di gennaio: per quale modulo?",
+   "link": "https://www.milannews.it/editoriale/milan-cantiere-preoccupa-prende-responsabilita-mercato-gennaio-modulo-632407",
+   "summary": "La ripresa del campionato ci ha detto tante cose, alcune delle quali sono state spesso sottolineate nel corso dell’estate e che, puntualmente, si sono palesate.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-11T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d872ba90c2a59e3a506b727f39e97afd-40275-oooz0000.jpeg",
+   "id": "7b2f71827faa",
+   "age_minutes": 216,
    "also": [],
-   "score": 6.542
+   "score": 6.125
   },
   {
    "title": "50 milioni di aumento di capitale: doppio colpo in arrivo",
@@ -53,37 +39,23 @@
    "published": "2026-10-11T05:24:48+00:00",
    "image": "",
    "id": "dade8168428c",
-   "age_minutes": 1015,
+   "age_minutes": 1211,
    "also": [],
-   "score": 6.324
+   "score": 6.095
   },
   {
-   "title": "Voti Sassuolo-Milan 1-1, prova opaca dei rossoneri: la squadra di Amorim frena",
-   "link": "https://www.calciomercato.it/2026/10/11/voti-sassuolo-milan-1-1-prova-opaca-dei-rossoneri-la-squadra-di-amorim-frena/",
-   "summary": "L'articolo Voti Sassuolo-Milan 1-1, prova opaca dei rossoneri: la squadra di Amorim frena proviene da CalcioMercato.it .",
+   "title": "Infortunio Gabbia, ansia Milan: nuova tegola per Amorim",
+   "link": "https://www.calciomercato.it/2026/10/11/infortunio-gabbia-ansia-milan-nuova-tegola-per-amorim/",
+   "summary": "L'articolo Infortunio Gabbia, ansia Milan: nuova tegola per Amorim proviene da CalcioMercato.it .",
    "source": "Calciomercato.it",
    "source_weight": 1.2,
    "scope": "generalista",
-   "published": "2026-10-11T18:25:18+00:00",
+   "published": "2026-10-11T19:32:38+00:00",
    "image": "",
-   "id": "122ceddaaed7",
-   "age_minutes": 234,
+   "id": "42baddfd6f6d",
+   "age_minutes": 364,
    "also": [],
-   "score": 6.251
-  },
-  {
-   "title": "Rabiot: \"Sono d'accordo col mister, abbiamo sempre il possesso ma quello che creiamo è troppo poco\"",
-   "link": "https://www.milannews.it/news/rabiot-sono-accordo-mister-possesso-creiamo-poco-632395",
-   "summary": "Adrien Rabiot ha parlato a DAZN al termine di Sassuolo-Milan. Le parole del francese.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-11T18:58:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/69/691ee40aca6fb9bff09df0bf2ac8d154-54496-oooz0000.jpeg",
-   "id": "dda46bec034f",
-   "age_minutes": 201,
-   "also": [],
-   "score": 6.19
+   "score": 5.764
   },
   {
    "title": "Juve, nome nuovo in attacco: ha una clausola rescissoria da 100 milioni",
@@ -95,9 +67,23 @@
    "published": "2026-10-10T21:11:54+00:00",
    "image": "",
    "id": "a5a51ece4aca",
-   "age_minutes": 1507,
+   "age_minutes": 1704,
    "also": [],
-   "score": 5.853
+   "score": 5.741
+  },
+  {
+   "title": "Voti Sassuolo-Milan 1-1, prova opaca dei rossoneri: la squadra di Amorim frena",
+   "link": "https://www.calciomercato.it/2026/10/11/voti-sassuolo-milan-1-1-prova-opaca-dei-rossoneri-la-squadra-di-amorim-frena/",
+   "summary": "L'articolo Voti Sassuolo-Milan 1-1, prova opaca dei rossoneri: la squadra di Amorim frena proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-11T18:25:18+00:00",
+   "image": "",
+   "id": "122ceddaaed7",
+   "age_minutes": 431,
+   "also": [],
+   "score": 5.545
   },
   {
    "title": "Juve, maledizione infortuni: nuovo stop in attacco",
@@ -109,9 +95,9 @@
    "published": "2026-10-11T16:33:26+00:00",
    "image": "",
    "id": "8aab225d83d9",
-   "age_minutes": 346,
+   "age_minutes": 543,
    "also": [],
-   "score": 5.826
+   "score": 5.225
   },
   {
    "title": "Futuro Romano, c’è l’annuncio: Juventus e Inter avvisate",
@@ -123,9 +109,9 @@
    "published": "2026-10-11T15:10:50+00:00",
    "image": "",
    "id": "cce4bf62aa76",
-   "age_minutes": 428,
+   "age_minutes": 625,
    "also": [],
-   "score": 5.553
+   "score": 5.02
   },
   {
    "title": "Conte può tornare davvero, pronto il ribaltone in panchina: la situazione | CM",
@@ -137,23 +123,9 @@
    "published": "2026-10-11T13:38:23+00:00",
    "image": "",
    "id": "e16cae41efa0",
-   "age_minutes": 521,
+   "age_minutes": 718,
    "also": [],
-   "score": 5.284
-  },
-  {
-   "title": "Calamai: “Allegri vuole dimostrare di non essere ancora da pensione. Forse ha ragione\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/calamai-allegri-vuole-dimostrare-pensione-ragione-658763",
-   "summary": "Luca Calamai, giornalista, nel suo editoriale per TuttoMercatoWeb ha analizzato la vittoria del Napoli contro il Frosinone, sottolineando i segnali positivi arrivati dalla formazione azzurra dopo la sosta per le…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T20:00:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7cf7caf2fd62fb4409fe167ab7ea5765-54726-oooz0000.jpeg",
-   "id": "5968b553b98b",
-   "age_minutes": 138,
-   "also": [],
-   "score": 5.273
+   "score": 4.818
   },
   {
    "title": "Sassuolo-Milan, Amorim perde pezzi: non è stato convocato",
@@ -165,403 +137,9 @@
    "published": "2026-10-11T11:00:54+00:00",
    "image": "",
    "id": "bcac236f3b9c",
-   "age_minutes": 678,
+   "age_minutes": 875,
    "also": [],
-   "score": 4.901
-  },
-  {
-   "title": "Completezza offensiva e gestione: così l'Inter deve ripartire dal successo di ieri",
-   "link": "https://www.fcinternews.it/focus/completezza-offensiva-gestione-inter-ripartire-successo-1020552",
-   "summary": "In estate Chivu ha insistito a più riprese sulla profondità della rosa e ogni sua richiesta è srtata accolta.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-11T19:28:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/9322afc5f7fd2c35a79608b634c010cc-47793-oooz0000.jpeg",
-   "id": "96e8f468a90c",
-   "age_minutes": 171,
-   "also": [],
-   "score": 4.724
-  },
-  {
-   "title": "Infortunio Calhanoglu, le ultimissime in casa Inter: c’è apprensione",
-   "link": "https://www.calciomercato.it/2026/10/11/infortunio-calhanoglu-le-ultimissime-in-casa-inter-ce-apprensione/",
-   "summary": "L'articolo Infortunio Calhanoglu, le ultimissime in casa Inter: c’è apprensione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-11T08:20:37+00:00",
-   "image": "",
-   "id": "ddfc421cee77",
-   "age_minutes": 839,
-   "also": [],
-   "score": 4.591
-  },
-  {
-   "title": "Cinque under 21 verso il salto in nazionale maggiore: Mancini ha scelto",
-   "link": "https://www.calciomercato.it/2026/10/11/cinque-under-21-verso-il-salto-in-nazionale-maggiore-mancini-ha-scelto/",
-   "summary": "L'articolo Cinque under 21 verso il salto in nazionale maggiore: Mancini ha scelto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-11T06:51:30+00:00",
-   "image": "",
-   "id": "d66db8c6a47d",
-   "age_minutes": 928,
-   "also": [],
-   "score": 4.447
-  },
-  {
-   "title": "Tre rinnovi in arrivo in casa Milan, i rossoneri vogliono chiudere entro il 2026",
-   "link": "https://www.calciomercato.it/2026/10/10/tre-rinnovi-in-arrivo-in-casa-milan-i-rossoneri-vogliono-chiudere-entro-il-2026/",
-   "summary": "L'articolo Tre rinnovi in arrivo in casa Milan, i rossoneri vogliono chiudere entro il 2026 proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-10T19:22:37+00:00",
-   "image": "",
-   "id": "c0b91f448827",
-   "age_minutes": 1617,
-   "also": [],
-   "score": 3.787
-  },
-  {
-   "title": "Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina”",
-   "link": "https://www.calciomercato.it/2026/10/10/inter-chivu-coccola-calhanoglu-e-lancia-spence-botta-di-adrenalina/",
-   "summary": "L'articolo Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-10T19:09:35+00:00",
-   "image": "",
-   "id": "44668cdcb796",
-   "age_minutes": 1630,
-   "also": [],
-   "score": 3.78
-  },
-  {
-   "title": "Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali",
-   "link": "https://www.calciomercato.it/2026/10/10/juve-tutto-deciso-arrivera-a-titolo-definitivo-per-10-milioni-totali/",
-   "summary": "L'articolo Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-10T16:34:44+00:00",
-   "image": "",
-   "id": "c1fc0f44503d",
-   "age_minutes": 1785,
-   "also": [],
-   "score": 3.704
-  }
- ],
- "raw": [
-  {
-   "title": "Juventus, Bremer non basta: difesa troppo morbida sul gol di Maldini, Spalletti pretende più attenzione",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-bremer-basta-difesa-morbida-gol-maldini-spalletti-pretende-attenzione-796337",
-   "summary": "Gleison Bremer torna da Cagliari con un pareggio che lascia diversi interrogativi sulla solidità della Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T22:10:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
-   "id": "d61c5fab7296"
-  },
-  {
-   "title": "Juventus, a Cagliari lo stesso film dello scorso anno: tante occasioni, poca concretezza e una vittoria che non arriva",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-cagliari-film-anno-tante-occasioni-poca-concretezza-vittoria-arriva-796349",
-   "summary": "Cambiano i protagonisti, cambia il risultato finale, ma il copione sembra sempre lo stesso. La Juventus torna da Cagliari con un pareggio per 1-1 e la sensazione di aver lasciato per strada due punti alla propria portata.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T22:08:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
-   "id": "436eaa910548"
-  },
-  {
-   "title": "Chiarello bacchetta la Juventus e Spalletti: \"Alza solo un sacco di polvere. È tempo di chiamare un allenatore vincente\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/chiarello-bacchetta-juventus-spalletti-alza-sacco-polvere-chiamare-allenatore-vincente-796348",
-   "summary": "Il pareggio per 1-1 tra Cagliari e Juventus, nel posticipo della sesta giornata di Serie A, alimenta le critiche nei confronti della formazione allenata da Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T22:04:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
-   "id": "9b4fb503e7c5"
-  },
-  {
-   "title": "Juventus, Kolo Muani salva Spalletti ma non basta: un gol, una traversa e troppe occasioni sprecate",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-kolo-muani-salva-spalletti-basta-gol-traversa-troppe-occasioni-sprecate-796326",
-   "summary": "Randal Kolo Muani è il grande protagonista del pareggio della Juventus a Cagliari, nel bene e nel male.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T22:00:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/58/585f3a0692558c02ce13640ea88eb84a-38716-oooz0000.jpeg",
-   "id": "3ea96da7d62d"
-  },
-  {
-   "title": "Pisacane in conferenza: “Con Spalletti poteva finire con un abbraccio. La Juventus ha meritato ampiamente il pareggio e forse avrebbe meritato qualcosa in più”",
-   "link": "https://www.tuttojuve.com/altre-notizie/pisacane-conferenza-con-spalletti-poteva-finire-abbraccio-juventus-meritato-ampiamente-pareggio-meri-796345",
-   "summary": "Fabio Pisacane ha parlato al termine della gara contro la Juventus. Ecco le sue parole riprese da Tmw: Cosa è successo nel finale con Spalletti? \"Dispiace perché poteva finire tutto con un abbraccio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:57:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/24/24d40e0379018f023276eeb6801b48e9-47755-oooz0000.jpeg",
-   "id": "208c9c758e2a"
-  },
-  {
-   "title": "Caprile in conferenza: \"Contro la Juventus ci sta soffrire, siamo stati compatti. La parata più difficile? Quella su Kolo Muani\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/caprile-conferenza-contro-juventus-soffrire-compatti-parata-difficile-kolo-muani-796346",
-   "summary": "Elia Caprile, portiere del Cagliari, è intervenuto in conferenza stampa al termine del pareggio per 1-1 contro la Juventus all'Unipol Domus, nella sesta giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:55:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/67/67bddb9d86aa042fe90b926da1c8cafd-84518-oooz0000.jpeg",
-   "id": "5b208774db35"
-  },
-  {
-   "title": "Kalulu in conferenza: “Due punti persi. Non sono contento della gara”",
-   "link": "https://www.tuttojuve.com/altre-notizie/kalulu-conferenza-due-punti-persi-contento-gara-796340",
-   "summary": "Pierre Kalulu ha parlato in conferenza stampa dopo il pari contro il Cagliari. Adesso la Juventus dovrà subito voltare pagina e penare all'Europa League e alla sfida di giovedì contro il Celta Vigo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:50:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7f125f60da30f9fad3ff0c1a299d6e17-16997-oooz0000.jpeg",
-   "id": "316d11abad71"
-  },
-  {
-   "title": "Caprile a DAZN: \"Risultato di squadra, la voglia di non prendere gol ce l'abbiamo da inizio anno\"",
-   "link": "https://www.tuttojuve.com/l-avversario/caprile-dazn-risultato-squadra-voglia-prendere-gol-ce-inizio-anno-796344",
-   "summary": "Il portiere del Cagliari, Elia Caprile, è intervenuto ai microfoni di DAZN al termine della sfida pareggiata per 1-1 contro la Juventus, valida per la sesta giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:50:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/44/44c236392038b536b4d150b835f5c506-20025-oooz0000.jpeg",
-   "id": "d069e9ac0126"
-  },
-  {
-   "title": "Spalletti in conferenza: \"Meritavamo di più. Abbiamo fatto una grande partita, diciamo la verità\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-conferenza-meritavamo-piu-partita-diciamo-verita-796341",
-   "summary": "Luciano Spalletti ha parlato in conferenza stampa dopo il pareggio di Cagliari. Le sue parole raccolte dai colleghi di TuttoCagliari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:47:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1c/1c53f798c6e9f17708a24f79d5a7cf09-75021-oooz0000.jpeg",
-   "id": "1f346a80a6fc"
-  },
-  {
-   "title": "Mina a DAZN: \"Bella prestazione. Spalletti? Non l'ho sentito, gli ho detto: ti voglio bene mister. Io poco sportivo? Faccio il mio\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/mina-dazn-bella-prestazione-spalletti-sentito-detto-voglio-mister-sportivo-mio-796339",
-   "summary": "Il difensore del Cagliari, Yerry Mina, è intervenuto ai microfoni di DAZN al termine della sfida pareggiata per 1-1 contro la Juventus, valida per la sesta giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:43:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b051d546c4f45d065908b61702b48a87-60612-oooz0000.jpeg",
-   "id": "21916867f53f"
-  },
-  {
-   "title": "Juventus, Falci (CorSera): \"Due passi indietro. Non ha ancora un gioco ben definito\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-falci-corsera-due-passi-indietro-gioco-definito-796333",
-   "summary": "La Juventus non va oltre l'1-1 sul campo del Cagliari nel posticipo domenicale della sesta giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:40:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f7/f7a92dc72b66318c72c655aa5f235f25-17243-oooz0000.jpeg",
-   "id": "c2a1c42d8ba0"
-  },
-  {
-   "title": "Spalletti a Sky: “Con Pisacane non è successo nulla. Al 94’ dovevamo fare gol. Il risultato si determina con la ferocia”",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-sky-796334",
-   "summary": "Luciano Spalletti ha parlato a Sky Sport dopo la gara contro il Cagliari: Cosa è successo con Pisacane? Se vogliamo dirlo, altrimenti andiamo oltre. \"È successo niente, lo posso dire? Non è successo niente.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:39:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
-   "id": "bb432f8318a7"
-  },
-  {
-   "title": "Pisacane a DAZN: \"Spalletti preoccupato già ieri, questo rende giustizia ai nostri ragazzi. Poteva finire tutto con un abbraccio. La Juventus ha meritato il pareggio\"",
-   "link": "https://www.tuttojuve.com/l-avversario/pisacane-dazn-spalletti-preoccupato-ieri-rende-giustizia-ragazzi-poteva-finire-abbraccio-juventus-me-796335",
-   "summary": "Il tecnico del Cagliari, Fabio Pisacane, ha analizzato il pareggio contro la Juventus ai microfoni di DAZN.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:33:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b2/b2c4095b7e3290c31e2d44376d5f028f-55725-oooz0000.jpeg",
-   "id": "f2575af3c967"
-  },
-  {
-   "title": "De Grandis: “La Juventus non può palleggiare senza avere qualità. I bianconeri diventano pericolosi quando…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/de-grandis-la-juventus-palleggiare-qualita-bianconeri-diventano-pericolosi-quando-796332",
-   "summary": "La Juventus anche contro il Cagliari ha fatto fatica a fare gol e questo accade sempre quando i bianconeri si trovano davanti squadre chiuse.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:30:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c8/c81d0d2bdf46101eef11bae1be37536f-44438-oooz0000.jpeg",
-   "id": "2331440e6008"
-  },
-  {
-   "title": "Bergomi: “Nel primo tempo la Juventus ha fatto un po’ di confusione. Nella ripresa con ruoli chiari…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/bergomi-nel-juventus-po-confusione-ripresa-ruoli-chiari-796324",
-   "summary": "La Juventus ha pareggiato per 1-1 contro il Cagliari. I bianconeri hanno dominato per tutta la parità ma hanno mostrato il solito problema ovvero faticano a segnare.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:20:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4e5cb4a4620d49763c78f47f2784dabe-78203-oooz0000.jpeg",
-   "id": "98a53f9791e2"
-  },
-  {
-   "title": "Spalletti a DAZN: \"Abbiamo fatto una grande prestazione, ma sono partite da vincere. Ecco cosa ho detto a Pisacane...\". Poi la replica a Stramaccioni: \"C'eri alla partita?\"",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-abbiamo-prestazione-partite-vincere-pisacane-replica-stramaccioni-c-partita-796328",
-   "summary": "Luciano Spalletti commenta il pareggio della sua Juventus a Cagliari ai microfoni di DAZN. Le sue parole: Mister, abbiamo rivisto insieme gli highlights della partita.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:18:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5f/5f4d727bcfd533e177337ffe2c1059cd-62739-oooz0000.jpeg",
-   "id": "c5f79b328697"
-  },
-  {
-   "title": "Cagliari-Juve: finale a muso duro tra Pisacane e Spalletti, espulsi",
-   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-juve-finale-muso-duro-pisacane-spalletti-espulsi-796331",
-   "summary": "(ANSA) - ROMA, 11 OTT - Alta tensione nel finale di Cagliari-Juventus, quando al triplice fischio finale i due tecnici, Pisacane e Spalletti, si affrontano faccia a faccia, anche con un accenno di rissa.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:12:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cc/cc7aae7a9cd9937ec48acbab99f9464f-75471-oooz0000.jpeg",
-   "id": "e1b57135bfc1"
-  },
-  {
-   "title": "Di Canio: “Sarr è un giocatore che mi piace, è scaltro però…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/canio-sarr-giocatore-piace-scaltro-pero-796322",
-   "summary": "Oggi, Randal Kolo Muani ha trovato il primo gol in Serie A e Paolo Di Canio, intervento a Sky Sport Calcio Club, la prestazione del numero 9 bianconero.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/71/7134307704ac5703393a18adea1b32bc-49406-oooz0000.jpeg",
-   "id": "cfe851503d5f"
-  },
-  {
-   "title": "Kolo Muani a Sky: “Contento per aver segnato, ma non sono felice per il risultato. Giocare con Woltemade è differente”",
-   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-sky-contento-segnato-felice-risultato-796325",
-   "summary": "Randal Kolo Muani ha parlato ai microfoni di Sky Sport dopo la gara pareggiata dalla Juventus contro il Cagliari. Ecco le sue parole riprese da TuttoJuve.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:08:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/77/7782e1590e7d6cea0405cb1ee3d1abc5-03875-oooz0000.jpeg",
-   "id": "b7f7f957b2c0"
-  },
-  {
-   "title": "Cagliari-Juventus 1-1 - Zhegrova è la luce dei giorni bui, finalmente si sblocca Kolo Muani. Il peggiore è Conceição",
-   "link": "https://www.tuttojuve.com/il-pagellone-dei-campioni/cagliari-juventus-1-1-zhegrova-luce-bui-sblocca-kolo-muani-peggiore-conceicao-796274",
-   "summary": "VICARIO 6 - Incolpevole sul gol di Maldini, è bravo nella doppia chance dei padroni di casa in cui si oppone a Mendy e allo stesso autore del gol (anche se poi l'azione viene fermata per offside).",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-11T21:05:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/14/1471c618836099b66be5d2706cf5ecb2-30539-oooz0000.jpeg",
-   "id": "3852c175639e"
-  },
-  {
-   "title": "Condò esalta De Bruyne: “Ha capito dove gioca! Sua miglior partita a Napoli? Ne ricordo un'altra\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-frosinonecondo-de-bruyne-tifosi-rigore-champions-658774",
-   "summary": "Condò: “De Bruyne ha finalmente capito dove gioca: a Napoli!”.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T22:00:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a3/a3b88f1604e5c2b3f69409212e6b2572-86478-oooz0000.jpeg",
-   "id": "b03d7ff79b47"
-  },
-  {
-   "title": "Lite con Spalletti, Pisacane: \"Se è preoccupato di non vincere qui, siamo sulla buona strada\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/lite-spalletti-pisacane-se-preoccupato-vincere-qui-buona-strada-658771",
-   "summary": "Il tecnico del Cagliari Fabio Pisacane ha parlato ai microfoni di DAZN dopo il match casalingo contro la Juventus, chiuso sull'1-1 e valido per la sesta giornata di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T21:45:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b2/b216fec11d18b40c02e7c0f9a1e47307-69933-oooz0000.jpeg",
-   "id": "a19fe2dd8fad"
-  },
-  {
-   "title": "Biazzo punge Allegri: \"Strano non l'abbia capito prima! De Bruyne straordinario\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-biazzo-allegri-difesa-tre-de-bruyne-badiashile-658767",
-   "summary": "Nel corso di “A Tempo Scaduto 2.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T21:30:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/70/7069eea5b77e826dc101cdbfc35f803d-46595-oooz0000.jpeg",
-   "id": "6616030edfb6"
-  },
-  {
-   "title": "Lite con Pisacane, Spalletti: \"Gli ho detto che giocano bene e sanno anche perdere tempo\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/lite-pisacane-spalletti-gli-giocano-sanno-perdere-tempo-658770",
-   "summary": "L’allenatore della Juventus Luciano Spalletti ha parlato ai microfoni di DAZN dopo la sfida esterna sul campo del Cagliari, valevole per la sesta giornata di Serie A e terminata 1-1.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T21:15:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b2/b216fec11d18b40c02e7c0f9a1e47307-69933-oooz0000.jpeg",
-   "id": "8cb6d461e85e"
-  },
-  {
-   "title": "Dopo Roma, Como e Milan, il Napoli rosicchia due punti anche alla Juve: la classifica",
-   "link": "https://www.tuttonapoli.net/serie-a/roma-como-milan-napoli-rosicchia-punti-juve-classifica-658769",
-   "summary": "ll Cagliari si conferma la vera sorpresa del campionato e sale al quarto posto con il pareggio interno contro la Juventus, che manca così l'opportunità di accorciare sulla vetta.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T20:55:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5983b256d04f650812211a3feb24ce9-25604-oooz0000.jpeg",
-   "id": "272daba9ef89"
-  },
-  {
-   "title": "Il Cagliari ferma la Juve, nervi tesi e lite con Pisacane per Spalletti: espulsi entrambi",
-   "link": "https://www.tuttonapoli.net/serie-a/cagliari-ferma-juve-nervi-tesi-lite-pisacane-spalletti-espulsi-658768",
-   "summary": "La Juventus non va oltre l'1-1 contro il Cagliari all'Unipol Domus, al termine di una partita complicata per la formazione di Luciano Spalletti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T20:41:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
-   "id": "774b5f5a3c87"
-  },
-  {
-   "title": "Auriemma: “Napoli da scudetto! KDB è il leader che mancava. Allegri ha fatto bene a cambiare”",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-auriemma-scudetto-de-bruyne-allegri-658766",
-   "summary": "Nel corso di “A Tempo Scaduto 2.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T20:30:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5c/5c930ea8ef25a23712abf219363d9974-10782-oooz0000.jpeg",
-   "id": "813b8cf9fbfa"
-  },
-  {
-   "title": "Napoli Basket, Repesa: “Gruppo straordinario, ma non abbiamo giocato una grande partita”",
-   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basketball-repesa-cantu-gruppo-straordinario-658765",
-   "summary": "Il Napoli Basketball conquista la terza vittoria consecutiva in campionato, superando in trasferta Cantù per 99-80 e confermandosi in vetta alla classifica a punteggio pieno.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T20:15:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9e/9e720276e9382b19a0697c1b52719a85-79078-oooz0000.jpeg",
-   "id": "cead454f0ec0"
+   "score": 4.529
   },
   {
    "title": "Calamai: “Allegri vuole dimostrare di non essere ancora da pensione. Forse ha ragione\"",
@@ -573,131 +151,96 @@
    "published": "2026-10-11T20:00:54+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7cf7caf2fd62fb4409fe167ab7ea5765-54726-oooz0000.jpeg",
    "id": "5968b553b98b",
-   "age_minutes": 138,
+   "age_minutes": 335,
    "also": [],
-   "score": 5.273
+   "score": 4.463
   },
   {
-   "title": "Lazio, Gattuso: \"Dobbiamo andare sempre a mille. Col Napoli persa Champions per un punto”",
-   "link": "https://www.tuttonapoli.net/le-interviste/lazio-gattuso-dobbiamo-andare-mille-napoli-persa-champions-punto-658757",
-   "summary": "La Lazio ottiene la quinta vittoria nelle prime sei giornate battendo 3-1 il Monza di Ivan Juric. Al termine della sfida, il tecnico biancoceleste Gennaro Gattuso è intervenuto dalla sala stampa dello Stadio Olimpico.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T19:45:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
-   "id": "5d0ded4061b6"
+   "title": "Infortunio Calhanoglu, le ultimissime in casa Inter: c’è apprensione",
+   "link": "https://www.calciomercato.it/2026/10/11/infortunio-calhanoglu-le-ultimissime-in-casa-inter-ce-apprensione/",
+   "summary": "L'articolo Infortunio Calhanoglu, le ultimissime in casa Inter: c’è apprensione proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-11T08:20:37+00:00",
+   "image": "",
+   "id": "ddfc421cee77",
+   "age_minutes": 1036,
+   "also": [],
+   "score": 4.296
   },
   {
-   "title": "L'editoriale di Chiariello: \"Il rientro di McTominay può scompaginare i piani tattici di Allegri\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-il-rientro-mctominay-scompaginare-piani-tattici-allegri-658764",
-   "summary": "Nel corso di 'Campania Sport' su Canale 21, il giornalista Umberto Chiariello è intervenuto con il suo consueto editoriale, soffermandosi sul successo per 3-0 del Napoli contro il Frosinone e sulla corsa Champions: \"In attesa dell ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T19:30:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
-   "id": "3ea7c5a998bd"
+   "title": "Cinque under 21 verso il salto in nazionale maggiore: Mancini ha scelto",
+   "link": "https://www.calciomercato.it/2026/10/11/cinque-under-21-verso-il-salto-in-nazionale-maggiore-mancini-ha-scelto/",
+   "summary": "L'articolo Cinque under 21 verso il salto in nazionale maggiore: Mancini ha scelto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-11T06:51:30+00:00",
+   "image": "",
+   "id": "d66db8c6a47d",
+   "age_minutes": 1125,
+   "also": [],
+   "score": 4.188
   },
   {
-   "title": "De Bruyne show, raggiunge score mai ottenuto in Italia: non accadeva da 2 anni e mezzo",
-   "link": "https://www.tuttonapoli.net/notizie/napoli-frosinone-de-bruyne-doppietta-quattro-ruoli-658759",
-   "summary": "Kevin De Bruyne è l'uomo copertina del successo del Napoli contro il Frosinone.",
-   "source": "TuttoNapoli",
+   "title": "Completezza offensiva e gestione: così l'Inter deve ripartire dal successo di ieri",
+   "link": "https://www.fcinternews.it/focus/completezza-offensiva-gestione-inter-ripartire-successo-1020552",
+   "summary": "In estate Chivu ha insistito a più riprese sulla profondità della rosa e ogni sua richiesta è srtata accolta.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T19:15:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/001760bbef2dccb9933e75f590184292-75655-oooz0000.jpeg",
-   "id": "94924ae8240f"
+   "scope": "Inter",
+   "published": "2026-10-11T19:28:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/9322afc5f7fd2c35a79608b634c010cc-47793-oooz0000.jpeg",
+   "id": "96e8f468a90c",
+   "age_minutes": 368,
+   "also": [],
+   "score": 3.951
   },
   {
-   "title": "Sorpresa per Alisson: mamma e nonna arrivano a Napoli",
-   "link": "https://www.tuttonapoli.net/dai-social/sorpresa-alisson-mamma-nonna-arrivano-napoli-658761",
-   "summary": "Una piacevole parentesi familiare per Alisson Santos, che continua a lavorare per mettersi definitivamente alle spalle il periodo trascorso ai box e tornare a disposizione del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T19:00:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/90/90f4e049c428c0fc9c671f248f3af5e6-13268-oooz0000.jpeg",
-   "id": "85881b5ce203"
+   "title": "Tre rinnovi in arrivo in casa Milan, i rossoneri vogliono chiudere entro il 2026",
+   "link": "https://www.calciomercato.it/2026/10/10/tre-rinnovi-in-arrivo-in-casa-milan-i-rossoneri-vogliono-chiudere-entro-il-2026/",
+   "summary": "L'articolo Tre rinnovi in arrivo in casa Milan, i rossoneri vogliono chiudere entro il 2026 proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-10T19:22:37+00:00",
+   "image": "",
+   "id": "c0b91f448827",
+   "age_minutes": 1814,
+   "also": [],
+   "score": 3.691
   },
   {
-   "title": "Napoli Basket, tegola Jakimovski: lesione muscolare per il macedone",
-   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basket-tegola-jakimovski-lesione-muscolare-macedone-658762",
-   "summary": "Il Napoli Basket conquista la terza vittoria consecutiva in campionato e conferma il suo avvio perfetto.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T18:45:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e6/e6ae75159187421b0ad6b62a49ba9566-97003-oooz0000.jpeg",
-   "id": "5d9bfe5515f4"
+   "title": "Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina”",
+   "link": "https://www.calciomercato.it/2026/10/10/inter-chivu-coccola-calhanoglu-e-lancia-spence-botta-di-adrenalina/",
+   "summary": "L'articolo Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina” proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-10T19:09:35+00:00",
+   "image": "",
+   "id": "44668cdcb796",
+   "age_minutes": 1827,
+   "also": [],
+   "score": 3.686
   },
   {
-   "title": "Da 0 a 10: De Bruyne risponde ai veri bolliti, il retroscena di Allegri, la testata di Lucca e la freccia avvelenata su Conte",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/0-10-risposta-de-bruyne-bolliti-retroscena-allegri-testata-lucca-freccia-avvelenata-conte-658722",
-   "summary": "Zero a questa estenuante sosta, che ci ha ridotto in una stato di semicoscienza, in cui rifiutavamo il cibo al secondo week-end senza il Napoli, come in quei video che girano sul web sugli effetti del Fentanyl negli Stati Uniti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T18:42:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bd/bd3e8da835dcaca831635b958201a22e-83598-oooz0000.jpeg",
-   "id": "a1e45936753e"
-  },
-  {
-   "title": "Badiashile esulta sui social: \"Passo dopo passo, concentrati su martedì!\"",
-   "link": "https://www.tuttonapoli.net/dai-social/badiashile-esulta-social-passo-passo-concentrati-martedi-658743",
-   "summary": "Una serata importante per Benoit Badiashile, protagonista nella vittoria per 3-0 del Napoli contro il Frosinone.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T18:30:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f9/f9030df5445869febad56caf05c3e88d-08476-oooz0000.jpeg",
-   "id": "e4a26b9e0a8f"
-  },
-  {
-   "title": "Salisburgo, Lindstrom titolare: tre tentativi e sostituzione al 54'",
-   "link": "https://www.tuttonapoli.net/notizie/salisburgo-lindstrom-titolare-tentativi-sostituzione-54-658756",
-   "summary": "Jesper Lindstrom torna protagonista dal primo minuto con la maglia del Red Bull Salisburgo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T18:15:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/36/368837d38bf4d9e68cdadd2ad66fb67d-08640-oooz0000.jpeg",
-   "id": "d1bfe69a2a4d"
-  },
-  {
-   "title": "Rabiot non basta al Milan, il Sassuolo pareggia dopo 4' e la vetta si allontana",
-   "link": "https://www.tuttonapoli.net/serie-a/rabiot-milan-sassuolo-pareggia-4-vetta-allontana-658760",
-   "summary": "Il Sassuolo si conferma indigesto per il Milan, che non riesce a conquistare i tre punti al Mapei Stadium nonostante una gara controllata per lunghi tratti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T18:00:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ae/aeb54c72717fab2981c6eff7d241df15-99274-oooz0000.jpeg",
-   "id": "56d593e8bc19"
-  },
-  {
-   "title": "Cagliari-Juventus, le formazioni ufficiali: Maldini dal 1', Spalletti punta su Kolo Muani",
-   "link": "https://www.tuttonapoli.net/serie-a/cagliari-juventus-formazioni-ufficiali-maldini-kolo-muani-658758",
-   "summary": "Il Cagliari ospita la Juventus all'Unipol Domus con l'obiettivo di dare continuità all'ottimo avvio di stagione.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T17:45:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c790ab93ab183323f72b9a8d37fe4839-75502-oooz0000.jpeg",
-   "id": "db2051873b5a"
-  },
-  {
-   "title": "Napoli Basket inarrestabile! Sbancata anche Cantù: parziale devastante di 22-0 e primato",
-   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basket-inarrestabile-sbancata-cantu-parziale-devastante-22-0-primato-658755",
-   "summary": "Terza vittoria consecutiva per Napoli Basket in campionato e quinta su 5 gare, considerando anche l'EuroCap. La squadra di Repesa espugna il campo dell'Acqua S.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-11T17:30:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9e/9e720276e9382b19a0697c1b52719a85-79078-oooz0000.jpeg",
-   "id": "b9dc98535fa4"
-  },
+   "title": "Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali",
+   "link": "https://www.calciomercato.it/2026/10/10/juve-tutto-deciso-arrivera-a-titolo-definitivo-per-10-milioni-totali/",
+   "summary": "L'articolo Juve, tutto deciso: arriverà a titolo definitivo per 10 milioni totali proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-10T16:34:44+00:00",
+   "image": "",
+   "id": "c1fc0f44503d",
+   "age_minutes": 1981,
+   "also": [],
+   "score": 3.629
+  }
+ ],
+ "raw": [
   {
    "title": "PAGELLE e TABELLINO Cagliari-Juventus 1-1: Kolo Muani risponde a Maldini, rabbia Spalletti",
    "link": "https://www.calciomercato.it/2026/10/11/pagelle-e-tabellino-cagliari-juventus-1-1-kolo-muani-risponde-a-maldini/",
@@ -719,9 +262,9 @@
    "published": "2026-10-11T19:32:38+00:00",
    "image": "",
    "id": "42baddfd6f6d",
-   "age_minutes": 167,
+   "age_minutes": 364,
    "also": [],
-   "score": 6.542
+   "score": 5.764
   },
   {
    "title": "Voti Sassuolo-Milan 1-1, prova opaca dei rossoneri: la squadra di Amorim frena",
@@ -733,9 +276,9 @@
    "published": "2026-10-11T18:25:18+00:00",
    "image": "",
    "id": "122ceddaaed7",
-   "age_minutes": 234,
+   "age_minutes": 431,
    "also": [],
-   "score": 6.251
+   "score": 5.545
   },
   {
    "title": "Juve, maledizione infortuni: nuovo stop in attacco",
@@ -747,9 +290,9 @@
    "published": "2026-10-11T16:33:26+00:00",
    "image": "",
    "id": "8aab225d83d9",
-   "age_minutes": 346,
+   "age_minutes": 543,
    "also": [],
-   "score": 5.826
+   "score": 5.225
   },
   {
    "title": "La Juventus ritrova Cambiaso, ma gli assenti restano 7: out anche Neto",
@@ -761,9 +304,9 @@
    "published": "2026-10-11T16:27:10+00:00",
    "image": "",
    "id": "4ae21dcdbe72",
-   "age_minutes": 352,
+   "age_minutes": 549,
    "also": [],
-   "score": 6.804
+   "score": 6.209
   },
   {
    "title": "Futuro Romano, c’è l’annuncio: Juventus e Inter avvisate",
@@ -775,9 +318,9 @@
    "published": "2026-10-11T15:10:50+00:00",
    "image": "",
    "id": "cce4bf62aa76",
-   "age_minutes": 428,
+   "age_minutes": 625,
    "also": [],
-   "score": 5.553
+   "score": 5.02
   },
   {
    "title": "Conte può tornare davvero, pronto il ribaltone in panchina: la situazione | CM",
@@ -789,9 +332,9 @@
    "published": "2026-10-11T13:38:23+00:00",
    "image": "",
    "id": "e16cae41efa0",
-   "age_minutes": 521,
+   "age_minutes": 718,
    "also": [],
-   "score": 5.284
+   "score": 4.818
   },
   {
    "title": "Voti Como-Roma, le pagelle della sfida: bene Gollini, delude Malen",
@@ -814,9 +357,9 @@
    "published": "2026-10-11T11:00:54+00:00",
    "image": "",
    "id": "bcac236f3b9c",
-   "age_minutes": 678,
+   "age_minutes": 875,
    "also": [],
-   "score": 4.901
+   "score": 4.529
   },
   {
    "title": "Cagliari-Juve probabili formazioni: due ballottaggi in attacco per Spalletti",
@@ -839,9 +382,9 @@
    "published": "2026-10-11T08:20:37+00:00",
    "image": "",
    "id": "ddfc421cee77",
-   "age_minutes": 839,
+   "age_minutes": 1036,
    "also": [],
-   "score": 4.591
+   "score": 4.296
   },
   {
    "title": "Cinque under 21 verso il salto in nazionale maggiore: Mancini ha scelto",
@@ -853,9 +396,9 @@
    "published": "2026-10-11T06:51:30+00:00",
    "image": "",
    "id": "d66db8c6a47d",
-   "age_minutes": 928,
+   "age_minutes": 1125,
    "also": [],
-   "score": 4.447
+   "score": 4.188
   },
   {
    "title": "50 milioni di aumento di capitale: doppio colpo in arrivo",
@@ -867,9 +410,9 @@
    "published": "2026-10-11T05:24:48+00:00",
    "image": "",
    "id": "dade8168428c",
-   "age_minutes": 1015,
+   "age_minutes": 1211,
    "also": [],
-   "score": 6.324
+   "score": 6.095
   },
   {
    "title": "Juve, nome nuovo in attacco: ha una clausola rescissoria da 100 milioni",
@@ -881,9 +424,9 @@
    "published": "2026-10-10T21:11:54+00:00",
    "image": "",
    "id": "a5a51ece4aca",
-   "age_minutes": 1507,
+   "age_minutes": 1704,
    "also": [],
-   "score": 5.853
+   "score": 5.741
   },
   {
    "title": "Pagelle Napoli-Frosinone 3-0, voti e tabellino della partita",
@@ -906,9 +449,9 @@
    "published": "2026-10-10T19:22:37+00:00",
    "image": "",
    "id": "c0b91f448827",
-   "age_minutes": 1617,
+   "age_minutes": 1814,
    "also": [],
-   "score": 3.787
+   "score": 3.691
   },
   {
    "title": "Inter, Chivu coccola Calhanoglu e lancia Spence: “Botta di adrenalina”",
@@ -920,9 +463,9 @@
    "published": "2026-10-10T19:09:35+00:00",
    "image": "",
    "id": "44668cdcb796",
-   "age_minutes": 1630,
+   "age_minutes": 1827,
    "also": [],
-   "score": 3.78
+   "score": 3.686
   },
   {
    "title": "PAGELLE e TABELLINO Inter-Parma 3-0: Sucic spegne i rumors, ‘Gila’ travolto",
@@ -945,9 +488,9 @@
    "published": "2026-10-10T16:34:44+00:00",
    "image": "",
    "id": "c1fc0f44503d",
-   "age_minutes": 1785,
+   "age_minutes": 1981,
    "also": [],
-   "score": 3.704
+   "score": 3.629
   },
   {
    "title": "Pagelle Genoa-Fiorentina 2-1, voti e tabellino della sfida",
@@ -1071,6 +614,493 @@
    "id": "fde18315eacc"
   },
   {
+   "title": "Napoli rivoluzionato da Allegri, Salvione: \"Questa è la strada giusta! Lucca? Fino a gennaio...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-rivoluzionato-allegri-salvione-questa-strada-giusta-lucca-gennaio-658744",
+   "summary": "Pasquale Salvione, giornalista del Corriere dello Sport, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Se i risultati ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-12T01:00:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/80/801c4ce0093178b5002d3de94498e4eb-04846-oooz0000.jpeg",
+   "id": "a2f580f19264"
+  },
+  {
+   "title": "Fabbroni: \"De Bruyne può essere il play del Napoli. Lang? Faccia un bagno d'umiltà\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/fabbroni-de-bruyne-play-napoli-lang-bagno-umilta-658746",
+   "summary": "Mario Fabbroni, giornalista, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania: \"Credo che la scorsa stagione di De Bruyne sia stata fo ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-12T00:00:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cb/cb3a5823625004893d5782460c30e1d4-82579-oooz0000.jpeg",
+   "id": "9a51c284a24a"
+  },
+  {
+   "title": "De Bruyne MVP, Giuliani: \"Basta dire che è finito! Lucca? Vada via, per il suo bene\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-bruyne-mvp-giuliani-basta-finito-lucca-vada-via-bene-658723",
+   "summary": "Fulvio Giuliani, giornalista, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania: \"De Bruyne e Lang protagonisti ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T23:00:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/76/76cf51769cec175021772eba97473a6b-88098-oooz0000.jpeg",
+   "id": "b591daa22890"
+  },
+  {
+   "title": "Radio Tutto Napoli, il maxi-palinsesto di oggi: live dalle 8, conferenze e basket",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-8-656424",
+   "summary": "E' già vigilia di Champions! Vivi la lunga giornata con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli, con i nostri inviati a Villarreal.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T22:30:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "f9d5b1cf5080"
+  },
+  {
+   "title": "Condò esalta De Bruyne: “Ha capito dove gioca! Sua miglior partita a Napoli? Ne ricordo un'altra\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-frosinonecondo-de-bruyne-tifosi-rigore-champions-658774",
+   "summary": "Condò: “De Bruyne ha finalmente capito dove gioca: a Napoli!”.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T22:00:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a3/a3b88f1604e5c2b3f69409212e6b2572-86478-oooz0000.jpeg",
+   "id": "b03d7ff79b47"
+  },
+  {
+   "title": "Lite con Spalletti, Pisacane: \"Se è preoccupato di non vincere qui, siamo sulla buona strada\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/lite-spalletti-pisacane-se-preoccupato-vincere-qui-buona-strada-658771",
+   "summary": "Il tecnico del Cagliari Fabio Pisacane ha parlato ai microfoni di DAZN dopo il match casalingo contro la Juventus, chiuso sull'1-1 e valido per la sesta giornata di Serie A.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T21:45:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b2/b216fec11d18b40c02e7c0f9a1e47307-69933-oooz0000.jpeg",
+   "id": "a19fe2dd8fad"
+  },
+  {
+   "title": "Biazzo punge Allegri: \"Strano non l'abbia capito prima! De Bruyne straordinario\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-biazzo-allegri-difesa-tre-de-bruyne-badiashile-658767",
+   "summary": "Nel corso di “A Tempo Scaduto 2.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T21:30:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/70/7069eea5b77e826dc101cdbfc35f803d-46595-oooz0000.jpeg",
+   "id": "6616030edfb6"
+  },
+  {
+   "title": "Lite con Pisacane, Spalletti: \"Gli ho detto che giocano bene e sanno anche perdere tempo\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/lite-pisacane-spalletti-gli-giocano-sanno-perdere-tempo-658770",
+   "summary": "L’allenatore della Juventus Luciano Spalletti ha parlato ai microfoni di DAZN dopo la sfida esterna sul campo del Cagliari, valevole per la sesta giornata di Serie A e terminata 1-1.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T21:15:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b2/b216fec11d18b40c02e7c0f9a1e47307-69933-oooz0000.jpeg",
+   "id": "8cb6d461e85e"
+  },
+  {
+   "title": "Dopo Roma, Como e Milan, il Napoli rosicchia due punti anche alla Juve: la classifica",
+   "link": "https://www.tuttonapoli.net/serie-a/roma-como-milan-napoli-rosicchia-punti-juve-classifica-658769",
+   "summary": "ll Cagliari si conferma la vera sorpresa del campionato e sale al quarto posto con il pareggio interno contro la Juventus, che manca così l'opportunità di accorciare sulla vetta.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T20:55:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b5/b5983b256d04f650812211a3feb24ce9-25604-oooz0000.jpeg",
+   "id": "272daba9ef89"
+  },
+  {
+   "title": "Il Cagliari ferma la Juve, nervi tesi e lite con Pisacane per Spalletti: espulsi entrambi",
+   "link": "https://www.tuttonapoli.net/serie-a/cagliari-ferma-juve-nervi-tesi-lite-pisacane-spalletti-espulsi-658768",
+   "summary": "La Juventus non va oltre l'1-1 contro il Cagliari all'Unipol Domus, al termine di una partita complicata per la formazione di Luciano Spalletti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T20:41:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
+   "id": "774b5f5a3c87"
+  },
+  {
+   "title": "Auriemma: “Napoli da scudetto! KDB è il leader che mancava. Allegri ha fatto bene a cambiare”",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-auriemma-scudetto-de-bruyne-allegri-658766",
+   "summary": "Nel corso di “A Tempo Scaduto 2.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T20:30:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5c/5c930ea8ef25a23712abf219363d9974-10782-oooz0000.jpeg",
+   "id": "813b8cf9fbfa"
+  },
+  {
+   "title": "Napoli Basket, Repesa: “Gruppo straordinario, ma non abbiamo giocato una grande partita”",
+   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basketball-repesa-cantu-gruppo-straordinario-658765",
+   "summary": "Il Napoli Basketball conquista la terza vittoria consecutiva in campionato, superando in trasferta Cantù per 99-80 e confermandosi in vetta alla classifica a punteggio pieno.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T20:15:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9e/9e720276e9382b19a0697c1b52719a85-79078-oooz0000.jpeg",
+   "id": "cead454f0ec0"
+  },
+  {
+   "title": "Calamai: “Allegri vuole dimostrare di non essere ancora da pensione. Forse ha ragione\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/calamai-allegri-vuole-dimostrare-pensione-ragione-658763",
+   "summary": "Luca Calamai, giornalista, nel suo editoriale per TuttoMercatoWeb ha analizzato la vittoria del Napoli contro il Frosinone, sottolineando i segnali positivi arrivati dalla formazione azzurra dopo la sosta per le…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T20:00:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7cf7caf2fd62fb4409fe167ab7ea5765-54726-oooz0000.jpeg",
+   "id": "5968b553b98b",
+   "age_minutes": 335,
+   "also": [],
+   "score": 4.463
+  },
+  {
+   "title": "Lazio, Gattuso: \"Dobbiamo andare sempre a mille. Col Napoli persa Champions per un punto”",
+   "link": "https://www.tuttonapoli.net/le-interviste/lazio-gattuso-dobbiamo-andare-mille-napoli-persa-champions-punto-658757",
+   "summary": "La Lazio ottiene la quinta vittoria nelle prime sei giornate battendo 3-1 il Monza di Ivan Juric. Al termine della sfida, il tecnico biancoceleste Gennaro Gattuso è intervenuto dalla sala stampa dello Stadio Olimpico.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T19:45:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5f/5f07485dc4e03cf8d2af335a2884bf4c-88037-oooz0000.jpeg",
+   "id": "5d0ded4061b6"
+  },
+  {
+   "title": "L'editoriale di Chiariello: \"Il rientro di McTominay può scompaginare i piani tattici di Allegri\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-il-rientro-mctominay-scompaginare-piani-tattici-allegri-658764",
+   "summary": "Nel corso di 'Campania Sport' su Canale 21, il giornalista Umberto Chiariello è intervenuto con il suo consueto editoriale, soffermandosi sul successo per 3-0 del Napoli contro il Frosinone e sulla corsa Champions: \"In attesa dell ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T19:30:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
+   "id": "3ea7c5a998bd"
+  },
+  {
+   "title": "De Bruyne show, raggiunge score mai ottenuto in Italia: non accadeva da 2 anni e mezzo",
+   "link": "https://www.tuttonapoli.net/notizie/napoli-frosinone-de-bruyne-doppietta-quattro-ruoli-658759",
+   "summary": "Kevin De Bruyne è l'uomo copertina del successo del Napoli contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T19:15:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/001760bbef2dccb9933e75f590184292-75655-oooz0000.jpeg",
+   "id": "94924ae8240f"
+  },
+  {
+   "title": "Sorpresa per Alisson: mamma e nonna arrivano a Napoli",
+   "link": "https://www.tuttonapoli.net/dai-social/sorpresa-alisson-mamma-nonna-arrivano-napoli-658761",
+   "summary": "Una piacevole parentesi familiare per Alisson Santos, che continua a lavorare per mettersi definitivamente alle spalle il periodo trascorso ai box e tornare a disposizione del Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T19:00:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/90/90f4e049c428c0fc9c671f248f3af5e6-13268-oooz0000.jpeg",
+   "id": "85881b5ce203"
+  },
+  {
+   "title": "Napoli Basket, tegola Jakimovski: lesione muscolare per il macedone",
+   "link": "https://www.tuttonapoli.net/basket-napoli/napoli-basket-tegola-jakimovski-lesione-muscolare-macedone-658762",
+   "summary": "Il Napoli Basket conquista la terza vittoria consecutiva in campionato e conferma il suo avvio perfetto.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T18:45:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e6/e6ae75159187421b0ad6b62a49ba9566-97003-oooz0000.jpeg",
+   "id": "5d9bfe5515f4"
+  },
+  {
+   "title": "Da 0 a 10: De Bruyne risponde ai veri bolliti, il retroscena di Allegri, la testata di Lucca e la freccia avvelenata su Conte",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/0-10-risposta-de-bruyne-bolliti-retroscena-allegri-testata-lucca-freccia-avvelenata-conte-658722",
+   "summary": "Zero a questa estenuante sosta, che ci ha ridotto in una stato di semicoscienza, in cui rifiutavamo il cibo al secondo week-end senza il Napoli, come in quei video che girano sul web sugli effetti del Fentanyl negli Stati Uniti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T18:42:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bd/bd3e8da835dcaca831635b958201a22e-83598-oooz0000.jpeg",
+   "id": "a1e45936753e"
+  },
+  {
+   "title": "Badiashile esulta sui social: \"Passo dopo passo, concentrati su martedì!\"",
+   "link": "https://www.tuttonapoli.net/dai-social/badiashile-esulta-social-passo-passo-concentrati-martedi-658743",
+   "summary": "Una serata importante per Benoit Badiashile, protagonista nella vittoria per 3-0 del Napoli contro il Frosinone.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-11T18:30:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/f9/f9030df5445869febad56caf05c3e88d-08476-oooz0000.jpeg",
+   "id": "e4a26b9e0a8f"
+  },
+  {
+   "title": "Fa tutto KOLO MUANI nel bene e nel male.",
+   "link": "https://www.tuttojuve.com/firme-bianconere/kolo-muani-male-796358",
+   "summary": "Un pareggio che sa di beffa e solo un punto in meno rispetto alla scorsa stagione. Un punto guadagnato o 2 punti persi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T23:44:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
+   "id": "fdbba48aee77"
+  },
+  {
+   "title": "Juventus, 2,3 expected goal e 23 tiri: con questi numeri non si può non vincere. A Cagliari due punti buttati",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-2-3-expected-goal-23-tiri-numeri-vincere-cagliari-punti-buttati-796352",
+   "summary": "Ventitré conclusioni, 2,3 expected goal e il 72% di possesso palla.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T23:30:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9541f2df8ad69baa00671077d21e473b-95346-oooz0000.jpeg",
+   "id": "3a4f2ac15b3b"
+  },
+  {
+   "title": "Juventus, Woltemade non cambia la partita: ingresso senza svolta, Spalletti aspetta risposte",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-woltemade-cambia-partita-ingresso-svolta-spalletti-aspetta-risposte-796336",
+   "summary": "Nick Woltemade non riesce a lasciare un segno decisivo nel pareggio della Juventus contro il Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T23:20:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f6/f6b20813508262976132536b776bd23c-35491-oooz0000.jpeg",
+   "id": "8bb913a9b25d"
+  },
+  {
+   "title": "Nico González ci prova ma non basta: tanta volontà, un'occasione sprecata e la concretezza che manca",
+   "link": "https://www.tuttojuve.com/altre-notizie/nico-gonzalez-prova-basta-tanta-volonta-occasione-sprecata-concretezza-manca-796347",
+   "summary": "Nico González è uno dei giocatori più attivi della Juventus nel primo tempo contro il Cagliari, ma la sua prestazione resta incompleta. L'argentino si muove, cerca di creare pericoli e impegna Caprile su calcio di punizione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T23:10:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/08/08afa238faff0001d83d0aa5d68da107-96796-oooz0000.jpeg",
+   "id": "429dd4b20340"
+  },
+  {
+   "title": "Juventus, Alajbegovic cambia la partita: assist decisivo per Kolo Muani, Spalletti trova una nuova certezza",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-alajbegovic-cambia-partita-assist-decisivo-kolo-muani-spalletti-trova-nuova-certezza-796330",
+   "summary": "Kerim Alajbegovic è uno dei protagonisti più positivi del pareggio della Juventus a Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T23:00:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c2/c29d7404922ec7dbfa8618ae58beb825-42479-oooz0000.jpeg",
+   "id": "fc80c08de7b5"
+  },
+  {
+   "title": "Rocchi: \"Marcenaro bravo. Giusti i rossi a Spalletti e Pisacane. Mina grande leader, non ho visto episodi gravi\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/rocchi-marcenaro-bravo-giusti-rossi-spalletti-pisacane-mina-leader-episodi-gravi-796360",
+   "summary": "Le tensioni che hanno accompagnato Cagliari-Juventus, terminata 1-1 all'Unipol Domus, sono state al centro dell'analisi di Gianluca Rocchi negli studi di DAZN.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:52:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/27/27072b48dbfda2fe518df3dbbda47beb-47337-oooz0000.jpeg",
+   "id": "14cb7bbda62d"
+  },
+  {
+   "title": "Cambiaso torna ma non basta",
+   "link": "https://www.tuttojuve.com/altre-notizie/cambiaso-torna-796338",
+   "summary": "Andrea Cambiaso torna a disposizione della Juventus e trova spazio nella ripresa della sfida contro il Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:50:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
+   "id": "1d3935fbbb39"
+  },
+  {
+   "title": "Zhegrova entra ed accende la partita",
+   "link": "https://www.tuttojuve.com/altre-notizie/zhegrova-entra-accende-partita-796329",
+   "summary": "Edon Zhegrova è uno dei giocatori che lasciano le indicazioni più interessanti nel pareggio della Juventus a Cagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:40:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e7/e7aade9891311a0faee261ef139f3cf8-67160-oooz0000.jpeg",
+   "id": "eeea3065a191"
+  },
+  {
+   "title": "Juventus, Marcenaro non decide il risultato ma il metro arbitrale è inaccettabile: troppo permissivo con il Cagliari",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-marcenaro-decide-risultato-metro-arbitrale-inaccettabile-permissivo-cagliari-796343",
+   "summary": "La Juventus pareggia 1-1 a Cagliari e deve soprattutto prendersela con se stessa per le tante occasioni sprecate e per il gol evitabile subito nel primo tempo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:30:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/35/35b5f7fdaac444d18775dde559cf1e23-13661-oooz0000.jpeg",
+   "id": "a4f6b596039a"
+  },
+  {
+   "title": "Vicario tradito dalla difesa: sul gol di Maldini pesa la passività bianconera",
+   "link": "https://www.tuttojuve.com/altre-notizie/vicario-tradito-difesa-gol-maldini-pesa-passivita-bianconera-796327",
+   "summary": "Guglielmo Vicario torna da Cagliari con un gol subito e un pareggio che lascia l'amaro in bocca.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:20:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7b/7beb411922444d2740e28f29b6867b6e-79891-oooz0000.jpeg",
+   "id": "bbd2a502a3d6"
+  },
+  {
+   "title": "Juventus, Bremer non basta: difesa troppo morbida sul gol di Maldini, Spalletti pretende più attenzione",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-bremer-basta-difesa-morbida-gol-maldini-spalletti-pretende-attenzione-796337",
+   "summary": "Gleison Bremer torna da Cagliari con un pareggio che lascia diversi interrogativi sulla solidità della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:10:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
+   "id": "d61c5fab7296"
+  },
+  {
+   "title": "Juventus, a Cagliari lo stesso film dello scorso anno: tante occasioni, poca concretezza e una vittoria che non arriva",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-cagliari-film-anno-tante-occasioni-poca-concretezza-vittoria-arriva-796349",
+   "summary": "Cambiano i protagonisti, cambia il risultato finale, ma il copione sembra sempre lo stesso. La Juventus torna da Cagliari con un pareggio per 1-1 e la sensazione di aver lasciato per strada due punti alla propria portata.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:08:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/84/846bfac7288754acd13bebeb53504770-04530-oooz0000.jpeg",
+   "id": "436eaa910548"
+  },
+  {
+   "title": "Chiarello bacchetta la Juventus e Spalletti: \"Alza solo un sacco di polvere. È tempo di chiamare un allenatore vincente\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/chiarello-bacchetta-juventus-spalletti-alza-sacco-polvere-chiamare-allenatore-vincente-796348",
+   "summary": "Il pareggio per 1-1 tra Cagliari e Juventus, nel posticipo della sesta giornata di Serie A, alimenta le critiche nei confronti della formazione allenata da Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:04:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
+   "id": "9b4fb503e7c5"
+  },
+  {
+   "title": "Juventus, Kolo Muani salva Spalletti ma non basta: un gol, una traversa e troppe occasioni sprecate",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-kolo-muani-salva-spalletti-basta-gol-traversa-troppe-occasioni-sprecate-796326",
+   "summary": "Randal Kolo Muani è il grande protagonista del pareggio della Juventus a Cagliari, nel bene e nel male.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T22:00:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/58/585f3a0692558c02ce13640ea88eb84a-38716-oooz0000.jpeg",
+   "id": "3ea96da7d62d"
+  },
+  {
+   "title": "Pisacane in conferenza: “Con Spalletti poteva finire con un abbraccio. La Juventus ha meritato ampiamente il pareggio e forse avrebbe meritato qualcosa in più”",
+   "link": "https://www.tuttojuve.com/altre-notizie/pisacane-conferenza-con-spalletti-poteva-finire-abbraccio-juventus-meritato-ampiamente-pareggio-meri-796345",
+   "summary": "Fabio Pisacane ha parlato al termine della gara contro la Juventus. Ecco le sue parole riprese da Tmw: Cosa è successo nel finale con Spalletti? \"Dispiace perché poteva finire tutto con un abbraccio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T21:57:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/24/24d40e0379018f023276eeb6801b48e9-47755-oooz0000.jpeg",
+   "id": "208c9c758e2a"
+  },
+  {
+   "title": "Caprile in conferenza: \"Contro la Juventus ci sta soffrire, siamo stati compatti. La parata più difficile? Quella su Kolo Muani\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/caprile-conferenza-contro-juventus-soffrire-compatti-parata-difficile-kolo-muani-796346",
+   "summary": "Elia Caprile, portiere del Cagliari, è intervenuto in conferenza stampa al termine del pareggio per 1-1 contro la Juventus all'Unipol Domus, nella sesta giornata di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T21:55:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/67/67bddb9d86aa042fe90b926da1c8cafd-84518-oooz0000.jpeg",
+   "id": "5b208774db35"
+  },
+  {
+   "title": "Kalulu in conferenza: “Due punti persi. Non sono contento della gara”",
+   "link": "https://www.tuttojuve.com/altre-notizie/kalulu-conferenza-due-punti-persi-contento-gara-796340",
+   "summary": "Pierre Kalulu ha parlato in conferenza stampa dopo il pari contro il Cagliari. Adesso la Juventus dovrà subito voltare pagina e penare all'Europa League e alla sfida di giovedì contro il Celta Vigo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T21:50:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7f125f60da30f9fad3ff0c1a299d6e17-16997-oooz0000.jpeg",
+   "id": "316d11abad71"
+  },
+  {
+   "title": "Caprile a DAZN: \"Risultato di squadra, la voglia di non prendere gol ce l'abbiamo da inizio anno\"",
+   "link": "https://www.tuttojuve.com/l-avversario/caprile-dazn-risultato-squadra-voglia-prendere-gol-ce-inizio-anno-796344",
+   "summary": "Il portiere del Cagliari, Elia Caprile, è intervenuto ai microfoni di DAZN al termine della sfida pareggiata per 1-1 contro la Juventus, valida per la sesta giornata di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T21:50:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/44/44c236392038b536b4d150b835f5c506-20025-oooz0000.jpeg",
+   "id": "d069e9ac0126"
+  },
+  {
+   "title": "Spalletti in conferenza: \"Meritavamo di più. Abbiamo fatto una grande partita, diciamo la verità\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-conferenza-meritavamo-piu-partita-diciamo-verita-796341",
+   "summary": "Luciano Spalletti ha parlato in conferenza stampa dopo il pareggio di Cagliari. Le sue parole raccolte dai colleghi di TuttoCagliari.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T21:47:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1c/1c53f798c6e9f17708a24f79d5a7cf09-75021-oooz0000.jpeg",
+   "id": "1f346a80a6fc"
+  },
+  {
+   "title": "Mina a DAZN: \"Bella prestazione. Spalletti? Non l'ho sentito, gli ho detto: ti voglio bene mister. Io poco sportivo? Faccio il mio\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/mina-dazn-bella-prestazione-spalletti-sentito-detto-voglio-mister-sportivo-mio-796339",
+   "summary": "Il difensore del Cagliari, Yerry Mina, è intervenuto ai microfoni di DAZN al termine della sfida pareggiata per 1-1 contro la Juventus, valida per la sesta giornata di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-11T21:43:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b051d546c4f45d065908b61702b48a87-60612-oooz0000.jpeg",
+   "id": "21916867f53f"
+  },
+  {
+   "title": "Rabiot individua il problema del Milan: “Andiamo con pochi giocatori in area. I centrocampisti si devono inserire”",
+   "link": "https://www.milannews.it/news/rabiot-individua-problema-milan-andiamo-pochi-giocatori-area-centrocampisti-devono-inserire-632420",
+   "summary": "Un pareggio che ha lasciato l’amaro in bocca a tutto l’ambiente Milan, ma specialmente all’autore del gol Adrien Rabiot.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-11T23:04:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4c/4c9d2711d8d7b1bc22e0a0d04535b8cc-34040-oooz0000.jpeg",
+   "id": "98aa854624a7"
+  },
+  {
+   "title": "Amorim: \"Imbattuti in campionato? No, abbiamo buttato comunque punti\"",
+   "link": "https://www.milannews.it/news/amorim-imbattuti-campionato-no-buttato-punti-632406",
+   "summary": "Il Milan trova il terzo pareggio in sei gare di Serie A: oltre alle vittorie con Torino, Venezia e Lecce, oggi è arrivato il pari con il Sassuolo, dopo quelli con Juventus e Lazio.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-11T22:48:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/51/515ab510fa25894ef546d1df1fefc8d2-40108-oooz0000.jpeg",
+   "id": "014cc356d339"
+  },
+  {
+   "title": "Gattuso: \"Non guardiamo la classifica altrimenti gira la testa\"",
+   "link": "https://www.milannews.it/news/gattuso-guardiamo-classifica-gira-testa-632378",
+   "summary": "(ANSA) - ROMA, 11 OTT - \"Noi siamo una squadra che non può gestire il risultato, non siamo capaci. Se il primo tempo fosse finito 4-0 non avremmo rubato nulla.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-11T22:36:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fb/fb07016d7463a3e388951313aba86f99-86640-oooz0000.jpeg",
+   "id": "db68915946fd"
+  },
+  {
+   "title": "Marchegiani su Ramos: \"Anche contro il Sassuolo ha giocato pochi palloni\"",
+   "link": "https://www.milannews.it/news/marchegiani-ramos-anche-sassuolo-giocato-pochi-palloni-632400",
+   "summary": "Intervenuto a Sky dopo l'1-1 del Milan in casa del Sassuolo, l'ex portiere Luca Marchegiani ha rilasciato queste dichiarazioni sulla squadra rossonera di Ruben Amorim: \"Il Milan, fino al gol del vantaggio, ha fatto bene, ha meritato di a ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-11T22:24:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3e/3ef7d1f264706c0f5894fc325a404066-84095-oooz0000.jpeg",
+   "id": "638a1b18f2ba"
+  },
+  {
    "title": "Rabiot: \"Un punto di forza poter difendere a 4 o 3. Stasera abbiamo sbagliato a livello tecnico\"",
    "link": "https://www.milannews.it/news/rabiot-un-punto-poter-difendere-4-3-stasera-sbagliato-livello-tecnico-632405",
    "summary": "Adrien Rabiot è stato ancora una volta il protagonista assoluto del Milan: anche nella gara contro il Sassuolo, pareggiata 1-1 al Mapei Stadium di Reggio Emilia, il gol porta la firma del francese che così sale gi&ag ...",
@@ -1091,9 +1121,9 @@
    "published": "2026-10-11T22:00:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d872ba90c2a59e3a506b727f39e97afd-40275-oooz0000.jpeg",
    "id": "7b2f71827faa",
-   "age_minutes": 19,
+   "age_minutes": 216,
    "also": [],
-   "score": 7.087
+   "score": 6.125
   },
   {
    "title": "Massara su Ramos: \"È mancato, così come prima della sosta: proprio a livello di personalità\"",
@@ -1250,53 +1280,6 @@
    "id": "0fe2775e0424"
   },
   {
-   "title": "LIVE MN - Thorsvedt: \"Avremmo meritato anche di più. Gol annullato? Per me non era fallo\"",
-   "link": "https://www.milannews.it/l-avversario/live-mn-giocatore-sassuolo-interverra-conferenza-stampa-commentare-partita-sera-632370",
-   "summary": "Tra poco un giocatore del Sassuolo interverrà in conferenza stampa per commentare la partita di questa sera contro il Milan. 20.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-11T19:06:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9d/9daaf31af3d91d5f819baff229c4da5c-95315-oooz0000.jpeg",
-   "id": "321a9e9beb69"
-  },
-  {
-   "title": "Sassuolo, Odenthal: \"Abbiamo difeso bene. Ci alleniamo sui corner\"",
-   "link": "https://www.milannews.it/news/sassuolo-odenthal-abbiamo-difeso-bene-alleniamo-corner-632388",
-   "summary": "Il Milan esce da Reggio Emilia con solamente un punto.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-11T19:05:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ad/ad870c21642e1f6cdca006f30cbb8b12-18120-oooz0000.jpeg",
-   "id": "85b273dcdc20"
-  },
-  {
-   "title": "Rabiot: \"Sono d'accordo col mister, abbiamo sempre il possesso ma quello che creiamo è troppo poco\"",
-   "link": "https://www.milannews.it/news/rabiot-sono-accordo-mister-possesso-creiamo-poco-632395",
-   "summary": "Adrien Rabiot ha parlato a DAZN al termine di Sassuolo-Milan. Le parole del francese.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-11T18:58:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/69/691ee40aca6fb9bff09df0bf2ac8d154-54496-oooz0000.jpeg",
-   "id": "dda46bec034f",
-   "age_minutes": 201,
-   "also": [],
-   "score": 6.19
-  },
-  {
-   "title": "LIVE MN - Amorim: \"Io imbattuto? Non mi interessa, oggi è come se avessi perso\"",
-   "link": "https://www.milannews.it/news/live-mn-ruben-amorim-conferenza-stampa-post-gara-reggio-emilia-632371",
-   "summary": "Tra poco Ruben Amorin interverrà in conferenza stampa per commentare la prestazione di questa sera del suo Milan a Reggio Emilia. Ore 20.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-11T18:57:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3f/3f93b1b1ee76045a633120af572428ce-46561-oooz0000.jpeg",
-   "id": "1c0422ab65f6"
-  },
-  {
    "title": "L’Inter più profonda degli ultimi anni",
    "link": "https://www.fcinternews.it/editoriale/l-inter-profonda-ultimi-1020560",
    "summary": "C’è un aspetto della vittoria contro il Parma che, nel dibattito del post partita, che va sottolineato: la profondità della rosa nerazzurra.",
@@ -1438,9 +1421,9 @@
    "published": "2026-10-11T19:28:37+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/93/9322afc5f7fd2c35a79608b634c010cc-47793-oooz0000.jpeg",
    "id": "96e8f468a90c",
-   "age_minutes": 171,
+   "age_minutes": 368,
    "also": [],
-   "score": 4.724
+   "score": 3.951
   },
   {
    "title": "Badiashile: \"Contro l'Inter non era facile per me, non giocavo da tempo\"",
@@ -1743,6 +1726,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 18
+  "in_edizione": 17
  }
 }
