@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T00:00:58.175336+02:00",
+ "generated_at": "2026-10-16T02:37:37.597876+02:00",
  "articles": [
   {
    "title": "Ufficiale il rinnovo di Pavlovic, il Milan lavora ad altri due prolungamenti",
@@ -11,9 +11,23 @@
    "published": "2026-10-15T06:53:59+00:00",
    "image": "",
    "id": "e982d258ebfd",
-   "age_minutes": 906,
+   "age_minutes": 1063,
    "also": [],
-   "score": 8.48
+   "score": 8.261
+  },
+  {
+   "title": "Pavoletti dà addio al calcio giocato: il suo futuro sarà come ds",
+   "link": "https://www.tuttonapoli.net/notizie/pavoletti-da-addio-calcio-giocato-direttore-sportivo-659139",
+   "summary": "(ANSA) - CAGLIARI, 15 OTT - \"Ho deciso di dire addio al calcio. Anche se una piccola porta la lascio ancora aperta.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T22:10:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a4/a4f6696d31499fdc82ebdae7f68916b3-63207-oooz0000.jpeg",
+   "id": "ab29ba8d2a6c",
+   "age_minutes": 147,
+   "also": [],
+   "score": 6.433
   },
   {
    "title": "Europa League, i finali: Italiano non sbaglia un colpo! 3-2 ad Hoffenheim anche senza Vlahovic",
@@ -25,9 +39,9 @@
    "published": "2026-10-15T21:06:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bc/bce9a4434d061f29b9105b712a866aef-21685-oooz0000.jpeg",
    "id": "e0e0f57f9ce1",
-   "age_minutes": 54,
+   "age_minutes": 211,
    "also": [],
-   "score": 6.895
+   "score": 6.147
   },
   {
    "title": "Mourinho allontana Endrick dal Milan: rossoneri gelati",
@@ -39,9 +53,28 @@
    "published": "2026-10-15T19:21:29+00:00",
    "image": "",
    "id": "76be4a25a450",
-   "age_minutes": 159,
+   "age_minutes": 316,
    "also": [],
-   "score": 6.577
+   "score": 5.934
+  },
+  {
+   "title": "Juventus, Cambiaso decisivo contro il Celta Vigo: un cross perfetto regala la vittoria a Spalletti",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-cambiaso-decisivo-celta-vigo-cross-perfetto-regala-vittoria-spalletti-796864",
+   "summary": "Andrea Cambiaso firma una delle giocate più importanti della serata europea della Juventus. Il suo cross nel finale permette a Randal Kolo Muani di segnare il gol del 2-1 contro il Celta Vigo, completando una rimonta…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:30:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
+   "id": "76139b6f5fd3",
+   "age_minutes": 127,
+   "also": [
+    {
+     "source": "Calciomercato.it",
+     "link": "https://www.calciomercato.it/2026/10/15/celta-vigo-juventus-spalletti-stravolge-la-squadra-cosa-cambia/"
+    }
+   ],
+   "score": 5.929
   },
   {
    "title": "Voti Salisburgo-Milan, i rossoneri vincono nel segno di Cisse",
@@ -53,23 +86,9 @@
    "published": "2026-10-15T18:39:07+00:00",
    "image": "",
    "id": "961a02ff681c",
-   "age_minutes": 201,
+   "age_minutes": 358,
    "also": [],
-   "score": 6.389
-  },
-  {
-   "title": "Il Napoli sfida Arsenal e Chelsea per Aranda del Boca! Il talento 2007 ha una clausola: le cifre",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/napoli-sfida-arsenal-chelsea-aranda-boca-talento-2007-clausola-cifre-659158",
-   "summary": "Il Napoli si inserisce nella corsa a Tomás Aranda, giovane centrocampista del Boca Juniors che ha attirato l’interesse di alcuni importanti club europei.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:00:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e7/e76656fc70301d55bf306a24ebcb801b-01951-oooz0000.jpeg",
-   "id": "7757028b86fe",
-   "age_minutes": 180,
-   "also": [],
-   "score": 6.282
+   "score": 5.784
   },
   {
    "title": "Juve, a gennaio può arrivare un attaccante: volata Sorloth-Balogun",
@@ -81,51 +100,23 @@
    "published": "2026-10-15T16:45:29+00:00",
    "image": "",
    "id": "d9923252bdc6",
-   "age_minutes": 315,
+   "age_minutes": 472,
    "also": [],
-   "score": 5.936
+   "score": 5.423
   },
   {
-   "title": "Venezia, scelto il nuovo allenatore che prenderà il posto di Stroppa: c’è l’accordo",
-   "link": "https://www.calciomercato.it/2026/10/14/venezia-scelto-il-nuovo-allenatore-che-prendera-il-posto-di-stroppa-ce-laccordo/",
-   "summary": "L'articolo Venezia, scelto il nuovo allenatore che prenderà il posto di Stroppa: c’è l’accordo proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-14T11:49:52+00:00",
-   "image": "",
-   "id": "231dfd3ed020",
-   "age_minutes": 2051,
-   "also": [],
-   "score": 5.607
-  },
-  {
-   "title": "Carnevali: ‘Juventus made mistakes in the past, bonuses are earned’",
-   "link": "https://football-italia.net/carnevali-juventus-made-mistakes-in-the-past/",
-   "summary": "Juventus CEO Giovanni Carnevali has shared his thoughts ahead of kick-off against Celta Vigo in...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-10-15T18:54:16+00:00",
-   "image": "",
-   "id": "ea74bf9db203",
-   "age_minutes": 186,
-   "also": [],
-   "score": 5.405
-  },
-  {
-   "title": "L'avv. Alosi: \"Caso Manchester City, ecco cosa rischia. E la UEFA...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/avv-alosi-caso-manchester-city-rischia-uefa-796825",
-   "summary": "L'avvocato Pietro Alosi del Foro di Palermo, esperto di diritto sportivo, membro della Cassa Forense e membro del Collegio dei Probiviri dell'AIAC, ha parlato ai microfoni di Tuttomercatoweb.",
+   "title": "Woltemade segna ma non convince del tutto",
+   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-segna-convince-796866",
+   "summary": "Nick Woltemade trova un gol fondamentale nella vittoria della Juventus contro il Celta Vigo, firmando il pareggio al 58' e dando il via alla rimonta completata da Kolo Muani.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-10-15T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/57/57315f88483eeb49a1273f4bc628d77f-93190-oooz0000.jpeg",
-   "id": "2765af1c8b89",
-   "age_minutes": 120,
+   "published": "2026-10-15T22:40:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0a/0a59f944cb4f624ade62ae0b904af52b-36134-oooz0000.jpeg",
+   "id": "5e4872323968",
+   "age_minutes": 116,
    "also": [],
-   "score": 5.359
+   "score": 5.379
   },
   {
    "title": "Atalanta, nuovo infortunio per Scalvini: i tempi di recupero",
@@ -137,37 +128,23 @@
    "published": "2026-10-15T13:29:18+00:00",
    "image": "",
    "id": "4e2808a44463",
-   "age_minutes": 511,
+   "age_minutes": 668,
    "also": [],
-   "score": 5.311
+   "score": 4.924
   },
   {
-   "title": "Bologna, Libra: \"Con l'Inter sarà dura, ma abbiamo buone sensazioni\"",
-   "link": "https://www.fcinternews.it/il-resto-della-a/bologna-libra-con-inter-dura-buone-sensazioni-1020878",
-   "summary": "Marco Libra, centrocampista italo-venezuelano classe 2008, ha trovato in questo avvio di stagione le prime due presenze con la prima squadra del Bologna.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-15T21:08:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/47/47b7c17b87b16243c35658df6c69fadd-82675-923o359o2482o1918z1632.jpeg",
-   "id": "2b8559a2a125",
-   "age_minutes": 52,
+   "title": "Carnevali: ‘Juventus made mistakes in the past, bonuses are earned’",
+   "link": "https://football-italia.net/carnevali-juventus-made-mistakes-in-the-past/",
+   "summary": "Juventus CEO Giovanni Carnevali has shared his thoughts ahead of kick-off against Celta Vigo in...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-10-15T18:54:16+00:00",
+   "image": "",
+   "id": "ea74bf9db203",
+   "age_minutes": 343,
    "also": [],
-   "score": 5.306
-  },
-  {
-   "title": "Corvino: \"Toni all'Inter era fatta per 25 milioni, poi arrivò Calciopoli\"",
-   "link": "https://www.fcinternews.it/news/corvino-toni-inter-fatta-25-milioni-arrivo-calciopoli-1020872",
-   "summary": "Pantaleo Corvino svela un retroscena di mercato che avrebbe potuto cambiare la storia dell'Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-15T19:25:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c1d560c05653456ba99615d405b3aa6e-34346-564o107o2160o1703z11b6.jpeg",
-   "id": "0d1bdf86f5a7",
-   "age_minutes": 155,
-   "also": [],
-   "score": 5.193
+   "score": 4.786
   },
   {
    "title": "Juve, Llorente non ha dubbi: “Conte tornerà prima o poi, è l’allenatore ideale”",
@@ -179,9 +156,9 @@
    "published": "2026-10-15T11:30:52+00:00",
    "image": "",
    "id": "6cdb930cb522",
-   "age_minutes": 630,
+   "age_minutes": 786,
    "also": [],
-   "score": 5.01
+   "score": 4.684
   },
   {
    "title": "Che guaio per l’Inter e Chivu: lungo stop per Lautaro e niente derby | CM",
@@ -193,23 +170,37 @@
    "published": "2026-10-15T10:35:37+00:00",
    "image": "",
    "id": "bed948534040",
-   "age_minutes": 685,
+   "age_minutes": 842,
    "also": [],
-   "score": 4.887
+   "score": 4.586
   },
   {
-   "title": "Celta Vigo-Juventus, Spalletti stravolge la squadra: cosa cambia",
-   "link": "https://www.calciomercato.it/2026/10/15/celta-vigo-juventus-spalletti-stravolge-la-squadra-cosa-cambia/",
-   "summary": "L'articolo Celta Vigo-Juventus, Spalletti stravolge la squadra: cosa cambia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-15T10:00:43+00:00",
-   "image": "",
-   "id": "1aa9d8456754",
-   "age_minutes": 720,
+   "title": "Bologna, Libra: \"Con l'Inter sarà dura, ma abbiamo buone sensazioni\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/bologna-libra-con-inter-dura-buone-sensazioni-1020878",
+   "summary": "Marco Libra, centrocampista italo-venezuelano classe 2008, ha trovato in questo avvio di stagione le prime due presenze con la prima squadra del Bologna.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-15T21:08:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/47/47b7c17b87b16243c35658df6c69fadd-82675-923o359o2482o1918z1632.jpeg",
+   "id": "2b8559a2a125",
+   "age_minutes": 209,
    "also": [],
-   "score": 4.814
+   "score": 4.555
+  },
+  {
+   "title": "Corvino: \"Toni all'Inter era fatta per 25 milioni, poi arrivò Calciopoli\"",
+   "link": "https://www.fcinternews.it/news/corvino-toni-inter-fatta-25-milioni-arrivo-calciopoli-1020872",
+   "summary": "Pantaleo Corvino svela un retroscena di mercato che avrebbe potuto cambiare la storia dell'Inter.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-15T19:25:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c1d560c05653456ba99615d405b3aa6e-34346-564o107o2160o1703z11b6.jpeg",
+   "id": "0d1bdf86f5a7",
+   "age_minutes": 312,
+   "also": [],
+   "score": 4.547
   },
   {
    "title": "Juve, nuovo allarme: lavoro a parte per uno dei fedelissimi di Spalletti",
@@ -221,9 +212,9 @@
    "published": "2026-10-15T05:21:41+00:00",
    "image": "",
    "id": "43a503efc82d",
-   "age_minutes": 999,
+   "age_minutes": 1155,
    "also": [],
-   "score": 4.345
+   "score": 4.154
   },
   {
    "title": "Champions League, i risultati della serata: ko Como e Roma",
@@ -235,9 +226,9 @@
    "published": "2026-10-14T20:54:57+00:00",
    "image": "",
    "id": "c3c75e6eb7a6",
-   "age_minutes": 1506,
+   "age_minutes": 1662,
    "also": [],
-   "score": 3.855
+   "score": 3.763
   },
   {
    "title": "Chiesa verso il ritorno in Serie A: tre squadre sulle tracce dell’esterno offensivo",
@@ -249,9 +240,9 @@
    "published": "2026-10-14T19:11:57+00:00",
    "image": "",
    "id": "158c57a5e62f",
-   "age_minutes": 1609,
+   "age_minutes": 1765,
    "also": [],
-   "score": 3.792
+   "score": 3.712
   },
   {
    "title": "Manchester United, ora è crisi vera: Conte pronto a dire sì | CM",
@@ -263,9 +254,9 @@
    "published": "2026-10-14T17:00:01+00:00",
    "image": "",
    "id": "27876208bc46",
-   "age_minutes": 1740,
+   "age_minutes": 1897,
    "also": [],
-   "score": 3.724
+   "score": 3.658
   },
   {
    "title": "Totti chiude alla Roma: “Non torno”. Poi esalta Gasperini e Chivu | VIDEO CM",
@@ -277,9 +268,9 @@
    "published": "2026-10-14T13:30:25+00:00",
    "image": "",
    "id": "cfc4f6d673aa",
-   "age_minutes": 1950,
+   "age_minutes": 2107,
    "also": [],
-   "score": 3.639
+   "score": 3.591
   },
   {
    "title": "Roma-Real Madrid, Gasperini cambia attacco: le ultimissime",
@@ -291,23 +282,9 @@
    "published": "2026-10-14T13:15:34+00:00",
    "image": "",
    "id": "9d3ebdab46da",
-   "age_minutes": 1965,
+   "age_minutes": 2122,
    "also": [],
-   "score": 3.634
-  },
-  {
-   "title": "La Juventus su Doumbia, lo Sporting spara alto per l’italiano",
-   "link": "https://www.calciomercato.it/2026/10/14/la-juventus-su-doumbia-lo-sporting-spara-alto-per-litaliano/",
-   "summary": "L'articolo La Juventus su Doumbia, lo Sporting spara alto per l’italiano proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-14T10:59:38+00:00",
-   "image": "",
-   "id": "07e602e1bf94",
-   "age_minutes": 2101,
-   "also": [],
-   "score": 3.592
+   "score": 3.587
   }
  ],
  "raw": [
@@ -332,9 +309,9 @@
    "published": "2026-10-15T19:21:29+00:00",
    "image": "",
    "id": "76be4a25a450",
-   "age_minutes": 159,
+   "age_minutes": 316,
    "also": [],
-   "score": 6.577
+   "score": 5.934
   },
   {
    "title": "Voti Salisburgo-Milan, i rossoneri vincono nel segno di Cisse",
@@ -346,9 +323,9 @@
    "published": "2026-10-15T18:39:07+00:00",
    "image": "",
    "id": "961a02ff681c",
-   "age_minutes": 201,
+   "age_minutes": 358,
    "also": [],
-   "score": 6.389
+   "score": 5.784
   },
   {
    "title": "Juve, a gennaio può arrivare un attaccante: volata Sorloth-Balogun",
@@ -360,9 +337,9 @@
    "published": "2026-10-15T16:45:29+00:00",
    "image": "",
    "id": "d9923252bdc6",
-   "age_minutes": 315,
+   "age_minutes": 472,
    "also": [],
-   "score": 5.936
+   "score": 5.423
   },
   {
    "title": "Atalanta, nuovo infortunio per Scalvini: i tempi di recupero",
@@ -374,9 +351,9 @@
    "published": "2026-10-15T13:29:18+00:00",
    "image": "",
    "id": "4e2808a44463",
-   "age_minutes": 511,
+   "age_minutes": 668,
    "also": [],
-   "score": 5.311
+   "score": 4.924
   },
   {
    "title": "Juve, Llorente non ha dubbi: “Conte tornerà prima o poi, è l’allenatore ideale”",
@@ -388,9 +365,9 @@
    "published": "2026-10-15T11:30:52+00:00",
    "image": "",
    "id": "6cdb930cb522",
-   "age_minutes": 630,
+   "age_minutes": 786,
    "also": [],
-   "score": 5.01
+   "score": 4.684
   },
   {
    "title": "Che guaio per l’Inter e Chivu: lungo stop per Lautaro e niente derby | CM",
@@ -402,9 +379,9 @@
    "published": "2026-10-15T10:35:37+00:00",
    "image": "",
    "id": "bed948534040",
-   "age_minutes": 685,
+   "age_minutes": 842,
    "also": [],
-   "score": 4.887
+   "score": 4.586
   },
   {
    "title": "Celta Vigo-Juventus, Spalletti stravolge la squadra: cosa cambia",
@@ -416,9 +393,12 @@
    "published": "2026-10-15T10:00:43+00:00",
    "image": "",
    "id": "1aa9d8456754",
-   "age_minutes": 720,
+   "age_minutes": 876,
    "also": [],
-   "score": 4.814
+   "score": 4.814,
+   "_kw": 1.6,
+   "_fresh": 0.28187063099051357,
+   "_fp": "celta vigo juventus spalletti stravolge squadra cosa cambia"
   },
   {
    "title": "Salisburgo-Milan, le probabili formazioni: quante sorprese tra i rossoneri",
@@ -441,9 +421,9 @@
    "published": "2026-10-15T06:53:59+00:00",
    "image": "",
    "id": "e982d258ebfd",
-   "age_minutes": 906,
+   "age_minutes": 1063,
    "also": [],
-   "score": 8.48
+   "score": 8.261
   },
   {
    "title": "Juve, nuovo allarme: lavoro a parte per uno dei fedelissimi di Spalletti",
@@ -455,9 +435,9 @@
    "published": "2026-10-15T05:21:41+00:00",
    "image": "",
    "id": "43a503efc82d",
-   "age_minutes": 999,
+   "age_minutes": 1155,
    "also": [],
-   "score": 4.345
+   "score": 4.154
   },
   {
    "title": "Champions League, i risultati della serata: ko Como e Roma",
@@ -469,9 +449,9 @@
    "published": "2026-10-14T20:54:57+00:00",
    "image": "",
    "id": "c3c75e6eb7a6",
-   "age_minutes": 1506,
+   "age_minutes": 1662,
    "also": [],
-   "score": 3.855
+   "score": 3.763
   },
   {
    "title": "Chiesa verso il ritorno in Serie A: tre squadre sulle tracce dell’esterno offensivo",
@@ -483,9 +463,9 @@
    "published": "2026-10-14T19:11:57+00:00",
    "image": "",
    "id": "158c57a5e62f",
-   "age_minutes": 1609,
+   "age_minutes": 1765,
    "also": [],
-   "score": 3.792
+   "score": 3.712
   },
   {
    "title": "Manchester United, ora è crisi vera: Conte pronto a dire sì | CM",
@@ -497,9 +477,9 @@
    "published": "2026-10-14T17:00:01+00:00",
    "image": "",
    "id": "27876208bc46",
-   "age_minutes": 1740,
+   "age_minutes": 1897,
    "also": [],
-   "score": 3.724
+   "score": 3.658
   },
   {
    "title": "Totti chiude alla Roma: “Non torno”. Poi esalta Gasperini e Chivu | VIDEO CM",
@@ -511,9 +491,9 @@
    "published": "2026-10-14T13:30:25+00:00",
    "image": "",
    "id": "cfc4f6d673aa",
-   "age_minutes": 1950,
+   "age_minutes": 2107,
    "also": [],
-   "score": 3.639
+   "score": 3.591
   },
   {
    "title": "Roma-Real Madrid, Gasperini cambia attacco: le ultimissime",
@@ -525,9 +505,9 @@
    "published": "2026-10-14T13:15:34+00:00",
    "image": "",
    "id": "9d3ebdab46da",
-   "age_minutes": 1965,
+   "age_minutes": 2122,
    "also": [],
-   "score": 3.634
+   "score": 3.587
   },
   {
    "title": "Venezia, scelto il nuovo allenatore che prenderà il posto di Stroppa: c’è l’accordo",
@@ -690,6 +670,540 @@
    "id": "e2dc69a7494e"
   },
   {
+   "title": "Juventus, Nico González entra e sfiora il gol vittoria contro il Celta Vigo: il suo ingresso cambia l'attacco",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nico-gonzalez-entra-sfiora-gol-vittoria-celta-vigo-ingresso-cambia-attacco-796871",
+   "summary": "Nico González è uno dei protagonisti della ripresa della Juventus contro il Celta Vigo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T23:30:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/08/08afa238faff0001d83d0aa5d68da107-96796-oooz0000.jpeg",
+   "id": "486b6e6b0b91"
+  },
+  {
+   "title": "Juventus, Gatti torna titolare ma la difesa soffre contro il Celta Vigo: Spalletti deve ritrovare solidità",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-gatti-torna-titolare-difesa-soffre-celta-vigo-spalletti-ritrovare-solidita-796872",
+   "summary": "Federico Gatti ritrova una maglia da titolare nella trasferta europea della Juventus contro il Celta Vigo, ma la serata non è semplice per il reparto arretrato bianconero.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T23:20:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c942d3a8b5507dc866df2c6b7cf18685-82716-oooz0000.jpeg",
+   "id": "a0f0a3e7e150"
+  },
+  {
+   "title": "Juventus, Koopmeiners ancora alla ricerca della svolta: contro il Celta Vigo manca il salto di qualità a centrocampo",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-koopmeiners-ricerca-svolta-celta-vigo-manca-salto-qualita-centrocampo-796869",
+   "summary": "Teun Koopmeiners torna al centro del progetto tattico di Luciano Spalletti nella sfida europea contro il Celta Vigo, ma la Juventus fatica a trovare fluidità soprattutto nel primo tempo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T23:10:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b0c178ad62a574ffb2fcea38076335c5-63893-oooz0000.jpeg",
+   "id": "f2c6b99cbde6"
+  },
+  {
+   "title": "Celta Vigo-Juventus 1-2, le pagelle dei tre migliori bianconeri",
+   "link": "https://www.tuttojuve.com/altre-notizie/celta-vigo-juventus-1-2-le-pagelle-dei-tre-migliori-bianconeri-796874",
+   "summary": "La Juventus ribalta il Celta Vigo e conquista una vittoria preziosa in Europa League.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T23:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/58/585f3a0692558c02ce13640ea88eb84a-38716-oooz0000.jpeg",
+   "id": "8482aeb7927d"
+  },
+  {
+   "title": "Kalulu soffre con tutta la difesa contro il Celta Vigo: la vittoria non cancella gli errori",
+   "link": "https://www.tuttojuve.com/altre-notizie/kalulu-soffre-difesa-celta-vigo-vittoria-cancella-errori-796873",
+   "summary": "Pierre Kalulu parte titolare nella trasferta europea della Juventus contro il Celta Vigo, ma la squadra di Luciano Spalletti mostra ancora difficoltà nella gestione della fase difensiva.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:50:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d4/d494bae8b77324bdcaedcc1d602851c3-12706-oooz0000.jpeg",
+   "id": "d65d2bc7f406"
+  },
+  {
+   "title": "Woltemade segna ma non convince del tutto",
+   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-segna-convince-796866",
+   "summary": "Nick Woltemade trova un gol fondamentale nella vittoria della Juventus contro il Celta Vigo, firmando il pareggio al 58' e dando il via alla rimonta completata da Kolo Muani.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:40:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0a/0a59f944cb4f624ade62ae0b904af52b-36134-oooz0000.jpeg",
+   "id": "5e4872323968",
+   "age_minutes": 116,
+   "also": [],
+   "score": 5.379
+  },
+  {
+   "title": "Juventus, Cambiaso decisivo contro il Celta Vigo: un cross perfetto regala la vittoria a Spalletti",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-cambiaso-decisivo-celta-vigo-cross-perfetto-regala-vittoria-spalletti-796864",
+   "summary": "Andrea Cambiaso firma una delle giocate più importanti della serata europea della Juventus. Il suo cross nel finale permette a Randal Kolo Muani di segnare il gol del 2-1 contro il Celta Vigo, completando una rimonta…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:30:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a1/a15ddb54407d470d6c1040c50f039e0e-47055-oooz0000.jpeg",
+   "id": "76139b6f5fd3",
+   "age_minutes": 127,
+   "also": [
+    {
+     "source": "Calciomercato.it",
+     "link": "https://www.calciomercato.it/2026/10/15/celta-vigo-juventus-spalletti-stravolge-la-squadra-cosa-cambia/"
+    }
+   ],
+   "score": 5.929
+  },
+  {
+   "title": "C'è chi celebra il bilancio dell'Inter, ma non dice come ci si è arrivati!",
+   "link": "https://www.tuttojuve.com/firme-bianconere/celebra-bilancio-inter-arrivati-796838",
+   "summary": "In queste ultime settimane alcuni siti specializzati hanno pubblicato i dati relativi ai bilanci di Juventus e Inter. Bianconeri in rosso per 66 milioni, nerazzurri in positivo per 22 milioni.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:26:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/88/8847f3259ede7ea7c9f8fdb347a894f9-09241-oooz0000.jpeg",
+   "id": "b596b3d4f9b2"
+  },
+  {
+   "title": "Juventus, la vittoria con il Celta Vigo non deve ingannare: non è tutto oro quello che luccica, Spalletti deve correggere troppi errori",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-vittoria-celta-vigo-ingannare-oro-luccica-spalletti-correggere-troppi-errori-796878",
+   "summary": "La Juventus vince 2-1 sul campo del Celta Vigo e conquista tre punti importanti in Europa League, ma sarebbe un errore lasciarsi abbagliare dal risultato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:22:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/13/1357183c2ba7b915bc5e8d4299281e58-75797-oooz0000.jpeg",
+   "id": "e2d4d2a65e5c"
+  },
+  {
+   "title": "Sarr non riesce a cambiare ritmo contro il Celta Vigo: il centrocampo fatica, serve maggiore personalità",
+   "link": "https://www.tuttojuve.com/altre-notizie/sarr-riesce-cambiare-ritmo-celta-vigo-centrocampo-fatica-serve-maggiore-personalita-796868",
+   "summary": "Pape Sarr parte titolare nella trasferta della Juventus contro il Celta Vigo, formando la coppia centrale con Teun Koopmeiners.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:20:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3b/3bf454de3d6b809f07d50319ac8caf40-73125-oooz0000.jpeg",
+   "id": "ece90fb347a3"
+  },
+  {
+   "title": "Juventus, Kolo Muani è l'uomo della provvidenza: entra e decide contro il Celta Vigo, secondo gol consecutivo",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-kolo-muani-provvidenza-entra-decide-celta-vigo-gol-796861",
+   "summary": "Randal Kolo Muani si prende la Juventus nel momento più importante. L'attaccante francese entra nella ripresa contro il Celta Vigo e segna il gol del definitivo 2-1 a un minuto dal termine, completando la rimonta iniziata da Woltemade.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:10:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b4/b4932b7c971bae724074bf28845fcbb8-01895-oooz0000.jpeg",
+   "id": "f02404317643"
+  },
+  {
+   "title": "Juventus, Conceição si accende nella ripresa contro il Celta Vigo: manca il gol, ma prova a trascinare i bianconeri",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-conceicao-accende-ripresa-celta-vigo-manca-gol-prova-trascinare-bianconeri-796859",
+   "summary": "Francisco Conceição è stato uno dei pochi giocatori della Juventus a cercare con insistenza la giocata individuale nella trasferta contro il Celta Vigo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T22:00:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0f/0fdbd9c73882b7ffb12486eeecab630a-01315-oooz0000.jpeg",
+   "id": "ca9521bc1dbe"
+  },
+  {
+   "title": "Celta Vigo-Juventus 1-2, numeri e commenti del match",
+   "link": "https://www.tuttojuve.com/altre-notizie/celta-vigo-juventus-1-2-numeri-commenti-match-796882",
+   "summary": "Si chiude la gara di Europa League al Balaídos di Vigo sul risultato di 2-1 a favore della Juventus, grazie alle reti di Woltemade e Kolo Muani nella ripresa, dopo il vantaggio di Alvarez nel primo tempo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:58:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5f/5f4d727bcfd533e177337ffe2c1059cd-62739-oooz0000.jpeg",
+   "id": "99d3b4e48155"
+  },
+  {
+   "title": "Juventus in testa alla classifica di Europa League: tante squadre a punteggio pieno",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-testa-classifica-europa-league-tante-squadre-punteggio-796870",
+   "summary": "La Juventus è in testa alla classifica di Europa League. I bianconeri, dopo le prime due giornate, si trovano a punteggio pieno con sei punti e guidano la graduatoria insieme ad altre dieci squadre.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:55:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cc/cc4ff36d93de8a12957ab00b54eea4bf-07330-oooz0000.jpeg",
+   "id": "6adbecd93041"
+  },
+  {
+   "title": "Celta Vigo-Juventus, le pagelle dei bianconeri: Woltemade e Kolo Muani la ribaltano, Sarr di lotta e di governo",
+   "link": "https://www.tuttojuve.com/il-pagellone-dei-campioni/celta-vigo-juventus-pagelle-bianconeri-woltemade-kolo-muani-ribaltano-sarr-lotta-governo-796879",
+   "summary": "Vicario 6 – Incolpevole sul gol del Celta, pronto sugli altri pericoli. Kalulu 6 – Qualche responsabilità sul vantaggio spagnolo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:55:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9511f6b016fe84f4f3fa590936577f2f-98505-oooz0000.jpeg",
+   "id": "76c61868c0eb"
+  },
+  {
+   "title": "Condò: “Su Woltemade aleggia un po’ di mistero. Il tedesco ha meno qualità ma come tipo di giocatore mi ha ricordato Zirkzee”",
+   "link": "https://www.tuttojuve.com/altre-notizie/condo-su-woltemade-aleggia-po-mistero-tedesco-qualita-tipo-giocatore-ricordato-zirkzee-796865",
+   "summary": "Nella gara contro il Celta Vigo, Luciano Spalletti ha fatto diversi cambi e dal primo minuto ha schierato Nick Woltemade. Il tedesco si è mosso bene da prima punta e ha segnato anche il gol del momentaneo 1-1.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:50:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a3b88f1604e5c2b3f69409212e6b2572-86478-oooz0000.jpeg",
+   "id": "4e1fa233617c"
+  },
+  {
+   "title": "Kolo Muani a Sky: \"Grande rimonta. Gol in coppia con Woltemade? Sono contento, dobbiamo continuare così. Lazio? SIamo pronti\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-sky-gol-coppia-woltemade-contento-dobbiamo-continuare-cosi-796867",
+   "summary": "Randal Kolo Muani, autore del gol-vittoria della Juventus a Vigo, è stato intervistato da Sky Sport. Le sue considerazioni: Kolo, ti sei sbloccato e adesso non ti fermi più.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:42:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9c/9c61ba540cc765ef9096075030bc2bd6-53954-oooz0000.jpeg",
+   "id": "7d718ab73f90"
+  },
+  {
+   "title": "Costacurta: “Nico Gonzalez dà energia alla Juventus. All’intervallo probabilmente…”",
+   "link": "https://www.tuttojuve.com/altre-notizie/costacurta-nico-gonzalez-da-energia-juventus-all-intervallo-probabilmente-796860",
+   "summary": "La Juventus ha vinto il suo secondo match in Europa League e i bianconeri sono in testa alla classifica. Della prestazione della Juventus ne ha parlato Billy Costacurta dagli studi di Sky Sport.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:40:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/94/9416a2a52c1a88c7751a850eb185ab29-30532-oooz0000.jpeg",
+   "id": "360961cbb9d0"
+  },
+  {
+   "title": "Conceicao a Sky: “Bisogna dire la verità, non ho litigato con nessuno quando sono uscito dal campo. Nel secondo tempo grande risposta. Domenica contro la Lazio…”",
+   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-sky-bisogna-verita-litigato-uscito-campo-796863",
+   "summary": "Francisco Conceicao ha parlato ai microfoni Sky Sport dopo la gara contro il Celta Vigo: Francisco, è arrivata una vittoria proprio alla fine, una vittoria importante dopo un primo tempo un po’ sofferto.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:34:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d6/d6809f3c02607289c5c8724545a669cb-93805-oooz0000.jpeg",
+   "id": "a94aaae49b49"
+  },
+  {
+   "title": "Capello: “Il gol di Kolo Muani è stato molto bello. Probabilmente si è sentito più…”",
+   "link": "https://www.tuttojuve.com/altre-notizie/capello-il-gol-kolo-muani-bello-sentito-piu-796855",
+   "summary": "La Juventus ha vinto in rimonta contro il Celta Vigo e questa per Spalletti è sicuramente una buona notizia. Il gol vittoria dei bianconeri è stato realizzato da Randal Kolo Muani.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-15T21:30:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/11/11cc945eebdf970a50f8a96867120df8-46382-oooz0000.jpeg",
+   "id": "0498a0944510"
+  },
+  {
+   "title": "Pazienza: “C’è una cosa che manca al Napoli, è evidente! Venezia? Gara insidiosissima”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/pazienza-c-e-manca-napoli-evidente-venezia-gara-insidiosissima-659172",
+   "summary": "Michele Pazienza, ex centrocampista del Napoli, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-16T00:00:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/58/589935c92e88939a348e14eea86b92a6-92312-oooz0000.jpeg",
+   "id": "72ddf89c0fde"
+  },
+  {
+   "title": "Villarreal-Napoli, Forgione: “Psicodramma! Reparti scollati e mancanza di lavoro di gruppo”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/villarreal-napoli-forgione-psicodramma-reparti-scollati-mancanza-lavoro-gruppo-659171",
+   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli e live tutto il giorno su sito, app smartphone e smartTv e DAB Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T23:00:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7b/7b9aa196bafdb736554b9483481cc8ba-96730-oooz0000.jpeg",
+   "id": "7ed4ae47f001"
+  },
+  {
+   "title": "Radio Tutto Napoli, il palinsesto di oggi: trasmissioni live dalle 8",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-live-8-657597",
+   "summary": "Inizia un'altra lunga giornata insieme con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T22:45:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "f88d2ca230a8"
+  },
+  {
+   "title": "Caso Balogun ai Mondiali, Infantino pronto a cambiare le regole: la decisione",
+   "link": "https://www.tuttonapoli.net/mondiali/balogun-mondiali-infantino-pronto-cambiare-regole-decisione-659165",
+   "summary": "Il caso Folarin Balogun potrebbe portare a una revisione delle procedure disciplinari della FIFA.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T22:30:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/66/665d4ad684f944a601880032c03d5656-94805-oooz0000.jpeg",
+   "id": "e645224ef633"
+  },
+  {
+   "title": "Carnevale confida in Lucca “E’ entrato bene con il Villarreal. Io giocherei con due punte”",
+   "link": "https://www.tuttonapoli.net/le-interviste/carnevale-confida-lucca-e-entrato-villarreal-giocherei-punte-659167",
+   "summary": "Andrea Carnevale prende le difese di Lorenzo Lucca e invita il Napoli a concedergli altre occasioni.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T22:20:42+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/99/991acf962c406124665cb0c65e5d53c1-15958-oooz0000.jpeg",
+   "id": "a74653b5e45b"
+  },
+  {
+   "title": "Pavoletti dà addio al calcio giocato: il suo futuro sarà come ds",
+   "link": "https://www.tuttonapoli.net/notizie/pavoletti-da-addio-calcio-giocato-direttore-sportivo-659139",
+   "summary": "(ANSA) - CAGLIARI, 15 OTT - \"Ho deciso di dire addio al calcio. Anche se una piccola porta la lascio ancora aperta.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T22:10:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a4/a4f6696d31499fdc82ebdae7f68916b3-63207-oooz0000.jpeg",
+   "id": "ab29ba8d2a6c",
+   "age_minutes": 147,
+   "also": [],
+   "score": 6.433
+  },
+  {
+   "title": "Retroscena Perrone: in estate il Como ha respinto l’interesse anche del Napoli",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/retroscena-perrone-estate-como-respinto-l-interesse-napoli-659150",
+   "summary": "Il Napoli aveva messo gli occhi su Máximo Perrone, ma in estate il Como ha fatto muro, respingendo l’interesse degli azzurri e di altre big italiane.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T22:00:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/72/727c7a452fd4a76a35bd8ffc893105f0-40108-oooz0000.jpeg",
+   "id": "4fb54303ef4e"
+  },
+  {
+   "title": "Allarme infortuni, Sarri: “Calendario assurdo, si rischia troppo! L’AIC non dice nulla”",
+   "link": "https://www.tuttonapoli.net/serie-a/troppi-infortuni-sarri-calendario-assurdo-rischia-troppo-l-aic-nulla-659182",
+   "summary": "La vittoria per 3-1 contro il Pafos, all’esordio nella fase campionato di Conference League, non basta a Maurizio Sarri per archiviare la serata senza preoccupazioni.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T21:50:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/db/db82d5260f54a2a12564e72214a206a2-39597-oooz0000.jpeg",
+   "id": "68a5013d4ca5"
+  },
+  {
+   "title": "Udinese, Piotrowski come McTominay: idoneità sportiva dopo intervento di ablazione cardiaca",
+   "link": "https://www.tuttonapoli.net/serie-a/piotrowski-mctominay-idoneita-agonistica-l-intervento-ablazione-cardiaca-659155",
+   "summary": "Buone notizie per l’Udinese: Jakub Piotrowski ha ottenuto l’idoneità sportiva per riprendere l’attività agonistica dopo l’intervento di ablazione cardiaca a cui si è sottoposto lo scorso 14 settembre per t ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T21:40:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a3/a375f629a36bf2abaa9f6d0ea619b285-01700-oooz0000.jpeg",
+   "id": "2caa5fc8332d"
+  },
+  {
+   "title": "Vidigal avverte il Napoli: “Sarà dura arrivare tra le prime 4 con Allegri”",
+   "link": "https://www.tuttonapoli.net/le-interviste/vidigal-avverte-napoli-sara-dura-arrivare-prime-4-allegri-659169",
+   "summary": "José Luis Vidigal, ex centrocampista portoghese che ha vestito la maglia del Napoli dal 2000 al 2004, ha analizzato il percorso di crescita del club azzurro in un’intervista esclusiva a Gianlucadimarzio.com.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T21:30:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3aad5b1e17af78b75556068acbcc754-63873-oooz0000.jpeg",
+   "id": "96371ee3bcae"
+  },
+  {
+   "title": "Conference, tutti i risultati delle 21: Brighton a valanga, tris Copenaghen",
+   "link": "https://www.tuttonapoli.net/conference-league/conference-risultati-21-brighton-valanga-tris-copenaghen-659181",
+   "summary": "Poker del Brighton, tris del Copenaghen e vittoria dell’Atalanta: si chiude con risultati netti la prima giornata di Conference League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T21:12:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b8/b823782631419bc076b1a74b52f8a09c-78198-oooz0000.jpeg",
+   "id": "8f10058bf7b9"
+  },
+  {
+   "title": "Europa League, i finali: Italiano non sbaglia un colpo! 3-2 ad Hoffenheim anche senza Vlahovic",
+   "link": "https://www.tuttonapoli.net/europa-league/europa-league-finali-italiano-sbaglia-colpo-3-2-hoffenheim-vlahovic-659180",
+   "summary": "Continua a convincere il Besiktas di Vincenzo Italiano, che supera l’Hoffenheim per 3-2 anche senza Dusan Vlahovic.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T21:06:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bc/bce9a4434d061f29b9105b712a866aef-21685-oooz0000.jpeg",
+   "id": "e0e0f57f9ce1",
+   "age_minutes": 211,
+   "also": [],
+   "score": 6.147
+  },
+  {
+   "title": "L'Atalanta chiude la pratica nel 1T e poi gestisce: 3-1 al Pafos all’esordio in Conference",
+   "link": "https://www.tuttonapoli.net/conference-league/atalanta-chiude-pratica-1t-gestisce-3-1-pafos-all-esordio-conference-659179",
+   "summary": "L’Atalanta comincia nel migliore dei modi il proprio cammino in Conference League, superando il Pafos per 3-1 alla New Balance Arena.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:58:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8aac56d9a640282f8509200f31a582bf-31269-oooz0000.jpeg",
+   "id": "c8251f8119fc"
+  },
+  {
+   "title": "La Juve ribalta il Celta Vigo: Kolo Muani entra e segna il gol decisivo al 92’",
+   "link": "https://www.tuttonapoli.net/europa-league/juve-ribalta-celta-vigo-kolo-muani-entra-segna-gol-decisivo-92-659178",
+   "summary": "La Juventus espugna il Balaídos con una vittoria in extremis: contro il Celta Vigo finisce 2-1, grazie alla rete di Kolo Muani al 92’.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:55:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/553242261e78324343e9d42e1ff6de9f-54325-oooz0000.jpeg",
+   "id": "4b1b2dc6773f"
+  },
+  {
+   "title": "Milanese: \"De Bruyne col Belgio era una furia, per me non c'è tanto feeling con Allegri\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/milanese-de-bruyne-belgio-furia-feeling-allegri-659156",
+   "summary": "La sconfitta contro il Villarreal riaccende i riflettori sul momento del Napoli e sulle possibili tensioni all’interno dello spogliatoio.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:50:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/54/541cb18b3ffa6ebb8f8571628017e8ea-99495-oooz0000.jpeg",
+   "id": "66cca702ab19"
+  },
+  {
+   "title": "“Immenso!”, messaggio dei tifosi per Politano: striscione sotto casa dopo l’errore",
+   "link": "https://www.tuttonapoli.net/notizie/immenso-messaggio-tifosi-politano-striscione-casa-l-errore-659177",
+   "summary": "Un messaggio di sostegno per Matteo Politano dopo la serata difficile contro il Villarreal.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:40:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/21/21ffd1da58c9438e6a2cab891a370725-62505-oooz0000.jpeg",
+   "id": "427a7a6c2f67"
+  },
+  {
+   "title": "Champions, le previsioni del Supercomputer Opta: il Napoli chiuderà (di nuovo) al 30º posto",
+   "link": "https://www.tuttonapoli.net/champions-league/champions-previsioni-supercomputer-opta-napoli-chiudera-di-nuovo-30o-659151",
+   "summary": "La Champions League del Napoli è già in salita e le previsioni del Supercomputer Opta restituiscono uno scenario preoccupante.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:30:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cb/cb9a9f45ee919c14338be09eee791709-59367-oooz0000.jpeg",
+   "id": "ad4e4430f376"
+  },
+  {
+   "title": "Doumbia, che rimpianto: Allegri lo voleva al Napoli, ora piace a mezza Premier",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/super-doumbia-sporting-rimpianto-allegri-voleva-napoli-piace-mezza-premier-659145",
+   "summary": "Un talento in ascesa, un investimento importante e una concorrenza internazionale pronta a farsi avanti.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:20:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d0/d04b4e7fa3616cfa10128181753dcb7e-49428-oooz0000.jpeg",
+   "id": "d304c12bc520"
+  },
+  {
+   "title": "Poggi: “Occhio al Venezia di Nicola! De Bruyne? Quando le cose vanno male è impegnativo…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/poggi-occhio-venezia-nicola-de-bruyne-cose-vanno-impegnativo-659157",
+   "summary": "La sconfitta per 3-1 contro il Villarreal in Champions League ha alimentato le preoccupazioni sul momento del Napoli, con i riflettori puntati anche sui presunti diverbi tra Massimiliano Allegri e Kevin De Bruyne.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:10:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/43/43d837ad36f183cd66eaea4dbab0d2b8-62705-oooz0000.jpeg",
+   "id": "a65edd9470a2"
+  },
+  {
+   "title": "Prima Conte e ora Allegri, Tmw: “De Bruyne mai a suo agio, si faccia esame di coscienza”",
+   "link": "https://www.tuttonapoli.net/notizie/conte-allegri-tmw-de-bruyne-agio-napoli-esame-coscienza-659146",
+   "summary": "Prima Antonio Conte, ora Massimiliano Allegri. In casa Napoli si torna a parlare del rapporto tra Kevin De Bruyne e i suoi allenatori, dopo le presunte incomprensioni emerse durante la gara di Champions League contro il Villarreal.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-15T20:00:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/71/71a4ec60cc7a9593057294c49c35b336-41620-oooz0000.jpeg",
+   "id": "bded63c20829"
+  },
+  {
+   "title": "Nuovo stadio, Sala: \"Confermo i 70 milioni per il quartiere di San Siro. Il Consiglio ci dica dove destinarli\"",
+   "link": "https://www.milannews.it/news/stadio-sala-confermo-70-quartiere-san-siro-dica-destinarli-632869",
+   "summary": "Grazie al progetto di urbanizzazione di Milan ed Inter per il nuovo impianto sportivo e le opere collegate, il quartiere di San Siro avrà a disposizione più di 70 milioni di euro, conferma il sindaco di Milano Giuseppe Sala nel suo inte ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T23:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b3/b33e894aab4af5651f9285de8aed7c02-01803-oooz0000.jpeg",
+   "id": "33e2ee80b941"
+  },
+  {
+   "title": "Amorim felice a metà: \"In altre partite abbiamo giocato meglio\"",
+   "link": "https://www.milannews.it/news/amorim-felice-meta-in-partite-giocato-meglio-632857",
+   "summary": "E' un Ruben Amorim contento a metà quello che dopo la netta vittoria contro il Salisburgo ha parlato così, a Sky Sport.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T22:50:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6a/6af83ae8744755186f23690d3922d5e2-73754-oooz0000.jpeg",
+   "id": "c5ba42a2a508"
+  },
+  {
+   "title": "Cisse convocato in Nazionale da Mancini? Alpha risponde così",
+   "link": "https://www.milannews.it/news/cisse-convocato-nazionale-mancini-alpha-risponde-632866",
+   "summary": "Una serata da sogno e da giocatore di caratura importante, internazionale. E' stato un super Alphadjo Cisse quello visto alla Red Bull Arena contro il Salisburgo nell'ultimo match dei rossoneri in Europa League.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T22:40:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/aa/aacc09f832734af905c9f68d30157bef-64092-oooz0000.jpeg",
+   "id": "eb3803fbbace"
+  },
+  {
+   "title": "Capello felice di Loftus-Cheek: \"Finalmente l'ho visto più cattivo\"",
+   "link": "https://www.milannews.it/news/capello-felice-loftus-cheek-finalmente-cattivo-632868",
+   "summary": "Un bel Milan, di qualità e gamba vince per 4-0 sul campo del Salisburgo, nella seconda giornata di Europa League. Non c'è mai stata partita alla Red Bull Arena.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T22:30:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/62/62b886f02acaf423a26ae667ae08d2c0-33370-oooz0000.jpeg",
+   "id": "9766575ca3f6"
+  },
+  {
+   "title": "L'Inter perde Lautaro: cosa gli è successo e quanto starà fuori",
+   "link": "https://www.milannews.it/news/calcio-inter-perde-lautaro-stop-risentimento-muscolare-632795",
+   "summary": "(ANSA) - MILANO, 15 OTT - Risentimento muscolare ai flessori della coscia sinistra per il capitano dell'Inter Lautaro Martinez. Lo rende noto il club nerazzurro in una nota.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T22:20:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c9/c944573975bf0dbec2a64615878f6cf9-52488-oooz0000.jpeg",
+   "id": "ba768961670d"
+  },
+  {
+   "title": "Cisse è il più giovane della storia del Milan a segnare due volte in un tempo in Europa",
+   "link": "https://www.milannews.it/news/cisse-giovane-storia-milan-segnare-europa-632826",
+   "summary": "Con la doppietta odierna (gol al 15' e al 32'), a 19 anni e 358 giorni Alphadjo Cisse è il più giovane giocatore nella storia del Milan ad aver realizzato una marcatura multipla in un singolo tempo di gioco in una delle maggiori ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T22:10:38+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/35/352f5d4c726bae8153936b9080e7b935-49201-oooz0000.jpeg",
+   "id": "7e69f72876b0"
+  },
+  {
+   "title": "Ma che gioia questa linea verde! Lezione di calcio a Salisburgo",
+   "link": "https://www.milannews.it/editoriale/gioia-linea-verde-lezione-calcio-salisburgo-632849",
+   "summary": "Questa volta il massiccio turnover paga, e paga anche bene. Dentro Tomori, De Winter, Jashari, Hutchinson, Bartesaghi, Cisse, Loftus Cheek, Camarda.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-15T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1d/1d868a7906650c6fd702de354ad2d1ef-97265-oooz0000.jpeg",
+   "id": "69c14aa482bd"
+  },
+  {
    "title": "Super Cisse, Pavlovic ammette: \"Devo essere onesto, mi ha stupito\"",
    "link": "https://www.milannews.it/news/super-cisse-pavlovic-ammette-devo-onesto-stupito-632856",
    "summary": "Al termine di Salisburgo-Milan il difensore centrale rossonero Strahinja Pavlovic ha parlato così a Sky Sport. Questo un breve ma interessante estratto del serbo sul proprio compagno di squadra, MVP della serata con tre gol.",
@@ -833,81 +1347,15 @@
    "id": "4fa57be96b31"
   },
   {
-   "title": "MN - Cisse: \"Ad inizio anno nessuno si sarebbe aspettato tutto questo. Ma se sono qua è perché ho lavorato molto\"",
-   "link": "https://www.milannews.it/news/mn-cisse-ad-inizio-aspettato-questo-lavorato-molto-632860",
-   "summary": "Alhpadjo Cisse, protagonista di serata con la sua tripletta, ha parlato in mix zone al termine di Salisburgo-Milan 0-4. Queste le sue dichiarazioni raccolte dall'inviato di MilanNews.",
-   "source": "MilanNews",
+   "title": "La cara vecchia Champions mette a nudo i difetti dell’Inter",
+   "link": "https://www.fcinternews.it/editoriale/cara-vecchia-champions-mette-nudo-difetti-inter-1020804",
+   "summary": "Dove è finito il calcio italiano? Le quattro squadre in Champions League hanno tutte perso per la prima volta nella storia della competizione. Risultati diversi ma soprattutto avvenuti in modi differenti.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:39:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5a/5a189e9473a2e3b5a2b5cd397ace7da3-75327-oooz0000.jpeg",
-   "id": "09faf9e2921c"
-  },
-  {
-   "title": "LIVE MN - Rohl: \"Sconfitta meritata. Possiamo solo fare i complimenti all'avversario\"",
-   "link": "https://www.milannews.it/l-avversario/live-mn-conferenza-allenatore-salisburgo-partita-milan-632845",
-   "summary": "Le dichiarazioni in conferenza stampa di Danny Rohl, allenatore del Salisbugo, dopo la sconfitta di oggi in Europa League contro il Milan. Ore 21.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:34:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/86/86974dfc56e566c56e208d22531b2b93-95005-oooz0000.jpeg",
-   "id": "bd95b818f7fe"
-  },
-  {
-   "title": "Cisse come Inzaghi: era stato Pippo l'ultimo rossonero a segnare una tripletta in Europa",
-   "link": "https://www.milannews.it/news/cisse-inzaghi-pippo-rossonero-segnare-tripletta-europa-632827",
-   "summary": "L'ultimo calciatore italiano a segnare una tripletta in Europa con la maglia del Milan era stato Pippo Inzaghi in Deportivo-Milan 0-4 del 24 settembre 2002 nel girone di Champions League.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:30:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5d/5d141eede6c56630ebc835ba682d1f20-28816-oooz0000.jpeg",
-   "id": "f2d094c54602"
-  },
-  {
-   "title": "Hutchinson a Sky: \"Amorim ci dice sempre che non siamo cinici. Ruolo? Mi piace stare largo\"",
-   "link": "https://www.milannews.it/news/hutchinson-sky-amorim-cinici-ruolo-piace-stare-largo-632858",
-   "summary": "Omari Hutchinson, attaccante del Milan, è stato intervistato da SkySport dalla RedBull Arena di Salisburgo al termine della vittoria per 0-4 del Milan.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:22:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a047ba15b0e6a217af855b1802345eea-31372-oooz0000.jpeg",
-   "id": "c45a81afea01"
-  },
-  {
-   "title": "LIVE MN - Amorim: \"Sembra assurdo, ma per me Cisse ha avuto partite migliori di oggi. Sono contento per lui e la squadra\"",
-   "link": "https://www.milannews.it/news/live-mn-ruben-amorim-conferenza-stampa-post-salisburgo-milan-632843",
-   "summary": "Le dichiarazioni in conferenza stampa di Ruben Amorim dopo la bella vittoria del Milan contro il Salisburgo. 21.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:20:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6a/6af83ae8744755186f23690d3922d5e2-73754-oooz0000.jpeg",
-   "id": "e2c7ac547fea"
-  },
-  {
-   "title": "Bartesaghi racconta il primo gol di Cisse: \"Sapevamo ci sarebbe stato spazio sul mio lato...\"",
-   "link": "https://www.milannews.it/news/bartesaghi-racconta-gol-cisse-sapevamo-spazio-lato-632854",
-   "summary": "Un'ottima prestazione quella di Davide Bartesaghi contro il Salisburgo.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:20:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9f/9fb65562891e63ae4592fc485370dcd3-96294-oooz0000.jpeg",
-   "id": "541f1d285ec2"
-  },
-  {
-   "title": "Amorim a Sky: \"In altre gare abbiamo fatto meglio. Tutti devono sapere che possono perdere il posto. Su Camarda...\"",
-   "link": "https://www.milannews.it/primo-piano/amorim-sky-in-gare-meglio-devono-sapere-possono-perdere-posto-camarda-632855",
-   "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da SkySport dalla RedBull Arena di Salisburgo al termine della vittoria per 0-4 del Milan.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-15T19:11:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/49/4996b2c70f67225fa8a8804f5af9736c-40248-oooz0000.jpeg",
-   "id": "82dc7df61029"
+   "scope": "Inter",
+   "published": "2026-10-15T22:00:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8b6ade915babc0d1c9cbba83f351eae7-10980-oooz0000.jpeg",
+   "id": "05e345bc4b1a"
   },
   {
    "title": "Juventus, scoppia il caso Conceicao. Spalletti: \"Gli conviene avercela con se stesso\"",
@@ -952,9 +1400,9 @@
    "published": "2026-10-15T21:08:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/47/47b7c17b87b16243c35658df6c69fadd-82675-923o359o2482o1918z1632.jpeg",
    "id": "2b8559a2a125",
-   "age_minutes": 52,
+   "age_minutes": 209,
    "also": [],
-   "score": 5.306
+   "score": 4.555
   },
   {
    "title": "La Juventus ribalta il Celta Vigo in pieno recupero. Tris per l'Atalanta",
@@ -1043,9 +1491,9 @@
    "published": "2026-10-15T19:25:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c1d560c05653456ba99615d405b3aa6e-34346-564o107o2160o1703z11b6.jpeg",
    "id": "0d1bdf86f5a7",
-   "age_minutes": 155,
+   "age_minutes": 312,
    "also": [],
-   "score": 5.193
+   "score": 4.547
   },
   {
    "title": "La tripletta di Cissé lancia il Milan: poker dei rossoneri a Salisburgo",
@@ -1125,15 +1573,15 @@
    "id": "0a832716c74e"
   },
   {
-   "title": "FIFA, Consiglio acceso: Infantino nel mirino degli oppositori sul progetto FFE",
-   "link": "https://www.fcinternews.it/news/fifa-acceso-infantino-mirino-oppositori-progetto-ffe-1020865",
-   "summary": "Un Consiglio FIFA dai toni particolarmente accesi. È quanto emerge dalla riunione dell'organo esecutivo della federazione mondiale del calcio, guidata da Gianni Infantino, andata in scena a Zurigo e durata circa tre ore e mezza.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-15T17:34:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9e/9e5e30e1277ffffaa38e6302628dfa47-90376-oooz0000.jpeg",
-   "id": "eaa5f47c1478"
+   "title": "Juventus talent Conceicao denies tantrum in Vigo: ‘I want to be clear’",
+   "link": "https://football-italia.net/juventus-talent-conceicao-denies-tantrum-celta/",
+   "summary": "Francisco Conceicao denies reports he had a tantrum when substituted in the Juventus win at...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-10-15T22:01:18+00:00",
+   "image": "",
+   "id": "b822048106c4"
   },
   {
    "title": "Sarri pleased with Atalanta progress, but fury at ‘absurd’ fixture list",
@@ -1233,9 +1681,9 @@
    "published": "2026-10-15T18:54:16+00:00",
    "image": "",
    "id": "ea74bf9db203",
-   "age_minutes": 186,
+   "age_minutes": 343,
    "also": [],
-   "score": 5.405
+   "score": 4.786
   },
   {
    "title": "Sarri: ‘Atalanta must be humble, perhaps an error to leave Chelsea’",
@@ -1346,471 +1794,11 @@
    "published": "2026-10-15T16:19:33+00:00",
    "image": "",
    "id": "a01860d6ff76"
-  },
-  {
-   "title": "Europa League line-ups: RB Salzburg vs. Milan",
-   "link": "https://football-italia.net/europa-league-line-ups-rb-salzburg-vs-milan/",
-   "summary": "Milan rotate in the Europa League for a trip to RB Salzburg with Francesco Camarda,...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-10-15T15:35:30+00:00",
-   "image": "",
-   "id": "d1159bcd88d1"
-  },
-  {
-   "title": "Juventus in testa alla classifica di Europa League: tante squadre a punteggio pieno",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-testa-classifica-europa-league-tante-squadre-punteggio-796870",
-   "summary": "La Juventus è in testa alla classifica di Europa League. I bianconeri dopo due giornate hanno sei punti e guidano la graduatoria con altre dieci squadre.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:55:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cc/cc4ff36d93de8a12957ab00b54eea4bf-07330-oooz0000.jpeg",
-   "id": "6adbecd93041"
-  },
-  {
-   "title": "Condò: “Su Woltemade aleggia un po’ di mistero. Il tedesco ha meno qualità ma come tipo di giocatore mi ha ricordato Zirkzee”",
-   "link": "https://www.tuttojuve.com/altre-notizie/condo-su-woltemade-aleggia-po-mistero-tedesco-qualita-tipo-giocatore-ricordato-zirkzee-796865",
-   "summary": "Nella gara contro il Celta Vigo, Luciano Spalletti ha fatto diversi cambi e dal primo minuto ha schierato Nick Woltemade. Il tedesco si è mosso bene da prima punta e ha segnato anche il gol del momentaneo 1-1.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:50:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a3b88f1604e5c2b3f69409212e6b2572-86478-oooz0000.jpeg",
-   "id": "4e1fa233617c"
-  },
-  {
-   "title": "Kolo Muani a Sky: \"Grande rimonta. Gol in coppia con Woltemade? Sono contento, dobbiamo continuare così. Lazio? SIamo pronti\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-sky-gol-coppia-woltemade-contento-dobbiamo-continuare-cosi-796867",
-   "summary": "Randal Kolo Muani, autore del gol-vittoria della Juventus a Vigo, è stato intervistato da Sky Sport. Le sue considerazioni: Kolo, ti sei sbloccato e adesso non ti fermi più.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:42:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9c/9c61ba540cc765ef9096075030bc2bd6-53954-oooz0000.jpeg",
-   "id": "7d718ab73f90"
-  },
-  {
-   "title": "Costacurta: “Nico Gonzalez dà energia alla Juventus. All’intervallo probabilmente…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/costacurta-nico-gonzalez-da-energia-juventus-all-intervallo-probabilmente-796860",
-   "summary": "La Juventus ha vinto il suo secondo match in Europa League e i bianconeri sono in testa alla classifica. Della prestazione della Juventus ne ha parlato Billy Costacurta dagli studi di Sky Sport.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:40:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/94/9416a2a52c1a88c7751a850eb185ab29-30532-oooz0000.jpeg",
-   "id": "360961cbb9d0"
-  },
-  {
-   "title": "Conceicao a Sky: “Bisogna dire la verità, non ho litigato con nessuno quando sono uscito dal campo. Nel secondo tempo grande risposta. Domenica contro la Lazio…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/conceicao-sky-bisogna-verita-litigato-uscito-campo-796863",
-   "summary": "Francisco Conceicao ha parlato ai microfoni Sky Sport dopo la gara contro il Celta Vigo: Francisco, è arrivata una vittoria proprio alla fine, una vittoria importante dopo un primo tempo un po’ sofferto.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:34:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d6/d6809f3c02607289c5c8724545a669cb-93805-oooz0000.jpeg",
-   "id": "a94aaae49b49"
-  },
-  {
-   "title": "Capello: “Il gol di Kolo Muani è stato molto bello. Probabilmente si è sentito più…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/capello-il-gol-kolo-muani-bello-sentito-piu-796855",
-   "summary": "La Juventus ha vinto in rimonta contro il Celta Vigo e questa per Spalletti è sicuramente una buona notizia. Il gol vittoria dei bianconeri è stato realizzato da Randal Kolo Muani.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:30:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/11/11cc945eebdf970a50f8a96867120df8-46382-oooz0000.jpeg",
-   "id": "0498a0944510"
-  },
-  {
-   "title": "Spalletti a Sky: \"Nel primo tempo lenti nel fare tutto. Kolo è un giocatore forte. Koop deve migliorare. Conceiçao? Gli conviene essere arrabbiato con se stesso, altrimenti...\"",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-sky-796858",
-   "summary": "Luciano Spalletti ha commentato il successo della sua Juventus a Vigo ai microfoni di Sky Sport. Le sue parole: Quanto tempo sarà passato da quando ha detto: Woltemade vai di là, metti Kolo in mezzo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:22:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c7/c790ab93ab183323f72b9a8d37fe4839-75502-oooz0000.jpeg",
-   "id": "7d76c59b6200"
-  },
-  {
-   "title": "Woltemade a Sky: “La mia miglior partita da quando sono alla Juve. I gol aiutano sempre. Mi piace giocare con Kolo Muani ma non sono io l’allenatore”",
-   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-sky-796856",
-   "summary": "Nick Woltemade ha parlato ai microfoni di Sky Sport dopo la gara contro il Celta Vigo. Ecco le sue parole riprese da TuttoJvue.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:11:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f6/f6b20813508262976132536b776bd23c-35491-oooz0000.jpeg",
-   "id": "a171ab773fdf"
-  },
-  {
-   "title": "Marocchi: “I cambi di Spalletti sono stati il segnale che…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/marocchi-i-cambi-spalletti-segnale-che-796854",
-   "summary": "La Juventus ha battuto in rimonta il Celta Vigo grazie ai gol di Nick Woltemade e Randal Kolo Muani. Giancarlo Marocchi, dagli studi di Sky Sport, ha analizzato la prestazione dei bianconeri.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:10:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/90/903ed446df80124c4e0fa4e28f683ed1-26685-oooz0000.jpeg",
-   "id": "325400e4d6ca"
-  },
-  {
-   "title": "Celta Vigo-Juventus 1-2, rimonta bianconera con Woltemade e Kolo Muani: Spalletti la vince con i cambi, ma quanti rischi!",
-   "link": "https://www.tuttojuve.com/primo-piano/celta-vigo-juventus-1-2-rimonta-bianconera-con-woltemade-e-kolo-muani-spalletti-la-vince-con-i-cam-796849",
-   "summary": "La Juventus conquista una vittoria pesantissima in Europa League, superando il Celta Vigo per 2-1 al termine di una partita complicata e ricca di difficoltà.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T21:10:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d5/d53dc71d2bb7f427cf86b3125cb892a8-06466-oooz0000.jpeg",
-   "id": "e15d16c827c6"
-  },
-  {
-   "title": "Pavanello: \"La Juventus deve giocare con due punte\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/pavanello-la-juventus-giocare-punte-796857",
-   "summary": "La Juventus conquista la seconda vittoria consecutiva in Europa League, superando in rimonta il Celta Vigo al termine di una partita complicata, risolta soltanto nei minuti di recupero.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:50:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ae/ae5595990da02b1ba9ba5d21b564ec5d-76015-oooz0000.jpeg",
-   "id": "187977e06fad"
-  },
-  {
-   "title": "Celta Vigo-Juventus 1-2, finale: Woltemade e Kolo Muani la ribaltano",
-   "link": "https://www.tuttojuve.com/primo-piano/celta-vigo-juventus-fischio-inizio-match-796823",
-   "summary": "45'+4' – Finale a Vigo: la Juve la ribalta grazie alle reti di Woltemade e Kolo Muani nella ripresa. Juventus a punteggio pieno in Europa League, dopo i successo contro Nec e Celta Vigo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d5/d53dc71d2bb7f427cf86b3125cb892a8-06466-oooz0000.jpeg",
-   "id": "e3257311c75e"
-  },
-  {
-   "title": "Murgia ricorda il gol alla Juventus: \"Un'emozione indescrivibile. La Lazio non mollava mai\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/murgia-ricorda-gol-juventus-un-emozione-indescrivibile-lazio-mollava-mai-796853",
-   "summary": "Alessandro Murgia torna a parlare della Lazio, ripercorrendo alcuni dei momenti più significativi della propria esperienza in biancoceleste e analizzando il brillante avvio di stagione della formazione allenata da Gennaro Gattuso.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:40:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/36/36a729de1107b50c807d493bf2b27e99-61973-oooz0000.jpeg",
-   "id": "ec2ae8866e54"
-  },
-  {
-   "title": "Celta Vigo-Juventus, Conceicao sostituito e furioso: sfogo plateale del portoghese",
-   "link": "https://www.tuttojuve.com/altre-notizie/celta-vigo-juventus-conceicao-sostituito-furioso-sfogo-plateale-portoghese-796852",
-   "summary": "Momenti di tensione in casa Juventus durante la sfida di Europa League contro il Celta Vigo, valida per la seconda giornata della competizione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:30:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/55/553a20aba69a9d2d63d32bce8d31e8de-68696-oooz0000.jpeg",
-   "id": "dafa1ba23938"
-  },
-  {
-   "title": "Borsa, Juventus in rosso. Bene Ferrari e Stellantis",
-   "link": "https://www.tuttojuve.com/altre-notizie/borsa-juventus-rosso-ferrari-stellantis-796851",
-   "summary": "Chiusura contrastata per le Borse europee, che riescono a recuperare terreno nella parte finale di una seduta caratterizzata dall'incertezza sui mercati finanziari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:20:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/74/74a45504e33cd34a191dcb497d5a94d4-19038-oooz0000.jpeg",
-   "id": "9c0fb4829cd7"
-  },
-  {
-   "title": "Celta Vigo-Juventus all'intervallo: numeri e commenti del primo tempo",
-   "link": "https://www.tuttojuve.com/altre-notizie/celta-vigo-juventus-nec-1-0-intervallo-numeri-commenti-796850",
-   "summary": "Si chiude la prima frazione al Balaidos di Vigo sul risultato di 1-0 in favore del Celta Vigo, grazie alla rete di Alvarez al 18'. Il gol del vantaggio arriva alla prima occasione pericolosa dei padroni di casa.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:10:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/28/28c536bf2deec0d5f4bd1ea7e7a56fe8-85222-oooz0000.jpeg",
-   "id": "0cdc07e43ed9"
-  },
-  {
-   "title": "L'avv. Alosi: \"Caso Manchester City, ecco cosa rischia. E la UEFA...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/avv-alosi-caso-manchester-city-rischia-uefa-796825",
-   "summary": "L'avvocato Pietro Alosi del Foro di Palermo, esperto di diritto sportivo, membro della Cassa Forense e membro del Collegio dei Probiviri dell'AIAC, ha parlato ai microfoni di Tuttomercatoweb.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/57/57315f88483eeb49a1273f4bc628d77f-93190-oooz0000.jpeg",
-   "id": "2765af1c8b89",
-   "age_minutes": 120,
-   "also": [],
-   "score": 5.359
-  },
-  {
-   "title": "Badiashile esalta l'ex Juve Allegri: \"Una delle ragioni per cui sono venuto a Napoli\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/badiashile-esalta-juve-allegri-una-ragioni-venuto-napoli-796827",
-   "summary": "Il difensore del Napoli Benoit Badiashile ha parlato a Radio Kiss Kiss Napoli del rapporto con Massimiliano Allegri: \"È una delle ragioni principali che mi hanno spinto ad accettare di venire a Napoli.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T19:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3f/3fa45d78712d04227316958b7736d74c-53161-oooz0000.jpeg",
-   "id": "9c1396418449"
-  },
-  {
-   "title": "Vitinha manda un messaggio a Cristiano Ronaldo: \"Spera che si risolva tutto\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/vitinha-manda-messaggio-cristiano-ronaldo-spera-risolva-tutto-796845",
-   "summary": "Vitinha, centrocampista del PSG e del Portogallo, ha parlato dopo la vittoria in Champions League contro il Manchester City, è in particolare del compagno di Nazionale ed ex Juve Cristiano Ronaldo: \"Questa pausa per le nazionali è ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T19:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/60/6067054507e3ec24758e28532c5e24c5-73390-oooz0000.jpeg",
-   "id": "5d704726e4bc"
-  },
-  {
-   "title": "Joao Pedro: \"Felice per il pari del Cagliari contro la Juve. E' un bel momento\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/joao-pedro-felice-pari-cagliari-juve-bel-momento-796837",
-   "summary": "L'ex Cagliari Joao Pedro è intervenuto a Radiolina per parlare dei sardi, reduci dal pareggio contro i bianconeri in campionato: \"Ero felicissimo del pareggio con la Juve e che la squadra fosse quarto in classifica.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-15T19:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/67/67e0a689499faa2c3d3f922a222401ab-81692-oooz0000.jpeg",
-   "id": "6b5e1cdbfb8b"
-  },
-  {
-   "title": "Allarme infortuni, Sarri: “Calendario assurdo, si rischia troppo! L’AIC non dice nulla”",
-   "link": "https://www.tuttonapoli.net/serie-a/troppi-infortuni-sarri-calendario-assurdo-rischia-troppo-l-aic-nulla-659182",
-   "summary": "La vittoria per 3-1 contro il Pafos, all’esordio nella fase campionato di Conference League, non basta a Maurizio Sarri per archiviare la serata senza preoccupazioni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T21:50:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/db/db82d5260f54a2a12564e72214a206a2-39597-oooz0000.jpeg",
-   "id": "68a5013d4ca5"
-  },
-  {
-   "title": "Udinese, Piotrowski come McTominay: idoneità sportiva dopo intervento di ablazione cardiaca",
-   "link": "https://www.tuttonapoli.net/serie-a/piotrowski-mctominay-idoneita-agonistica-l-intervento-ablazione-cardiaca-659155",
-   "summary": "Buone notizie per l’Udinese: Jakub Piotrowski ha ottenuto l’idoneità sportiva per riprendere l’attività agonistica dopo l’intervento di ablazione cardiaca a cui si è sottoposto lo scorso 14 settembre per t ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T21:40:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a3/a375f629a36bf2abaa9f6d0ea619b285-01700-oooz0000.jpeg",
-   "id": "2caa5fc8332d"
-  },
-  {
-   "title": "Vidigal avverte il Napoli: “Sarà dura arrivare tra le prime 4 con Allegri”",
-   "link": "https://www.tuttonapoli.net/le-interviste/vidigal-avverte-napoli-sara-dura-arrivare-prime-4-allegri-659169",
-   "summary": "José Luis Vidigal, ex centrocampista portoghese che ha vestito la maglia del Napoli dal 2000 al 2004, ha analizzato il percorso di crescita del club azzurro in un’intervista esclusiva a Gianlucadimarzio.com.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T21:30:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3aad5b1e17af78b75556068acbcc754-63873-oooz0000.jpeg",
-   "id": "96371ee3bcae"
-  },
-  {
-   "title": "Conference, tutti i risultati delle 21: Brighton a valanga, tris Copenaghen",
-   "link": "https://www.tuttonapoli.net/conference-league/conference-risultati-21-brighton-valanga-tris-copenaghen-659181",
-   "summary": "Poker del Brighton, tris del Copenaghen e vittoria dell’Atalanta: si chiude con risultati netti la prima giornata di Conference League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T21:12:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b8/b823782631419bc076b1a74b52f8a09c-78198-oooz0000.jpeg",
-   "id": "8f10058bf7b9"
-  },
-  {
-   "title": "Europa League, i finali: Italiano non sbaglia un colpo! 3-2 ad Hoffenheim anche senza Vlahovic",
-   "link": "https://www.tuttonapoli.net/europa-league/europa-league-finali-italiano-sbaglia-colpo-3-2-hoffenheim-vlahovic-659180",
-   "summary": "Continua a convincere il Besiktas di Vincenzo Italiano, che supera l’Hoffenheim per 3-2 anche senza Dusan Vlahovic.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T21:06:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bc/bce9a4434d061f29b9105b712a866aef-21685-oooz0000.jpeg",
-   "id": "e0e0f57f9ce1",
-   "age_minutes": 54,
-   "also": [],
-   "score": 6.895
-  },
-  {
-   "title": "L'Atalanta chiude la pratica nel 1T e poi gestisce: 3-1 al Pafos all’esordio in Conference",
-   "link": "https://www.tuttonapoli.net/conference-league/atalanta-chiude-pratica-1t-gestisce-3-1-pafos-all-esordio-conference-659179",
-   "summary": "L’Atalanta comincia nel migliore dei modi il proprio cammino in Conference League, superando il Pafos per 3-1 alla New Balance Arena.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:58:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8a/8aac56d9a640282f8509200f31a582bf-31269-oooz0000.jpeg",
-   "id": "c8251f8119fc"
-  },
-  {
-   "title": "La Juve ribalta il Celta Vigo: Kolo Muani entra e segna il gol decisivo al 92’",
-   "link": "https://www.tuttonapoli.net/europa-league/juve-ribalta-celta-vigo-kolo-muani-entra-segna-gol-decisivo-92-659178",
-   "summary": "La Juventus espugna il Balaídos con una vittoria in extremis: contro il Celta Vigo finisce 2-1, grazie alla rete di Kolo Muani al 92’.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:55:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/553242261e78324343e9d42e1ff6de9f-54325-oooz0000.jpeg",
-   "id": "4b1b2dc6773f"
-  },
-  {
-   "title": "Milanese: \"De Bruyne col Belgio era una furia, per me non c'è tanto feeling con Allegri\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/milanese-de-bruyne-belgio-furia-feeling-allegri-659156",
-   "summary": "La sconfitta contro il Villarreal riaccende i riflettori sul momento del Napoli e sulle possibili tensioni all’interno dello spogliatoio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:50:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/54/541cb18b3ffa6ebb8f8571628017e8ea-99495-oooz0000.jpeg",
-   "id": "66cca702ab19"
-  },
-  {
-   "title": "“Immenso!”, messaggio dei tifosi per Politano: striscione sotto casa dopo l’errore",
-   "link": "https://www.tuttonapoli.net/notizie/immenso-messaggio-tifosi-politano-striscione-casa-l-errore-659177",
-   "summary": "Un messaggio di sostegno per Matteo Politano dopo la serata difficile contro il Villarreal.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:40:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/21/21ffd1da58c9438e6a2cab891a370725-62505-oooz0000.jpeg",
-   "id": "427a7a6c2f67"
-  },
-  {
-   "title": "Champions, le previsioni del Supercomputer Opta: il Napoli chiuderà (di nuovo) al 30º posto",
-   "link": "https://www.tuttonapoli.net/champions-league/champions-previsioni-supercomputer-opta-napoli-chiudera-di-nuovo-30o-659151",
-   "summary": "La Champions League del Napoli è già in salita e le previsioni del Supercomputer Opta restituiscono uno scenario preoccupante.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:30:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cb/cb9a9f45ee919c14338be09eee791709-59367-oooz0000.jpeg",
-   "id": "ad4e4430f376"
-  },
-  {
-   "title": "Doumbia, che rimpianto: Allegri lo voleva al Napoli, ora piace a mezza Premier",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/super-doumbia-sporting-rimpianto-allegri-voleva-napoli-piace-mezza-premier-659145",
-   "summary": "Un talento in ascesa, un investimento importante e una concorrenza internazionale pronta a farsi avanti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:20:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d0/d04b4e7fa3616cfa10128181753dcb7e-49428-oooz0000.jpeg",
-   "id": "d304c12bc520"
-  },
-  {
-   "title": "Poggi: “Occhio al Venezia di Nicola! De Bruyne? Quando le cose vanno male è impegnativo…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/poggi-occhio-venezia-nicola-de-bruyne-cose-vanno-impegnativo-659157",
-   "summary": "La sconfitta per 3-1 contro il Villarreal in Champions League ha alimentato le preoccupazioni sul momento del Napoli, con i riflettori puntati anche sui presunti diverbi tra Massimiliano Allegri e Kevin De Bruyne.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:10:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/43/43d837ad36f183cd66eaea4dbab0d2b8-62705-oooz0000.jpeg",
-   "id": "a65edd9470a2"
-  },
-  {
-   "title": "Prima Conte e ora Allegri, Tmw: “De Bruyne mai a suo agio, si faccia esame di coscienza”",
-   "link": "https://www.tuttonapoli.net/notizie/conte-allegri-tmw-de-bruyne-agio-napoli-esame-coscienza-659146",
-   "summary": "Prima Antonio Conte, ora Massimiliano Allegri. In casa Napoli si torna a parlare del rapporto tra Kevin De Bruyne e i suoi allenatori, dopo le presunte incomprensioni emerse durante la gara di Champions League contro il Villarreal.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T20:00:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/71/71a4ec60cc7a9593057294c49c35b336-41620-oooz0000.jpeg",
-   "id": "bded63c20829"
-  },
-  {
-   "title": "Salisburgo travolto dal Milan, male anche Lindstrom: “Una comparsa con pochi spunti”",
-   "link": "https://www.tuttonapoli.net/europa-league/salisburgo-travolto-milan-lindstrom-partita-comparsa-pochi-spunti-659163",
-   "summary": "Il Milan travolge il Salisburgo per 4-0 nella seconda giornata di Europa League, grazie alla tripletta di Alphadjo Cissé, a segno al 15’ e al 32’ del primo tempo e al 4’ della ripresa, e alla rete di Ramos al 27’ del se ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:50:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a08138bd87ab85a6441e370dff1cc962-08302-oooz0000.jpeg",
-   "id": "8cf3c890dc8f"
-  },
-  {
-   "title": "Roma-Mourinho, Criscitiello: “Tifoseria piccola. Tributo senza senso per una coppetta…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/roma-mourinho-criscitiello-tifoseria-piccola-tributo-senso-coppetta-659159",
-   "summary": "L’omaggio dei tifosi della Roma a José Mourinho prima della sfida contro il Real Madrid non è piaciuto a Michele Criscitiello.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/113122c7007ea6162294d4c3942a17e9-26205-oooz0000.jpeg",
-   "id": "59bd6a789555"
-  },
-  {
-   "title": "Champions già in salita, il trend di Allegri preoccupa: numeri disastrosi nelle ultime 10",
-   "link": "https://www.tuttonapoli.net/champions-league/champions-salita-trend-allegri-preoccupa-numeri-disastrosi-ultime-10-659149",
-   "summary": "La Champions League del Napoli è già in salita. Il 3-1 incassato contro il Villarreal lascia gli azzurri a zero punti dopo due giornate e accende i primi campanelli d'allarme.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:30:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b8/b85775b1d4f0cf6f92e9db73391b7f89-46654-oooz0000.jpeg",
-   "id": "0337449a6225"
-  },
-  {
-   "title": "Atalanta-Pafos, Raspadori come De Bruyne: segna su rigore e si infortuna",
-   "link": "https://www.tuttonapoli.net/conference-league/atalanta-pafos-raspadori-de-bruyne-segna-rigore-esce-infortunio-659166",
-   "summary": "Gioia per il gol, preoccupazione per le condizioni fisiche. Giacomo Raspadori trova la rete del 2-0 dell’Atalanta contro il Pafos su calcio di rigore, ma subito dopo accusa un problema muscolare ed è costretto a chiedere il cambio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:20:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/7506b6f167fddaf18a268f2b4a60658c-14966-oooz0000.jpeg",
-   "id": "f5a9aace3a64"
-  },
-  {
-   "title": "Atalanta, Sarri: \"Lasciare la Premier per andare alla Juve? Forse un errore...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/atalanta-sarri-lasciare-premier-andare-juve-errore-659162",
-   "summary": "Maurizio Sarri torna sul suo passato al Chelsea e sul rapporto con David Luiz, che nelle scorse ore aveva speso parole affettuose nei suoi confronti.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3944d4bf37b0a88cf49ebf49c396d7a-03481-oooz0000.jpeg",
-   "id": "455bc0d89c80"
-  },
-  {
-   "title": "Il Napoli sfida Arsenal e Chelsea per Aranda del Boca! Il talento 2007 ha una clausola: le cifre",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/napoli-sfida-arsenal-chelsea-aranda-boca-talento-2007-clausola-cifre-659158",
-   "summary": "Il Napoli si inserisce nella corsa a Tomás Aranda, giovane centrocampista del Boca Juniors che ha attirato l’interesse di alcuni importanti club europei.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T19:00:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e7/e76656fc70301d55bf306a24ebcb801b-01951-oooz0000.jpeg",
-   "id": "7757028b86fe",
-   "age_minutes": 180,
-   "also": [],
-   "score": 6.282
-  },
-  {
-   "title": "Conference, i finali delle 18.45: successi per Panathinaikos e Trabzonspor, caos in Hajduk-Ajax",
-   "link": "https://www.tuttonapoli.net/conference-league/conference-finali-18-45-successi-panathinaikos-trabzonspor-caos-hajduk-ajax-659164",
-   "summary": "Le gare delle 18:45 di Conference League regalano risultati importanti in vista del prosieguo della prima giornata. Vincono il Trabzonspor e il Panathinaikos, mentre l’Ajax incassa una sconfitta contro l’Hajduk Spalato.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-15T18:50:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b1/b131f282e3f80e259bf37aec33b722e9-87491-oooz0000.jpeg",
-   "id": "2dcd4d8c08ef"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 22
+  "in_edizione": 20
  }
 }
