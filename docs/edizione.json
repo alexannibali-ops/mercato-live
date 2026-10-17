@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T21:07:18.050007+02:00",
+ "generated_at": "2026-10-17T23:38:42.408940+02:00",
  "articles": [
   {
    "title": "Atletico Madrid, il ds Alemany: “Non ci sono novità sul diritto di riscatto di David. Abbiamo un’opzione d’acquisto con la Juve, ma…”",
@@ -11,11 +11,11 @@
    "published": "2026-10-17T17:00:59+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/21/21ac6b593c7afb5c113a6c7eb2d8c5eb-59365-oooz0000.jpeg",
    "id": "225c113e1472",
-   "age_minutes": 126,
+   "age_minutes": 277,
    "also": [],
-   "score": 9.533,
+   "score": 8.878,
    "occhiello": "Juventus",
-   "eta": "2 h fa"
+   "eta": "4 h fa"
   },
   {
    "title": "Kolarov in conferenza: \"Avrei firmato per questo risultato nonostante l'errore, ma dobbiamo migliorare\"",
@@ -27,11 +27,59 @@
    "published": "2026-10-17T18:51:58+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/51/513f95bbe2a2d86d7b2751698dc07c75-45644-oooz0000.jpeg",
    "id": "9f7081fbe582",
-   "age_minutes": 15,
+   "age_minutes": 166,
    "also": [],
-   "score": 9.112,
+   "score": 8.344,
    "occhiello": "Bologna",
-   "eta": "15 min fa"
+   "eta": "2 h fa"
+  },
+  {
+   "title": "MN - Luis Enrique non ci sta: \"Torres meglio di Ramos? Non è vero, Gonçalo ci ha fatto vincere tutto. Puoi essere non d'accordo\"",
+   "link": "https://www.milannews.it/news/mn-luis-enrique-sta-torres-ramos-vero-goncalo-vincere-tutto-puoi-accordo-633078",
+   "summary": "Luis Enrique ha risposto alla domanda del nostro giornalista Alessandro Schiavone, che gli ha chiesto perché Ferran Torres (7 gol in 8 partite con il PSG tra Ligue 1 e Champions League finora) si sia inserito meglio di…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-17T21:12:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/74/74f90ae258d7212738434c488cd32f33-63885-oooz0000.jpeg",
+   "id": "70ff806965c3",
+   "age_minutes": 26,
+   "also": [],
+   "score": 7.051,
+   "occhiello": "PSG",
+   "eta": "26 min fa"
+  },
+  {
+   "title": "Riscatto dopo il Real, la Roma tiene la scia dell’Inter: Genoa ko",
+   "link": "https://www.tuttonapoli.net/serie-a/riscatto-real-roma-tiene-scia-dell-inter-genoa-ko-659361",
+   "summary": "La Roma si lascia alle spalle l’amara sconfitta in Champions League contro il Real Madrid e ritrova il successo in campionato, superando il Genoa per 2-0 allo stadio Olimpico.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-17T20:38:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cd/cd09688f82ae2cd35335917d37d34c87-63016-oooz0000.jpeg",
+   "id": "d8d268db3220",
+   "age_minutes": 59,
+   "also": [],
+   "score": 6.869,
+   "occhiello": "Inter · Roma",
+   "eta": "59 min fa"
+  },
+  {
+   "title": "Genoa, precipita la situazione di A-Cap: saltato un accordo con Oaktree",
+   "link": "https://www.fcinternews.it/news/genoa-precipita-situazione-a-cap-saltato-accordo-oaktree-1021008",
+   "summary": "Advantage Capital Holdings, gruppo statunitense attualmente azionista di minoranza del Genoa, sta vedendo progressivamente precipitare la propria situazione.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-17T19:38:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/50/5092695903a5e37d2129f9e80be4752f-01438-oooz0000.jpeg",
+   "id": "c8065c102442",
+   "age_minutes": 120,
+   "also": [],
+   "score": 6.561,
+   "occhiello": "Genoa",
+   "eta": "2 h fa"
   },
   {
    "title": "Bologna-Inter 1-3: Pobega illude, poi la rimonta firmata Thuram, Carlos Augusto e Bonny. La classifica aggiornata",
@@ -43,32 +91,11 @@
    "published": "2026-10-17T18:00:59+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/91/9141c2ec1ab49b396a8f5602d7942c4a-72020-oooz0000.jpeg",
    "id": "cf2aee7c67ec",
-   "age_minutes": 66,
-   "also": [
-    {
-     "source": "FcInterNews",
-     "link": "https://www.fcinternews.it/in-primo-piano/bologna-ghiotta-thuram-carlos-augusto-bonny-sbancato-ara-1020987"
-    }
-   ],
-   "score": 7.435,
-   "occhiello": "Inter · Bologna",
-   "eta": "1 h fa"
-  },
-  {
-   "title": "Bucchioni: “Mancato rinnovo di Vlahovic per incomprensioni precedenti, ci fosse stato Carnevali…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/bucchioni-mancato-rinnovo-vlahovic-incomprensioni-precedenti-carnevali-797063",
-   "summary": "Enzo Bucchioni, intervenuto a Radio Sportiva, ha parlato di quanto fatto sul mercato dalla Juventus e quanto dovrà fare in futuro la dirigenza bianconera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-17T16:45:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0c/0c7baef2d8add43e13ced3f7e3da4c29-84493-oooz0000.jpeg",
-   "id": "e9a6e01ff7e6",
-   "age_minutes": 142,
+   "age_minutes": 217,
    "also": [],
-   "score": 7.257,
-   "occhiello": "Juventus",
-   "eta": "2 h fa"
+   "score": 6.121,
+   "occhiello": "Inter · Bologna",
+   "eta": "3 h fa"
   },
   {
    "title": "Juve, Spalletti cambia di nuovo l’attacco: chi gioca contro la Lazio",
@@ -80,27 +107,11 @@
    "published": "2026-10-17T16:25:15+00:00",
    "image": "",
    "id": "e06497250c4c",
-   "age_minutes": 162,
+   "age_minutes": 313,
    "also": [],
-   "score": 6.565,
+   "score": 5.944,
    "occhiello": "Lazio",
-   "eta": "2 h fa"
-  },
-  {
-   "title": "Milan-Atalanta, che tegola: un big salta la sfida di San Siro",
-   "link": "https://www.calciomercato.it/2026/10/17/milan-atalanta-che-tegola-un-big-salta-la-sfida-di-san-siro/",
-   "summary": "L'articolo Milan-Atalanta, che tegola: un big salta la sfida di San Siro proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-17T14:54:15+00:00",
-   "image": "",
-   "id": "234b987710ff",
-   "age_minutes": 253,
-   "also": [],
-   "score": 6.176,
-   "occhiello": "Milan · Atalanta",
-   "eta": "4 h fa"
+   "eta": "5 h fa"
   },
   {
    "title": "Bellingham-Real Madrid, firma in arrivo: tutti i dettagli",
@@ -112,11 +123,59 @@
    "published": "2026-10-16T16:48:33+00:00",
    "image": "",
    "id": "30a8ca005d40",
-   "age_minutes": 1578,
+   "age_minutes": 1730,
    "also": [],
-   "score": 5.809,
+   "score": 5.729,
    "occhiello": "Real Madrid",
    "eta": "1 g fa"
+  },
+  {
+   "title": "Milan-Atalanta, che tegola: un big salta la sfida di San Siro",
+   "link": "https://www.calciomercato.it/2026/10/17/milan-atalanta-che-tegola-un-big-salta-la-sfida-di-san-siro/",
+   "summary": "L'articolo Milan-Atalanta, che tegola: un big salta la sfida di San Siro proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-17T14:54:15+00:00",
+   "image": "",
+   "id": "234b987710ff",
+   "age_minutes": 404,
+   "also": [],
+   "score": 5.631,
+   "occhiello": "Milan · Atalanta",
+   "eta": "6 h fa"
+  },
+  {
+   "title": "Futuro Allegri, Romano: nessun contatto con altri allenatori, la posizione di ADL",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/allegri-romano-contatto-allenatori-posizione-adl-659358",
+   "summary": "Nessun contatto con altri allenatori, nessuna trattativa avviata e una posizione che, almeno per il momento, resta invariata.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-17T20:00:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6b/6bde051182f0213e544fb9862d69e678-58380-oooz0000.jpeg",
+   "id": "479fa13a4437",
+   "age_minutes": 98,
+   "also": [],
+   "score": 5.469,
+   "occhiello": "Napoli",
+   "eta": "1 h fa"
+  },
+  {
+   "title": "Milan, Cisse ha segnato la prima tripletta dell'Europa League 2026/2027",
+   "link": "https://www.milannews.it/news/milan-cisse-segnato-tripletta-europa-league-2026-2027-632950",
+   "summary": "Come riporta il sito ufficiale della UEFA, \"il giovane talento del Milan Alphadjo Cissé ha realizzato la prima tripletta della UEFA Europa League 2026/27 alla seconda giornata.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-17T19:48:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d4/d455790fee03bc0153bc5ef0d77b857d-97731-oooz0000.jpeg",
+   "id": "855c0312ff41",
+   "age_minutes": 109,
+   "also": [],
+   "score": 5.413,
+   "occhiello": "Milan",
+   "eta": "1 h fa"
   },
   {
    "title": "Roma-Genoa, Gasperini ha deciso: si cambia a centrocampo e in attacco",
@@ -128,11 +187,27 @@
    "published": "2026-10-17T13:00:51+00:00",
    "image": "",
    "id": "23619a4c6b68",
-   "age_minutes": 366,
+   "age_minutes": 517,
    "also": [],
-   "score": 5.756,
+   "score": 5.294,
    "occhiello": "Roma · Genoa",
-   "eta": "6 h fa"
+   "eta": "8 h fa"
+  },
+  {
+   "title": "Bologna-Inter, è bufera sul 2-1 di Carlos Augusto: pioggia di post-social, i tifosi della Juventus denunciano un possibile fuorigioco",
+   "link": "https://www.tuttojuve.com/altre-notizie/bologna-inter-bufera-2-1-pioggia-post-social-tifosi-juventus-denunciano-possibile-fuorigioco-797081",
+   "summary": "La vittoria dell'Inter sul campo del Bologna finisce al centro delle polemiche sui social, con numerosi tifosi della Juventus che contestano la regolarità del gol del sorpasso nerazzurro.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-17T20:15:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/46/466fddf3ca92b935bc9f952a3d549826-15290-oooz0000.jpeg",
+   "id": "754207594832",
+   "age_minutes": 83,
+   "also": [],
+   "score": 5.146,
+   "occhiello": "Juventus · Inter",
+   "eta": "1 h fa"
   },
   {
    "title": "Bologna-Inter, le ultime: chi gioca al posto dell’infortunato Lautaro Martinez",
@@ -144,27 +219,11 @@
    "published": "2026-10-17T10:48:33+00:00",
    "image": "",
    "id": "27ee8ece34e3",
-   "age_minutes": 498,
+   "age_minutes": 650,
    "also": [],
-   "score": 5.347,
+   "score": 4.964,
    "occhiello": "Inter · Bologna",
-   "eta": "8 h fa"
-  },
-  {
-   "title": "Venezia-Napoli, turnover massiccio per Allegri: quante novità",
-   "link": "https://www.calciomercato.it/2026/10/17/venezia-napoli-turnover-massiccio-per-allegri-quante-novita/",
-   "summary": "L'articolo Venezia-Napoli, turnover massiccio per Allegri: quante novità proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-17T09:14:34+00:00",
-   "image": "",
-   "id": "bb7a85d6fe72",
-   "age_minutes": 592,
-   "also": [],
-   "score": 5.1,
-   "occhiello": "Napoli",
-   "eta": "9 h fa"
+   "eta": "10 h fa"
   },
   {
    "title": "Chivu con 4 assenti a Bologna, Marotta: “Resto ottimista” | VIDEO CM",
@@ -176,11 +235,27 @@
    "published": "2026-10-16T18:05:08+00:00",
    "image": "",
    "id": "2e1082355ee3",
-   "age_minutes": 1502,
+   "age_minutes": 1653,
    "also": [],
-   "score": 4.857,
+   "score": 4.767,
    "occhiello": "Bologna",
    "eta": "1 g fa"
+  },
+  {
+   "title": "Venezia-Napoli, turnover massiccio per Allegri: quante novità",
+   "link": "https://www.calciomercato.it/2026/10/17/venezia-napoli-turnover-massiccio-per-allegri-quante-novita/",
+   "summary": "L'articolo Venezia-Napoli, turnover massiccio per Allegri: quante novità proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-17T09:14:34+00:00",
+   "image": "",
+   "id": "bb7a85d6fe72",
+   "age_minutes": 744,
+   "also": [],
+   "score": 4.766,
+   "occhiello": "Napoli",
+   "eta": "12 h fa"
   },
   {
    "title": "Quattro novità in vista di novembre: Mancini è pronto a convocarli per la Nations League",
@@ -192,27 +267,11 @@
    "published": "2026-10-17T06:58:21+00:00",
    "image": "",
    "id": "eec81b64a3cb",
-   "age_minutes": 728,
+   "age_minutes": 880,
    "also": [],
-   "score": 4.796,
+   "score": 4.522,
    "occhiello": "Mercato",
-   "eta": "12 h fa"
-  },
-  {
-   "title": "Joseph Kalulu: \"Pierre e gli altri fratelli calciatori mi danno consigli\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/joseph-kalulu-pierre-fratelli-calciatori-danno-consigli-797054",
-   "summary": "In una lunga intervista concessa a Foot Mercato, il terzino sinistro dell'Angers Joseph Kalulu ha parlato anche del rapporto con i suoi tre fratelli, calciatori professionisti come lui, Aldo, Gedeon e Pierre, che da…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-17T14:30:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c0/c0dc7fe9c010fac5de871983311a99f3-71245-oooz0000.jpeg",
-   "id": "e47a5016fdc4",
-   "age_minutes": 276,
-   "also": [],
-   "score": 4.684,
-   "occhiello": "Juventus",
-   "eta": "4 h fa"
+   "eta": "14 h fa"
   },
   {
    "title": "L’Inter boccia Martinez: nuovo portiere dalla Serie A",
@@ -224,11 +283,11 @@
    "published": "2026-10-17T05:29:21+00:00",
    "image": "",
    "id": "814d9f8ccc6a",
-   "age_minutes": 817,
+   "age_minutes": 969,
    "also": [],
-   "score": 4.628,
+   "score": 4.387,
    "occhiello": "Inter",
-   "eta": "13 h fa"
+   "eta": "16 h fa"
   },
   {
    "title": "La Roma mette nel mirino Koopmeiners, la Juventus chiede in cambio un giallorosso | CM",
@@ -240,11 +299,11 @@
    "published": "2026-10-16T21:10:23+00:00",
    "image": "",
    "id": "fbe47049721a",
-   "age_minutes": 1316,
+   "age_minutes": 1468,
    "also": [],
-   "score": 3.997,
+   "score": 3.88,
    "occhiello": "Juventus · Roma",
-   "eta": "21 h fa"
+   "eta": "1 g fa"
   },
   {
    "title": "Frosinone-Sassuolo 4-2, volano gli uomini di Alvini",
@@ -256,11 +315,11 @@
    "published": "2026-10-16T20:41:55+00:00",
    "image": "",
    "id": "3a3e9939643e",
-   "age_minutes": 1345,
+   "age_minutes": 1496,
    "also": [],
-   "score": 3.973,
+   "score": 3.861,
    "occhiello": "Sassuolo",
-   "eta": "22 h fa"
+   "eta": "1 g fa"
   },
   {
    "title": "Nuovo attaccante in arrivo alla Juventus, Spalletti ha le idee chiare",
@@ -272,11 +331,11 @@
    "published": "2026-10-16T19:31:11+00:00",
    "image": "",
    "id": "9e1b4cda764b",
-   "age_minutes": 1416,
+   "age_minutes": 1567,
    "also": [],
-   "score": 3.918,
+   "score": 3.816,
    "occhiello": "Juventus",
-   "eta": "23 h fa"
+   "eta": "1 g fa"
   },
   {
    "title": "De Bruyne-Allegri, spunta la verità: tifosi del Napoli sorpresi",
@@ -288,9 +347,9 @@
    "published": "2026-10-16T18:00:22+00:00",
    "image": "",
    "id": "f3d41955cf90",
-   "age_minutes": 1506,
+   "age_minutes": 1658,
    "also": [],
-   "score": 3.854,
+   "score": 3.765,
    "occhiello": "Napoli",
    "eta": "1 g fa"
   },
@@ -304,9 +363,9 @@
    "published": "2026-10-16T12:51:56+00:00",
    "image": "",
    "id": "2c7856e28323",
-   "age_minutes": 1815,
+   "age_minutes": 1966,
    "also": [],
-   "score": 3.691,
+   "score": 3.634,
    "occhiello": "Inter · Bologna",
    "eta": "1 g fa"
   },
@@ -320,9 +379,9 @@
    "published": "2026-10-16T11:53:30+00:00",
    "image": "",
    "id": "5f0e6a2ddd62",
-   "age_minutes": 1873,
+   "age_minutes": 2025,
    "also": [],
-   "score": 3.667,
+   "score": 3.615,
    "occhiello": "Roma",
    "eta": "1 g fa"
   },
@@ -336,42 +395,10 @@
    "published": "2026-10-16T11:26:49+00:00",
    "image": "",
    "id": "4bd5643c93d6",
-   "age_minutes": 1900,
+   "age_minutes": 2051,
    "also": [],
-   "score": 3.657,
+   "score": 3.607,
    "occhiello": "Mercato",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Chiesa di nuovo in Serie A, bomba dall’Inghilterra: dove può finire",
-   "link": "https://www.calciomercato.it/2026/10/16/chiesa-di-nuovo-in-serie-a-bomba-dallinghilterra-dove-puo-finire/",
-   "summary": "L'articolo Chiesa di nuovo in Serie A, bomba dall’Inghilterra: dove può finire proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-16T09:11:44+00:00",
-   "image": "",
-   "id": "a5f581f76b9e",
-   "age_minutes": 2035,
-   "also": [],
-   "score": 3.612,
-   "occhiello": "Mercato",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Conceicao via dalla Juventus? La risposta non lascia dubbi",
-   "link": "https://www.calciomercato.it/2026/10/16/conceicao-via-dalla-juventus-la-risposta-non-lascia-dubbi/",
-   "summary": "L'articolo Conceicao via dalla Juventus? La risposta non lascia dubbi proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-16T08:28:45+00:00",
-   "image": "",
-   "id": "c5ef1299ad0e",
-   "age_minutes": 2078,
-   "also": [],
-   "score": 3.599,
-   "occhiello": "Juventus",
    "eta": "1 g fa"
   }
  ]
