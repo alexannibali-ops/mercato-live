@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T21:19:50.518606+02:00",
+ "generated_at": "2026-10-18T23:43:34.411198+02:00",
  "articles": [
   {
    "title": "David, bomba da Madrid: è un duro colpo per la Juventus",
@@ -11,11 +11,43 @@
    "published": "2026-10-18T14:49:23+00:00",
    "image": "",
    "id": "2dc5c9bfd1a8",
-   "age_minutes": 270,
+   "age_minutes": 414,
    "also": [],
-   "score": 8.107,
+   "score": 7.599,
    "occhiello": "Juventus",
-   "eta": "4 h fa"
+   "eta": "6 h fa"
+  },
+  {
+   "title": "Gattuso: “Con pochi soldi fatto un bel mercato, proviamo a restare in alto”",
+   "link": "https://www.tuttonapoli.net/le-interviste/gattuso-con-pochi-soldi-bel-mercato-proviamo-restare-alto-659435",
+   "summary": "Gennaro Gattuso, dopo la roboante vittoria della sua Lazio a Torino contro la Juventus per 0-3, è intervenuto in conferenza stampa analizzando l'ottimo lavoro effettuato dalla società e le prospettive stagionali.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T21:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
+   "id": "eefd62b18d32",
+   "age_minutes": 13,
+   "also": [],
+   "score": 7.122,
+   "occhiello": "Juventus · Lazio",
+   "eta": "13 min fa"
+  },
+  {
+   "title": "Esonero Spalletti, pazienza finita tra i tifosi: il nome di Conte è sempre più forte",
+   "link": "https://www.calciomercato.it/2026/10/18/esonero-spalletti-pazienza-finita-tra-i-tifosi-il-nome-di-conte-e-sempre-piu-forte/",
+   "summary": "L'articolo Esonero Spalletti, pazienza finita tra i tifosi: il nome di Conte è sempre più forte proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-18T20:41:42+00:00",
+   "image": "",
+   "id": "0cf3794c33e2",
+   "age_minutes": 61,
+   "also": [],
+   "score": 7.058,
+   "occhiello": "Mercato",
+   "eta": "1 h fa"
   },
   {
    "title": "Juventus contro Roma: c’è la clausola da 80 milioni",
@@ -27,11 +59,43 @@
    "published": "2026-10-18T09:45:51+00:00",
    "image": "",
    "id": "13e028a11c7c",
-   "age_minutes": 573,
+   "age_minutes": 717,
    "also": [],
-   "score": 7.146,
+   "score": 6.819,
    "occhiello": "Juventus · Roma",
-   "eta": "9 h fa"
+   "eta": "11 h fa"
+  },
+  {
+   "title": "La Lazio passeggia a Torino e agguanta l'Inter: tris biancoceleste sulla Juventus",
+   "link": "https://www.fcinternews.it/news/lazio-passeggia-torino-agguanta-inter-tris-biancoceleste-juventus-1021111",
+   "summary": "Ennesima grande prestazione della Lazio, che passeggia a Torino contro la Juventus, calando ai bianconeri un sonoro tris al termine di una partita perfetta. Apre le marcature Provstgaard con un colpo di testa perfetto.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-18T20:42:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e64a1860214363f9d7b8f215f80b88ec-67321-oooz0000.jpeg",
+   "id": "c729f0f7263c",
+   "age_minutes": 61,
+   "also": [],
+   "score": 6.662,
+   "occhiello": "Juventus · Inter",
+   "eta": "1 h fa"
+  },
+  {
+   "title": "Azzi: \"Si è ignorato l'enorme downgrade con l'addio di Conte\"",
+   "link": "https://www.tuttonapoli.net/dai-social/azzi-si-ignorato-enorme-downgrade-addio-conte-659425",
+   "summary": "Il giornalista di Repubblica, Marco Azzi, ha commentato su X l'addio estivo di Conte, definendolo un enorme \"downgrade\".",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T20:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
+   "id": "1ec9540a08ec",
+   "age_minutes": 103,
+   "also": [],
+   "score": 6.644,
+   "occhiello": "Napoli",
+   "eta": "1 h fa"
   },
   {
    "title": "Voti Milan-Atalanta 3-2, rossoneri quarti in classifica",
@@ -43,11 +107,11 @@
    "published": "2026-10-18T17:59:09+00:00",
    "image": "",
    "id": "a7b4005c9d5c",
-   "age_minutes": 80,
+   "age_minutes": 224,
    "also": [],
-   "score": 6.96,
+   "score": 6.293,
    "occhiello": "Milan · Atalanta",
-   "eta": "1 h fa"
+   "eta": "3 h fa"
   },
   {
    "title": "Basta difendere Allegri: non esiste mercato o età media per giustificare un Napoli da metà classifica",
@@ -59,11 +123,11 @@
    "published": "2026-10-18T18:30:18+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1c/1ce802aa5acc295f3a1ebfad936db908-36588-oooz0000.jpeg",
    "id": "f9cc0f338081",
-   "age_minutes": 49,
+   "age_minutes": 193,
    "also": [],
-   "score": 6.924,
+   "score": 6.226,
    "occhiello": "Napoli",
-   "eta": "49 min fa"
+   "eta": "3 h fa"
   },
   {
    "title": "GdS - Carlos Augusto ora è un fattore. In attesa di prolungare il contratto",
@@ -75,27 +139,27 @@
    "published": "2026-10-18T17:35:34+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/06/062a03ee3624df51f6d7b40a7d2419a4-88662-oooz0000.jpeg",
    "id": "0cad8797bbee",
-   "age_minutes": 104,
+   "age_minutes": 248,
    "also": [],
-   "score": 6.641,
+   "score": 5.996,
    "occhiello": "Bologna",
-   "eta": "1 h fa"
+   "eta": "4 h fa"
   },
   {
-   "title": "Koop, occasioni e tempo stanno scadendo e si avvicina il mercato di gennaio",
-   "link": "https://www.tuttojuve.com/altre-notizie/koop-occasioni-scadendo-avvicina-mercato-gennaio-797140",
-   "summary": "Il rendimento di Teun Koopmeiners continua a rappresentare un problema per la Juventus.",
-   "source": "TuttoJuve",
+   "title": "Debacle Juve, la Lazio di Gattuso passeggia su Spalletti: 0-3 a Torino",
+   "link": "https://www.milannews.it/news/debacle-juve-lazio-gattuso-passeggia-spalletti-0-3-torino-633152",
+   "summary": "Una super Lazio passeggia in casa della Juventus.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T17:15:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/03/032f1b68d233f820ed9d4ff3818e93d8-91208-oooz0000.jpeg",
-   "id": "e47503fb4034",
-   "age_minutes": 124,
+   "scope": "Milan",
+   "published": "2026-10-18T21:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2bcc08d7ad1a4c6818c9e92e2bc0bb3b-49823-oooz0000.jpeg",
+   "id": "8427641fc710",
+   "age_minutes": 43,
    "also": [],
-   "score": 6.54,
-   "occhiello": "Juventus",
-   "eta": "2 h fa"
+   "score": 5.959,
+   "occhiello": "Juventus · Lazio",
+   "eta": "43 min fa"
   },
   {
    "title": "Milan, due nomi per rinforzare la difesa a gennaio: tutti i dettagli",
@@ -107,43 +171,27 @@
    "published": "2026-10-18T16:24:31+00:00",
    "image": "",
    "id": "8ac188d29e61",
-   "age_minutes": 175,
+   "age_minutes": 319,
    "also": [],
-   "score": 6.505,
+   "score": 5.923,
    "occhiello": "Milan",
-   "eta": "2 h fa"
+   "eta": "5 h fa"
   },
   {
-   "title": "Lazio, a Torino una maledizione lunga anni: l'ultimo successo porta la firma di Immobile",
-   "link": "https://www.tuttojuve.com/altre-notizie/lazio-torino-maledizione-lunga-anni-successo-porta-firma-immobile-797147",
-   "summary": "La Lazio di Gennaro Gattuso si presenta alla sfida contro la Juventus con l'intenzione di proseguire il buon percorso avviato nelle prime giornate di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T16:30:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f2/f24ea69b6e2b204dbc81d38e1e265345-54838-oooz0000.jpeg",
-   "id": "186709aecd5b",
-   "age_minutes": 169,
-   "also": [],
-   "score": 6.33,
-   "occhiello": "Juventus · Lazio",
-   "eta": "2 h fa"
-  },
-  {
-   "title": "SM - F. Stankovic incanta al Venezia, l'inter osserva interessata: c'è una clausola",
-   "link": "https://www.fcinternews.it/focus/i-sm-i-filip-stankovic-incanta-venezia-inter-osserva-interessata-clausola-1021082",
-   "summary": "Due fratelli, due percorsi differenti e un cognome che continua a essere legato all'Inter.",
+   "title": "Esposito rischia il sorpasso di Bonny: l'ivoriano si gioca una chance contro lo Shakhtar",
+   "link": "https://www.fcinternews.it/in-primo-piano/esposito-rischia-sorpasso-bonny-ivoriano-gioca-chance-shakhtar-1021076",
+   "summary": "L'Inter ha trovato le risposte che cercava dal proprio reparto offensivo dopo il pesante infortunio di Lautaro Martinez.",
    "source": "FcInterNews",
    "source_weight": 0.8,
    "scope": "Inter",
-   "published": "2026-10-18T14:28:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4b/4b484cf605242523a50546e31f753f38-79717-oooz0000.jpeg",
-   "id": "75cc83941bd6",
-   "age_minutes": 291,
+   "published": "2026-10-18T20:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/9141c2ec1ab49b396a8f5602d7942c4a-72020-oooz0000.jpeg",
+   "id": "eacd60c3fdef",
+   "age_minutes": 103,
    "also": [],
-   "score": 5.824,
+   "score": 5.644,
    "occhiello": "Inter",
-   "eta": "4 h fa"
+   "eta": "1 h fa"
   },
   {
    "title": "Nazionale, 11 (+1) calciatori classe 2004 nel mirino di Mancini: nuovi convocati in arrivo",
@@ -155,11 +203,11 @@
    "published": "2026-10-18T06:44:25+00:00",
    "image": "",
    "id": "ea186bc43b43",
-   "age_minutes": 755,
+   "age_minutes": 899,
    "also": [],
-   "score": 5.744,
+   "score": 5.492,
    "occhiello": "Mercato",
-   "eta": "12 h fa"
+   "eta": "14 h fa"
   },
   {
    "title": "Juve-Lazio, Spalletti fa fuori 3 big: esclusioni eccellenti",
@@ -171,11 +219,11 @@
    "published": "2026-10-18T12:47:35+00:00",
    "image": "",
    "id": "a051eae0692d",
-   "age_minutes": 392,
+   "age_minutes": 535,
    "also": [],
-   "score": 5.67,
+   "score": 5.245,
    "occhiello": "Lazio",
-   "eta": "6 h fa"
+   "eta": "8 h fa"
   },
   {
    "title": "Canovi: “Il Napoli è una squadra vecchia, Conte aveva capito tutto”",
@@ -187,27 +235,11 @@
    "published": "2026-10-18T18:15:10+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b6/b6a7632dc6cbb727ad78980097a92ba3-45487-oooz0000.jpeg",
    "id": "5762316ff06c",
-   "age_minutes": 64,
+   "age_minutes": 208,
    "also": [],
-   "score": 5.643,
+   "score": 4.96,
    "occhiello": "Napoli",
-   "eta": "1 h fa"
-  },
-  {
-   "title": "De Gea per la Juve non è un rimpianto, ennesima papera con la Fiorentina",
-   "link": "https://www.tuttojuve.com/altre-notizie/de-gea-juve-rimpianto-ennesima-papera-fiorentina-797150",
-   "summary": "In estate David De Gea era stato tra i possibili obiettivi della Juventus per la porta, quando i bianconeri cercavano un rimpiazzo per Di Gregorio e sondavano il mercato italiano e quello estero, oggi lo spagnolo è…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T17:45:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c7/c749ad6445240586830eb542e5d26035-51624-960o215o2556o1811z15a6.jpeg",
-   "id": "c239a2824017",
-   "age_minutes": 94,
-   "also": [],
-   "score": 5.489,
-   "occhiello": "Juventus · Fiorentina",
-   "eta": "1 h fa"
+   "eta": "3 h fa"
   },
   {
    "title": "Rimpianto Spalletti prima di Juve-Lazio: “Corre, fa gol e ha grande cuore”",
@@ -219,11 +251,11 @@
    "published": "2026-10-18T07:41:01+00:00",
    "image": "",
    "id": "b511cc8bec9f",
-   "age_minutes": 698,
+   "age_minutes": 842,
    "also": [],
-   "score": 4.858,
+   "score": 4.585,
    "occhiello": "Lazio",
-   "eta": "11 h fa"
+   "eta": "14 h fa"
   },
   {
    "title": "Esonero Allegri, il ko accende l’allarme: la situazione e i possibili sostituti",
@@ -235,11 +267,11 @@
    "published": "2026-10-18T05:18:46+00:00",
    "image": "",
    "id": "40cbe6552f2b",
-   "age_minutes": 841,
+   "age_minutes": 984,
    "also": [],
-   "score": 4.587,
+   "score": 4.365,
    "occhiello": "Mercato",
-   "eta": "14 h fa"
+   "eta": "16 h fa"
   },
   {
    "title": "Ha stregato Inter, Juventus e Roma: sfida alle big europee",
@@ -251,11 +283,11 @@
    "published": "2026-10-17T21:46:11+00:00",
    "image": "",
    "id": "0dc9d72f7461",
-   "age_minutes": 1293,
+   "age_minutes": 1437,
    "also": [],
-   "score": 4.018,
+   "score": 3.902,
    "occhiello": "Juventus · Inter",
-   "eta": "21 h fa"
+   "eta": "23 h fa"
   },
   {
    "title": "Roma-Genoa 2-0, i giallorossi tornano al successo",
@@ -267,11 +299,11 @@
    "published": "2026-10-17T20:42:08+00:00",
    "image": "",
    "id": "65bf8ee64907",
-   "age_minutes": 1357,
+   "age_minutes": 1501,
    "also": [],
-   "score": 3.963,
+   "score": 3.858,
    "occhiello": "Roma · Genoa",
-   "eta": "22 h fa"
+   "eta": "1 g fa"
   },
   {
    "title": "Juve, Spalletti cambia di nuovo l’attacco: chi gioca contro la Lazio",
@@ -283,9 +315,9 @@
    "published": "2026-10-17T16:25:15+00:00",
    "image": "",
    "id": "e06497250c4c",
-   "age_minutes": 1614,
+   "age_minutes": 1758,
    "also": [],
-   "score": 3.789,
+   "score": 3.716,
    "occhiello": "Lazio",
    "eta": "1 g fa"
   },
@@ -299,9 +331,9 @@
    "published": "2026-10-17T14:54:15+00:00",
    "image": "",
    "id": "234b987710ff",
-   "age_minutes": 1705,
+   "age_minutes": 1849,
    "also": [],
-   "score": 3.741,
+   "score": 3.677,
    "occhiello": "Milan · Atalanta",
    "eta": "1 g fa"
   },
@@ -315,9 +347,9 @@
    "published": "2026-10-17T13:00:51+00:00",
    "image": "",
    "id": "23619a4c6b68",
-   "age_minutes": 1818,
+   "age_minutes": 1962,
    "also": [],
-   "score": 3.689,
+   "score": 3.635,
    "occhiello": "Roma · Genoa",
    "eta": "1 g fa"
   },
@@ -331,26 +363,10 @@
    "published": "2026-10-17T10:48:33+00:00",
    "image": "",
    "id": "27ee8ece34e3",
-   "age_minutes": 1951,
+   "age_minutes": 2095,
    "also": [],
-   "score": 3.639,
+   "score": 3.594,
    "occhiello": "Inter · Bologna",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Venezia-Napoli, turnover massiccio per Allegri: quante novità",
-   "link": "https://www.calciomercato.it/2026/10/17/venezia-napoli-turnover-massiccio-per-allegri-quante-novita/",
-   "summary": "L'articolo Venezia-Napoli, turnover massiccio per Allegri: quante novità proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-17T09:14:34+00:00",
-   "image": "",
-   "id": "bb7a85d6fe72",
-   "age_minutes": 2045,
-   "also": [],
-   "score": 3.609,
-   "occhiello": "Napoli",
    "eta": "1 g fa"
   }
  ]
