@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-18T23:43:34.411198+02:00",
+ "generated_at": "2026-10-19T02:00:15.873423+02:00",
  "articles": [
+  {
+   "title": "La rivelazione di mercato di Amorim sulla cessione di Estupinan",
+   "link": "https://www.milannews.it/calciomercato-milan/rivelazione-mercato-amorim-cessione-estupinan-633207",
+   "summary": "Ruben Amorim, allenatore del Milan, si è così espresso in conferenza stampa su Pervis Estupinan, terzino sinistro rossonero: \"Anche in altri club succede che a volte ai tifosi non piacciano troppo certi giocatori.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:55:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/63/636c10307ce03bd4d55c362231af9684-75872-oooz0000.jpeg",
+   "id": "17f5e980fc0d",
+   "age_minutes": 64,
+   "also": [],
+   "score": 8.844
+  },
   {
    "title": "David, bomba da Madrid: è un duro colpo per la Juventus",
    "link": "https://www.calciomercato.it/2026/10/18/david-bomba-da-madrid-e-un-duro-colpo-per-la-juventus/",
@@ -11,37 +25,9 @@
    "published": "2026-10-18T14:49:23+00:00",
    "image": "",
    "id": "2dc5c9bfd1a8",
-   "age_minutes": 414,
+   "age_minutes": 550,
    "also": [],
-   "score": 7.599
-  },
-  {
-   "title": "Gattuso: “Con pochi soldi fatto un bel mercato, proviamo a restare in alto”",
-   "link": "https://www.tuttonapoli.net/le-interviste/gattuso-con-pochi-soldi-bel-mercato-proviamo-restare-alto-659435",
-   "summary": "Gennaro Gattuso, dopo la roboante vittoria della sua Lazio a Torino contro la Juventus per 0-3, è intervenuto in conferenza stampa analizzando l'ottimo lavoro effettuato dalla società e le prospettive stagionali.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T21:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
-   "id": "eefd62b18d32",
-   "age_minutes": 13,
-   "also": [],
-   "score": 7.122
-  },
-  {
-   "title": "Esonero Spalletti, pazienza finita tra i tifosi: il nome di Conte è sempre più forte",
-   "link": "https://www.calciomercato.it/2026/10/18/esonero-spalletti-pazienza-finita-tra-i-tifosi-il-nome-di-conte-e-sempre-piu-forte/",
-   "summary": "L'articolo Esonero Spalletti, pazienza finita tra i tifosi: il nome di Conte è sempre più forte proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-18T20:41:42+00:00",
-   "image": "",
-   "id": "0cf3794c33e2",
-   "age_minutes": 61,
-   "also": [],
-   "score": 7.058
+   "score": 7.205
   },
   {
    "title": "Juventus contro Roma: c’è la clausola da 80 milioni",
@@ -53,23 +39,37 @@
    "published": "2026-10-18T09:45:51+00:00",
    "image": "",
    "id": "13e028a11c7c",
-   "age_minutes": 717,
+   "age_minutes": 854,
    "also": [],
-   "score": 6.819
+   "score": 6.565
   },
   {
-   "title": "La Lazio passeggia a Torino e agguanta l'Inter: tris biancoceleste sulla Juventus",
-   "link": "https://www.fcinternews.it/news/lazio-passeggia-torino-agguanta-inter-tris-biancoceleste-juventus-1021111",
-   "summary": "Ennesima grande prestazione della Lazio, che passeggia a Torino contro la Juventus, calando ai bianconeri un sonoro tris al termine di una partita perfetta. Apre le marcature Provstgaard con un colpo di testa perfetto.",
-   "source": "FcInterNews",
+   "title": "Lazio, Gattuso: “Con pochi soldi fatto un bel mercato, proviamo a restare in alto”",
+   "link": "https://www.tuttonapoli.net/le-interviste/gattuso-con-pochi-soldi-bel-mercato-proviamo-restare-alto-659435",
+   "summary": "Gennaro Gattuso, dopo la roboante vittoria della sua Lazio a Torino contro la Juventus per 0-3, è intervenuto in conferenza stampa analizzando l'ottimo lavoro effettuato dalla società e le prospettive stagionali.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-18T20:42:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e64a1860214363f9d7b8f215f80b88ec-67321-oooz0000.jpeg",
-   "id": "c729f0f7263c",
-   "age_minutes": 61,
+   "scope": "Napoli",
+   "published": "2026-10-18T21:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
+   "id": "eefd62b18d32",
+   "age_minutes": 150,
    "also": [],
-   "score": 6.662
+   "score": 6.42
+  },
+  {
+   "title": "Esonero Spalletti, pazienza finita tra i tifosi: il nome di Conte è sempre più forte",
+   "link": "https://www.calciomercato.it/2026/10/18/esonero-spalletti-pazienza-finita-tra-i-tifosi-il-nome-di-conte-e-sempre-piu-forte/",
+   "summary": "L'articolo Esonero Spalletti, pazienza finita tra i tifosi: il nome di Conte è sempre più forte proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-18T20:41:42+00:00",
+   "image": "",
+   "id": "0cf3794c33e2",
+   "age_minutes": 198,
+   "also": [],
+   "score": 6.403
   },
   {
    "title": "Azzi: \"Si è ignorato l'enorme downgrade con l'addio di Conte\"",
@@ -81,9 +81,23 @@
    "published": "2026-10-18T20:00:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
    "id": "1ec9540a08ec",
-   "age_minutes": 103,
+   "age_minutes": 240,
    "also": [],
-   "score": 6.644
+   "score": 6.027
+  },
+  {
+   "title": "La Lazio passeggia a Torino e agguanta l'Inter: tris biancoceleste sulla Juventus",
+   "link": "https://www.fcinternews.it/news/lazio-passeggia-torino-agguanta-inter-tris-biancoceleste-juventus-1021111",
+   "summary": "Ennesima grande prestazione della Lazio, che passeggia a Torino contro la Juventus, calando ai bianconeri un sonoro tris al termine di una partita perfetta. Apre le marcature Provstgaard con un colpo di testa perfetto.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-18T20:42:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e64a1860214363f9d7b8f215f80b88ec-67321-oooz0000.jpeg",
+   "id": "c729f0f7263c",
+   "age_minutes": 197,
+   "also": [],
+   "score": 6.006
   },
   {
    "title": "Voti Milan-Atalanta 3-2, rossoneri quarti in classifica",
@@ -95,9 +109,9 @@
    "published": "2026-10-18T17:59:09+00:00",
    "image": "",
    "id": "a7b4005c9d5c",
-   "age_minutes": 224,
+   "age_minutes": 361,
    "also": [],
-   "score": 6.293
+   "score": 5.775
   },
   {
    "title": "Basta difendere Allegri: non esiste mercato o età media per giustificare un Napoli da metà classifica",
@@ -109,37 +123,9 @@
    "published": "2026-10-18T18:30:18+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1c/1ce802aa5acc295f3a1ebfad936db908-36588-oooz0000.jpeg",
    "id": "f9cc0f338081",
-   "age_minutes": 193,
+   "age_minutes": 329,
    "also": [],
-   "score": 6.226
-  },
-  {
-   "title": "GdS - Carlos Augusto ora è un fattore. In attesa di prolungare il contratto",
-   "link": "https://www.fcinternews.it/copertina/i-gds-i-carlos-augusto-fattore-prolungare-contratto-1021100",
-   "summary": "Nell'analisi di Gazzetta.it sulla prestazione di Carlos Augusto contro il Bologna, non può mancare un cenno all'eventuale prolungamento del contratto.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-18T17:35:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/06/062a03ee3624df51f6d7b40a7d2419a4-88662-oooz0000.jpeg",
-   "id": "0cad8797bbee",
-   "age_minutes": 248,
-   "also": [],
-   "score": 5.996
-  },
-  {
-   "title": "Debacle Juve, la Lazio di Gattuso passeggia su Spalletti: 0-3 a Torino",
-   "link": "https://www.milannews.it/news/debacle-juve-lazio-gattuso-passeggia-spalletti-0-3-torino-633152",
-   "summary": "Una super Lazio passeggia in casa della Juventus.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T21:00:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2bcc08d7ad1a4c6818c9e92e2bc0bb3b-49823-oooz0000.jpeg",
-   "id": "8427641fc710",
-   "age_minutes": 43,
-   "also": [],
-   "score": 5.959
+   "score": 5.684
   },
   {
    "title": "Milan, due nomi per rinforzare la difesa a gennaio: tutti i dettagli",
@@ -151,23 +137,23 @@
    "published": "2026-10-18T16:24:31+00:00",
    "image": "",
    "id": "8ac188d29e61",
-   "age_minutes": 319,
+   "age_minutes": 455,
    "also": [],
-   "score": 5.923
+   "score": 5.471
   },
   {
-   "title": "Esposito rischia il sorpasso di Bonny: l'ivoriano si gioca una chance contro lo Shakhtar",
-   "link": "https://www.fcinternews.it/in-primo-piano/esposito-rischia-sorpasso-bonny-ivoriano-gioca-chance-shakhtar-1021076",
-   "summary": "L'Inter ha trovato le risposte che cercava dal proprio reparto offensivo dopo il pesante infortunio di Lautaro Martinez.",
+   "title": "Roma, De Roon promette battaglia: \"Scudetto? Vogliamo vincere e arrivare in alto\"",
+   "link": "https://www.fcinternews.it/news/roma-de-roon-promette-battaglia-scudetto-vogliamo-vincere-arrivare-alto-1021103",
+   "summary": "La Roma può lottare per lo Scudetto con l'Inter? Marten De Roon, centrocampista dei giallorossi, ha parlato così a SportMediaset circa questa possibilità: “Stimo il Mister e sono d’accordo con lui.",
    "source": "FcInterNews",
    "source_weight": 0.8,
    "scope": "Inter",
-   "published": "2026-10-18T20:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/9141c2ec1ab49b396a8f5602d7942c4a-72020-oooz0000.jpeg",
-   "id": "eacd60c3fdef",
-   "age_minutes": 103,
+   "published": "2026-10-18T21:54:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/22/2211d63ac088f2071ad1c7611eaa6f10-94932-oooz0000.jpeg",
+   "id": "621bca72acca",
+   "age_minutes": 126,
    "also": [],
-   "score": 5.644
+   "score": 5.334
   },
   {
    "title": "Nazionale, 11 (+1) calciatori classe 2004 nel mirino di Mancini: nuovi convocati in arrivo",
@@ -179,9 +165,37 @@
    "published": "2026-10-18T06:44:25+00:00",
    "image": "",
    "id": "ea186bc43b43",
-   "age_minutes": 899,
+   "age_minutes": 1035,
    "also": [],
-   "score": 5.492
+   "score": 5.296
+  },
+  {
+   "title": "Debacle Juve, la Lazio di Gattuso passeggia su Spalletti: 0-3 a Torino",
+   "link": "https://www.milannews.it/news/debacle-juve-lazio-gattuso-passeggia-spalletti-0-3-torino-633152",
+   "summary": "Una super Lazio passeggia in casa della Juventus.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T21:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2bcc08d7ad1a4c6818c9e92e2bc0bb3b-49823-oooz0000.jpeg",
+   "id": "8427641fc710",
+   "age_minutes": 179,
+   "also": [],
+   "score": 5.285
+  },
+  {
+   "title": "Esposito rischia il sorpasso di Bonny: l'ivoriano si gioca una chance contro lo Shakhtar",
+   "link": "https://www.fcinternews.it/in-primo-piano/esposito-rischia-sorpasso-bonny-ivoriano-gioca-chance-shakhtar-1021076",
+   "summary": "L'Inter ha trovato le risposte che cercava dal proprio reparto offensivo dopo il pesante infortunio di Lautaro Martinez.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-18T20:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/9141c2ec1ab49b396a8f5602d7942c4a-72020-oooz0000.jpeg",
+   "id": "eacd60c3fdef",
+   "age_minutes": 240,
+   "also": [],
+   "score": 5.027
   },
   {
    "title": "Juve-Lazio, Spalletti fa fuori 3 big: esclusioni eccellenti",
@@ -193,9 +207,9 @@
    "published": "2026-10-18T12:47:35+00:00",
    "image": "",
    "id": "a051eae0692d",
-   "age_minutes": 535,
+   "age_minutes": 672,
    "also": [],
-   "score": 5.245
+   "score": 4.914
   },
   {
    "title": "Canovi: “Il Napoli è una squadra vecchia, Conte aveva capito tutto”",
@@ -207,9 +221,9 @@
    "published": "2026-10-18T18:15:10+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b6/b6a7632dc6cbb727ad78980097a92ba3-45487-oooz0000.jpeg",
    "id": "5762316ff06c",
-   "age_minutes": 208,
+   "age_minutes": 345,
    "also": [],
-   "score": 4.96
+   "score": 4.43
   },
   {
    "title": "Rimpianto Spalletti prima di Juve-Lazio: “Corre, fa gol e ha grande cuore”",
@@ -221,9 +235,9 @@
    "published": "2026-10-18T07:41:01+00:00",
    "image": "",
    "id": "b511cc8bec9f",
-   "age_minutes": 842,
+   "age_minutes": 979,
    "also": [],
-   "score": 4.585
+   "score": 4.373
   },
   {
    "title": "Esonero Allegri, il ko accende l’allarme: la situazione e i possibili sostituti",
@@ -235,9 +249,9 @@
    "published": "2026-10-18T05:18:46+00:00",
    "image": "",
    "id": "40cbe6552f2b",
-   "age_minutes": 984,
+   "age_minutes": 1121,
    "also": [],
-   "score": 4.365
+   "score": 4.192
   },
   {
    "title": "Ha stregato Inter, Juventus e Roma: sfida alle big europee",
@@ -249,9 +263,9 @@
    "published": "2026-10-17T21:46:11+00:00",
    "image": "",
    "id": "0dc9d72f7461",
-   "age_minutes": 1437,
+   "age_minutes": 1574,
    "also": [],
-   "score": 3.902
+   "score": 3.812
   },
   {
    "title": "Roma-Genoa 2-0, i giallorossi tornano al successo",
@@ -263,9 +277,9 @@
    "published": "2026-10-17T20:42:08+00:00",
    "image": "",
    "id": "65bf8ee64907",
-   "age_minutes": 1501,
+   "age_minutes": 1638,
    "also": [],
-   "score": 3.858
+   "score": 3.776
   },
   {
    "title": "Juve, Spalletti cambia di nuovo l’attacco: chi gioca contro la Lazio",
@@ -277,9 +291,9 @@
    "published": "2026-10-17T16:25:15+00:00",
    "image": "",
    "id": "e06497250c4c",
-   "age_minutes": 1758,
+   "age_minutes": 1895,
    "also": [],
-   "score": 3.716
+   "score": 3.659
   },
   {
    "title": "Milan-Atalanta, che tegola: un big salta la sfida di San Siro",
@@ -291,9 +305,9 @@
    "published": "2026-10-17T14:54:15+00:00",
    "image": "",
    "id": "234b987710ff",
-   "age_minutes": 1849,
+   "age_minutes": 1986,
    "also": [],
-   "score": 3.677
+   "score": 3.627
   },
   {
    "title": "Roma-Genoa, Gasperini ha deciso: si cambia a centrocampo e in attacco",
@@ -305,23 +319,9 @@
    "published": "2026-10-17T13:00:51+00:00",
    "image": "",
    "id": "23619a4c6b68",
-   "age_minutes": 1962,
+   "age_minutes": 2099,
    "also": [],
-   "score": 3.635
-  },
-  {
-   "title": "Bologna-Inter, le ultime: chi gioca al posto dell’infortunato Lautaro Martinez",
-   "link": "https://www.calciomercato.it/2026/10/17/bologna-inter-le-ultime-chi-gioca-al-posto-dellinfortunato-lautaro-martinez/",
-   "summary": "L'articolo Bologna-Inter, le ultime: chi gioca al posto dell’infortunato Lautaro Martinez proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-17T10:48:33+00:00",
-   "image": "",
-   "id": "27ee8ece34e3",
-   "age_minutes": 2095,
-   "also": [],
-   "score": 3.594
+   "score": 3.593
   }
  ],
  "raw": [
@@ -335,9 +335,9 @@
    "published": "2026-10-18T20:41:42+00:00",
    "image": "",
    "id": "0cf3794c33e2",
-   "age_minutes": 61,
+   "age_minutes": 198,
    "also": [],
-   "score": 7.058
+   "score": 6.403
   },
   {
    "title": "PAGELLE e TABELLINO Juventus-Lazio 0-3: colpaccio Gattuso, incubo Spalletti",
@@ -360,9 +360,9 @@
    "published": "2026-10-18T17:59:09+00:00",
    "image": "",
    "id": "a7b4005c9d5c",
-   "age_minutes": 224,
+   "age_minutes": 361,
    "also": [],
-   "score": 6.293
+   "score": 5.775
   },
   {
    "title": "Milan, due nomi per rinforzare la difesa a gennaio: tutti i dettagli",
@@ -374,9 +374,9 @@
    "published": "2026-10-18T16:24:31+00:00",
    "image": "",
    "id": "8ac188d29e61",
-   "age_minutes": 319,
+   "age_minutes": 455,
    "also": [],
-   "score": 5.923
+   "score": 5.471
   },
   {
    "title": "David, bomba da Madrid: è un duro colpo per la Juventus",
@@ -388,9 +388,9 @@
    "published": "2026-10-18T14:49:23+00:00",
    "image": "",
    "id": "2dc5c9bfd1a8",
-   "age_minutes": 414,
+   "age_minutes": 550,
    "also": [],
-   "score": 7.599
+   "score": 7.205
   },
   {
    "title": "Juve-Lazio, Spalletti fa fuori 3 big: esclusioni eccellenti",
@@ -402,9 +402,9 @@
    "published": "2026-10-18T12:47:35+00:00",
    "image": "",
    "id": "a051eae0692d",
-   "age_minutes": 535,
+   "age_minutes": 672,
    "also": [],
-   "score": 5.245
+   "score": 4.914
   },
   {
    "title": "Milan-Atalanta, le probabili formazioni: colpo di scena Pulisic",
@@ -427,9 +427,9 @@
    "published": "2026-10-18T09:45:51+00:00",
    "image": "",
    "id": "13e028a11c7c",
-   "age_minutes": 717,
+   "age_minutes": 854,
    "also": [],
-   "score": 6.819
+   "score": 6.565
   },
   {
    "title": "Rimpianto Spalletti prima di Juve-Lazio: “Corre, fa gol e ha grande cuore”",
@@ -441,9 +441,9 @@
    "published": "2026-10-18T07:41:01+00:00",
    "image": "",
    "id": "b511cc8bec9f",
-   "age_minutes": 842,
+   "age_minutes": 979,
    "also": [],
-   "score": 4.585
+   "score": 4.373
   },
   {
    "title": "Nazionale, 11 (+1) calciatori classe 2004 nel mirino di Mancini: nuovi convocati in arrivo",
@@ -455,9 +455,9 @@
    "published": "2026-10-18T06:44:25+00:00",
    "image": "",
    "id": "ea186bc43b43",
-   "age_minutes": 899,
+   "age_minutes": 1035,
    "also": [],
-   "score": 5.492
+   "score": 5.296
   },
   {
    "title": "Esonero Allegri, il ko accende l’allarme: la situazione e i possibili sostituti",
@@ -469,9 +469,9 @@
    "published": "2026-10-18T05:18:46+00:00",
    "image": "",
    "id": "40cbe6552f2b",
-   "age_minutes": 984,
+   "age_minutes": 1121,
    "also": [],
-   "score": 4.365
+   "score": 4.192
   },
   {
    "title": "Ha stregato Inter, Juventus e Roma: sfida alle big europee",
@@ -483,9 +483,9 @@
    "published": "2026-10-17T21:46:11+00:00",
    "image": "",
    "id": "0dc9d72f7461",
-   "age_minutes": 1437,
+   "age_minutes": 1574,
    "also": [],
-   "score": 3.902
+   "score": 3.812
   },
   {
    "title": "Roma-Genoa 2-0, i giallorossi tornano al successo",
@@ -497,9 +497,9 @@
    "published": "2026-10-17T20:42:08+00:00",
    "image": "",
    "id": "65bf8ee64907",
-   "age_minutes": 1501,
+   "age_minutes": 1638,
    "also": [],
-   "score": 3.858
+   "score": 3.776
   },
   {
    "title": "Voti Bologna-Inter 1-3, il tabellino della sfida",
@@ -522,9 +522,9 @@
    "published": "2026-10-17T16:25:15+00:00",
    "image": "",
    "id": "e06497250c4c",
-   "age_minutes": 1758,
+   "age_minutes": 1895,
    "also": [],
-   "score": 3.716
+   "score": 3.659
   },
   {
    "title": "Milan-Atalanta, che tegola: un big salta la sfida di San Siro",
@@ -536,9 +536,9 @@
    "published": "2026-10-17T14:54:15+00:00",
    "image": "",
    "id": "234b987710ff",
-   "age_minutes": 1849,
+   "age_minutes": 1986,
    "also": [],
-   "score": 3.677
+   "score": 3.627
   },
   {
    "title": "Roma-Genoa, Gasperini ha deciso: si cambia a centrocampo e in attacco",
@@ -550,9 +550,9 @@
    "published": "2026-10-17T13:00:51+00:00",
    "image": "",
    "id": "23619a4c6b68",
-   "age_minutes": 1962,
+   "age_minutes": 2099,
    "also": [],
-   "score": 3.635
+   "score": 3.593
   },
   {
    "title": "Bologna-Inter, le ultime: chi gioca al posto dell’infortunato Lautaro Martinez",
@@ -701,6 +701,720 @@
    "id": "4bd5643c93d6"
   },
   {
+   "title": "Esonero Allegri? Mignano: “Costa tanto, ADL non può pagargli triennale e prenderne un altro”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/esonero-allegri-mignano-costa-tanto-napoli-pagargli-triennale-prenderne-altro-659406",
+   "summary": "Il Napoli è in crisi e la sconfitta di Venezia aggrava una situazione sempre più preoccupante.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T23:00:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7a/7a16232b63743072ead12cc45da0cc34-30763-oooz0000.jpeg",
+   "id": "9f9c14a490db"
+  },
+  {
+   "title": "Giugliano, frenata per Paolo Cannavaro: per la panchina serve il via libera dell’Uzbekistan",
+   "link": "https://www.tuttonapoli.net/notizie/giugliano-frenata-paolo-cannavaro-panchina-serve-via-libera-dell-uzbekistan-659432",
+   "summary": "Non è ancora il momento della fumata bianca per l’arrivo di Paolo Cannavaro al Giugliano.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T22:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/53/5310d3fd1acda6f2167fcf0f19ed1870-29825-oooz0000.jpeg",
+   "id": "0c4e50caad45"
+  },
+  {
+   "title": "Napoli-Bodo/Glimt, Maradona a rischio “mezzo vuoto”: niente febbre da Champions",
+   "link": "https://www.tuttonapoli.net/champions-league/napoli-bodo-glimt-maradona-rischio-mezzo-vuoto-febbre-champions-659433",
+   "summary": "Niente febbre da Champions League a Fuorigrotta? I dati di vendita dei biglietti per Napoli-Bodo/Glimt raccontano di un Maradona che rischia di presentarsi con diversi spazi liberi alla sfida europea contro la squadra norvegese, in programma marted&i ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T22:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a3/a3fb64b6fedd1f10743f38342616e47e-23463-oooz0000.jpeg",
+   "id": "2c5da5e94643"
+  },
+  {
+   "title": "Allegri, l’ex collaboratore Corradi vicino all’esonero: ore di riflessione alla Sampdoria",
+   "link": "https://www.tuttonapoli.net/notizie/allegri-l-ex-collaboratore-corradi-all-esonero-riflessione-sampdoria-659434",
+   "summary": "Inevitabili ore di riflessione in casa Sampdoria dopo il ko interno con l’Arezzo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T21:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5a/5a22799939a0c5bbd86b6350fee4eed7-72912-oooz0000.jpeg",
+   "id": "a2f33554eaf9"
+  },
+  {
+   "title": "Lazio, Gattuso: “Con pochi soldi fatto un bel mercato, proviamo a restare in alto”",
+   "link": "https://www.tuttonapoli.net/le-interviste/gattuso-con-pochi-soldi-bel-mercato-proviamo-restare-alto-659435",
+   "summary": "Gennaro Gattuso, dopo la roboante vittoria della sua Lazio a Torino contro la Juventus per 0-3, è intervenuto in conferenza stampa analizzando l'ottimo lavoro effettuato dalla società e le prospettive stagionali.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T21:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
+   "id": "eefd62b18d32",
+   "age_minutes": 150,
+   "also": [],
+   "score": 6.42
+  },
+  {
+   "title": "Alvino: \"I numeri sono utili solo in tv, gli 11 messi in campo cosa fanno?”",
+   "link": "https://www.tuttonapoli.net/le-interviste/alvino-i-numeri-utili-tv-11-messi-campo-fanno-659428",
+   "summary": "Carlo Alvino, giornalista sportivo, è intervenuto ai microfoni di Ottochannel durante \"Salotto azzurro\" commentando la sconfitta del Napoli a Venezia: “Continuate a puntare l'indice sul sistema di gioco, sul modulo, su ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T21:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e8/e8d799a3c17a213309449f1ff6235499-20781-oooz0000.jpeg",
+   "id": "9b7b9e7a9ec4"
+  },
+  {
+   "title": "Serie A, classifica: incredibile ma vero, la Lazio vola a +9 sul Napoli",
+   "link": "https://www.tuttonapoli.net/brevi/classifica-perde-juventus-659430",
+   "summary": "Colpaccio della Lazio allo Juventus Stadium: secco 0-3 degli uomini allenati da Gennaro Gattuso che annientano gli 11 schierati da Luciano Spalletti. La Lazio dunque si riaggancia all'Inter, volando a +9 sul Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T21:00:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/09/09563633e3be700704c86a38c0a33012-17813-oooz0000.jpeg",
+   "id": "b666583539e6"
+  },
+  {
+   "title": "Crollo Juve! La Lazio ne rifila 3 a Spalletti e vola in classifica",
+   "link": "https://www.tuttonapoli.net/serie-a/colpo-gattuso-torino-gattuso-batte-spalletti-rete-provstgaard-659429",
+   "summary": "Vince ancora la Lazio di Gattuso che non si ferma più: battuta anche la Juventus 0-3 grazie alla rete di Provstgaard al 37' del primo tempo, di Isaksen al 66' e di Dele-Bashiru al 88'.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T20:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bc/bc932668140b570125bb5a85a1683594-73486-oooz0000.jpeg",
+   "id": "8b236d130494"
+  },
+  {
+   "title": "Giuliani: \"Il manico conta! Era già tutto chiaro con quella gara indecorosa con l’Arsenal\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/giuliani-possiamo-manico-conta-chiaro-arsenal-659427",
+   "summary": "Fulvio Giuliani, giornalista, è intervenuto ad \"A tempo scaduto\" in onda su Tele A: \"Non c'è un'identità nel Napoli, è inutile cercare risposte profonde.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T20:30:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/42b6c159ed1e6c0355284f17fec42203-65542-oooz0000.jpeg",
+   "id": "af6d4a7015cb"
+  },
+  {
+   "title": "Atalanta, Sarri si scaglia contro il Var: \"Oggi ho scoperto una cosa, se lo avessi fatto io...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/sarri-scaglia-var-oggi-scoperto-cosa-io-659426",
+   "summary": "Maurizio Sarri, allenatore dell'Atalanta, si è scagliato contro l'arbitraggio al termine di Milan-Atalanta, gara persa dalla Dea per 3-2. Ecco le sue parole: “Non è stato chiamato il Var sul mani di De Winter.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T20:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8b/8bcf9afebf4fc9ef0c0e1c1197d96b50-27987-oooz0000.jpeg",
+   "id": "800a30171d1c"
+  },
+  {
+   "title": "Azzi: \"Si è ignorato l'enorme downgrade con l'addio di Conte\"",
+   "link": "https://www.tuttonapoli.net/dai-social/azzi-si-ignorato-enorme-downgrade-addio-conte-659425",
+   "summary": "Il giornalista di Repubblica, Marco Azzi, ha commentato su X l'addio estivo di Conte, definendolo un enorme \"downgrade\".",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T20:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
+   "id": "1ec9540a08ec",
+   "age_minutes": 240,
+   "also": [],
+   "score": 6.027
+  },
+  {
+   "title": "Lindstrom show col Salisburgo: gol su punizione e assist nel 3-0 all’Altach",
+   "link": "https://www.tuttonapoli.net/notizie/lindstrom-show-salisburgo-gol-punizione-assist-3-0-all-altach-659418",
+   "summary": "Jesper Lindstrøm ha segnato e fornito un assist nella sfida che il Salisburgo ha vinto 3-0 contro l’Altach, nel nono turno del campionato austriaco.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T19:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a08138bd87ab85a6441e370dff1cc962-08302-oooz0000.jpeg",
+   "id": "46da180f1fa9"
+  },
+  {
+   "title": "Fabregas: “Ho visto il Napoli, alla fine non so come non abbia fatto gol”",
+   "link": "https://www.tuttonapoli.net/le-interviste/fabregas-ho-napoli-so-gol-659420",
+   "summary": "Nel post partita di Fiorentina-Como, Cesc Fabregas ha parlato ai microfoni di DAZN commentando anche le occasioni create dal Napoli nel finale della sfida con il Venezia, chiusa con la sconfitta degli azzurri per 1-0.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T19:30:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c929069016151f1cbad9d2aea51e0b55-01387-oooz0000.jpeg",
+   "id": "8beb07a96410"
+  },
+  {
+   "title": "Pastore: “Il Napoli di Allegri vincerà qualche partita ogni tanto, ma non ha futuro”",
+   "link": "https://www.tuttonapoli.net/le-interviste/pastore-il-napoli-allegri-vincera-partita-tanto-futuro-659415",
+   "summary": "La sconfitta contro il Venezia alimenta le critiche nei confronti del Napoli di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T19:15:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ad8f290c76b3e86a52738774d22cfa21-19496-oooz0000.jpeg",
+   "id": "ec07d8ce2ccb"
+  },
+  {
+   "title": "Napoli-Bodo/Glimt, il programma della vigilia: allenamento e conferenze stampa",
+   "link": "https://www.tuttonapoli.net/champions-league/napoli-bodo-glimt-programma-vigilia-allenamento-conferenze-stampa-lunedi-maradona-659419",
+   "summary": "Il Napoli è pronto a rientrare in casa in Champions League per la terza giornata della prima fase della competizione 2026-2027: la squadra di Max Allegri affronterà il Bodo/Glimt martedì 20 ottobre allo stadio Diego Armando Marad ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T19:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/00cf8c5c78b0385a21f2158af075a089-40057-oooz0000.jpeg",
+   "id": "5f1b443bbad9"
+  },
+  {
+   "title": "ADL la guarda la classifica? Il Milan sale al quarto posto e allunga a +5 sul Napoli",
+   "link": "https://www.tuttonapoli.net/brevi/adl-guarda-classifica-milan-sale-allunga-5-napoli-659424",
+   "summary": "Vince ancora il Milan di Amorim che con il brivido nel finale porta a casa un'importante vittoria contro l'Atalanta di Maurizio Sarri: i rossoneri tornano quindi a -4 dall'Inter ma allungano dagli azzurri allenati da Massimiliano Allegri ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T18:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7d/7d893b891d1ce666369eb63b5fe25c4e-30749-oooz0000.jpeg",
+   "id": "e97382c35038"
+  },
+  {
+   "title": "Basta difendere Allegri: non esiste mercato o età media per giustificare un Napoli da metà classifica",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/napoli-allegri-esiste-mercato-eta-media-giustificare-napoli-meta-classifica-659423",
+   "summary": "Non è più il momento di nascondere la polvere sotto al tappeto. Almeno per chi ha realmente a cuore le sorti del Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T18:30:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1c/1ce802aa5acc295f3a1ebfad936db908-36588-oooz0000.jpeg",
+   "id": "f9cc0f338081",
+   "age_minutes": 329,
+   "also": [],
+   "score": 5.684
+  },
+  {
+   "title": "Canovi: “Il Napoli è una squadra vecchia, Conte aveva capito tutto”",
+   "link": "https://www.tuttonapoli.net/le-interviste/canovi-il-napoli-squadra-vecchia-conte-capito-tutto-659401",
+   "summary": "Il momento complicato del Napoli, reduce dalla sconfitta contro il Venezia dopo il ko in Champions League, continua a far discutere. A intervenire è l'avvocato Dario Canovi, che in un'intervista a TuttoMercatoWeb.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T18:15:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b6/b6a7632dc6cbb727ad78980097a92ba3-45487-oooz0000.jpeg",
+   "id": "5762316ff06c",
+   "age_minutes": 345,
+   "also": [],
+   "score": 4.43
+  },
+  {
+   "title": "Il Milan del criticato Amorim vince ancora: 3-2 contro l’Atalanta",
+   "link": "https://www.tuttonapoli.net/serie-a/milan-criticato-amorim-vince-ancora-3-2-all-atalanta-659422",
+   "summary": "Vince ancora il Milan di Ruben Amorim che batte l'Atalanta 3-2 con brividi nel finale: dopo un triplo vantaggio, la Dea prova a recuperare con una clamorosa rimonta ma Maignan si immola nel finale e permette alla sua squadra di tornare a -4 dall& ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T18:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/36/36391fae48c748d109f5629c63e85bef-95698-oooz0000.jpeg",
+   "id": "f9ae59d98719"
+  },
+  {
+   "title": "Juventus-Lazio, le formazioni ufficiali: Kolo Muani titolare. Woltemade dalla panchina",
+   "link": "https://www.tuttonapoli.net/serie-a/juventus-lazio-formazioni-ufficiali-kolo-muani-titolare-woltemade-panchina-659421",
+   "summary": "Dopo la vittoria in rimonta sul campo del Celta Vigo la Juventus torna in campo per la sfida interna contro la Lazio in programma questa sera, domenica 18 ottobre, alle 20.45.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-18T17:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/af/af9d37ebb866fe500e8c0d317ff856ce-42614-oooz0000.jpeg",
+   "id": "a6912809e0d3"
+  },
+  {
+   "title": "Massa annulla il gol di Kolo Muani, proteste per un corner negato. Ma l'arbitro non è un alibi",
+   "link": "https://www.tuttojuve.com/altre-notizie/massa-annulla-gol-kolo-muani-proteste-corner-negato-arbitro-alibi-797198",
+   "summary": "La Juventus esce pesantemente sconfitta dalla sfida contro la Lazio, ma nella serata dell'Allianz Stadium c'è spazio anche per qualche episodio arbitrale da analizzare.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T23:30:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/619f14d088abf4045f2a495cb90f900c-65077-oooz0000.jpeg",
+   "id": "93f4615e8381"
+  },
+  {
+   "title": "Zhegrova non accende la scintilla: entra per la rimonta, ma trova una squadra senza equilibrio",
+   "link": "https://www.tuttojuve.com/altre-notizie/zhegrova-accende-scintilla-entra-rimonta-trova-squadra-equilibrio-797184",
+   "summary": "Edon Zhegrova è uno dei giocatori sui quali la Juventus punta per cambiare la partita contro la Lazio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T23:20:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e2/e2945366e5b887eb246b1703475d896c-39766-oooz0000.jpeg",
+   "id": "191712b8ce83"
+  },
+  {
+   "title": "Juventus-Lazio 0-3, i tre peggiori bianconeri: Bremer irriconoscibile, Celik disastroso e Douglas Luiz senza personalità",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-0-3-peggiori-bianconeri-bremer-irriconoscibile-celik-disastroso-douglas-luiz-personal-797187",
+   "summary": "La Juventus crolla contro la Lazio e incassa una sconfitta che lascia interrogativi pesantissimi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T23:10:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4b/4bd86af4d47e33185113686b98bf0cf3-05854-oooz0000.jpeg",
+   "id": "9da119191e26"
+  },
+  {
+   "title": "Lucumí soffre e non dà sicurezza: la difesa bianconera va in tilt contro la velocità laziale",
+   "link": "https://www.tuttojuve.com/altre-notizie/lucumi-soffre-da-sicurezza-difesa-bianconera-tilt-velocita-laziale-797182",
+   "summary": "La Juventus perde pesantemente contro la Lazio e anche Jhon Lucumí finisce sotto osservazione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T23:00:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b2/b279ca47080e0723ebbe25f07c68b602-31551-oooz0000.jpeg",
+   "id": "4dbff6f7fcf8"
+  },
+  {
+   "title": "Nico González delude: spreca una buona occasione e sparisce dalla partita. Spalletti lo sostituisce",
+   "link": "https://www.tuttojuve.com/altre-notizie/nico-gonzalez-delude-spreca-buona-occasione-sparisce-partita-spalletti-sostituisce-797186",
+   "summary": "La Juventus perde 3-0 contro la Lazio e tra i giocatori dai quali ci si aspettava un contributo maggiore c'è Nico González.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:50:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/08/08afa238faff0001d83d0aa5d68da107-96796-oooz0000.jpeg",
+   "id": "8621562d260b"
+  },
+  {
+   "title": "Juventus-Lazio, Douglas Luiz delude ancora: il centrocampo non funziona e Spalletti lo sacrifica per cercare la rimonta",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-douglas-luiz-delude-ancora-centrocampo-funziona-spalletti-sacrifica-cercare-rimonta-797180",
+   "summary": "La sconfitta della Juventus contro la Lazio mette sotto osservazione anche il rendimento di Douglas Luiz.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:40:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/51/5143d397ee34c7f3908f094273df9c92-96886-oooz0000.jpeg",
+   "id": "31de2cf0d3f9"
+  },
+  {
+   "title": "JUVENTUS UMILIATA IN CASA SUA.",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juventus-umiliata-casa-sua-797202",
+   "summary": "La Juventus perde malissimo in casa contro la Lazio. Senza anima , senza cuore, senza reazione e senza idee di gioco.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:39:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
+   "id": "953c71374db7"
+  },
+  {
+   "title": "Celik sotto accusa: concede troppo spazio a Isaksen e il raddoppio pesa come un macigno",
+   "link": "https://www.tuttojuve.com/altre-notizie/celik-accusa-concede-spazio-isaksen-raddoppio-pesa-macigno-797185",
+   "summary": "Una delle prestazioni più complicate della Juventus contro la Lazio è quella di Zeki Celik.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:30:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/89/89381eb1700b3d559061f92c31cd061f-84992-oooz0000.jpeg",
+   "id": "098d01c9bbb8"
+  },
+  {
+   "title": "Juventus-Lazio, Woltemade entra e sfiora il gol: una scintilla nel buio, ma non riesce a cambiare la partita",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-woltemade-entra-sfiora-gol-scintilla-buio-riesce-cambiare-partita-797179",
+   "summary": "Nick Woltemade è uno dei giocatori chiamati a cambiare il volto della Juventus nella ripresa contro la Lazio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:20:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6d/6d126d435f1296472edaf6179b5a873a-38621-oooz0000.jpeg",
+   "id": "f2f88ef49953"
+  },
+  {
+   "title": "Spalletti in conferenza: “Sono preoccupato, stiamo peggiorando. Nessuno si deve permettere di parlare degli altri”",
+   "link": "https://www.tuttojuve.com/primo-piano/spalletti-conferenza-797122",
+   "summary": "Luciano Spalletti ha parlato in conferenza stampa dopo la gara contro la Lazio. TuttoJuve.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:19:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/23/23a5ee620f18e10d0b23f1965e706915-03581-oooz0000.jpeg",
+   "id": "f0f387fb8b71"
+  },
+  {
+   "title": "Juventus, Capuano impietoso: \"Fuori dalla zona Europa, Spalletti sta facendo un disastro\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-capuano-impietoso-fuori-zona-europa-spalletti-disastro-797199",
+   "summary": "La Juventus di Luciano Spalletti e il Napoli di Massimiliano Allegri finiscono nel mirino di Giovanni Capuano.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:15:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/98/984e363e8633887daa6ed1d43a0ead42-04170-oooz0000.jpeg",
+   "id": "ef7ba88c7895"
+  },
+  {
+   "title": "Juventus-Lazio, Bremer irriconoscibile: perde Provstgaard e soffre le ripartenze. Una serata da dimenticare",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-bremer-irriconoscibile-perde-provstgaard-soffre-ripartenze-serata-dimenticare-797181",
+   "summary": "Tra le prestazioni più negative della Juventus contro la Lazio c'è quella di Gleison Bremer.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:10:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
+   "id": "38ba2b122b57"
+  },
+  {
+   "title": "Spalletti replica a Bremer: \"Bisogna parlare di noi stessi prima della squadra. Ho un buonissimo rapporto con tutti, ma devo analizzare anche questo\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-replica-bremer-bisogna-parlare-squadra-buonissimo-rapporto-tutti-analizzare-questo-797197",
+   "summary": "Luciano Spalletti non nasconde la propria delusione dopo la pesante sconfitta della Juventus contro la Lazio all'Allianz Stadium.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:06:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/28/28dc941d64e41001aaddd5f7ce4cddaf-52703-oooz0000.jpeg",
+   "id": "3e0a85b0bfa8"
+  },
+  {
+   "title": "Juventus, la crisi coinvolge tutti: ultras in protesta, giocatori deludenti e società sotto esame. Ma rivoluzionare ancora sarebbe un errore",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-crisi-coinvolge-tutti-ultras-protesta-giocatori-deludenti-societa-esame-rivoluzionare-error-797175",
+   "summary": "La Juventus è in crisi. Una crisi profonda, che non può essere ridotta a una partita sbagliata, a un errore difensivo o a una scelta discutibile dell'allenatore.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:05:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f0/f0fb2bae6be651ae79a2233482a2d504-50139-oooz0000.jpeg",
+   "id": "c494b9b4259a"
+  },
+  {
+   "title": "Juventus-Lazio, Kolo Muani non basta: inventa per Woltemade, ma spreca troppo. E la Juve resta a secco",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-kolo-muani-basta-inventa-woltemade-spreca-troppo-juve-resta-secco-797178",
+   "summary": "La Juventus esce sconfitta pesantemente contro la Lazio e tra i protagonisti più discussi della serata c'è inevitabilmente Randal Kolo Muani.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T22:00:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b4/b4932b7c971bae724074bf28845fcbb8-01895-oooz0000.jpeg",
+   "id": "dfb4542746b0"
+  },
+  {
+   "title": "Bremer denuncia: \"Brutta partita, quando le cose vanno male c'è chi si nasconde. Non posso prendere in braccio tutti\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/bremer-denuncia-brutta-partita-cose-vanno-nasconde-797193",
+   "summary": "Gleison Bremer non cerca alibi dopo la pesante sconfitta casalinga della Juventus contro la Lazio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T21:57:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2a/2a4f848038bac2d7bea1a374f53d23d3-30178-oooz0000.jpeg",
+   "id": "209ee07a8363"
+  },
+  {
+   "title": "Juventus, Di Canio critica Lucumi: \"Sul secondo gol sbaglia lui\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-canio-critica-lucumi-sul-gol-sbaglia-lui-797192",
+   "summary": "Paolo Di Canio esalta la Lazio di Gennaro Gattuso dopo il netto 3-0 conquistato sul campo della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T21:55:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6a/6a5563f04266a0a92d337745e46a43bb-69691-oooz0000.jpeg",
+   "id": "8a44c57bab9a"
+  },
+  {
+   "title": "Marocchi: \"Spero che i giocatori non facciano quello che dice Spalletti\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/marocchi-spero-giocatori-spalletti-797189",
+   "summary": "La Juventus crolla all'Allianz Stadium contro la Lazio e Giancarlo Marocchi solleva dubbi sul lavoro di Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T21:50:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f3/f3ce0faca06c6f2b359f2b6182e0b3ab-57760-oooz0000.jpeg",
+   "id": "67eea89ddc5f"
+  },
+  {
+   "title": "Gattuso in conferenza: “La strada è lunga ma stiamo facendo qualcosa di incredibile”",
+   "link": "https://www.tuttojuve.com/altre-notizie/gattuso-conferenza-797124",
+   "summary": "Gennaro Gattuso ha parlato in conferenza stampa dopo la gara con la Juventus. TuttoJuve.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T21:47:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4b/4b60b6a3efbc55e6f7c71dd836a1d1d6-04538-oooz0000.jpeg",
+   "id": "bc87965eaa80"
+  },
+  {
+   "title": "Vicario in conferenza: “Dobbiamo trovare delle soluzioni. Nello spogliatoio c’era la consapevolezza di non aver giocato da Juve”",
+   "link": "https://www.tuttojuve.com/altre-notizie/giocatore-juventus-conferenza-797123",
+   "summary": "Guglielmo Vicario ha parlato in conferenza stampa dopo la gara contro la Lazio. TuttoJuve.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-18T21:46:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5e/5e21481c8ca1ce7171eda6857e8ab881-21490-oooz0000.jpeg",
+   "id": "cb779a53a9c1"
+  },
+  {
+   "title": "Rabiot striglia i compagni, Marocchi: \"Ha avuto le palle, così dai agli altri la possibilità di crescere\"",
+   "link": "https://www.milannews.it/news/rabiot-striglia-compagni-marocchi-ha-palle-possibilita-crescere-633213",
+   "summary": "Al termine di Milan-Atalanta 3-2 Adrien Rabiot era abbastanza contrariato per l'ultima mezz'ora della squadra, che ha avuto un calo netto che ha rischiato di compromettere l'ottima gara disputata fino a quel momento.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T23:10:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d9/d93d3c0169b92cef8c61266f820915b1-16728-oooz0000.jpeg",
+   "id": "60cef8f8556d"
+  },
+  {
+   "title": "Rabiot non le manda a dire sulla squadra e Amorim commenta così le sue parole",
+   "link": "https://www.milannews.it/news/rabiot-manda-squadra-amorim-commenta-parole-633206",
+   "summary": "Ruben Amorim, allenatore del Milan, si è così espresso in conferenza stampa commentando le parole nel post gara di Adrien Rabiot, il quale ha fatto riferimento alla mancanza di mentalità da parte della squadra, soprattutto di chi ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T23:00:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/70/70291f318f9d28faee9c6e9becaa9c9a-27963-oooz0000.jpeg",
+   "id": "226282bf5ae6"
+  },
+  {
+   "title": "La rivelazione di mercato di Amorim sulla cessione di Estupinan",
+   "link": "https://www.milannews.it/calciomercato-milan/rivelazione-mercato-amorim-cessione-estupinan-633207",
+   "summary": "Ruben Amorim, allenatore del Milan, si è così espresso in conferenza stampa su Pervis Estupinan, terzino sinistro rossonero: \"Anche in altri club succede che a volte ai tifosi non piacciano troppo certi giocatori.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:55:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/63/636c10307ce03bd4d55c362231af9684-75872-oooz0000.jpeg",
+   "id": "17f5e980fc0d",
+   "age_minutes": 64,
+   "also": [],
+   "score": 8.844
+  },
+  {
+   "title": "Amorim sulla prestazione di Moreira: \"Ha fatto bene fino al minuto 66, quando poi tutta la squadra ha messo di giocare\"",
+   "link": "https://www.milannews.it/news/amorim-prestazione-moreira-ha-minuto-66-squadra-messo-giocare-633184",
+   "summary": "Ruben Amorim, tecnico rossonero, è intervenuto ai microfoni di Sky Sport 24 al termine della partita tra Milan e Atalanta che i rossoneri hanno vinto per 3-2, rischiando molto nel finale dopo aver dominato per un'ora.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:48:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9e/9e1076160e5d5ab2453bf3beb37b7840-70748-oooz0000.jpeg",
+   "id": "b8e5356eb644"
+  },
+  {
+   "title": "Florenzi: \"Milan in crescita. Moreira uno dei migliori in campo\"",
+   "link": "https://www.milannews.it/news/florenzi-milan-crescita-moreira-migliori-campo-633166",
+   "summary": "Il commento di Alessandro Florenzi, ex giocatore del Milan, al termine della gara dei rossoneri contro l'Atalanta vinta dal Diavolo 3-2 ma con brivido nel finale. Le sue parole negli studi di Sky Sport: \"Vedo un Milan in crescita.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:36:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9e/9e1076160e5d5ab2453bf3beb37b7840-70748-oooz0000.jpeg",
+   "id": "2a497fd899ac"
+  },
+  {
+   "title": "Amorim nella storia del Milan: era dal 1963 che un nuovo allenatore non restava imbattuto così a lungo",
+   "link": "https://www.milannews.it/news/amorim-storia-milan-1963-allenatore-restava-imbattuto-633174",
+   "summary": "Ruben Amorim, con quattro vittorie e tre pareggi, è diventato solo il terzo allenatore nella storia del Milan a restare imbattuto in ciascuna delle sue prime sette panchine in Serie A, dopo Hector Puricelli nel 1955 (3V, 4N) e Luis Carniglia n ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:23:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ac/ac66240edbff50cb5842f9d58e02d410-88854-oooz0000.jpeg",
+   "id": "db3bdeea03f0"
+  },
+  {
+   "title": "Ramos: \"È il miglior momento da quando sono qui\"",
+   "link": "https://www.milannews.it/news/ramos-e-miglior-qui-633187",
+   "summary": "L'attaccante rossonero Gonçalo Ramos è intervenuto ai microfoni di Sky Sport 24 dopo Milan-Atalanta 3-2, partita in cui ha segnato un rigore e ne ha sbagliato un altro.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:12:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a9/a9ed2eb420dc7c4c7b68be5b8aaf96a3-17409-oooz0000.jpeg",
+   "id": "e5b0e877783c"
+  },
+  {
+   "title": "Da dominante a preoccupante: che Milan vuoi essere? La vergogna di Udine. Krosche si dimette e torna in auge",
+   "link": "https://www.milannews.it/editoriale/dominante-preoccupante-milan-vuoi-essere-vergogna-udine-krosche-dimette-ma-633165",
+   "summary": "Il Milan che batte l’Atalanta per 3-2 ci pone davanti a un interrogativo: che squadra è davvero quella allenata da Ruben Amorim? I primi settanta minuti sono stati di alto livello, con un’interpretazione della partita “da Int ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d872ba90c2a59e3a506b727f39e97afd-40275-oooz0000.jpeg",
+   "id": "78f83a6384f0"
+  },
+  {
+   "title": "Fabregas esalta Liberali: \"Abbiamo preso un grandissimo giocatore\"",
+   "link": "https://www.milannews.it/news/fabregas-esalta-liberali-abbiamo-preso-grandissimo-giocatore-633151",
+   "summary": "Nella vittoria del Como sul campo della Fiorentina (1-3), le danze sono state aperte dal gol di Mattia Liberali, ex calciatore del settore giovanile del Milan che ha trovato così il suo primo gol in Serie A i ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T21:48:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ea/ea308dfc13814f3bf3167f9e75c8111f-21719-oooz0000.jpeg",
+   "id": "d1c56129c60a"
+  },
+  {
+   "title": "Siamo ad ottobre, ma è clamorosamente solo la prima volta che succede nel 2026: tre vittorie di fila in casa per il Milan",
+   "link": "https://www.milannews.it/news/ottobre-clamorosamente-succede-2026-vittorie-fila-casa-milan-633182",
+   "summary": "Dopo il 2-0 contro il Venezia e il 3-0 contro il Lecce e il 3-2 contro l'Atalanta, il Milan ha vinto tre match interni di fila in Serie A per la prima volta nel 2026. .",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T21:36:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01f3d68e5601f32b7490bd69d7966da8-09410-oooz0000.jpeg",
+   "id": "d6a491fdacb1"
+  },
+  {
+   "title": "Udinese, Piotrowski: \"Dobbiamo invertire la rotta in qualche modo\"",
+   "link": "https://www.milannews.it/l-avversario/udinese-piotrowski-dobbiamo-invertire-rotta-modo-633124",
+   "summary": "Quinta sconfitta consecutiva per l'Udinese che non colleziona almeno un punto dalla seconda giornata di campionato.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T21:24:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a3/a375f629a36bf2abaa9f6d0ea619b285-01700-oooz0000.jpeg",
+   "id": "192085911690"
+  },
+  {
+   "title": "Serie A, la classifica aggiornata: la Lazio riacciuffa l'Inter, Juve a -4 dal Milan",
+   "link": "https://www.milannews.it/news/serie-a-classifica-aggiornata-633153",
+   "summary": "La Lazio non perde il passo con l'Inter, anzi lo tiene inn grandissimo stile: vittoria per 0-3 in casa della Juventus, al termine di una prestazione senza storia.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T21:12:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ce/cea27230248429874781923ff21c6334-75472-oooz0000.jpeg",
+   "id": "746170533300"
+  },
+  {
+   "title": "Debacle Juve, la Lazio di Gattuso passeggia su Spalletti: 0-3 a Torino",
+   "link": "https://www.milannews.it/news/debacle-juve-lazio-gattuso-passeggia-spalletti-0-3-torino-633152",
+   "summary": "Una super Lazio passeggia in casa della Juventus.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T21:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2bcc08d7ad1a4c6818c9e92e2bc0bb3b-49823-oooz0000.jpeg",
+   "id": "8427641fc710",
+   "age_minutes": 179,
+   "also": [],
+   "score": 5.285
+  },
+  {
+   "title": "Milan Femminile sconfitto a Roma: le dichiarazioni di coach Bakker",
+   "link": "https://www.milannews.it/milan-femminile/milan-femminile-sconfitto-roma-dichiarazioni-coach-bakker-633203",
+   "summary": "Il Milan Femminile dura un tempo contro la Roma. Dopo l'impresa di settimana scorsa contro la Juventus, oggi le rossonere hanno tenuto testa per 45 minuti alle giallorosse, chiudendo in testa la prima frazione di gioco sull'1-2.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T20:48:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/37/3717f3c435ca7424c2b7f0a6a4c112db-26197-oooz0000.jpeg",
+   "id": "aafd4d0ac53a"
+  },
+  {
+   "title": "Ramos: \"Rabiot arrabbiato? Una squadra vincente sa vincere anche queste partite\"",
+   "link": "https://www.milannews.it/news/ramos-rabiot-arrabbiato-squadra-vincente-sa-vincere-partite-633189",
+   "summary": "L'attaccante rossonero Gonçalo Ramos è intervenuto ai microfoni di Sky Sport 24 dopo Milan-Atalanta 3-2, partita in cui ha segnato un rigore e ne ha sbagliato un altro.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T20:36:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/07/07397d628fe225919b1917a738e721ff-57905-oooz0000.jpeg",
+   "id": "9bd9602e7384"
+  },
+  {
+   "title": "Milan Futuro, colpaccio in casa del Chievo: le parole del match-winner Bonomi",
+   "link": "https://www.milannews.it/milan-futuro/milan-futuro-colpaccio-casa-chievo-parole-match-winner-bonomi-633202",
+   "summary": "Un super Milan Futuro realizza il colpaccio della giornata nel girone B di Serie D, andando a vincere 1-2 in casa del Chievo Verona, una delle squadre favorite per la promozione diretta tra i professionisti.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T20:24:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1a/1adf71504022d4ec3d82ada482c78477-23423-oooz0000.jpeg",
+   "id": "d7079e65efd8"
+  },
+  {
+   "title": "Amorim: \"Nei primi 66' è stato il migliori Milan della stagione. Poi abbiamo perso fiducia ed è salita un po' di stanchezza\"",
+   "link": "https://www.milannews.it/news/amorim-nei-primi-66-migliori-milan-stagione-perso-fiducia-salita-stanchezza-633181",
+   "summary": "Ruben Amorim, tecnico rossonero, è intervenuto ai microfoni di Sky Sport 24 al termine della partita tra Milan e Atalanta che i rossoneri hanno vinto per 3-2, rischiando molto nel finale dopo aver dominato per un'ora.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T20:12:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0fa3f4cf668cc48241740cbe0b7d39f7-76206-oooz0000.jpeg",
+   "id": "180f8ea660a0"
+  },
+  {
+   "title": "Conferme sui contatti tra il Milan e Markus Krosche",
+   "link": "https://www.milannews.it/news/conferme-contatti-milan-markus-krosche-633201",
+   "summary": "Mentre a Milano, stadio San Siro, si entrava nei minuti conclusivi di Milan-Atalanta - gara vinta 3-2 dai rossoneri con brivido finale - dalla Germania arrivava la notizia della separazione tra Markus Krosche e l'Eintracht Francofo ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T20:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4e/4e5dcedd1e6f2154b72f45841b86984f-80862-oooz0000.jpeg",
+   "id": "35523f86042a"
+  },
+  {
+   "title": "Gaetano: \"C'è rammarico per il tiro di Zappacosta, peccato per la parata di Maignan...\"",
+   "link": "https://www.milannews.it/l-avversario/gaetano-c-rammarico-tiro-zappacosta-parata-maignan-633200",
+   "summary": "Gianluca Gaetano, centrocampista dell'Atalanta autore del gol della Dea del momentaneo 3-1, ha parlato a DAZN nel post partita della sfida contro il Milan.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T19:48:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/53/5351601c3986e93315ca117701f617a8-36088-oooz0000.jpeg",
+   "id": "ddeda7bfeb37"
+  },
+  {
+   "title": "Marelli: \"Due calci di rigore praticamente identici. Entrambe le volte c’è il braccio sinistro del giocatore fuori figura\"",
+   "link": "https://www.milannews.it/news/marelli-due-calci-rigori-praticamente-identici-entrambe-c-e-braccio-sinistro-giocatore-figura-633199",
+   "summary": "In Milan-Atalanta l'arbitro Chiffi, con l'ausilio del VAR, ha concesso due rigori ai rossoneri, entrambi per un tocco di mano di un giocatore dell'Atalanta in area di rigore.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-18T19:35:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/59/595f93224a1685d7c6ab591c64b4e86a-56466-oooz0000.jpeg",
+   "id": "a20a2f598244"
+  },
+  {
+   "title": "Il secondo tempo di Bologna deve tornare a essere la normalità, non l'eccezione",
+   "link": "https://www.fcinternews.it/editoriale/editoriale-inter-news-1021108",
+   "summary": "Luci e ombre, prestazioni agli antipodi e una domanda che torna inevitabilmente d'attualità: qual è la vera Inter? Quella fragile, disordinata e incapace di imporsi vista nel primo tempo di Bologna e contro il Club Brugge, oppure qu ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-18T22:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e1/e1b6d1a5f90850c78d7b9de232304ac6-45166-oooz0000.jpeg",
+   "id": "13c22bf01203"
+  },
+  {
+   "title": "Roma, De Roon promette battaglia: \"Scudetto? Vogliamo vincere e arrivare in alto\"",
+   "link": "https://www.fcinternews.it/news/roma-de-roon-promette-battaglia-scudetto-vogliamo-vincere-arrivare-alto-1021103",
+   "summary": "La Roma può lottare per lo Scudetto con l'Inter? Marten De Roon, centrocampista dei giallorossi, ha parlato così a SportMediaset circa questa possibilità: “Stimo il Mister e sono d’accordo con lui.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-18T21:54:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/22/2211d63ac088f2071ad1c7611eaa6f10-94932-oooz0000.jpeg",
+   "id": "621bca72acca",
+   "age_minutes": 126,
+   "also": [],
+   "score": 5.334
+  },
+  {
+   "title": "Lazio appaiata all'Inter, ma Gattuso frena: \"Non bisogna guardare la classifica\"",
+   "link": "https://www.fcinternews.it/il-resto-della-a/lazio-appaiata-inter-gattuso-frena-non-bisogna-guardare-classifica-1021113",
+   "summary": "Gennaro Gattuso, tecnico della Lazio, ha parlato ai microfoni di DAZN dopo il grandissimo successo ottenuto sul campo della Juventus: \"Per me è facile allenare, la classifica non bisogna guardarla e ora testa al Parma perché non si ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-18T21:48:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
+   "id": "06fe58afca17"
+  },
+  {
    "title": "Manca talento azzurro? Liberali: \"Noi giovani non rispondiamo a nessuno, però...\"",
    "link": "https://www.fcinternews.it/il-resto-della-a/manca-talento-azzurro-liberali-non-rispondiamo-nessuno-pero-1021095",
    "summary": "Mattia Liberali, attaccante del Como, ha parlato così a Sky Sport rispondendo alla domanda relativa alla poca qualità dei giovani calciatori dell'Italia. Manca talento? \"Non rispondiamo a nessuno perché non ci interessa.",
@@ -765,9 +1479,9 @@
    "published": "2026-10-18T20:42:25+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e64a1860214363f9d7b8f215f80b88ec-67321-oooz0000.jpeg",
    "id": "c729f0f7263c",
-   "age_minutes": 61,
+   "age_minutes": 197,
    "also": [],
-   "score": 6.662
+   "score": 6.006
   },
   {
    "title": "Reel, video, approfondimenti e curiosità sul mondo Inter: segui FcInterNews anche su Tik Tok",
@@ -801,9 +1515,9 @@
    "published": "2026-10-18T20:00:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/9141c2ec1ab49b396a8f5602d7942c4a-72020-oooz0000.jpeg",
    "id": "eacd60c3fdef",
-   "age_minutes": 103,
+   "age_minutes": 240,
    "also": [],
-   "score": 5.644
+   "score": 5.027
   },
   {
    "title": "Fiorentina, Ndour: \"Inter una delle migliori del campionato, vietato sbagliare atteggiamento\"",
@@ -894,715 +1608,15 @@
    "id": "72bb6c0dba07"
   },
   {
-   "title": "L'Inter Women fa tre su tre: battuto anche il Parma 3-0",
-   "link": "https://www.fcinternews.it/inter-femminile/inter-women-tre-battuto-parma-3-0-1021107",
-   "summary": "L'Inter Women vince la terza partita su tre in Serie A e aggancia Como 1907 e Roma in vetta alla classifica a quota 9. Le nerazzurre hanno avuto la meglio del Parma per 3-0.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-18T18:02:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/12/12e77316f18090789138b7e4695c66d2-83442-oooz0000.jpeg",
-   "id": "70cdfeccc1b5"
-  },
-  {
-   "title": "19 punti... and still counting. L'ottimo inizio dell'Inter in A risiede nei numeri",
-   "link": "https://www.fcinternews.it/stats/19-punti-and-still-counting-ottimo-inizio-inter-risiede-numeri-1021098",
-   "summary": "L'Inter ha conquistato ben 19 punti dopo le prime sette partite stagionali di Serie A per la quarta volta nell'era dei tre punti.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-18T17:49:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ff/ff96aeb8fb121a197b92cb1e802194e2-38624-oooz0000.jpeg",
-   "id": "f30eccf1b4ec"
-  },
-  {
-   "title": "GdS - Carlos Augusto ora è un fattore. In attesa di prolungare il contratto",
-   "link": "https://www.fcinternews.it/copertina/i-gds-i-carlos-augusto-fattore-prolungare-contratto-1021100",
-   "summary": "Nell'analisi di Gazzetta.it sulla prestazione di Carlos Augusto contro il Bologna, non può mancare un cenno all'eventuale prolungamento del contratto.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-18T17:35:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/06/062a03ee3624df51f6d7b40a7d2419a4-88662-oooz0000.jpeg",
-   "id": "0cad8797bbee",
-   "age_minutes": 248,
-   "also": [],
-   "score": 5.996
-  },
-  {
-   "title": "Siamo ad ottobre, ma è clamorosamente solo la prima volta che succede nel 2026: tre vittorie di fila in casa per il Milan",
-   "link": "https://www.milannews.it/news/ottobre-clamorosamente-succede-2026-vittorie-fila-casa-milan-633182",
-   "summary": "Dopo il 2-0 contro il Venezia e il 3-0 contro il Lecce e il 3-2 contro l'Atalanta, il Milan ha vinto tre match interni di fila in Serie A per la prima volta nel 2026. .",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T21:36:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01f3d68e5601f32b7490bd69d7966da8-09410-oooz0000.jpeg",
-   "id": "d6a491fdacb1"
-  },
-  {
-   "title": "Udinese, Piotrowski: \"Dobbiamo invertire la rotta in qualche modo\"",
-   "link": "https://www.milannews.it/l-avversario/udinese-piotrowski-dobbiamo-invertire-rotta-modo-633124",
-   "summary": "Quinta sconfitta consecutiva per l'Udinese che non colleziona almeno un punto dalla seconda giornata di campionato.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T21:24:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a3/a375f629a36bf2abaa9f6d0ea619b285-01700-oooz0000.jpeg",
-   "id": "192085911690"
-  },
-  {
-   "title": "Serie A, la classifica aggiornata: la Lazio riacciuffa l'Inter, Juve a -4 dal Milan",
-   "link": "https://www.milannews.it/news/serie-a-classifica-aggiornata-633153",
-   "summary": "La Lazio non perde il passo con l'Inter, anzi lo tiene inn grandissimo stile: vittoria per 0-3 in casa della Juventus, al termine di una prestazione senza storia.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T21:12:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ce/cea27230248429874781923ff21c6334-75472-oooz0000.jpeg",
-   "id": "746170533300"
-  },
-  {
-   "title": "Debacle Juve, la Lazio di Gattuso passeggia su Spalletti: 0-3 a Torino",
-   "link": "https://www.milannews.it/news/debacle-juve-lazio-gattuso-passeggia-spalletti-0-3-torino-633152",
-   "summary": "Una super Lazio passeggia in casa della Juventus.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T21:00:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2bcc08d7ad1a4c6818c9e92e2bc0bb3b-49823-oooz0000.jpeg",
-   "id": "8427641fc710",
-   "age_minutes": 43,
-   "also": [],
-   "score": 5.959
-  },
-  {
-   "title": "Milan Femminile sconfitto a Roma: le dichiarazioni di coach Bakker",
-   "link": "https://www.milannews.it/milan-femminile/milan-femminile-sconfitto-roma-dichiarazioni-coach-bakker-633203",
-   "summary": "Il Milan Femminile dura un tempo contro la Roma. Dopo l'impresa di settimana scorsa contro la Juventus, oggi le rossonere hanno tenuto testa per 45 minuti alle giallorosse, chiudendo in testa la prima frazione di gioco sull'1-2.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T20:48:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/37/3717f3c435ca7424c2b7f0a6a4c112db-26197-oooz0000.jpeg",
-   "id": "aafd4d0ac53a"
-  },
-  {
-   "title": "Ramos: \"Rabiot arrabbiato? Una squadra vincente sa vincere anche queste partite\"",
-   "link": "https://www.milannews.it/news/ramos-rabiot-arrabbiato-squadra-vincente-sa-vincere-partite-633189",
-   "summary": "L'attaccante rossonero Gonçalo Ramos è intervenuto ai microfoni di Sky Sport 24 dopo Milan-Atalanta 3-2, partita in cui ha segnato un rigore e ne ha sbagliato un altro.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T20:36:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/07/07397d628fe225919b1917a738e721ff-57905-oooz0000.jpeg",
-   "id": "9bd9602e7384"
-  },
-  {
-   "title": "Milan Futuro, colpaccio in casa del Chievo: le parole del match-winner Bonomi",
-   "link": "https://www.milannews.it/milan-futuro/milan-futuro-colpaccio-casa-chievo-parole-match-winner-bonomi-633202",
-   "summary": "Un super Milan Futuro realizza il colpaccio della giornata nel girone B di Serie D, andando a vincere 1-2 in casa del Chievo Verona, una delle squadre favorite per la promozione diretta tra i professionisti.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T20:24:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1a/1adf71504022d4ec3d82ada482c78477-23423-oooz0000.jpeg",
-   "id": "d7079e65efd8"
-  },
-  {
-   "title": "Amorim: \"Nei primi 66' è stato il migliori Milan della stagione. Poi abbiamo perso fiducia ed è salita un po' di stanchezza\"",
-   "link": "https://www.milannews.it/news/amorim-nei-primi-66-migliori-milan-stagione-perso-fiducia-salita-stanchezza-633181",
-   "summary": "Ruben Amorim, tecnico rossonero, è intervenuto ai microfoni di Sky Sport 24 al termine della partita tra Milan e Atalanta che i rossoneri hanno vinto per 3-2, rischiando molto nel finale dopo aver dominato per un'ora.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T20:12:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0fa3f4cf668cc48241740cbe0b7d39f7-76206-oooz0000.jpeg",
-   "id": "180f8ea660a0"
-  },
-  {
-   "title": "Conferme sui contatti tra il Milan e Markus Krosche",
-   "link": "https://www.milannews.it/news/conferme-contatti-milan-markus-krosche-633201",
-   "summary": "Mentre a Milano, stadio San Siro, si entrava nei minuti conclusivi di Milan-Atalanta - gara vinta 3-2 dai rossoneri con brivido finale - dalla Germania arrivava la notizia della separazione tra Markus Krosche e l'Eintracht Francofo ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4e/4e5dcedd1e6f2154b72f45841b86984f-80862-oooz0000.jpeg",
-   "id": "35523f86042a"
-  },
-  {
-   "title": "Gaetano: \"C'è rammarico per il tiro di Zappacosta, peccato per la parata di Maignan...\"",
-   "link": "https://www.milannews.it/l-avversario/gaetano-c-rammarico-tiro-zappacosta-parata-maignan-633200",
-   "summary": "Gianluca Gaetano, centrocampista dell'Atalanta autore del gol della Dea del momentaneo 3-1, ha parlato a DAZN nel post partita della sfida contro il Milan.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:48:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/53/5351601c3986e93315ca117701f617a8-36088-oooz0000.jpeg",
-   "id": "ddeda7bfeb37"
-  },
-  {
-   "title": "Marelli: \"Due calci di rigore praticamente identici. Entrambe le volte c’è il braccio sinistro del giocatore fuori figura\"",
-   "link": "https://www.milannews.it/news/marelli-due-calci-rigori-praticamente-identici-entrambe-c-e-braccio-sinistro-giocatore-figura-633199",
-   "summary": "In Milan-Atalanta l'arbitro Chiffi, con l'ausilio del VAR, ha concesso due rigori ai rossoneri, entrambi per un tocco di mano di un giocatore dell'Atalanta in area di rigore.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:35:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/59/595f93224a1685d7c6ab591c64b4e86a-56466-oooz0000.jpeg",
-   "id": "a20a2f598244"
-  },
-  {
-   "title": "Rabiot: \"Manca mentalità\". Amorim commenta: \"Lo ha detto anche della Francia e lì c'è gente che vinto il Mondiale. A me questo piace\"",
-   "link": "https://www.milannews.it/news/rabiot-manca-mentalita-amorim-commenta-lo-francia-li-vinto-mondiale-piace-633198",
-   "summary": "Ruben Amorim, allenatore del Milan, si è così espresso in conferenza stampa commentando le parole nel post gara di Adrien Rabiot, il quale ha fatto riferimento alla mancanza di mentalità da parte della squadra, soprattutto di chi ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:23:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/04/041b1e022b8844224b24c03305f1eb83-52446-oooz0000.jpeg",
-   "id": "008f320c1f94"
-  },
-  {
-   "title": "Ambrosini: \"Rabiot dà la sensazione di avere un’onnipotenza fisica... Chi lo ha allenato dice che ha un motore diverso\"",
-   "link": "https://www.milannews.it/news/ambrosini-da-sensazione-un-onnipotenza-fisica-allenato-motore-diverso-633196",
-   "summary": "Un gol, un assist e la forte sensazione generale che sia un giocatore di livello molto alto: Adrien Rabiot, capocannoniere del Milan in campionato, è stato determinante anche nella sfida contro l'Atalanta di questa sera.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:23:30+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1d/1dc2ba82559d9cc4199cbc9e9ee57365-94981-oooz0000.jpeg",
-   "id": "5962fd4b2c03"
-  },
-  {
-   "title": "Amorim annuncia: \"Estupinan l'ho tenuto io! Succede che alcuni giocatori non piacciano ai tifosi\"",
-   "link": "https://www.milannews.it/calciomercato-milan/amorim-annuncia-estupinan-tenuto-io-succede-giocatori-piacciano-tifosi-633197",
-   "summary": "Ruben Amorim, allenatore del Milan, si è così espresso in conferenza stampa su Pervis Estupinan, terzino sinistro rossonero: \"Anche in altri club succede che a volte ai tifosi non piacciano troppo certi giocatori.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:20:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ff/ffb437d8094e77a138e23722ea8dc50d-75121-oooz0000.jpeg",
-   "id": "757ccb97b62e"
-  },
-  {
-   "title": "MN - Gaetano in conferenza: \"Abbiamo avuto un approccio un po' molle, siamo stati attendisti e non abbiamo fatto una buona pressione\"",
-   "link": "https://www.milannews.it/news/mn-gaetano-conferenza-abbiamo-approccio-molle-attendisti-buona-pressione-633195",
-   "summary": "Gianluca Gaetano, centrocampista dell'Atalanta, è presente in conferenza stampa al termine di Milan-Atalanta, sfida valida per la settima giornata di Serie A e terminata 3-2 in favore dei rossoneri.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:14:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5c/5c389f445cf1941f52079998fdf043e3-11033-oooz0000.jpeg",
-   "id": "798ee2503585"
-  },
-  {
-   "title": "Florenzi: \"I primi 66 minuti sono i migliori del Milan quest'anno\"",
-   "link": "https://www.milannews.it/news/florenzi-i-primi-66-minuti-migliori-milan-anno-633194",
-   "summary": "Alessandro Florenzi, ex calciatore rossonero e attuale opinionista, è intervenuto negli studi di Sky Sport 24 al termine di Milan-Atalanta 3-2 per esprimere il suo giudizio sulla prestazione della squadra di Amorim e specialmente sul ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:12:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ba/ba49825aec82661807d4fdcf65e82b02-47398-oooz0000.jpeg",
-   "id": "6c525da39381"
-  },
-  {
-   "title": "MN - Amorim: \"Rabiot critica la mentalità? Lo ha detto anche per la Francia. Estupinan l'ho trattenuto io\"",
-   "link": "https://www.milannews.it/primo-piano/milan-atalanta-serie-a-amorim-conferenza-diretta-live-633170",
-   "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Atalanta, sfida valida per la settima giornata di Serie A e terminata 3-2 in favore dei rossoneri.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:11:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a08d3d46e5bf0bb957f94b19fb5db7f7-36837-oooz0000.jpeg",
-   "id": "9420e0bf17c0"
-  },
-  {
-   "title": "Rabiot: \"Dobbiamo migliorare in mentalità. Quelli che entrano devono fare di più\"",
-   "link": "https://www.milannews.it/news/rabiot-dobbiamo-migliorare-mentalita-entrano-devono-piu-633192",
-   "summary": "Nell'immediato post partita di Milan-Atalanta Adrien Rabiot è intervenuto ai microfoni di Sky Sport, commentando la partita e mandando un messaggio chiaro ai suoi compagni di squadra in vista del futuro.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:00:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3a/3ac47c647852bd914f2b68302e674989-56453-oooz0000.jpeg",
-   "id": "d6feca136d56"
-  },
-  {
-   "title": "MN - Sarri in conferenza: \"Due rigori contro, su De Winter no. Poi ho scoperto che si può mandare a fare in culo l'arbitro\"",
-   "link": "https://www.milannews.it/news/atalanta-sarri-passo-clamorosa-rimonta-conferenza-633171",
-   "summary": "Maurizio Sarri, allenatore dell'Atalanta, è presente in conferenza stampa al termine di Milan-Atalanta, sfida valida per la settima giornata di Serie A e terminata 3-2 in favore dei rossoneri.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T19:00:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e4/e464504146037d508118e0b80967d2be-32272-oooz0000.jpeg",
-   "id": "e0015a2d028d"
-  },
-  {
-   "title": "Sarri: \"Abbiamo pagato la mancanza di aggressività, oltre che episodi casuali negativi. Rigore che manca? Con Chiffi mi succede spesso\"",
-   "link": "https://www.milannews.it/l-avversario/sarri-abbiamo-pagato-mancanza-aggressivita-episodi-casuali-negativi-rigore-manca-chiffi-succede-spes-633191",
-   "summary": "Maurizio Sarri ha parlato a DAZN al termine di Milan-Atalanta 3-2.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-18T18:54:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/8b/8bcf9afebf4fc9ef0c0e1c1197d96b50-27987-oooz0000.jpeg",
-   "id": "12fd77ecd8cf"
-  },
-  {
-   "title": "Gattuso: “Con pochi soldi fatto un bel mercato, proviamo a restare in alto”",
-   "link": "https://www.tuttonapoli.net/le-interviste/gattuso-con-pochi-soldi-bel-mercato-proviamo-restare-alto-659435",
-   "summary": "Gennaro Gattuso, dopo la roboante vittoria della sua Lazio a Torino contro la Juventus per 0-3, è intervenuto in conferenza stampa analizzando l'ottimo lavoro effettuato dalla società e le prospettive stagionali.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T21:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
-   "id": "eefd62b18d32",
-   "age_minutes": 13,
-   "also": [],
-   "score": 7.122
-  },
-  {
-   "title": "Alvino: \"I numeri sono utili solo in tv, gli 11 messi in campo cosa fanno?”",
-   "link": "https://www.tuttonapoli.net/le-interviste/alvino-i-numeri-utili-tv-11-messi-campo-fanno-659428",
-   "summary": "Carlo Alvino, giornalista sportivo, è intervenuto ai microfoni di Ottochannel durante \"Salotto azzurro\" commentando la sconfitta del Napoli a Venezia: “Continuate a puntare l'indice sul sistema di gioco, sul modulo, su ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T21:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e8/e8d799a3c17a213309449f1ff6235499-20781-oooz0000.jpeg",
-   "id": "9b7b9e7a9ec4"
-  },
-  {
-   "title": "Serie A, classifica: incredibile ma vero, la Lazio vola a +9 sul Napoli",
-   "link": "https://www.tuttonapoli.net/brevi/classifica-perde-juventus-659430",
-   "summary": "Colpaccio della Lazio allo Juventus Stadium: secco 0-3 degli uomini allenati da Gennaro Gattuso che annientano gli 11 schierati da Luciano Spalletti. La Lazio dunque si riaggancia all'Inter, volando a +9 sul Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T21:00:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/09/09563633e3be700704c86a38c0a33012-17813-oooz0000.jpeg",
-   "id": "b666583539e6"
-  },
-  {
-   "title": "Crollo Juve! La Lazio ne rifila 3 a Spalletti e vola in classifica",
-   "link": "https://www.tuttonapoli.net/serie-a/colpo-gattuso-torino-gattuso-batte-spalletti-rete-provstgaard-659429",
-   "summary": "Vince ancora la Lazio di Gattuso che non si ferma più: battuta anche la Juventus 0-3 grazie alla rete di Provstgaard al 37' del primo tempo, di Isaksen al 66' e di Dele-Bashiru al 88'.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T20:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bc/bc932668140b570125bb5a85a1683594-73486-oooz0000.jpeg",
-   "id": "8b236d130494"
-  },
-  {
-   "title": "Giuliani: \"Il manico conta! Era già tutto chiaro con quella gara indecorosa con l’Arsenal\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/giuliani-possiamo-manico-conta-chiaro-arsenal-659427",
-   "summary": "Fulvio Giuliani, giornalista, è intervenuto ad \"A tempo scaduto\" in onda su Tele A: \"Non c'è un'identità nel Napoli, è inutile cercare risposte profonde.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T20:30:35+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/42/42b6c159ed1e6c0355284f17fec42203-65542-oooz0000.jpeg",
-   "id": "af6d4a7015cb"
-  },
-  {
-   "title": "Sarri si scaglia contro il Var: \"Oggi ho scoperto una cosa, se lo avessi fatto io...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/sarri-scaglia-var-oggi-scoperto-cosa-io-659426",
-   "summary": "Maurizio Sarri, allenatore dell'Atalanta, si è scagliato contro l'arbitraggio al termine di Milan-Atalanta, gara persa dalla Dea per 3-2. Ecco le sue parole: “Non è stato chiamato il Var sul mani di De Winter.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T20:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8b/8bcf9afebf4fc9ef0c0e1c1197d96b50-27987-oooz0000.jpeg",
-   "id": "800a30171d1c"
-  },
-  {
-   "title": "Azzi: \"Si è ignorato l'enorme downgrade con l'addio di Conte\"",
-   "link": "https://www.tuttonapoli.net/dai-social/azzi-si-ignorato-enorme-downgrade-addio-conte-659425",
-   "summary": "Il giornalista di Repubblica, Marco Azzi, ha commentato su X l'addio estivo di Conte, definendolo un enorme \"downgrade\".",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T20:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
-   "id": "1ec9540a08ec",
-   "age_minutes": 103,
-   "also": [],
-   "score": 6.644
-  },
-  {
-   "title": "Lindstrom show col Salisburgo: gol su punizione e assist nel 3-0 all’Altach",
-   "link": "https://www.tuttonapoli.net/notizie/lindstrom-show-salisburgo-gol-punizione-assist-3-0-all-altach-659418",
-   "summary": "Jesper Lindstrøm ha segnato e fornito un assist nella sfida che il Salisburgo ha vinto 3-0 contro l’Altach, nel nono turno del campionato austriaco.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T19:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a08138bd87ab85a6441e370dff1cc962-08302-oooz0000.jpeg",
-   "id": "46da180f1fa9"
-  },
-  {
-   "title": "Fabregas: “Ho visto il Napoli, alla fine non so come non abbia fatto gol”",
-   "link": "https://www.tuttonapoli.net/le-interviste/fabregas-ho-napoli-so-gol-659420",
-   "summary": "Nel post partita di Fiorentina-Como, Cesc Fabregas ha parlato ai microfoni di DAZN commentando anche le occasioni create dal Napoli nel finale della sfida con il Venezia, chiusa con la sconfitta degli azzurri per 1-0.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T19:30:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c929069016151f1cbad9d2aea51e0b55-01387-oooz0000.jpeg",
-   "id": "8beb07a96410"
-  },
-  {
-   "title": "Pastore: “Il Napoli di Allegri vincerà qualche partita ogni tanto, ma non ha futuro”",
-   "link": "https://www.tuttonapoli.net/le-interviste/pastore-il-napoli-allegri-vincera-partita-tanto-futuro-659415",
-   "summary": "La sconfitta contro il Venezia alimenta le critiche nei confronti del Napoli di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T19:15:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ad8f290c76b3e86a52738774d22cfa21-19496-oooz0000.jpeg",
-   "id": "ec07d8ce2ccb"
-  },
-  {
-   "title": "Napoli-Bodo/Glimt, il programma della vigilia: allenamento e conferenze stampa",
-   "link": "https://www.tuttonapoli.net/champions-league/napoli-bodo-glimt-programma-vigilia-allenamento-conferenze-stampa-lunedi-maradona-659419",
-   "summary": "Il Napoli è pronto a rientrare in casa in Champions League per la terza giornata della prima fase della competizione 2026-2027: la squadra di Max Allegri affronterà il Bodo/Glimt martedì 20 ottobre allo stadio Diego Armando Marad ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T19:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/00/00cf8c5c78b0385a21f2158af075a089-40057-oooz0000.jpeg",
-   "id": "5f1b443bbad9"
-  },
-  {
-   "title": "ADL la guarda la classifica? Il Milan sale al quarto posto e allunga a +5 sul Napoli",
-   "link": "https://www.tuttonapoli.net/brevi/adl-guarda-classifica-milan-sale-allunga-5-napoli-659424",
-   "summary": "Vince ancora il Milan di Amorim che con il brivido nel finale porta a casa un'importante vittoria contro l'Atalanta di Maurizio Sarri: i rossoneri tornano quindi a -4 dall'Inter ma allungano dagli azzurri allenati da Massimiliano Allegri ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T18:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7d/7d893b891d1ce666369eb63b5fe25c4e-30749-oooz0000.jpeg",
-   "id": "e97382c35038"
-  },
-  {
-   "title": "Basta difendere Allegri: non esiste mercato o età media per giustificare un Napoli da metà classifica",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/napoli-allegri-esiste-mercato-eta-media-giustificare-napoli-meta-classifica-659423",
-   "summary": "Non è più il momento di nascondere la polvere sotto al tappeto. Almeno per chi ha realmente a cuore le sorti del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T18:30:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1c/1ce802aa5acc295f3a1ebfad936db908-36588-oooz0000.jpeg",
-   "id": "f9cc0f338081",
-   "age_minutes": 193,
-   "also": [],
-   "score": 6.226
-  },
-  {
-   "title": "Canovi: “Il Napoli è una squadra vecchia, Conte aveva capito tutto”",
-   "link": "https://www.tuttonapoli.net/le-interviste/canovi-il-napoli-squadra-vecchia-conte-capito-tutto-659401",
-   "summary": "Il momento complicato del Napoli, reduce dalla sconfitta contro il Venezia dopo il ko in Champions League, continua a far discutere. A intervenire è l'avvocato Dario Canovi, che in un'intervista a TuttoMercatoWeb.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T18:15:10+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b6/b6a7632dc6cbb727ad78980097a92ba3-45487-oooz0000.jpeg",
-   "id": "5762316ff06c",
-   "age_minutes": 208,
-   "also": [],
-   "score": 4.96
-  },
-  {
-   "title": "Il Milan del criticato Amorim vince ancora: 3-2 contro l’Atalanta",
-   "link": "https://www.tuttonapoli.net/serie-a/milan-criticato-amorim-vince-ancora-3-2-all-atalanta-659422",
-   "summary": "Vince ancora il Milan di Ruben Amorim che batte l'Atalanta 3-2 con brividi nel finale: dopo un triplo vantaggio, la Dea prova a recuperare con una clamorosa rimonta ma Maignan si immola nel finale e permette alla sua squadra di tornare a -4 dall& ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T18:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/36/36391fae48c748d109f5629c63e85bef-95698-oooz0000.jpeg",
-   "id": "f9ae59d98719"
-  },
-  {
-   "title": "Juventus-Lazio, le formazioni ufficiali: Kolo Muani titolare. Woltemade dalla panchina",
-   "link": "https://www.tuttonapoli.net/serie-a/juventus-lazio-formazioni-ufficiali-kolo-muani-titolare-woltemade-panchina-659421",
-   "summary": "Dopo la vittoria in rimonta sul campo del Celta Vigo la Juventus torna in campo per la sfida interna contro la Lazio in programma questa sera, domenica 18 ottobre, alle 20.45.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T17:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/af/af9d37ebb866fe500e8c0d317ff856ce-42614-oooz0000.jpeg",
-   "id": "a6912809e0d3"
-  },
-  {
-   "title": "Bargiggia: “La lobby degli amici di Allegri la smetta di difenderlo! Rovinate il calcio italiano!”",
-   "link": "https://www.tuttonapoli.net/le-interviste/bargiggia-la-lobby-amici-allegri-smetta-difenderlo-rovinate-calcio-italiano-659414",
-   "summary": "Paolo Bargiggia attacca Massimiliano Allegri e chi continua a sostenerlo nonostante le difficoltà del Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T17:30:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c0/c0d46d9407e9062b75da6ec4816eccb6-71209-oooz0000.jpeg",
-   "id": "bcf9f570c0aa"
-  },
-  {
-   "title": "Condò boccia il Napoli: “Primo tempo nullo, le riserve hanno confermato il loro status”",
-   "link": "https://www.tuttonapoli.net/le-interviste/condo-boccia-napoli-primo-giocato-niente-riserve-confermato-status-659364",
-   "summary": "Il giornalista Paolo Condò, intervenuto ai microfoni di Sky Sport, ha analizzato duramente la prestazione del Napoli dopo la sconfitta contro il Venezia.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T17:15:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a3/a3b88f1604e5c2b3f69409212e6b2572-86478-oooz0000.jpeg",
-   "id": "ea6ea573196b"
-  },
-  {
-   "title": "Frosinone, Raimondo-show svela: “Da piccolo simpatizzavo Napoli, amavo Cavani”",
-   "link": "https://www.tuttonapoli.net/le-interviste/frosinone-raimondo-show-svela-da-piccolo-simpatizzavo-napoli-amavo-cavani-659395",
-   "summary": "Sette reti in campionato, il primo posto nella classifica marcatori e una tripletta nell'ultima sfida contro il Sassuolo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T17:00:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1f/1f7a72f2823977f8120905478b4cb495-98122-oooz0000.jpeg",
-   "id": "4fc0726a49f2"
-  },
-  {
-   "title": "Dybala recupera per Napoli-Roma? Gasperini fa il punto sul rientro dell’argentino",
-   "link": "https://www.tuttonapoli.net/serie-a/dybala-recupera-napoli-roma-gasperini-punto-rientro-dell-argentino-659394",
-   "summary": "La Roma spera di ritrovare Paulo Dybala in vista della sfida contro il Napoli. Dopo il successo per 2-0 sul Genoa, Gian Piero Gasperini ha aggiornato sulle condizioni dell'argentino, fermato da un affaticamento al polpaccio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-18T16:45:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a1/a1de479c09173d6c1e05e8ae11133bb7-22345-oooz0000.jpeg",
-   "id": "53e07dc7618f"
-  },
-  {
-   "title": "Spalletti a DAZN. \"Sorpreso dalla prestazione, difficile da spiegare. Qualcosa bisogna andare a modificare. Con i giocatori rapporto sincero, ma quanto fatto oggi non va assolutamente bene\"",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-dazn-sorpreso-prestazione-difficile-spiegare-bisogna-andare-modificare-giocatori-rapporto-797183",
-   "summary": "Luciano Spalletti commenta la brutta sconfitta della Juventus ai microfoni di DAZN: Forse per la prima volta in stagione mi è sembrato di non vedere una Juve con il pallino del gioco in mano e forse proprio quello che avete preparato ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:40:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f7/f7a92dc72b66318c72c655aa5f235f25-17243-oooz0000.jpeg",
-   "id": "0f1286a69fb2"
-  },
-  {
-   "title": "Juventus, Falci: \"L'esperienza di Spalletti rischia di essere ai titoli di coda\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-falci-l-esperienza-spalletti-rischia-titoli-coda-797176",
-   "summary": "Il futuro di Luciano Spalletti alla Juventus potrebbe essere in discussione dopo la pesante sconfitta casalinga contro la Lazio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:30:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1a/1a66c5d66aaa0aab10cc14dfd81076e6-86701-oooz0000.jpeg",
-   "id": "a446a45bed83"
-  },
-  {
-   "title": "Gattuso a DAZN: \"Abbiamo saputo soffrire, oggi è stato importante. Avevo pensato di smettere di allenare\"",
-   "link": "https://www.tuttojuve.com/l-avversario/gattuso-dazn-abbiamo-saputo-soffrire-importante-pensato-smettere-allenare-797177",
-   "summary": "Gennaro Gattuso si gode la prima vittoria da allenatore sul campo della Juventus, ma invita la Lazio a mantenere i piedi per terra.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:21:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e8/e82c1d05d9277a6e22720890c45e3f1b-05138-oooz0000.jpeg",
-   "id": "6a8ac6cebb71"
-  },
-  {
-   "title": "Juventus-Lazio, Gattuso entra nella storia: mai 19 punti dopo sette giornate in Serie A",
-   "link": "https://www.tuttojuve.com/l-avversario/juventus-lazio-gattuso-entra-storia-19-punti-giornate-serie-797173",
-   "summary": "La Lazio di Gennaro Gattuso entra nella storia del club biancoceleste.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:20:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/af34feef59f158ba20cb3b3998d96a2d-85782-oooz0000.jpeg",
-   "id": "a61d4b8ae9a9"
-  },
-  {
-   "title": "Provstgaard in conferenza: “Felice per il gol. Abbiano pressato la Juve con coraggio”",
-   "link": "https://www.tuttojuve.com/altre-notizie/provstgaard-conferenza-797125",
-   "summary": "Provstgaard ha parlato in conferenza stampa dopo la gara con la Juventus. TuttoJuve.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:18:50+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b5/b536403b1aaf0977a5a2c540284a5800-20881-oooz0000.jpeg",
-   "id": "c88aa60df24b"
-  },
-  {
-   "title": "Oreggia durissimo: \"La Juventus sfiora il ridicolo, dalla società all'allenatore e ai giocatori\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/oreggia-durissimo-la-juventus-sfiora-ridicolo-societa-allenatore-giocatori-797172",
-   "summary": "La pesante sconfitta della Juventus contro la Lazio scatena le critiche di Vittorio Oreggia.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:10:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4eff78e6d5644b3087220edc5253777a-22345-oooz0000.jpeg",
-   "id": "34371ab9efcb"
-  },
-  {
-   "title": "Provstgaard a DAZN: \"Grande partita. Non ho mai provato un'atmosfera così",
-   "link": "https://www.tuttojuve.com/l-avversario/provstgaard-grande-partita-provato-atmosfera-797174",
-   "summary": "Oliver Provstgaard celebra la vittoria della Lazio sul campo della Juventus e sottolinea l'importanza di Gennaro Gattuso nella propria crescita.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:08:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/25/25f5235fe943f5442760107d8f59a0e7-45101-oooz0000.jpeg",
-   "id": "bb82d2212895"
-  },
-  {
-   "title": "Juventus-Lazio 0-3, le pagelle dei bianconeri: Bremer e Sarr da incubo, delude anche Kolo Muani",
-   "link": "https://www.tuttojuve.com/il-pagellone-dei-campioni/juventus-lazio-0-3-pagelle-bianconeri-797168",
-   "summary": "Vicario 6 - Tre tiri subiti e tre goal incassati. Qualche uscita di ordinaria amministrazione, ma non ha la possibilità di fare qualcosa per provare ad evitare le marcature degli ospiti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:05:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/68/6847cfd5909f1ecaa01af890abcc9a45-35925-oooz0000.jpeg",
-   "id": "0459f4c74065"
-  },
-  {
-   "title": "Juventus-Lazio 0-3, Cucchi applaude Gattuso: \"E' un piccolo capolavoro, gara impeccabile a Torino\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-0-3-cucchi-applaude-gattuso-e-piccolo-capolavoro-gara-impeccabile-torino-797170",
-   "summary": "La Lazio travolge la Juventus all'Allianz Stadium e Riccardo Cucchi esalta il lavoro di Gennaro Gattuso.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T21:00:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/02/0204ee8ab7ffefa3563e6c599458ab81-21766-oooz0000.jpeg",
-   "id": "46d3785a1947"
-  },
-  {
-   "title": "Serie A, la classifica aggiornata: Spalletti è già a -8 dalla vetta",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-classifica-aggiornata-spalletti-giu-8-vetta-797171",
-   "summary": "La Lazio supera 3-0 la Juventus all'Allianz Stadium e raggiunge l'Inter in testa alla classifica di Serie A con 19 punti dopo sette giornate.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:57:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/10/1069bec67eca5b24e4650f15201a40e3-99728-oooz0000.jpeg",
-   "id": "aef8c3bc5d31"
-  },
-  {
-   "title": "Crollo Juve, pioggia di fischi sui bianconeri a fine gara. In tanti avevano abbandonato in anticipo lo Stadium",
-   "link": "https://www.tuttojuve.com/altre-notizie/crolli-juve-pioggia-fischi-bianconeri-gara-tanti-abbandonato-stadium-797169",
-   "summary": "La Lazio espugna l'Allianz Stadium con un netto 3-0 e conferma il primo posto in Serie A, a pari punti con l'Inter.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:50:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/09/09563633e3be700704c86a38c0a33012-17813-oooz0000.jpeg",
-   "id": "4f140f61f690"
-  },
-  {
-   "title": "Umiliati!",
-   "link": "https://www.tuttojuve.com/primo-piano/umiliati-797167",
-   "summary": "La Juventus sprofonda contro la Lazio e incassa una sconfitta pesantissima, non soltanto per il risultato ma soprattutto per la prestazione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:45:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8b/8b0dc9e5387e62b428fe8008384c782b-04260-oooz0000.jpeg",
-   "id": "d38a50682c61"
-  },
-  {
-   "title": "Juventus-Lazio, 0-3: lezione di calcio di Gattuso all'Allianz Stadium, bianconeri sommersi dai fischi",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-lazio-formazioni-ufficiali-match-797151",
-   "summary": "22:39 - Triplice fischio all'Allianz Stadium! 93' Una Juventus, priva di idee ed energie, prova a farsi vedere al limite dell'area avversaria, senza trovare lo spazio giusto per rendersi pericolosa.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:39:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/36/36eda7c742e2fab3147eff0ab01ec0eb-15017-oooz0000.jpeg",
-   "id": "1ca24ef5faa8"
-  },
-  {
-   "title": "Serie A, Liberali nella storia del Como: soltanto l'ex Juve Galia meglio di lui",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-liberali-storia-como-juve-galia-797166",
-   "summary": "Liberali ha invece raggiunto il proprio traguardo a 19 anni e 195 giorni, riportando il Como al centro di una particolare statistica che attraversa diverse generazioni di calciatori.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:30:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/bc/bce44402af25505c6ecbe4c5fce99371-16201-oooz0000.jpeg",
-   "id": "ef89e0664f61"
-  },
-  {
-   "title": "Juventus-Lazio, protesta ultras e oltre 41mila presenti: i dati ufficiali",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-lazio-protesta-ultras-41mila-presenti-dati-ufficiali-797165",
-   "summary": "Sono 41.112 gli spettatori presenti all'Allianz Stadium per Juventus-Lazio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:15:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/58/58056657042a3de7054b22a15ae7961a-77723-oooz0000.jpeg",
-   "id": "35faf4342828"
-  },
-  {
-   "title": "Cagliari, Zanoncelli si schiera con Mina: \"Non vedo perché dovrebbe cambiare atteggiamento\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/cagliari-zanoncelli-schiera-mina-non-vedo-dovrebbe-cambiare-atteggiamento-797164",
-   "summary": "Francesco Zanoncelli si schiera dalla parte di Yerry Mina e invita il Cagliari a non sottovalutare la trasferta contro il Monza. L'ex difensore, che in carriera ha vestito entrambe le maglie, ha analizzato ai microfoni di TuttoCagliari.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T20:00:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b0/b051d546c4f45d065908b61702b48a87-60612-oooz0000.jpeg",
-   "id": "45622121ccd7"
-  },
-  {
-   "title": "Atalanta, Sarri furioso dopo il Milan: \"Con Chiffi mi succede spesso...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/atalanta-sarri-furioso-milan-con-chiffi-succede-spesso-797163",
-   "summary": "Maurizio Sarri non nasconde il rammarico per la sconfitta dell'Atalanta sul campo del Milan.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T19:45:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8b/8bcf9afebf4fc9ef0c0e1c1197d96b50-27987-oooz0000.jpeg",
-   "id": "c68a47cc6981"
-  },
-  {
-   "title": "Juventus-Lazio, Zaccagni da record: solo Berardi ha fatto meglio",
-   "link": "https://www.tuttojuve.com/l-avversario/juventus-lazio-zaccagni-record-berardi-797162",
-   "summary": "Mattia Zaccagni raggiunge un traguardo statistico significativo in Serie A grazie all'assist servito a Oliver Provstgaard durante Juventus-Lazio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T19:30:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a6/a6a13bc18ebfb8fd934300292d8007a3-43649-oooz0000.jpeg",
-   "id": "2d3a58344189"
-  },
-  {
-   "title": "Juve-Lazio, scoppia una rissa sugli spalti dell'Allianz Stadium",
-   "link": "https://www.tuttojuve.com/altre-notizie/juve-lazio-scoppia-rissa-spalti-allianz-stadium-797161",
-   "summary": "Scoppia la rissa all'Allianz Stadium durante Juventus-Lazio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T19:15:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c91ca54926f06f41487da4919db6afba-10946-oooz0000.jpeg",
-   "id": "7b761d8b87d0"
-  },
-  {
-   "title": "Cagliari, Pisacane: \"Ho parlato di Spalletti dopo la partita, ora penso al Monza\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/pisacane-797160",
-   "summary": "Mentre all'Allianz Stadium nel match contro la Lazio il viceallenatore Marco Domenichini si è accomodato sulla panchina della Juventus al posto dello squalificato Luciano Spalletti, domani sera sarà il turno del viceallenatore del C ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-18T19:00:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b5/b5b95012de523c1119c630a8f864c56b-47660-oooz0000.jpeg",
-   "id": "8ad13667cf64"
+   "title": "Bremer: ‘Cannot carry all Juventus players, some get scared and hide’",
+   "link": "https://football-italia.net/bremer-cannot-carry-juventus-players-scared/",
+   "summary": "Gleison Bremer seemed to launch a broadside at his Juventus teammates after the 3-0 defeat...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-10-18T21:59:04+00:00",
+   "image": "",
+   "id": "0f7be82c4a77"
   },
   {
    "title": "Spalletti: ‘Juventus inferior to Lazio, I was surprised by performance’",
@@ -1812,17 +1826,6 @@
    "published": "2026-10-18T16:08:56+00:00",
    "image": "",
    "id": "32f58e7098a6"
-  },
-  {
-   "title": "Liberali: ‘I’m seeing a lot of good young Italians, Fabregas lets me do my thing’",
-   "link": "https://football-italia.net/liberali-seeing-a-lot-of-good-young-italians/",
-   "summary": "Mattia Liberali insists that there is plenty of young Italian talent coming through in Serie...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-10-18T15:51:27+00:00",
-   "image": "",
-   "id": "c944c792c7fe"
   }
  ],
  "stats": {
