@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T01:15:00.795428+02:00",
+ "generated_at": "2026-10-23T03:47:24.144453+02:00",
  "articles": [
   {
    "title": "Roma, infortunio Pellegrini: tempi di recupero e diagnosi ufficiale",
@@ -11,42 +11,9 @@
    "published": "2026-10-22T15:32:01+00:00",
    "image": "",
    "id": "42f0efac33e0",
-   "age_minutes": 462,
+   "age_minutes": 615,
    "also": [],
-   "score": 7.45
-  },
-  {
-   "title": "PSG al fianco di Kvaratskhelia dopo la rottura del crociato: pronto il rinnovo",
-   "link": "https://www.tuttonapoli.net/champions-league/psg-fianco-kvaratskhelia-rottura-crociato-pronto-rinnovo-659810",
-   "summary": "Il Paris Saint-Germain al fianco di Khvicha Kvaratskhelia.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:40:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/75f4079519308f4f396bfbf4b63b945b-57626-oooz0000.jpeg",
-   "id": "3d839128eba7",
-   "age_minutes": 94,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/21/dramma-psg-rottura-del-legamento-crociato-per-kvaratskhelia/"
-    }
-   ],
-   "score": 7.288
-  },
-  {
-   "title": "Bournemouth-Milan 3-0, disastro rossonero in Inghilterra",
-   "link": "https://www.calciomercato.it/2026/10/22/bournemouth-milan-3-0-disastro-rossonero-in-inghilterra/",
-   "summary": "L'articolo Bournemouth-Milan 3-0, disastro rossonero in Inghilterra proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-22T21:02:04+00:00",
-   "image": "",
-   "id": "0058f50dad16",
-   "age_minutes": 132,
-   "also": [],
-   "score": 6.701
+   "score": 7.045
   },
   {
    "title": "Bournemouth-Milan, colpo di scena Cisse: la scelta di Amorim",
@@ -58,37 +25,37 @@
    "published": "2026-10-22T10:01:29+00:00",
    "image": "",
    "id": "905fc7e66e1e",
-   "age_minutes": 793,
+   "age_minutes": 945,
    "also": [],
-   "score": 6.672
+   "score": 6.421
   },
   {
-   "title": "Mario Rui riparte: l'ex Napoli firma con un club di terza serie portoghese",
-   "link": "https://www.tuttonapoli.net/notizie/mario-rui-riparte-napoli-firma-club-terza-serie-portoghese-659808",
-   "summary": "Nuova avventura per Mario Rui, che riparte dal Portogallo dopo l'esperienza con il Napoli. Il terzino portoghese è un nuovo giocatore del Belenenses, formazione che milita nella terza serie lusitana.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:40:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/08/08ae6ea0fbcf4163ec5789b5dcd49286-80143-oooz0000.jpeg",
-   "id": "80512c6685b9",
-   "age_minutes": 154,
-   "also": [],
-   "score": 6.401
-  },
-  {
-   "title": "Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo",
-   "link": "https://www.calciomercato.it/2026/10/22/il-ritorno-in-panchina-di-conte-e-sempre-piu-vicino-decisione-ad-un-passo/",
-   "summary": "L'articolo Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo proviene da CalcioMercato.it .",
+   "title": "Bournemouth-Milan 3-0, disastro rossonero in Inghilterra",
+   "link": "https://www.calciomercato.it/2026/10/22/bournemouth-milan-3-0-disastro-rossonero-in-inghilterra/",
+   "summary": "L'articolo Bournemouth-Milan 3-0, disastro rossonero in Inghilterra proviene da CalcioMercato.it .",
    "source": "Calciomercato.it",
    "source_weight": 1.2,
    "scope": "generalista",
-   "published": "2026-10-22T19:21:07+00:00",
+   "published": "2026-10-22T21:02:04+00:00",
    "image": "",
-   "id": "f83156083883",
-   "age_minutes": 233,
+   "id": "0058f50dad16",
+   "age_minutes": 285,
    "also": [],
-   "score": 6.253
+   "score": 6.049
+  },
+  {
+   "title": "PSG al fianco di Kvaratskhelia dopo la rottura del crociato: pronto il rinnovo",
+   "link": "https://www.tuttonapoli.net/champions-league/psg-fianco-kvaratskhelia-rottura-crociato-pronto-rinnovo-659810",
+   "summary": "Il Paris Saint-Germain al fianco di Khvicha Kvaratskhelia.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:40:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/75f4079519308f4f396bfbf4b63b945b-57626-oooz0000.jpeg",
+   "id": "3d839128eba7",
+   "age_minutes": 247,
+   "also": [],
+   "score": 5.999
   },
   {
    "title": "Carlos Augusto: “Grazie Mkhitaryan, vittoria per Bastoni”. La risposta sul rinnovo | VIDEO CM",
@@ -100,9 +67,37 @@
    "published": "2026-10-22T00:15:49+00:00",
    "image": "",
    "id": "7c2efc0a6291",
-   "age_minutes": 1379,
+   "age_minutes": 1531,
    "also": [],
-   "score": 5.946
+   "score": 5.838
+  },
+  {
+   "title": "Mario Rui riparte: l'ex Napoli firma con un club di terza serie portoghese",
+   "link": "https://www.tuttonapoli.net/notizie/mario-rui-riparte-napoli-firma-club-terza-serie-portoghese-659808",
+   "summary": "Nuova avventura per Mario Rui, che riparte dal Portogallo dopo l'esperienza con il Napoli. Il terzino portoghese è un nuovo giocatore del Belenenses, formazione che milita nella terza serie lusitana.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:40:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/08/08ae6ea0fbcf4163ec5789b5dcd49286-80143-oooz0000.jpeg",
+   "id": "80512c6685b9",
+   "age_minutes": 306,
+   "also": [],
+   "score": 5.769
+  },
+  {
+   "title": "Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo",
+   "link": "https://www.calciomercato.it/2026/10/22/il-ritorno-in-panchina-di-conte-e-sempre-piu-vicino-decisione-ad-un-passo/",
+   "summary": "L'articolo Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-22T19:21:07+00:00",
+   "image": "",
+   "id": "f83156083883",
+   "age_minutes": 386,
+   "also": [],
+   "score": 5.69
   },
   {
    "title": "Juventus-Raimondo, la strategia bianconera e il prezzo del bomber",
@@ -114,23 +109,9 @@
    "published": "2026-10-22T16:14:59+00:00",
    "image": "",
    "id": "f94f9a986fdd",
-   "age_minutes": 420,
+   "age_minutes": 572,
    "also": [],
-   "score": 5.581
-  },
-  {
-   "title": "Mandato: \"Lucca? E' un problema di testa, mi rifiuto di credere una cosa\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/mandato-lucca-problema-testa-rifiuto-credere-cosa-659757",
-   "summary": "Tommaso Mandato, procuratore sportivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Bisogna cogliere gli…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T23:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c7ce08505e7a33158004489c438b1d8c-94778-oooz0000.jpeg",
-   "id": "55f60c681019",
-   "age_minutes": 14,
-   "also": [],
-   "score": 5.517
+   "score": 5.15
   },
   {
    "title": "Milan, va ko anche Chukwueze: si pensa al ritorno di Athekame",
@@ -142,23 +123,9 @@
    "published": "2026-10-22T15:00:31+00:00",
    "image": "",
    "id": "3d2445d1917c",
-   "age_minutes": 494,
+   "age_minutes": 646,
    "also": [],
-   "score": 5.359
-  },
-  {
-   "title": "Atalanta, Sarri a rischio esonero: le ultimissime",
-   "link": "https://www.calciomercato.it/2026/10/22/atalanta-sarri-a-rischio-esonero-le-ultimissime/",
-   "summary": "L'articolo Atalanta, Sarri a rischio esonero: le ultimissime proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-22T13:00:23+00:00",
-   "image": "",
-   "id": "0d23bc19f64c",
-   "age_minutes": 614,
-   "also": [],
-   "score": 5.047
+   "score": 4.972
   },
   {
    "title": "Milan, emergenza in attacco: due i nomi per il mercato di gennaio",
@@ -170,9 +137,37 @@
    "published": "2026-10-21T19:00:58+00:00",
    "image": "",
    "id": "9470e2483464",
-   "age_minutes": 1694,
+   "age_minutes": 1846,
    "also": [],
-   "score": 4.946
+   "score": 4.878
+  },
+  {
+   "title": "Mandato: \"Lucca? E' un problema di testa, mi rifiuto di credere una cosa\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/mandato-lucca-problema-testa-rifiuto-credere-cosa-659757",
+   "summary": "Tommaso Mandato, procuratore sportivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Bisogna cogliere gli…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T23:00:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c7ce08505e7a33158004489c438b1d8c-94778-oooz0000.jpeg",
+   "id": "55f60c681019",
+   "age_minutes": 166,
+   "also": [],
+   "score": 4.743
+  },
+  {
+   "title": "Atalanta, Sarri a rischio esonero: le ultimissime",
+   "link": "https://www.calciomercato.it/2026/10/22/atalanta-sarri-a-rischio-esonero-le-ultimissime/",
+   "summary": "L'articolo Atalanta, Sarri a rischio esonero: le ultimissime proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-22T13:00:23+00:00",
+   "image": "",
+   "id": "0d23bc19f64c",
+   "age_minutes": 767,
+   "also": [],
+   "score": 4.721
   },
   {
    "title": "Manchester United, crisi senza fine: sprint Conte per il dopo Carrick",
@@ -184,9 +179,9 @@
    "published": "2026-10-22T10:34:51+00:00",
    "image": "",
    "id": "723f95405367",
-   "age_minutes": 760,
+   "age_minutes": 912,
    "also": [],
-   "score": 4.735
+   "score": 4.471
   },
   {
    "title": "Juve-Rennes, Spalletti cambia ancora: chi gioca in attacco",
@@ -198,9 +193,9 @@
    "published": "2026-10-22T07:27:49+00:00",
    "image": "",
    "id": "c8d0877921aa",
-   "age_minutes": 947,
+   "age_minutes": 1099,
    "also": [],
-   "score": 4.419
+   "score": 4.217
   },
   {
    "title": "Juventus, la strategia per Simone Inzaghi: arriva la scelta per la panchina",
@@ -212,9 +207,9 @@
    "published": "2026-10-22T07:00:22+00:00",
    "image": "",
    "id": "78c090b557f0",
-   "age_minutes": 974,
+   "age_minutes": 1127,
    "also": [],
-   "score": 4.379
+   "score": 4.186
   },
   {
    "title": "Roma, c’è anche il Bayern Monaco sulle tracce di Koné: la situazione | CM",
@@ -226,9 +221,9 @@
    "published": "2026-10-22T05:18:15+00:00",
    "image": "",
    "id": "dc4a5c93b4de",
-   "age_minutes": 1076,
+   "age_minutes": 1229,
    "also": [],
-   "score": 4.245
+   "score": 4.078
   },
   {
    "title": "Champions League, i risultati della terza giornata: poker di successi italiani",
@@ -240,9 +235,9 @@
    "published": "2026-10-21T21:00:00+00:00",
    "image": "",
    "id": "a025dc0f327d",
-   "age_minutes": 1575,
+   "age_minutes": 1727,
    "also": [],
-   "score": 3.811
+   "score": 3.73
   },
   {
    "title": "Roma, interesse concreto per Ben Seghir: piace a Gasperini | CM",
@@ -254,9 +249,9 @@
    "published": "2026-10-21T15:33:01+00:00",
    "image": "",
    "id": "0d87194e760a",
-   "age_minutes": 1901,
+   "age_minutes": 2054,
    "also": [],
-   "score": 3.657
+   "score": 3.606
   },
   {
    "title": "Juventus, Spalletti e il ribaltone in panchina: “Sono allenato”. Novità in attacco",
@@ -268,26 +263,34 @@
    "published": "2026-10-21T14:49:06+00:00",
    "image": "",
    "id": "8d695e3b1885",
-   "age_minutes": 1945,
+   "age_minutes": 2098,
    "also": [],
-   "score": 3.641
-  },
-  {
-   "title": "Como-Manchester United, le ultimissime: grande novità in attacco",
-   "link": "https://www.calciomercato.it/2026/10/21/como-manchester-united-le-ultimissime-grande-novita-in-attacco/",
-   "summary": "L'articolo Como-Manchester United, le ultimissime: grande novità in attacco proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-21T12:12:08+00:00",
-   "image": "",
-   "id": "ba31afb07ea2",
-   "age_minutes": 2102,
-   "also": [],
-   "score": 3.592
+   "score": 3.593
   }
  ],
  "raw": [
+  {
+   "title": "Juventus-Rennes 2-2, Camara non nasconde i rimpianti: \"Siamo frustrati, ma possiamo essere orgogliosi\"",
+   "link": "https://www.tuttojuve.com/l-avversario/juventus-rennes-2-2-camara-nasconde-rimpianti-siamo-frustrati-possiamo-orgogliosi-797730",
+   "summary": "Il Rennes lascia l'Allianz Stadium con un punto prezioso, ma anche con la sensazione di aver sfiorato un risultato ancora più importante.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-22T23:30:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ca/cab648a147db0cbd0a11c66b8e8a9096-46404-oooz0000.jpeg",
+   "id": "5b0d2cbb35e6"
+  },
+  {
+   "title": "I tre peggiori della sfida al Rennes",
+   "link": "https://www.tuttojuve.com/altre-notizie/peggiori-797729",
+   "summary": "La Juventus pareggia 2-2 contro il Rennes e lascia sul campo due punti che avrebbero potuto dare maggiore serenità a Luciano Spalletti.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-22T23:15:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a6/a6b84bbd327bd5e1caab1f2aae9a6110-18989-oooz0000.jpeg",
+   "id": "4d4390cab27d"
+  },
   {
    "title": "Juventus, Spalletti non si tocca: la società chiede continuità e ammette i problemi legati al Fair Play Finanziario",
    "link": "https://www.tuttojuve.com/altre-notizie/juventus-spalletti-tocca-societa-chiede-continuita-ammette-problemi-legati-fair-play-finanziario-797705",
@@ -487,262 +490,6 @@
    "id": "49a1f8811479"
   },
   {
-   "title": "Cosa manca a Spalletti per finalmente dormire tranquillo?",
-   "link": "https://www.tuttojuve.com/primo-piano/manca-spalletti-dormire-tranquillo-797727",
-   "summary": "Spalletti continuerò a non dormire.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-22T20:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c7/c790ab93ab183323f72b9a8d37fe4839-75502-oooz0000.jpeg",
-   "id": "0ec97b01b99f"
-  },
-  {
-   "title": "Juventus, Woltemade da record: ha eguagliato Baggio. Il dato statistico",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-woltemade-record-eguagliato-baggio-dato-statistico-797724",
-   "summary": "La Juventus ha pareggiato per 2-2 contro il Rennes e per i bianconeri hanno segnato Zeki Celik e Nick Woltemade, due reti importanti che hanno permesso alla squadra di Spalletti di portare a casa un punto nella terza sfida della fase campionato di Eu ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-22T20:20:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f0/f0fb2bae6be651ae79a2233482a2d504-50139-oooz0000.jpeg",
-   "id": "7b394435354c"
-  },
-  {
-   "title": "Mandato: \"Lucca? E' un problema di testa, mi rifiuto di credere una cosa\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/mandato-lucca-problema-testa-rifiuto-credere-cosa-659757",
-   "summary": "Tommaso Mandato, procuratore sportivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Bisogna cogliere gli…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T23:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c7ce08505e7a33158004489c438b1d8c-94778-oooz0000.jpeg",
-   "id": "55f60c681019",
-   "age_minutes": 14,
-   "also": [],
-   "score": 5.517
-  },
-  {
-   "title": "Hojlund, obiettivo speciale contro la Roma: finora non ci è ancora riuscito",
-   "link": "https://www.tuttonapoli.net/notizie/hojlund-obiettivo-speciale-roma-serie-riuscito-659825",
-   "summary": "Rasmus Højlund vuole interrompere il digiuno contro la Roma e aggiungere i giallorossi alla lista delle squadre già punite in Serie ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T22:00:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8e/8e312b71692f0d730b67b10a45f97859-97763-oooz0000.jpeg",
-   "id": "107743b450d7"
-  },
-  {
-   "title": "Varela-show al Monza, il Napoli lo segue per gennaio: il suo modello è un ex azzurro",
-   "link": "https://www.tuttonapoli.net/notizie/varela-show-monza-napoli-segue-gennaio-idolo-azzurro-659804",
-   "summary": "Sei gol e un impatto immediato con il calcio italiano: Gustavo Varela si sta mettendo in evidenza con la maglia del Monza e ha attirato l'attenzione delle big di Serie A, Napoli compreso.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:50:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a7/a70d3d57dcaa43cf945db2b1713f8075-77605-oooz0000.jpeg",
-   "id": "ca4313393c3a"
-  },
-  {
-   "title": "PSG al fianco di Kvaratskhelia dopo la rottura del crociato: pronto il rinnovo",
-   "link": "https://www.tuttonapoli.net/champions-league/psg-fianco-kvaratskhelia-rottura-crociato-pronto-rinnovo-659810",
-   "summary": "Il Paris Saint-Germain al fianco di Khvicha Kvaratskhelia.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:40:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/75f4079519308f4f396bfbf4b63b945b-57626-oooz0000.jpeg",
-   "id": "3d839128eba7",
-   "age_minutes": 94,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/21/dramma-psg-rottura-del-legamento-crociato-per-kvaratskhelia/"
-    }
-   ],
-   "score": 7.288
-  },
-  {
-   "title": "Rizzetta: “Vogliamo creare una polisportiva a Napoli! ADL? Sa bene che io ci sono…”",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/rizzetta-vogliamo-creare-polisportiva-napoli-adl-sa-sono-659831",
-   "summary": "Il futuro dello sport a Napoli passa anche dall'idea di una polisportiva capace di riunire calcio, basket e altre discipline sotto un un ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:28:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7d/7dcf5e6641d326dbd3bdf2ad62540bb9-22729-oooz0000.jpeg",
-   "id": "84dca6932ae6"
-  },
-  {
-   "title": "Conference League, tutto facile per Monaco e Twente: i risultati delle 21",
-   "link": "https://www.tuttonapoli.net/conference-league/conference-league-facile-monaco-twente-risultati-21-659830",
-   "summary": "Si sono concluse le gare delle 21 della giornata di Conference League, con risultati importanti per alcune delle squadre più attese della& ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:15:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b1/b131f282e3f80e259bf37aec33b722e9-87491-oooz0000.jpeg",
-   "id": "bb4833d86836"
-  },
-  {
-   "title": "Europa League, i finali delle 21: Lindstrom-gol non basta al Salisburgo. Pari Besiktas",
-   "link": "https://www.tuttonapoli.net/europa-league/europa-league-finali-21-lindstrom-gol-salisburgo-pari-besiktas-659829",
-   "summary": "Si chiudono le gare delle 21 di giovedì 22 ottobre, valide per la terza giornata della League Phase di Europa League.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:08:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a08138bd87ab85a6441e370dff1cc962-08302-oooz0000.jpeg",
-   "id": "3d875e5f6c00"
-  },
-  {
-   "title": "Sarri, altra sconfitta: l’Ajax domina per 90 minuti e nel finale punisce l’Atalanta",
-   "link": "https://www.tuttonapoli.net/conference-league/sarri-altra-sconfitta-l-ajax-domina-90-minuti-finale-punisce-l-atalanta-659828",
-   "summary": "L’Atalanta si arrende all’Ajax e incassa un altro ko dopo quello in campionato contro il Milan.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:05:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7ca0b3018f7c7a8200b9d6a0b416d7f2-68023-oooz0000.jpeg",
-   "id": "8795e9b3129d"
-  },
-  {
-   "title": "Il Milan affonda in Inghilterra: Maignan espulso, il Bournemouth vince 3-0",
-   "link": "https://www.tuttonapoli.net/europa-league/milan-affonda-inghilterra-maignan-espulso-bournemouth-vince-3-0-659827",
-   "summary": "Bastano trenta minuti al Bournemouth per affondare il Milan.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:57:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/15/1561c22d941fe0ae27690d011729220d-49685-oooz0000.jpeg",
-   "id": "49622b643687"
-  },
-  {
-   "title": "Napoli-Bodo, un giornalista norvegese al Maradona: “Lo stadio peggiore d’Europa!”",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-bodo-giornalista-norvegese-maradona-lo-stadio-peggiore-d-europa-659809",
-   "summary": "Lo stadio Diego Armando Maradona finisce nel mirino di Benjamin Solas, giornalista norvegese, caporedattore e conduttore radiofonico di Radio 3 Bodo, che da oltre dieci anni segue da vicino le vicende del Bodo/Glimt anche nelle trasferte europee.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:50:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c3f3f3fba5b39285b8308d5cab08a1f7-22708-oooz0000.jpeg",
-   "id": "0f44d5419bc8"
-  },
-  {
-   "title": "Mario Rui riparte: l'ex Napoli firma con un club di terza serie portoghese",
-   "link": "https://www.tuttonapoli.net/notizie/mario-rui-riparte-napoli-firma-club-terza-serie-portoghese-659808",
-   "summary": "Nuova avventura per Mario Rui, che riparte dal Portogallo dopo l'esperienza con il Napoli. Il terzino portoghese è un nuovo giocatore del Belenenses, formazione che milita nella terza serie lusitana.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:40:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/08/08ae6ea0fbcf4163ec5789b5dcd49286-80143-oooz0000.jpeg",
-   "id": "80512c6685b9",
-   "age_minutes": 154,
-   "also": [],
-   "score": 6.401
-  },
-  {
-   "title": "Auriemma: “Il Napoli vive di sprazzi, con poco entusiasmo! Ha preso 3 gol dal Bodo…”",
-   "link": "https://www.tuttonapoli.net/le-interviste/auriemma-il-napoli-vive-sprazzi-entusiasmo-preso-3-gol-bodo-659826",
-   "summary": "Il successo per 4-3 contro il Bodo/Glimt in Champions League non basta a dissipare le perplessità sul Napoli di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:30:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5c/5c930ea8ef25a23712abf219363d9974-10782-oooz0000.jpeg",
-   "id": "e1c06d5f67df"
-  },
-  {
-   "title": "Conte, quale futuro? Resistono le ipotesi Man United e Juventus: chiara la sua posizione",
-   "link": "https://www.tuttonapoli.net/brevi/conte-futuro-resistono-ipotesi-man-united-juventus-chiara-posizione-659785",
-   "summary": "L'ombra di Antonio Conte torna ad allungarsi sulle grandi panchine europee in difficoltà.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:20:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
-   "id": "de26b34d1a8a"
-  },
-  {
-   "title": "McTominay e KDB brillano, Del Genio ironizza: “Avevate ragione, non possono giocare insieme”",
-   "link": "https://www.tuttonapoli.net/le-interviste/mctominay-kdb-brillano-genio-ironizza-avevate-ragione-possono-giocare-insieme-659803",
-   "summary": "Il campo smentisce i teorici dell’incompatibilità.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:00:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cc/cc46351400f42c2345c44acc7abc8a90-75010-oooz0000.jpeg",
-   "id": "32c85108a52b"
-  },
-  {
-   "title": "Gasperini in silenzio: niente conferenza alla vigilia di Napoli-Roma",
-   "link": "https://www.tuttonapoli.net/notizie/gasperini-silenzio-conferenza-vigilia-napoli-roma-659806",
-   "summary": "Nessuna conferenza stampa per Gian Piero Gasperini prima di Napoli-Roma. L'allenatore giallorosso non incontrerà i giornalisti alla vigilia del big match, in programma sabato 24 ottobre alle ore 18:00 allo stadio Diego Armando Maradona.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T19:50:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2aeadb6482c3eae896bf0802f4c9abf4-19205-oooz0000.jpeg",
-   "id": "6d752eb386d5"
-  },
-  {
-   "title": "Bonucci: “Conte è uno dei due allenatori più importanti della mia carriera, che mentalità”",
-   "link": "https://www.tuttonapoli.net/le-interviste/bonucci-conte-allenatori-importanti-carriera-mentalita-659816",
-   "summary": "Due allenatori, due percorsi diversi e un’impronta decisiva sulla sua carriera: Leonardo Bonucci individua in Roberto Mancini e Antonio Conte i& ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T19:40:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c33b6d8a2e0a48077f965a393f8d725f-60727-oooz0000.jpeg",
-   "id": "16ca7abaab54"
-  },
-  {
-   "title": "Giovane, da oggetto misterioso ai primi segnali: Allegri ha una nuova risorsa offensiva",
-   "link": "https://www.tuttonapoli.net/notizie/giovane-oggetto-misterioso-primi-segnali-allegri-nuova-risorsa-offensiva-659822",
-   "summary": "Da oggetto misterioso a possibile risorsa offensiva: Giovane prova a cambiare passo nel Napoli di Massimiliano Allegri dopo aver faticato a emerg ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T19:30:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c2/c21317c183b0b8f2aa59ad79e6f2606b-02476-oooz0000.jpeg",
-   "id": "e98bb696126b"
-  },
-  {
-   "title": "Italia U16, i convocati per il Torneo ‘Val de Marne’: c’è anche un giovanissimo del Napoli",
-   "link": "https://www.tuttonapoli.net/giovanili/italia-u16-convocati-torneo-val-de-marne-c-e-giovanissimo-napoli-659821",
-   "summary": "La Nazionale italiana Under 16 si prepara a tornare in campo dopo le amichevoli disputate nei mesi scorsi contro Inghilterra e Spagna.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T19:20:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d6/d6e4c62217421e7303b1de79f0c63ef7-95692-oooz0000.jpeg",
-   "id": "9c3fa07815ba"
-  },
-  {
-   "title": "Da Roma, Camelio sicuro: \"Il Napoli con Allegri non va in Champions! Fate tutti gli scongiuri...\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/roma-gasp-10-campo-s-impalla-allegri-adl-richiami-italiano-659795",
-   "summary": "Enrico Camelio, giornalista romano, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e sempre live su sito, app smartphone e smartTv e Dab Campania: \"La Roma ha una rosa profonda, tranne che in att ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T19:10:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/21/216ceed8c5cc857f8c7e48d80c280c1e-87010-oooz0000.jpeg",
-   "id": "66f6cb772bc6"
-  },
-  {
-   "title": "Europa League, i finali delle 18.45: goleada AZ, Leverkusen corsaro, male il Marsiglia",
-   "link": "https://www.tuttonapoli.net/europa-league/europa-league-finali-18-45-goleada-az-leverkusen-corsaro-marsiglia-659819",
-   "summary": "Si chiudono con diversi risultati sorprendenti le otto partite di Europa League iniziate alle 18:45.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T18:55:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/53/533abe6a483c1a42935e7e7044601cb1-04124-oooz0000.jpeg",
-   "id": "fa0543be5145"
-  },
-  {
    "title": "Bournemouth-Milan 3-0, disastro rossonero in Inghilterra",
    "link": "https://www.calciomercato.it/2026/10/22/bournemouth-milan-3-0-disastro-rossonero-in-inghilterra/",
    "summary": "L'articolo Bournemouth-Milan 3-0, disastro rossonero in Inghilterra proviene da CalcioMercato.it .",
@@ -752,9 +499,9 @@
    "published": "2026-10-22T21:02:04+00:00",
    "image": "",
    "id": "0058f50dad16",
-   "age_minutes": 132,
+   "age_minutes": 285,
    "also": [],
-   "score": 6.701
+   "score": 6.049
   },
   {
    "title": "Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo",
@@ -766,9 +513,9 @@
    "published": "2026-10-22T19:21:07+00:00",
    "image": "",
    "id": "f83156083883",
-   "age_minutes": 233,
+   "age_minutes": 386,
    "also": [],
-   "score": 6.253
+   "score": 5.69
   },
   {
    "title": "PAGELLE e TABELLINO Juventus-Rennes 2-2: Woltemade salva Spalletti",
@@ -791,9 +538,9 @@
    "published": "2026-10-22T16:14:59+00:00",
    "image": "",
    "id": "f94f9a986fdd",
-   "age_minutes": 420,
+   "age_minutes": 572,
    "also": [],
-   "score": 5.581
+   "score": 5.15
   },
   {
    "title": "Roma, infortunio Pellegrini: tempi di recupero e diagnosi ufficiale",
@@ -805,9 +552,9 @@
    "published": "2026-10-22T15:32:01+00:00",
    "image": "",
    "id": "42f0efac33e0",
-   "age_minutes": 462,
+   "age_minutes": 615,
    "also": [],
-   "score": 7.45
+   "score": 7.045
   },
   {
    "title": "Milan, va ko anche Chukwueze: si pensa al ritorno di Athekame",
@@ -819,9 +566,9 @@
    "published": "2026-10-22T15:00:31+00:00",
    "image": "",
    "id": "3d2445d1917c",
-   "age_minutes": 494,
+   "age_minutes": 646,
    "also": [],
-   "score": 5.359
+   "score": 4.972
   },
   {
    "title": "Atalanta, Sarri a rischio esonero: le ultimissime",
@@ -833,9 +580,9 @@
    "published": "2026-10-22T13:00:23+00:00",
    "image": "",
    "id": "0d23bc19f64c",
-   "age_minutes": 614,
+   "age_minutes": 767,
    "also": [],
-   "score": 5.047
+   "score": 4.721
   },
   {
    "title": "Manchester United, crisi senza fine: sprint Conte per il dopo Carrick",
@@ -847,9 +594,9 @@
    "published": "2026-10-22T10:34:51+00:00",
    "image": "",
    "id": "723f95405367",
-   "age_minutes": 760,
+   "age_minutes": 912,
    "also": [],
-   "score": 4.735
+   "score": 4.471
   },
   {
    "title": "Bournemouth-Milan, colpo di scena Cisse: la scelta di Amorim",
@@ -861,9 +608,9 @@
    "published": "2026-10-22T10:01:29+00:00",
    "image": "",
    "id": "905fc7e66e1e",
-   "age_minutes": 793,
+   "age_minutes": 945,
    "also": [],
-   "score": 6.672
+   "score": 6.421
   },
   {
    "title": "Juve-Rennes, Spalletti cambia ancora: chi gioca in attacco",
@@ -875,9 +622,9 @@
    "published": "2026-10-22T07:27:49+00:00",
    "image": "",
    "id": "c8d0877921aa",
-   "age_minutes": 947,
+   "age_minutes": 1099,
    "also": [],
-   "score": 4.419
+   "score": 4.217
   },
   {
    "title": "Juventus, la strategia per Simone Inzaghi: arriva la scelta per la panchina",
@@ -889,9 +636,9 @@
    "published": "2026-10-22T07:00:22+00:00",
    "image": "",
    "id": "78c090b557f0",
-   "age_minutes": 974,
+   "age_minutes": 1127,
    "also": [],
-   "score": 4.379
+   "score": 4.186
   },
   {
    "title": "Roma, c’è anche il Bayern Monaco sulle tracce di Koné: la situazione | CM",
@@ -903,9 +650,9 @@
    "published": "2026-10-22T05:18:15+00:00",
    "image": "",
    "id": "dc4a5c93b4de",
-   "age_minutes": 1076,
+   "age_minutes": 1229,
    "also": [],
-   "score": 4.245
+   "score": 4.078
   },
   {
    "title": "Carlos Augusto: “Grazie Mkhitaryan, vittoria per Bastoni”. La risposta sul rinnovo | VIDEO CM",
@@ -917,9 +664,9 @@
    "published": "2026-10-22T00:15:49+00:00",
    "image": "",
    "id": "7c2efc0a6291",
-   "age_minutes": 1379,
+   "age_minutes": 1531,
    "also": [],
-   "score": 5.946
+   "score": 5.838
   },
   {
    "title": "Champions League, i risultati della terza giornata: poker di successi italiani",
@@ -931,9 +678,9 @@
    "published": "2026-10-21T21:00:00+00:00",
    "image": "",
    "id": "a025dc0f327d",
-   "age_minutes": 1575,
+   "age_minutes": 1727,
    "also": [],
-   "score": 3.811
+   "score": 3.73
   },
   {
    "title": "PAGELLE e TABELLINO Inter-Shakhtar 1-0: Carlos Augusto on fire, disastro Bastoni",
@@ -956,9 +703,9 @@
    "published": "2026-10-21T19:00:58+00:00",
    "image": "",
    "id": "9470e2483464",
-   "age_minutes": 1694,
+   "age_minutes": 1846,
    "also": [],
-   "score": 4.946
+   "score": 4.878
   },
   {
    "title": "Roma, interesse concreto per Ben Seghir: piace a Gasperini | CM",
@@ -970,9 +717,9 @@
    "published": "2026-10-21T15:33:01+00:00",
    "image": "",
    "id": "0d87194e760a",
-   "age_minutes": 1901,
+   "age_minutes": 2054,
    "also": [],
-   "score": 3.657
+   "score": 3.606
   },
   {
    "title": "Juventus, Spalletti e il ribaltone in panchina: “Sono allenato”. Novità in attacco",
@@ -984,9 +731,9 @@
    "published": "2026-10-21T14:49:06+00:00",
    "image": "",
    "id": "8d695e3b1885",
-   "age_minutes": 1945,
+   "age_minutes": 2098,
    "also": [],
-   "score": 3.641
+   "score": 3.593
   },
   {
    "title": "Inter-Shakhtar Donetsk, le probabili formazioni: 2 esclusioni eccellenti",
@@ -1568,6 +1315,235 @@
    "id": "fa10a93bddeb"
   },
   {
+   "title": "Quale obiettivo per il Napoli? Pazienza: \"Non lo Scudetto, la rosa non è attrezzata\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/obiettivo-napoli-pazienza-non-scudetto-rosa-attrezzata-659794",
+   "summary": "Michele Pazienza, allenatore ed ex calciatore del Napoli, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Credo che nel ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-23T01:00:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/58/589935c92e88939a348e14eea86b92a6-92312-oooz0000.jpeg",
+   "id": "4eeb2676b3d7"
+  },
+  {
+   "title": "Bucchioni: \"Se il Napoli perde con la Roma, rischia già di compromettere il campionato!\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/bucchioni-se-napoli-perde-roma-rischia-compromettere-campionato-659815",
+   "summary": "Napoli-Roma può rappresentare un passaggio decisivo per la stagione degli azzurri, chiamati a dare continuità ai segnali di ripresa mostrati& ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-23T00:00:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e0/e0b69241cd580b12e0be0347e0e84be4-82470-oooz0000.jpeg",
+   "id": "ff3e44afff45"
+  },
+  {
+   "title": "Mandato: \"Lucca? E' un problema di testa, mi rifiuto di credere una cosa\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/mandato-lucca-problema-testa-rifiuto-credere-cosa-659757",
+   "summary": "Tommaso Mandato, procuratore sportivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Bisogna cogliere gli…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T23:00:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c7ce08505e7a33158004489c438b1d8c-94778-oooz0000.jpeg",
+   "id": "55f60c681019",
+   "age_minutes": 166,
+   "also": [],
+   "score": 4.743
+  },
+  {
+   "title": "Radio Tutto Napoli, il palinsesto di oggi: trasmissioni live dalle 8",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-live-8-657597",
+   "summary": "Lunga giornata di vigilia di Napoli-Roma da vivere con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T22:45:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "f88d2ca230a8"
+  },
+  {
+   "title": "Hojlund, obiettivo speciale contro la Roma: finora non ci è ancora riuscito",
+   "link": "https://www.tuttonapoli.net/notizie/hojlund-obiettivo-speciale-roma-serie-riuscito-659825",
+   "summary": "Rasmus Højlund vuole interrompere il digiuno contro la Roma e aggiungere i giallorossi alla lista delle squadre già punite in Serie ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T22:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8e/8e312b71692f0d730b67b10a45f97859-97763-oooz0000.jpeg",
+   "id": "107743b450d7"
+  },
+  {
+   "title": "Varela-show al Monza, il Napoli lo segue per gennaio: il suo modello è un ex azzurro",
+   "link": "https://www.tuttonapoli.net/notizie/varela-show-monza-napoli-segue-gennaio-idolo-azzurro-659804",
+   "summary": "Sei gol e un impatto immediato con il calcio italiano: Gustavo Varela si sta mettendo in evidenza con la maglia del Monza e ha attirato l'attenzione delle big di Serie A, Napoli compreso.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:50:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a7/a70d3d57dcaa43cf945db2b1713f8075-77605-oooz0000.jpeg",
+   "id": "ca4313393c3a"
+  },
+  {
+   "title": "PSG al fianco di Kvaratskhelia dopo la rottura del crociato: pronto il rinnovo",
+   "link": "https://www.tuttonapoli.net/champions-league/psg-fianco-kvaratskhelia-rottura-crociato-pronto-rinnovo-659810",
+   "summary": "Il Paris Saint-Germain al fianco di Khvicha Kvaratskhelia.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:40:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/75f4079519308f4f396bfbf4b63b945b-57626-oooz0000.jpeg",
+   "id": "3d839128eba7",
+   "age_minutes": 247,
+   "also": [],
+   "score": 5.999
+  },
+  {
+   "title": "Rizzetta: “Vogliamo creare una polisportiva a Napoli! ADL? Sa bene che io ci sono…”",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/rizzetta-vogliamo-creare-polisportiva-napoli-adl-sa-sono-659831",
+   "summary": "Il futuro dello sport a Napoli passa anche dall'idea di una polisportiva capace di riunire calcio, basket e altre discipline sotto un un ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:28:22+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7d/7dcf5e6641d326dbd3bdf2ad62540bb9-22729-oooz0000.jpeg",
+   "id": "84dca6932ae6"
+  },
+  {
+   "title": "Conference League, tutto facile per Monaco e Twente: i risultati delle 21",
+   "link": "https://www.tuttonapoli.net/conference-league/conference-league-facile-monaco-twente-risultati-21-659830",
+   "summary": "Si sono concluse le gare delle 21 della giornata di Conference League, con risultati importanti per alcune delle squadre più attese della& ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:15:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b1/b131f282e3f80e259bf37aec33b722e9-87491-oooz0000.jpeg",
+   "id": "bb4833d86836"
+  },
+  {
+   "title": "Europa League, i finali delle 21: Lindstrom-gol non basta al Salisburgo. Pari Besiktas",
+   "link": "https://www.tuttonapoli.net/europa-league/europa-league-finali-21-lindstrom-gol-salisburgo-pari-besiktas-659829",
+   "summary": "Si chiudono le gare delle 21 di giovedì 22 ottobre, valide per la terza giornata della League Phase di Europa League.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:08:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a0/a08138bd87ab85a6441e370dff1cc962-08302-oooz0000.jpeg",
+   "id": "3d875e5f6c00"
+  },
+  {
+   "title": "Sarri, altra sconfitta: l’Ajax domina per 90 minuti e nel finale punisce l’Atalanta",
+   "link": "https://www.tuttonapoli.net/conference-league/sarri-altra-sconfitta-l-ajax-domina-90-minuti-finale-punisce-l-atalanta-659828",
+   "summary": "L’Atalanta si arrende all’Ajax e incassa un altro ko dopo quello in campionato contro il Milan.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:05:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7ca0b3018f7c7a8200b9d6a0b416d7f2-68023-oooz0000.jpeg",
+   "id": "8795e9b3129d"
+  },
+  {
+   "title": "Il Milan affonda in Inghilterra: Maignan espulso, il Bournemouth vince 3-0",
+   "link": "https://www.tuttonapoli.net/europa-league/milan-affonda-inghilterra-maignan-espulso-bournemouth-vince-3-0-659827",
+   "summary": "Bastano trenta minuti al Bournemouth per affondare il Milan.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:57:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/15/1561c22d941fe0ae27690d011729220d-49685-oooz0000.jpeg",
+   "id": "49622b643687"
+  },
+  {
+   "title": "Napoli-Bodo, un giornalista norvegese al Maradona: “Lo stadio peggiore d’Europa!”",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-bodo-giornalista-norvegese-maradona-lo-stadio-peggiore-d-europa-659809",
+   "summary": "Lo stadio Diego Armando Maradona finisce nel mirino di Benjamin Solas, giornalista norvegese, caporedattore e conduttore radiofonico di Radio 3 Bodo, che da oltre dieci anni segue da vicino le vicende del Bodo/Glimt anche nelle trasferte europee.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:50:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c3f3f3fba5b39285b8308d5cab08a1f7-22708-oooz0000.jpeg",
+   "id": "0f44d5419bc8"
+  },
+  {
+   "title": "Mario Rui riparte: l'ex Napoli firma con un club di terza serie portoghese",
+   "link": "https://www.tuttonapoli.net/notizie/mario-rui-riparte-napoli-firma-club-terza-serie-portoghese-659808",
+   "summary": "Nuova avventura per Mario Rui, che riparte dal Portogallo dopo l'esperienza con il Napoli. Il terzino portoghese è un nuovo giocatore del Belenenses, formazione che milita nella terza serie lusitana.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:40:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/08/08ae6ea0fbcf4163ec5789b5dcd49286-80143-oooz0000.jpeg",
+   "id": "80512c6685b9",
+   "age_minutes": 306,
+   "also": [],
+   "score": 5.769
+  },
+  {
+   "title": "Auriemma: “Il Napoli vive di sprazzi, con poco entusiasmo! Ha preso 3 gol dal Bodo…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/auriemma-il-napoli-vive-sprazzi-entusiasmo-preso-3-gol-bodo-659826",
+   "summary": "Il successo per 4-3 contro il Bodo/Glimt in Champions League non basta a dissipare le perplessità sul Napoli di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:30:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5c/5c930ea8ef25a23712abf219363d9974-10782-oooz0000.jpeg",
+   "id": "e1c06d5f67df"
+  },
+  {
+   "title": "Conte, quale futuro? Resistono le ipotesi Man United e Juventus: chiara la sua posizione",
+   "link": "https://www.tuttonapoli.net/brevi/conte-futuro-resistono-ipotesi-man-united-juventus-chiara-posizione-659785",
+   "summary": "L'ombra di Antonio Conte torna ad allungarsi sulle grandi panchine europee in difficoltà.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:20:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
+   "id": "de26b34d1a8a"
+  },
+  {
+   "title": "McTominay e KDB brillano, Del Genio ironizza: “Avevate ragione, non possono giocare insieme”",
+   "link": "https://www.tuttonapoli.net/le-interviste/mctominay-kdb-brillano-genio-ironizza-avevate-ragione-possono-giocare-insieme-659803",
+   "summary": "Il campo smentisce i teorici dell’incompatibilità.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:00:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cc/cc46351400f42c2345c44acc7abc8a90-75010-oooz0000.jpeg",
+   "id": "32c85108a52b"
+  },
+  {
+   "title": "Gasperini in silenzio: niente conferenza alla vigilia di Napoli-Roma",
+   "link": "https://www.tuttonapoli.net/notizie/gasperini-silenzio-conferenza-vigilia-napoli-roma-659806",
+   "summary": "Nessuna conferenza stampa per Gian Piero Gasperini prima di Napoli-Roma. L'allenatore giallorosso non incontrerà i giornalisti alla vigilia del big match, in programma sabato 24 ottobre alle ore 18:00 allo stadio Diego Armando Maradona.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T19:50:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2aeadb6482c3eae896bf0802f4c9abf4-19205-oooz0000.jpeg",
+   "id": "6d752eb386d5"
+  },
+  {
+   "title": "Bonucci: “Conte è uno dei due allenatori più importanti della mia carriera, che mentalità”",
+   "link": "https://www.tuttonapoli.net/le-interviste/bonucci-conte-allenatori-importanti-carriera-mentalita-659816",
+   "summary": "Due allenatori, due percorsi diversi e un’impronta decisiva sulla sua carriera: Leonardo Bonucci individua in Roberto Mancini e Antonio Conte i& ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T19:40:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c33b6d8a2e0a48077f965a393f8d725f-60727-oooz0000.jpeg",
+   "id": "16ca7abaab54"
+  },
+  {
+   "title": "Giovane, da oggetto misterioso ai primi segnali: Allegri ha una nuova risorsa offensiva",
+   "link": "https://www.tuttonapoli.net/notizie/giovane-oggetto-misterioso-primi-segnali-allegri-nuova-risorsa-offensiva-659822",
+   "summary": "Da oggetto misterioso a possibile risorsa offensiva: Giovane prova a cambiare passo nel Napoli di Massimiliano Allegri dopo aver faticato a emerg ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T19:30:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c2/c21317c183b0b8f2aa59ad79e6f2606b-02476-oooz0000.jpeg",
+   "id": "e98bb696126b"
+  },
+  {
    "title": "Di Gregorio: ‘Bournemouth mentality does not change, even against Milan’",
    "link": "https://football-italia.net/di-gregorio-bournemouth-mentality-same-milan/",
    "summary": "Michele Di Gregorio is proud that Bournemouth ‘mentality does not change’ even against Milan in...",
@@ -1791,6 +1767,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 20
+  "in_edizione": 19
  }
 }

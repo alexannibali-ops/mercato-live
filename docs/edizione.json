@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T01:15:00.795428+02:00",
+ "generated_at": "2026-10-23T03:47:24.144453+02:00",
  "articles": [
   {
    "title": "Roma, infortunio Pellegrini: tempi di recupero e diagnosi ufficiale",
@@ -11,48 +11,11 @@
    "published": "2026-10-22T15:32:01+00:00",
    "image": "",
    "id": "42f0efac33e0",
-   "age_minutes": 462,
+   "age_minutes": 615,
    "also": [],
-   "score": 7.45,
+   "score": 7.045,
    "occhiello": "Roma",
-   "eta": "7 h fa"
-  },
-  {
-   "title": "PSG al fianco di Kvaratskhelia dopo la rottura del crociato: pronto il rinnovo",
-   "link": "https://www.tuttonapoli.net/champions-league/psg-fianco-kvaratskhelia-rottura-crociato-pronto-rinnovo-659810",
-   "summary": "Il Paris Saint-Germain al fianco di Khvicha Kvaratskhelia.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T21:40:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/75f4079519308f4f396bfbf4b63b945b-57626-oooz0000.jpeg",
-   "id": "3d839128eba7",
-   "age_minutes": 94,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/21/dramma-psg-rottura-del-legamento-crociato-per-kvaratskhelia/"
-    }
-   ],
-   "score": 7.288,
-   "occhiello": "PSG",
-   "eta": "1 h fa"
-  },
-  {
-   "title": "Bournemouth-Milan 3-0, disastro rossonero in Inghilterra",
-   "link": "https://www.calciomercato.it/2026/10/22/bournemouth-milan-3-0-disastro-rossonero-in-inghilterra/",
-   "summary": "L'articolo Bournemouth-Milan 3-0, disastro rossonero in Inghilterra proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-22T21:02:04+00:00",
-   "image": "",
-   "id": "0058f50dad16",
-   "age_minutes": 132,
-   "also": [],
-   "score": 6.701,
-   "occhiello": "Milan",
-   "eta": "2 h fa"
+   "eta": "10 h fa"
   },
   {
    "title": "Bournemouth-Milan, colpo di scena Cisse: la scelta di Amorim",
@@ -64,43 +27,43 @@
    "published": "2026-10-22T10:01:29+00:00",
    "image": "",
    "id": "905fc7e66e1e",
-   "age_minutes": 793,
+   "age_minutes": 945,
    "also": [],
-   "score": 6.672,
+   "score": 6.421,
    "occhiello": "Milan",
-   "eta": "13 h fa"
+   "eta": "15 h fa"
   },
   {
-   "title": "Mario Rui riparte: l'ex Napoli firma con un club di terza serie portoghese",
-   "link": "https://www.tuttonapoli.net/notizie/mario-rui-riparte-napoli-firma-club-terza-serie-portoghese-659808",
-   "summary": "Nuova avventura per Mario Rui, che riparte dal Portogallo dopo l'esperienza con il Napoli. Il terzino portoghese è un nuovo giocatore del Belenenses, formazione che milita nella terza serie lusitana.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T20:40:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/08/08ae6ea0fbcf4163ec5789b5dcd49286-80143-oooz0000.jpeg",
-   "id": "80512c6685b9",
-   "age_minutes": 154,
-   "also": [],
-   "score": 6.401,
-   "occhiello": "Napoli",
-   "eta": "2 h fa"
-  },
-  {
-   "title": "Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo",
-   "link": "https://www.calciomercato.it/2026/10/22/il-ritorno-in-panchina-di-conte-e-sempre-piu-vicino-decisione-ad-un-passo/",
-   "summary": "L'articolo Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo proviene da CalcioMercato.it .",
+   "title": "Bournemouth-Milan 3-0, disastro rossonero in Inghilterra",
+   "link": "https://www.calciomercato.it/2026/10/22/bournemouth-milan-3-0-disastro-rossonero-in-inghilterra/",
+   "summary": "L'articolo Bournemouth-Milan 3-0, disastro rossonero in Inghilterra proviene da CalcioMercato.it .",
    "source": "Calciomercato.it",
    "source_weight": 1.2,
    "scope": "generalista",
-   "published": "2026-10-22T19:21:07+00:00",
+   "published": "2026-10-22T21:02:04+00:00",
    "image": "",
-   "id": "f83156083883",
-   "age_minutes": 233,
+   "id": "0058f50dad16",
+   "age_minutes": 285,
    "also": [],
-   "score": 6.253,
-   "occhiello": "Mercato",
-   "eta": "3 h fa"
+   "score": 6.049,
+   "occhiello": "Milan",
+   "eta": "4 h fa"
+  },
+  {
+   "title": "PSG al fianco di Kvaratskhelia dopo la rottura del crociato: pronto il rinnovo",
+   "link": "https://www.tuttonapoli.net/champions-league/psg-fianco-kvaratskhelia-rottura-crociato-pronto-rinnovo-659810",
+   "summary": "Il Paris Saint-Germain al fianco di Khvicha Kvaratskhelia.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T21:40:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/75f4079519308f4f396bfbf4b63b945b-57626-oooz0000.jpeg",
+   "id": "3d839128eba7",
+   "age_minutes": 247,
+   "also": [],
+   "score": 5.999,
+   "occhiello": "PSG",
+   "eta": "4 h fa"
   },
   {
    "title": "Carlos Augusto: “Grazie Mkhitaryan, vittoria per Bastoni”. La risposta sul rinnovo | VIDEO CM",
@@ -112,11 +75,43 @@
    "published": "2026-10-22T00:15:49+00:00",
    "image": "",
    "id": "7c2efc0a6291",
-   "age_minutes": 1379,
+   "age_minutes": 1531,
    "also": [],
-   "score": 5.946,
+   "score": 5.838,
    "occhiello": "Mercato",
-   "eta": "22 h fa"
+   "eta": "1 g fa"
+  },
+  {
+   "title": "Mario Rui riparte: l'ex Napoli firma con un club di terza serie portoghese",
+   "link": "https://www.tuttonapoli.net/notizie/mario-rui-riparte-napoli-firma-club-terza-serie-portoghese-659808",
+   "summary": "Nuova avventura per Mario Rui, che riparte dal Portogallo dopo l'esperienza con il Napoli. Il terzino portoghese è un nuovo giocatore del Belenenses, formazione che milita nella terza serie lusitana.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T20:40:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/08/08ae6ea0fbcf4163ec5789b5dcd49286-80143-oooz0000.jpeg",
+   "id": "80512c6685b9",
+   "age_minutes": 306,
+   "also": [],
+   "score": 5.769,
+   "occhiello": "Napoli",
+   "eta": "5 h fa"
+  },
+  {
+   "title": "Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo",
+   "link": "https://www.calciomercato.it/2026/10/22/il-ritorno-in-panchina-di-conte-e-sempre-piu-vicino-decisione-ad-un-passo/",
+   "summary": "L'articolo Il ritorno in panchina di Conte è sempre più vicino: decisione ad un passo proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-22T19:21:07+00:00",
+   "image": "",
+   "id": "f83156083883",
+   "age_minutes": 386,
+   "also": [],
+   "score": 5.69,
+   "occhiello": "Mercato",
+   "eta": "6 h fa"
   },
   {
    "title": "Juventus-Raimondo, la strategia bianconera e il prezzo del bomber",
@@ -128,27 +123,11 @@
    "published": "2026-10-22T16:14:59+00:00",
    "image": "",
    "id": "f94f9a986fdd",
-   "age_minutes": 420,
+   "age_minutes": 572,
    "also": [],
-   "score": 5.581,
+   "score": 5.15,
    "occhiello": "Juventus",
-   "eta": "7 h fa"
-  },
-  {
-   "title": "Mandato: \"Lucca? E' un problema di testa, mi rifiuto di credere una cosa\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/mandato-lucca-problema-testa-rifiuto-credere-cosa-659757",
-   "summary": "Tommaso Mandato, procuratore sportivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Bisogna cogliere gli…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-22T23:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c7ce08505e7a33158004489c438b1d8c-94778-oooz0000.jpeg",
-   "id": "55f60c681019",
-   "age_minutes": 14,
-   "also": [],
-   "score": 5.517,
-   "occhiello": "Napoli",
-   "eta": "14 min fa"
+   "eta": "9 h fa"
   },
   {
    "title": "Milan, va ko anche Chukwueze: si pensa al ritorno di Athekame",
@@ -160,26 +139,10 @@
    "published": "2026-10-22T15:00:31+00:00",
    "image": "",
    "id": "3d2445d1917c",
-   "age_minutes": 494,
+   "age_minutes": 646,
    "also": [],
-   "score": 5.359,
+   "score": 4.972,
    "occhiello": "Milan",
-   "eta": "8 h fa"
-  },
-  {
-   "title": "Atalanta, Sarri a rischio esonero: le ultimissime",
-   "link": "https://www.calciomercato.it/2026/10/22/atalanta-sarri-a-rischio-esonero-le-ultimissime/",
-   "summary": "L'articolo Atalanta, Sarri a rischio esonero: le ultimissime proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-22T13:00:23+00:00",
-   "image": "",
-   "id": "0d23bc19f64c",
-   "age_minutes": 614,
-   "also": [],
-   "score": 5.047,
-   "occhiello": "Atalanta",
    "eta": "10 h fa"
   },
   {
@@ -192,11 +155,43 @@
    "published": "2026-10-21T19:00:58+00:00",
    "image": "",
    "id": "9470e2483464",
-   "age_minutes": 1694,
+   "age_minutes": 1846,
    "also": [],
-   "score": 4.946,
+   "score": 4.878,
    "occhiello": "Milan",
    "eta": "1 g fa"
+  },
+  {
+   "title": "Mandato: \"Lucca? E' un problema di testa, mi rifiuto di credere una cosa\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/mandato-lucca-problema-testa-rifiuto-credere-cosa-659757",
+   "summary": "Tommaso Mandato, procuratore sportivo, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda tutto il giorno su sito, app smartphone e smartTv e Dab Campania: \"Bisogna cogliere gli…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-22T23:00:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c7/c7ce08505e7a33158004489c438b1d8c-94778-oooz0000.jpeg",
+   "id": "55f60c681019",
+   "age_minutes": 166,
+   "also": [],
+   "score": 4.743,
+   "occhiello": "Napoli",
+   "eta": "2 h fa"
+  },
+  {
+   "title": "Atalanta, Sarri a rischio esonero: le ultimissime",
+   "link": "https://www.calciomercato.it/2026/10/22/atalanta-sarri-a-rischio-esonero-le-ultimissime/",
+   "summary": "L'articolo Atalanta, Sarri a rischio esonero: le ultimissime proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-22T13:00:23+00:00",
+   "image": "",
+   "id": "0d23bc19f64c",
+   "age_minutes": 767,
+   "also": [],
+   "score": 4.721,
+   "occhiello": "Atalanta",
+   "eta": "12 h fa"
   },
   {
    "title": "Manchester United, crisi senza fine: sprint Conte per il dopo Carrick",
@@ -208,11 +203,11 @@
    "published": "2026-10-22T10:34:51+00:00",
    "image": "",
    "id": "723f95405367",
-   "age_minutes": 760,
+   "age_minutes": 912,
    "also": [],
-   "score": 4.735,
+   "score": 4.471,
    "occhiello": "Manchester United",
-   "eta": "12 h fa"
+   "eta": "15 h fa"
   },
   {
    "title": "Juve-Rennes, Spalletti cambia ancora: chi gioca in attacco",
@@ -224,11 +219,11 @@
    "published": "2026-10-22T07:27:49+00:00",
    "image": "",
    "id": "c8d0877921aa",
-   "age_minutes": 947,
+   "age_minutes": 1099,
    "also": [],
-   "score": 4.419,
+   "score": 4.217,
    "occhiello": "Mercato",
-   "eta": "15 h fa"
+   "eta": "18 h fa"
   },
   {
    "title": "Juventus, la strategia per Simone Inzaghi: arriva la scelta per la panchina",
@@ -240,11 +235,11 @@
    "published": "2026-10-22T07:00:22+00:00",
    "image": "",
    "id": "78c090b557f0",
-   "age_minutes": 974,
+   "age_minutes": 1127,
    "also": [],
-   "score": 4.379,
+   "score": 4.186,
    "occhiello": "Juventus",
-   "eta": "16 h fa"
+   "eta": "18 h fa"
   },
   {
    "title": "Roma, c’è anche il Bayern Monaco sulle tracce di Koné: la situazione | CM",
@@ -256,11 +251,11 @@
    "published": "2026-10-22T05:18:15+00:00",
    "image": "",
    "id": "dc4a5c93b4de",
-   "age_minutes": 1076,
+   "age_minutes": 1229,
    "also": [],
-   "score": 4.245,
+   "score": 4.078,
    "occhiello": "Roma · Bayern",
-   "eta": "17 h fa"
+   "eta": "20 h fa"
   },
   {
    "title": "Champions League, i risultati della terza giornata: poker di successi italiani",
@@ -272,9 +267,9 @@
    "published": "2026-10-21T21:00:00+00:00",
    "image": "",
    "id": "a025dc0f327d",
-   "age_minutes": 1575,
+   "age_minutes": 1727,
    "also": [],
-   "score": 3.811,
+   "score": 3.73,
    "occhiello": "Mercato",
    "eta": "1 g fa"
   },
@@ -288,9 +283,9 @@
    "published": "2026-10-21T15:33:01+00:00",
    "image": "",
    "id": "0d87194e760a",
-   "age_minutes": 1901,
+   "age_minutes": 2054,
    "also": [],
-   "score": 3.657,
+   "score": 3.606,
    "occhiello": "Roma",
    "eta": "1 g fa"
   },
@@ -304,26 +299,10 @@
    "published": "2026-10-21T14:49:06+00:00",
    "image": "",
    "id": "8d695e3b1885",
-   "age_minutes": 1945,
+   "age_minutes": 2098,
    "also": [],
-   "score": 3.641,
+   "score": 3.593,
    "occhiello": "Juventus",
-   "eta": "1 g fa"
-  },
-  {
-   "title": "Como-Manchester United, le ultimissime: grande novità in attacco",
-   "link": "https://www.calciomercato.it/2026/10/21/como-manchester-united-le-ultimissime-grande-novita-in-attacco/",
-   "summary": "L'articolo Como-Manchester United, le ultimissime: grande novità in attacco proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-21T12:12:08+00:00",
-   "image": "",
-   "id": "ba31afb07ea2",
-   "age_minutes": 2102,
-   "also": [],
-   "score": 3.592,
-   "occhiello": "Como · Manchester United",
    "eta": "1 g fa"
   }
  ]
