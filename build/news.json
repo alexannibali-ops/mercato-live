@@ -1,19 +1,33 @@
 {
- "generated_at": "2026-10-25T00:18:55.688983+02:00",
+ "generated_at": "2026-10-25T02:27:32.506693+02:00",
  "articles": [
   {
-   "title": "Dal Milan alla Juventus a gennaio, tutti i dettagli dell’affare",
-   "link": "https://www.calciomercato.it/2026/10/24/dal-milan-alla-juventus-a-gennaio-tutti-i-dettagli-dellaffare/",
-   "summary": "L'articolo Dal Milan alla Juventus a gennaio, tutti i dettagli dell’affare proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-24T16:40:18+00:00",
-   "image": "",
-   "id": "c757e3d9d62e",
-   "age_minutes": 338,
+   "title": "Juventus, colpo di scena Jonathan David: l'Atletico Madrid frena sul riscatto da 25 milioni",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-colpo-scena-jonathan-david-atletico-madrid-frena-riscatto-25-797938",
+   "summary": "Il futuro di Jonathan David torna al centro delle discussioni di mercato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:15:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/21/21ac6b593c7afb5c113a6c7eb2d8c5eb-59365-oooz0000.jpeg",
+   "id": "cfa4d934a94b",
+   "age_minutes": 131,
    "also": [],
-   "score": 7.853
+   "score": 9.306
+  },
+  {
+   "title": "Juventus, occasione Tagliafico: il Lione può aprire alla cessione a gennaio",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-occasione-tagliafico-lione-aprire-cessione-gennaio-797941",
+   "summary": "La Juventus potrebbe tornare a guardare in Francia per rinforzare le corsie esterne nel mercato di gennaio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T23:15:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6b/6b94906dafb4444d7a50c0801e90cd53-85089-oooz0000.jpeg",
+   "id": "e9ddd3cc197c",
+   "age_minutes": 71,
+   "also": [],
+   "score": 7.607
   },
   {
    "title": "Roma, accordo raggiunto con Lulli: i dettagli del rinnovo",
@@ -25,9 +39,23 @@
    "published": "2026-10-23T12:33:13+00:00",
    "image": "",
    "id": "75c6085b6c17",
-   "age_minutes": 2025,
+   "age_minutes": 2154,
    "also": [],
-   "score": 7.615
+   "score": 7.578
+  },
+  {
+   "title": "Dal Milan alla Juventus a gennaio, tutti i dettagli dell’affare",
+   "link": "https://www.calciomercato.it/2026/10/24/dal-milan-alla-juventus-a-gennaio-tutti-i-dettagli-dellaffare/",
+   "summary": "L'articolo Dal Milan alla Juventus a gennaio, tutti i dettagli dell’affare proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-24T16:40:18+00:00",
+   "image": "",
+   "id": "c757e3d9d62e",
+   "age_minutes": 467,
+   "also": [],
+   "score": 7.437
   },
   {
    "title": "Non solo Inter e Napoli: anche la Juve ‘spia’ Varela | CM",
@@ -39,23 +67,9 @@
    "published": "2026-10-24T21:56:08+00:00",
    "image": "",
    "id": "93abcb173658",
-   "age_minutes": 22,
+   "age_minutes": 151,
    "also": [],
-   "score": 7.27
-  },
-  {
-   "title": "Juventus, colpo di scena Inzaghi: dall'Arabia arriva una smentita sulle trattative per il dopo Spalletti",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-colpo-scena-inzaghi-arabia-arriva-smentita-trattative-spalletti-797945",
-   "summary": "Il nome di Simone Inzaghi continua a circolare attorno alla Juventus, ma dall'Arabia Saudita arrivano indicazioni che raffreddano sensibilmente le indiscrezioni su un possibile cambio di allenatore a Torino.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T22:00:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a36cf48b6e2e0e504e5e6c84a6146c1f-49914-oooz0000.jpeg",
-   "id": "8f7527d027e4",
-   "age_minutes": 18,
-   "also": [],
-   "score": 7.096
+   "score": 6.614
   },
   {
    "title": "Milan, colpo di scena Gonçalo Ramos: novità dall’infermeria",
@@ -67,9 +81,9 @@
    "published": "2026-10-24T10:38:54+00:00",
    "image": "",
    "id": "7151c406b7ad",
-   "age_minutes": 700,
+   "age_minutes": 828,
    "also": [],
-   "score": 6.856
+   "score": 6.609
   },
   {
    "title": "Inter, altra tegola per Chivu: il comunicato ufficiale",
@@ -81,9 +95,37 @@
    "published": "2026-10-24T09:25:30+00:00",
    "image": "",
    "id": "45c1da9000b2",
-   "age_minutes": 773,
+   "age_minutes": 902,
    "also": [],
-   "score": 6.709
+   "score": 6.487
+  },
+  {
+   "title": "Juventus, colpo di scena Inzaghi: dall'Arabia arriva una smentita sulle trattative per il dopo Spalletti",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-colpo-scena-inzaghi-arabia-arriva-smentita-trattative-spalletti-797945",
+   "summary": "Il nome di Simone Inzaghi continua a circolare attorno alla Juventus, ma dall'Arabia Saudita arrivano indicazioni che raffreddano sensibilmente le indiscrezioni su un possibile cambio di allenatore a Torino.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:00:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a36cf48b6e2e0e504e5e6c84a6146c1f-49914-oooz0000.jpeg",
+   "id": "8f7527d027e4",
+   "age_minutes": 146,
+   "also": [],
+   "score": 6.435
+  },
+  {
+   "title": "Juventus, un recupero e 8 assenti per Lecce: le scelte di Spalletti",
+   "link": "https://www.calciomercato.it/2026/10/24/824125/",
+   "summary": "L'articolo Juventus, un recupero e 8 assenti per Lecce: le scelte di Spalletti proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-24T16:07:34+00:00",
+   "image": "",
+   "id": "4587e238daf0",
+   "age_minutes": 499,
+   "also": [],
+   "score": 6.343
   },
   {
    "title": "McTominay, altra doppietta e firma un primato nei top-5 campionati europei",
@@ -95,9 +137,23 @@
    "published": "2026-10-24T19:20:44+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5f/5fece9e513dee50f4f615d242e911eb4-15697-oooz0000.jpeg",
    "id": "4d4d6686399c",
-   "age_minutes": 178,
+   "age_minutes": 306,
    "also": [],
-   "score": 6.292
+   "score": 5.768
+  },
+  {
+   "title": "Verso Udinese-Milan: due giocatori per parte hanno disputato tutti i 630 minuti di campionato",
+   "link": "https://www.milannews.it/news/udinese-milan-giocatori-disputato-630-minuti-campionato-633838",
+   "summary": "Domani sera Udinese e Milan si affronteranno in Friuli nella gara valida per l'8^ giornata di Serie A. Come riporta il sito della Lega Calcio Serie A, quello tra i due allenatori Kosta Runjaic e Ruben Amorim sarà primo…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T22:24:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/3854b4caaae4542489f4bde2675819fc-42022-oooz0000.jpeg",
+   "id": "1f04d3a46784",
+   "age_minutes": 123,
+   "also": [],
+   "score": 5.749
   },
   {
    "title": "Retroscena Allegri, a microfoni spenti lo sfogo contro la Roma: \"Sempre loro...\"",
@@ -109,56 +165,37 @@
    "published": "2026-10-24T20:10:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d0/d06622dc145f9b6ef92975f402874888-66661-755o0o1859o1103z0e85.jpeg",
    "id": "00e27dd52c94",
-   "age_minutes": 128,
+   "age_minutes": 256,
    "also": [],
-   "score": 6.124
+   "score": 5.561
   },
   {
-   "title": "Juventus, in emergenza totale: i tempi di recupero degli 8 assenti",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-emergenza-totale-tempi-recupero-8-assenti-797974",
-   "summary": "La Juventus per la gara contro il Lecce dovrà fare a meno di 8 giocatori fermi ai box.",
+   "title": "Juventus, Jashari a gennaio è quasi impossibile: il Milan non vuole rafforzare una concorrente",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-jashari-gennaio-impossibile-milan-vuole-rafforzare-concorrente-797940",
+   "summary": "La Juventus potrebbe avere bisogno di rinforzi a centrocampo nel mercato di gennaio, ma non tutte le piste sono realmente percorribili.",
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-10-24T19:15:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/67/670591001c6627e1fec66e25bcc4aef1-25865-oooz0000.jpeg",
-   "id": "04e12630507f",
-   "age_minutes": 183,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/24/824125/"
-    }
-   ],
-   "score": 5.868
+   "published": "2026-10-24T22:45:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/78/78b436bae84859cf4c9f7fbe920e8fb8-09175-oooz0000.jpeg",
+   "id": "17e163c1db8a",
+   "age_minutes": 102,
+   "also": [],
+   "score": 5.45
   },
   {
-   "title": "Antonio Conte svela il suo futuro: annuncio ufficiale poco fa",
-   "link": "https://www.calciomercato.it/2026/10/23/antonio-conte-svela-il-suo-futuro-annuncio-ufficiale-poco-fa/",
-   "summary": "L'articolo Antonio Conte svela il suo futuro: annuncio ufficiale poco fa proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-23T12:04:58+00:00",
-   "image": "",
-   "id": "0fe50fc64999",
-   "age_minutes": 2053,
+   "title": "Juventus, occasione sprecata per Gatti e Douglas Luiz: due errori pesanti, Spalletti ora riflette",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-occasione-sprecata-gatti-douglas-luiz-errori-pesanti-spalletti-riflette-797942",
+   "summary": "La sfida di Europa League contro il Rennes doveva rappresentare un'occasione di riscatto per diversi giocatori della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:30:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a0ee835f440f1b67fd5ed74333f6df4-80836-oooz0000.jpeg",
+   "id": "2ebadc7599e1",
+   "age_minutes": 117,
    "also": [],
-   "score": 5.606
-  },
-  {
-   "title": "60 milioni in arrivo, colpo Tresoldi in attacco",
-   "link": "https://www.calciomercato.it/2026/10/23/60-milioni-in-arrivo-colpo-tresoldi-in-attacco/",
-   "summary": "L'articolo 60 milioni in arrivo, colpo Tresoldi in attacco proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-23T10:39:16+00:00",
-   "image": "",
-   "id": "affd381b728b",
-   "age_minutes": 2139,
-   "also": [],
-   "score": 5.582
+   "score": 5.376
   },
   {
    "title": "Voti Cagliari-Bologna 0-2, secondo stop consecutivo per i sardi",
@@ -170,28 +207,9 @@
    "published": "2026-10-24T15:02:59+00:00",
    "image": "",
    "id": "3d7fd6041095",
-   "age_minutes": 435,
+   "age_minutes": 564,
    "also": [],
-   "score": 5.531
-  },
-  {
-   "title": "Napoli-Roma, le ultimissime: dubbio in attacco per Allegri",
-   "link": "https://www.calciomercato.it/2026/10/24/napoli-roma-le-ultimissime-dubbio-in-attacco-per-allegri/",
-   "summary": "L'articolo Napoli-Roma, le ultimissime: dubbio in attacco per Allegri proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-24T10:37:27+00:00",
-   "image": "",
-   "id": "e830ac21c011",
-   "age_minutes": 701,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/23/napoli-roma-annuncio-di-allegri-in-conferenza-un-big-e-in-dubbio/"
-    }
-   ],
-   "score": 5.453
+   "score": 5.17
   },
   {
    "title": "Napoli, Manna non convince: De Laurentiis pensa a Tare | CM",
@@ -203,23 +221,9 @@
    "published": "2026-10-24T14:20:25+00:00",
    "image": "",
    "id": "9144982329fa",
-   "age_minutes": 478,
+   "age_minutes": 607,
    "also": [],
-   "score": 5.404
-  },
-  {
-   "title": "Juventus arrivata a Lecce. I convocati: otto assenti per il match di domani. C’è Sarr, anche se non è al meglio",
-   "link": "https://www.tuttojuve.com/in-diretta-dalla-continassa/allenamento-mattinata-juventus-allarme-infortuni-spalletti-assenti-lecce-dubbio-pape-sarr-797933",
-   "summary": "21:23 - La Juventus è arrivata a Lecce e adesso la squadra è in hotel. 17:48 - La Juventus è appena arrivata a Caselle e breve la squadra partirà per Lecce.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:24:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/80/801ca762b1ffd6c9d2cecca548d405d2-20673-oooz0000.jpeg",
-   "id": "5cbe0fc2ff0a",
-   "age_minutes": 174,
-   "also": [],
-   "score": 5.308
+   "score": 5.065
   },
   {
    "title": "Qui Fiorentina - Vanoli pronto a lanciare Brescianini. Ballottaggio in avanti",
@@ -231,9 +235,23 @@
    "published": "2026-10-24T20:00:08+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/21/21fb48f201574b63017993d44e602e12-92064-oooz0000.jpeg",
    "id": "29b1c23b88ee",
-   "age_minutes": 138,
+   "age_minutes": 267,
    "also": [],
-   "score": 5.274
+   "score": 4.719
+  },
+  {
+   "title": "Napoli-Roma, le ultimissime: dubbio in attacco per Allegri",
+   "link": "https://www.calciomercato.it/2026/10/24/napoli-roma-le-ultimissime-dubbio-in-attacco-per-allegri/",
+   "summary": "L'articolo Napoli-Roma, le ultimissime: dubbio in attacco per Allegri proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-10-24T10:37:27+00:00",
+   "image": "",
+   "id": "e830ac21c011",
+   "age_minutes": 830,
+   "also": [],
+   "score": 4.606
   },
   {
    "title": "L'ex Juve Bernardeschi ritrova il gol su rigore. Il Cagliari è la sua vittima preferita",
@@ -245,23 +263,9 @@
    "published": "2026-10-24T20:15:14+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/613305b5ae46ce9f94fd54f46e88e8d8-51050-oooz0000.jpeg",
    "id": "f1ec9546be01",
-   "age_minutes": 123,
+   "age_minutes": 252,
    "also": [],
-   "score": 4.946
-  },
-  {
-   "title": "Napoli, Allegri furioso: \"Molto arrabbiato per non aver vinto. Vedo altri che entrano in campo e ribaltano, io vengo espulso. Ho cambiato modo di giocare, ora voglio tutti all'attacco\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/napoli-allegri-furioso-molto-arrabbiato-vinto-vedo-entrano-campo-ribaltano-vengo-espulso-cambiato-gi-797978",
-   "summary": "Massimiliano Allegri non nasconde la propria amarezza dopo il 3-3 tra Napoli e Roma, incontro valido per l'ottava giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:45:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3e418dcbcf96311e9b229bad38ffd7a8-04317-oooz0000.jpeg",
-   "id": "44f4eed01401",
-   "age_minutes": 153,
-   "also": [],
-   "score": 4.806
+   "score": 4.379
   },
   {
    "title": "Mancini pronto ad accogliere due ritorni in nazionale: emergenza in attacco",
@@ -273,9 +277,23 @@
    "published": "2026-10-24T07:01:12+00:00",
    "image": "",
    "id": "102aaeb9c33a",
-   "age_minutes": 917,
+   "age_minutes": 1046,
    "also": [],
-   "score": 4.463
+   "score": 4.283
+  },
+  {
+   "title": "Napoli, Allegri furioso: \"Molto arrabbiato per non aver vinto. Vedo altri che entrano in campo e ribaltano, io vengo espulso. Ho cambiato modo di giocare, ora voglio tutti all'attacco\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/napoli-allegri-furioso-molto-arrabbiato-vinto-vedo-entrano-campo-ribaltano-vengo-espulso-cambiato-gi-797978",
+   "summary": "Massimiliano Allegri non nasconde la propria amarezza dopo il 3-3 tra Napoli e Roma, incontro valido per l'ottava giornata di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T19:45:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3e418dcbcf96311e9b229bad38ffd7a8-04317-oooz0000.jpeg",
+   "id": "44f4eed01401",
+   "age_minutes": 281,
+   "also": [],
+   "score": 4.262
   },
   {
    "title": "Nasce il caso Maignan al Milan: piovono critiche al portiere rossonero",
@@ -287,9 +305,9 @@
    "published": "2026-10-24T05:18:41+00:00",
    "image": "",
    "id": "f07a3a130120",
-   "age_minutes": 1020,
+   "age_minutes": 1148,
    "also": [],
-   "score": 4.317
+   "score": 4.161
   },
   {
    "title": "Roma, Ghilardi nel mirino della Fiorentina: la situazione | CM",
@@ -301,9 +319,9 @@
    "published": "2026-10-23T21:00:53+00:00",
    "image": "",
    "id": "678c17c17d33",
-   "age_minutes": 1518,
+   "age_minutes": 1646,
    "also": [],
-   "score": 3.847
+   "score": 3.771
   },
   {
    "title": "Juventus, delude ancora e fa discutere: esclusione eccellente a Lecce",
@@ -315,9 +333,9 @@
    "published": "2026-10-23T19:11:22+00:00",
    "image": "",
    "id": "2d1e07e52b78",
-   "age_minutes": 1627,
+   "age_minutes": 1756,
    "also": [],
-   "score": 3.781
+   "score": 3.717
   },
   {
    "title": "Abel Ferreira nella storia: quarta finale di Libertadores con il Palmeiras",
@@ -329,9 +347,9 @@
    "published": "2026-10-23T18:23:33+00:00",
    "image": "",
    "id": "f17a6aa11a93",
-   "age_minutes": 1675,
+   "age_minutes": 1803,
    "also": [],
-   "score": 3.756
+   "score": 3.696
   },
   {
    "title": "Juventus su Ndour, ma la Fiorentina alza un muro",
@@ -343,9 +361,9 @@
    "published": "2026-10-23T16:55:19+00:00",
    "image": "",
    "id": "440da01d27b4",
-   "age_minutes": 1763,
+   "age_minutes": 1892,
    "also": [],
-   "score": 3.713
+   "score": 3.66
   },
   {
    "title": "Juventus, i guai non finiscono per Spalletti: altri due titolari KO",
@@ -357,9 +375,9 @@
    "published": "2026-10-23T14:14:45+00:00",
    "image": "",
    "id": "66b7d84b725a",
-   "age_minutes": 1924,
+   "age_minutes": 2052,
    "also": [],
-   "score": 3.648
+   "score": 3.606
   }
  ],
  "raw": [
@@ -373,9 +391,9 @@
    "published": "2026-10-24T21:56:08+00:00",
    "image": "",
    "id": "93abcb173658",
-   "age_minutes": 22,
+   "age_minutes": 151,
    "also": [],
-   "score": 7.27
+   "score": 6.614
   },
   {
    "title": "Voti Napoli-Roma 3-3, il tabellino della sfida: gol e spettacolo al Maradona",
@@ -398,9 +416,9 @@
    "published": "2026-10-24T16:40:18+00:00",
    "image": "",
    "id": "c757e3d9d62e",
-   "age_minutes": 338,
+   "age_minutes": 467,
    "also": [],
-   "score": 7.853
+   "score": 7.437
   },
   {
    "title": "Juventus, un recupero e 8 assenti per Lecce: le scelte di Spalletti",
@@ -412,10 +430,9 @@
    "published": "2026-10-24T16:07:34+00:00",
    "image": "",
    "id": "4587e238daf0",
-   "_kw": 2.6,
-   "_fresh": 0.5849280936353619,
-   "_fp": "juventus recupero assenti lecce scelte spalletti",
-   "age_minutes": 371
+   "age_minutes": 499,
+   "also": [],
+   "score": 6.343
   },
   {
    "title": "Voti Cagliari-Bologna 0-2, secondo stop consecutivo per i sardi",
@@ -427,9 +444,9 @@
    "published": "2026-10-24T15:02:59+00:00",
    "image": "",
    "id": "3d7fd6041095",
-   "age_minutes": 435,
+   "age_minutes": 564,
    "also": [],
-   "score": 5.531
+   "score": 5.17
   },
   {
    "title": "Napoli, Manna non convince: De Laurentiis pensa a Tare | CM",
@@ -441,9 +458,9 @@
    "published": "2026-10-24T14:20:25+00:00",
    "image": "",
    "id": "9144982329fa",
-   "age_minutes": 478,
+   "age_minutes": 607,
    "also": [],
-   "score": 5.404
+   "score": 5.065
   },
   {
    "title": "Milan, colpo di scena Gonçalo Ramos: novità dall’infermeria",
@@ -455,9 +472,9 @@
    "published": "2026-10-24T10:38:54+00:00",
    "image": "",
    "id": "7151c406b7ad",
-   "age_minutes": 700,
+   "age_minutes": 828,
    "also": [],
-   "score": 6.856
+   "score": 6.609
   },
   {
    "title": "Napoli-Roma, le ultimissime: dubbio in attacco per Allegri",
@@ -469,14 +486,9 @@
    "published": "2026-10-24T10:37:27+00:00",
    "image": "",
    "id": "e830ac21c011",
-   "age_minutes": 701,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/23/napoli-roma-annuncio-di-allegri-in-conferenza-un-big-e-in-dubbio/"
-    }
-   ],
-   "score": 5.453
+   "age_minutes": 830,
+   "also": [],
+   "score": 4.606
   },
   {
    "title": "Inter, altra tegola per Chivu: il comunicato ufficiale",
@@ -488,9 +500,9 @@
    "published": "2026-10-24T09:25:30+00:00",
    "image": "",
    "id": "45c1da9000b2",
-   "age_minutes": 773,
+   "age_minutes": 902,
    "also": [],
-   "score": 6.709
+   "score": 6.487
   },
   {
    "title": "Lazio-Parma, le probabili formazioni: Gattuso ha deciso",
@@ -513,9 +525,9 @@
    "published": "2026-10-24T07:01:12+00:00",
    "image": "",
    "id": "102aaeb9c33a",
-   "age_minutes": 917,
+   "age_minutes": 1046,
    "also": [],
-   "score": 4.463
+   "score": 4.283
   },
   {
    "title": "Nasce il caso Maignan al Milan: piovono critiche al portiere rossonero",
@@ -527,9 +539,9 @@
    "published": "2026-10-24T05:18:41+00:00",
    "image": "",
    "id": "f07a3a130120",
-   "age_minutes": 1020,
+   "age_minutes": 1148,
    "also": [],
-   "score": 4.317
+   "score": 4.161
   },
   {
    "title": "Roma, Ghilardi nel mirino della Fiorentina: la situazione | CM",
@@ -541,9 +553,9 @@
    "published": "2026-10-23T21:00:53+00:00",
    "image": "",
    "id": "678c17c17d33",
-   "age_minutes": 1518,
+   "age_minutes": 1646,
    "also": [],
-   "score": 3.847
+   "score": 3.771
   },
   {
    "title": "Juventus, delude ancora e fa discutere: esclusione eccellente a Lecce",
@@ -555,9 +567,9 @@
    "published": "2026-10-23T19:11:22+00:00",
    "image": "",
    "id": "2d1e07e52b78",
-   "age_minutes": 1627,
+   "age_minutes": 1756,
    "also": [],
-   "score": 3.781
+   "score": 3.717
   },
   {
    "title": "Abel Ferreira nella storia: quarta finale di Libertadores con il Palmeiras",
@@ -569,9 +581,9 @@
    "published": "2026-10-23T18:23:33+00:00",
    "image": "",
    "id": "f17a6aa11a93",
-   "age_minutes": 1675,
+   "age_minutes": 1803,
    "also": [],
-   "score": 3.756
+   "score": 3.696
   },
   {
    "title": "Juventus su Ndour, ma la Fiorentina alza un muro",
@@ -583,9 +595,9 @@
    "published": "2026-10-23T16:55:19+00:00",
    "image": "",
    "id": "440da01d27b4",
-   "age_minutes": 1763,
+   "age_minutes": 1892,
    "also": [],
-   "score": 3.713
+   "score": 3.66
   },
   {
    "title": "Juventus, i guai non finiscono per Spalletti: altri due titolari KO",
@@ -597,9 +609,9 @@
    "published": "2026-10-23T14:14:45+00:00",
    "image": "",
    "id": "66b7d84b725a",
-   "age_minutes": 1924,
+   "age_minutes": 2052,
    "also": [],
-   "score": 3.648
+   "score": 3.606
   },
   {
    "title": "Roma, accordo raggiunto con Lulli: i dettagli del rinnovo",
@@ -611,9 +623,9 @@
    "published": "2026-10-23T12:33:13+00:00",
    "image": "",
    "id": "75c6085b6c17",
-   "age_minutes": 2025,
+   "age_minutes": 2154,
    "also": [],
-   "score": 7.615
+   "score": 7.578
   },
   {
    "title": "Antonio Conte svela il suo futuro: annuncio ufficiale poco fa",
@@ -758,6 +770,258 @@
    "id": "42f0efac33e0"
   },
   {
+   "title": "Lecce-Juventus, la probabile formazione: Spalletti dubbio Alajbegovic, Woltemade e Kolo Muani. Emergenza sulle fasce",
+   "link": "https://www.tuttojuve.com/altre-notizie/lecce-juventus-probabile-formazione-spalletti-punta-alajbegovic-woltemade-kolo-muani-emergenza-fasce-797947",
+   "summary": "La Juventus si prepara alla delicata trasferta contro il Lecce, in programma domenica 25 ottobre alle ore 18 allo stadio Via del Mare.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T23:30:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/23/23c91690c10367d93120d836e861676e-03704-oooz0000.jpeg",
+   "id": "8b63ed0848a1"
+  },
+  {
+   "title": "Juventus, occasione Tagliafico: il Lione può aprire alla cessione a gennaio",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-occasione-tagliafico-lione-aprire-cessione-gennaio-797941",
+   "summary": "La Juventus potrebbe tornare a guardare in Francia per rinforzare le corsie esterne nel mercato di gennaio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T23:15:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6b/6b94906dafb4444d7a50c0801e90cd53-85089-oooz0000.jpeg",
+   "id": "e9ddd3cc197c",
+   "age_minutes": 71,
+   "also": [],
+   "score": 7.607
+  },
+  {
+   "title": "Lecce-Juventus, la probabile formazione dei salentini: Di Francesco conferma il 4-3-3, emergenza a centrocampo",
+   "link": "https://www.tuttojuve.com/l-avversario/lecce-juventus-probabile-formazione-salentini-francesco-conferma-4-3-3-emergenza-centrocampo-797944",
+   "summary": "Il Lecce si prepara alla sfida contro la Juventus, in programma domenica 25 ottobre alle ore 18 allo stadio Via del Mare.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T23:00:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/af/afb0abc50a45a962f6fa38fc87d29d7b-53327-oooz0000.jpeg",
+   "id": "a871cc3f557b"
+  },
+  {
+   "title": "Juventus, Jashari a gennaio è quasi impossibile: il Milan non vuole rafforzare una concorrente",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-jashari-gennaio-impossibile-milan-vuole-rafforzare-concorrente-797940",
+   "summary": "La Juventus potrebbe avere bisogno di rinforzi a centrocampo nel mercato di gennaio, ma non tutte le piste sono realmente percorribili.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:45:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/78/78b436bae84859cf4c9f7fbe920e8fb8-09175-oooz0000.jpeg",
+   "id": "17e163c1db8a",
+   "age_minutes": 102,
+   "also": [],
+   "score": 5.45
+  },
+  {
+   "title": "Juventus, occasione sprecata per Gatti e Douglas Luiz: due errori pesanti, Spalletti ora riflette",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-occasione-sprecata-gatti-douglas-luiz-errori-pesanti-spalletti-riflette-797942",
+   "summary": "La sfida di Europa League contro il Rennes doveva rappresentare un'occasione di riscatto per diversi giocatori della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:30:09+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/5a/5a0ee835f440f1b67fd5ed74333f6df4-80836-oooz0000.jpeg",
+   "id": "2ebadc7599e1",
+   "age_minutes": 117,
+   "also": [],
+   "score": 5.376
+  },
+  {
+   "title": "Juventus, colpo di scena Jonathan David: l'Atletico Madrid frena sul riscatto da 25 milioni",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-colpo-scena-jonathan-david-atletico-madrid-frena-riscatto-25-797938",
+   "summary": "Il futuro di Jonathan David torna al centro delle discussioni di mercato.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:15:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/21/21ac6b593c7afb5c113a6c7eb2d8c5eb-59365-oooz0000.jpeg",
+   "id": "cfa4d934a94b",
+   "age_minutes": 131,
+   "also": [],
+   "score": 9.306
+  },
+  {
+   "title": "Difesa dove sei?",
+   "link": "https://www.tuttojuve.com/primo-piano/difesa-sei-797808",
+   "summary": "La Juventus ha un problema che non può più permettersi di sottovalutare: la fase difensiva non offre le garanzie necessarie per una squadra che vuole tornare a competere ad alti livelli.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:05:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
+   "id": "60acfc896645"
+  },
+  {
+   "title": "Sono stanco e non sono l'unico! Il peso della maglia? Basta con questi alibi",
+   "link": "https://www.tuttojuve.com/firme-bianconere/stanco-unico-peso-maglia-alibi-797976",
+   "summary": "Sono stanco. Stanco di sentire che questi ragazzi “sentono il peso della maglia”.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:01:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32dad724f2d5d627188bb5e92775015c-06564-oooz0000.jpeg",
+   "id": "0ff2df3efba0"
+  },
+  {
+   "title": "Juventus, colpo di scena Inzaghi: dall'Arabia arriva una smentita sulle trattative per il dopo Spalletti",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-colpo-scena-inzaghi-arabia-arriva-smentita-trattative-spalletti-797945",
+   "summary": "Il nome di Simone Inzaghi continua a circolare attorno alla Juventus, ma dall'Arabia Saudita arrivano indicazioni che raffreddano sensibilmente le indiscrezioni su un possibile cambio di allenatore a Torino.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T22:00:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a36cf48b6e2e0e504e5e6c84a6146c1f-49914-oooz0000.jpeg",
+   "id": "8f7527d027e4",
+   "age_minutes": 146,
+   "also": [],
+   "score": 6.435
+  },
+  {
+   "title": "Juventus, rischio record negativo a Lecce",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-rischio-record-negativo-lecce-797985",
+   "summary": "La Juventus di Luciano Spalletti si avvicina alla trasferta contro il Lecce, in programma domani sera, con un dato statistico che rischia di rendere ancora più complicato il bilancio dell'inizio di stagione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T21:45:34+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1d/1daab15702962ef39cf91678796d522b-30985-oooz0000.jpeg",
+   "id": "1ac8744f0f6b"
+  },
+  {
+   "title": "Gattuso: \"Lassù non c'entriamo nulla, ma stiamo scrivendo una piccola storia di questo cluo. Vi spiego il caso Pellegrini\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/gattuso-lassu-entriamo-nulla-scrivendo-piccola-storia-cluo-spiego-pellegrini-797986",
+   "summary": "La Lazio supera il Parma per 2-1 e prosegue il proprio momento positivo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T21:30:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/86/862722b87a1f77595797363a5f5dfe5e-32075-oooz0000.jpeg",
+   "id": "6439e008bc57"
+  },
+  {
+   "title": "Fascetti: \"Non è la Juventus che tutti si aspettano, davvero poco per una squadra miliardaria. Spalletti è bravo, ma fatica. Con il Lecce vedo un pareggio\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/fascetti-non-juventus-aspettano-davvero-squadra-miliardaria-spalletti-bravo-fatica-lecce-vedo-paregg-797984",
+   "summary": "Eugenio Fascetti osserva con particolare partecipazione la sfida tra Lecce e Juventus, due società che hanno segnato profondamente la sua carriera.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T21:15:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/64/648891b0bbf83b7c0a51822d3a12e1cc-79339-oooz0000.jpeg",
+   "id": "4fb45cf667ee"
+  },
+  {
+   "title": "Juventus, manca un regista, difesa fragile, attacco senza gol ed emergenza infortuni: ma Spalletti non può più sbagliare",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-manca-regista-difesa-fragile-attacco-gol-emergenza-infortuni-spalletti-sbagliare-797983",
+   "summary": "La Juventus di Luciano Spalletti continua a mostrare problemi strutturali e una preoccupante discontinuità di rendimento.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T21:00:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f7/f7a92dc72b66318c72c655aa5f235f25-17243-oooz0000.jpeg",
+   "id": "56b929451859"
+  },
+  {
+   "title": "Serie A, la Lazio non si ferma: Parma battuto 2-1, Gattuso in vetta. La classifica aggiornata",
+   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-lazio-ferma-parma-battuto-2-1-gattuso-vetta-classifica-aggiornata-797982",
+   "summary": "La Lazio continua a sorprendere in questo avvio di stagione e conquista altri tre punti preziosi nella corsa ai vertici della Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T20:45:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9502b27842f7858712327853d8c7fc9e-54294-oooz0000.jpeg",
+   "id": "9a11c800a477"
+  },
+  {
+   "title": "FIGC, Marotta e Percassi scaricano Malagò e puntano su Galliani: la Serie A si spacca",
+   "link": "https://www.tuttojuve.com/altre-notizie/figc-marotta-percassi-scaricano-malago-puntano-galliani-serie-spacca-797981",
+   "summary": "Si apre un nuovo fronte nella corsa alla presidenza della FIGC.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T20:30:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3b/3ba890ce5ae2be21e7ae64afe3f88195-49589-oooz0000.jpeg",
+   "id": "543c6f98ffce"
+  },
+  {
+   "title": "L'ex Juve Bernardeschi ritrova il gol su rigore. Il Cagliari è la sua vittima preferita",
+   "link": "https://www.tuttojuve.com/altre-notizie/juve-bernardeschi-ritrova-gol-rigore-cagliari-vittima-preferita-797980",
+   "summary": "Il Bologna espugna il campo del Cagliari con un successo per 2-0, maturato interamente nel secondo tempo dell'incontro valido per l'ottava giornata di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T20:15:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/613305b5ae46ce9f94fd54f46e88e8d8-51050-oooz0000.jpeg",
+   "id": "f1ec9546be01",
+   "age_minutes": 252,
+   "also": [],
+   "score": 4.379
+  },
+  {
+   "title": "Juventus, attenzione a Tiago Gabriel: il difensore del Lecce domina cinque classifiche",
+   "link": "https://www.tuttojuve.com/l-avversario/juventus-attenzione-tiago-gabriel-difensore-lecce-domina-classifiche-797979",
+   "summary": "La Juventus si prepara alla trasferta contro il Lecce, in programma domani allo stadio Via del Mare, dove tra i giocatori da tenere maggiormente sotto osservazione figura Tiago Gabriel.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T20:00:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2e/2ec6ec58cdceae854a9d234f1352b392-70198-oooz0000.jpeg",
+   "id": "20cad97067e3"
+  },
+  {
+   "title": "Napoli, Allegri furioso: \"Molto arrabbiato per non aver vinto. Vedo altri che entrano in campo e ribaltano, io vengo espulso. Ho cambiato modo di giocare, ora voglio tutti all'attacco\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/napoli-allegri-furioso-molto-arrabbiato-vinto-vedo-entrano-campo-ribaltano-vengo-espulso-cambiato-gi-797978",
+   "summary": "Massimiliano Allegri non nasconde la propria amarezza dopo il 3-3 tra Napoli e Roma, incontro valido per l'ottava giornata di Serie A.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T19:45:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3e418dcbcf96311e9b229bad38ffd7a8-04317-oooz0000.jpeg",
+   "id": "44f4eed01401",
+   "age_minutes": 281,
+   "also": [],
+   "score": 4.262
+  },
+  {
+   "title": "De Grandis sugli infortuni della Juventus: “I giocatori non sono macchine e…”",
+   "link": "https://www.tuttojuve.com/altre-notizie/de-grandis-infortuni-juventus-i-giocatori-macchine-e-797971",
+   "summary": "La Juventus sta attraversando un momento di profonda crisi e domani, nella sfida contro il Lecce, Spalletti spera con tutto se stesso di riuscire a invertire la rotta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T19:30:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c8/c81d0d2bdf46101eef11bae1be37536f-44438-oooz0000.jpeg",
+   "id": "287c5a39f50e"
+  },
+  {
+   "title": "Juventus Women, il crollo è allarmante: il progetto di Mazzetta finisce sotto accusa",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-women-crollo-allarmante-progetto-mazzetta-finisce-accusa-797977",
+   "summary": "Ora non si può non parlare di crisi per la Juventus Women.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-24T19:29:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/3228746ba81034df2de144739a1cd688-59615-oooz0000.jpeg",
+   "id": "3ad433a66cba"
+  },
+  {
+   "title": "Napoli-Roma, Perillo: \"Visto un bel calcio, Allegri paga le indecisioni difensive\"",
+   "link": "https://www.tuttonapoli.net/dai-social/napoli-roma-perillo-visto-bel-calcio-allegri-paga-indecisioni-difensive-660013",
+   "summary": "Il giornalista Antonello Perillo, tramite un tweet sul suo profilo X, ha commentato il pareggio per 3-3 tra Napoli e Roma, esprimendo rammarico per una vittoria sfumata nel finale.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-24T22:15:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/db/db8dc8365f3db7e767f27c1e38e54007-32486-oooz0000.jpeg",
+   "id": "435185d2cb5b"
+  },
+  {
    "title": "Lazio, Gattuso vola basso: “Lassù non c'entriamo niente, non fare le coppe ci dà benefici…\"",
    "link": "https://www.tuttonapoli.net/serie-a/lazio-gattuso-vola-basso-lassu-centriamo-niente-coppe-da-benefici-660015",
    "summary": "Gennaro Gattuso, allenatore della Lazio, è intervenuto ai microfoni di Sky Sport dopo la vittoria per 2-1 contro il Parma, che ha portato i biancocelesti a quota 22 punti e al primo posto solitario in Serie A.",
@@ -866,9 +1130,9 @@
    "published": "2026-10-24T20:10:47+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d0/d06622dc145f9b6ef92975f402874888-66661-755o0o1859o1103z0e85.jpeg",
    "id": "00e27dd52c94",
-   "age_minutes": 128,
+   "age_minutes": 256,
    "also": [],
-   "score": 6.124
+   "score": 5.561
   },
   {
    "title": "ADL applaude il Napoli e Allegri: è sceso negli spogliatoi per complimentarsi",
@@ -924,9 +1188,9 @@
    "published": "2026-10-24T19:20:44+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5f/5fece9e513dee50f4f615d242e911eb4-15697-oooz0000.jpeg",
    "id": "4d4d6686399c",
-   "age_minutes": 178,
+   "age_minutes": 306,
    "also": [],
-   "score": 6.292
+   "score": 5.768
   },
   {
    "title": "La moviola di Marelli: \"Gol Roma regolare! Rosso a Gollini? Mano avanti al petto...\"",
@@ -971,257 +1235,6 @@
    "published": "2026-10-24T18:51:05+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/72/7265b6f7818ce749b1d2aa657d70c091-00541-oooz0000.jpeg",
    "id": "0c4616905985"
-  },
-  {
-   "title": "Anguissa: \"Non si deve prendere il terzo gol! Allegri? Ci tiene molto e resta positivo\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/anguissa-non-prendere-gol-allegri-tiene-resta-positivo-659994",
-   "summary": "Il centrocampista del Napoli Zambo Anguissa ha parlato ai microfoni di DAZN, dopo il match casalingo contro la Roma terminato sul 3-3. Il mister vi ha detto qualcosa? \"Il mister è sempre molto positivo e ci tiene molto.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-24T18:40:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/86/8699eec0183f5933a4826b4d35c248ff-45380-oooz0000.jpeg",
-   "id": "36416ab3d87a"
-  },
-  {
-   "title": "Difesa dove sei?",
-   "link": "https://www.tuttojuve.com/primo-piano/difesa-sei-797808",
-   "summary": "La Juventus ha un problema che non può più permettersi di sottovalutare: la fase difensiva non offre le garanzie necessarie per una squadra che vuole tornare a competere ad alti livelli.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T22:05:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9a/9ab82fd8de2895bb54cbac8a76e19bba-62135-oooz0000.jpeg",
-   "id": "60acfc896645"
-  },
-  {
-   "title": "Sono stanco e non sono l'unico! Il peso della maglia? Basta con questi alibi",
-   "link": "https://www.tuttojuve.com/firme-bianconere/stanco-unico-peso-maglia-alibi-797976",
-   "summary": "Sono stanco. Stanco di sentire che questi ragazzi “sentono il peso della maglia”.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T22:01:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/32dad724f2d5d627188bb5e92775015c-06564-oooz0000.jpeg",
-   "id": "0ff2df3efba0"
-  },
-  {
-   "title": "Juventus, colpo di scena Inzaghi: dall'Arabia arriva una smentita sulle trattative per il dopo Spalletti",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-colpo-scena-inzaghi-arabia-arriva-smentita-trattative-spalletti-797945",
-   "summary": "Il nome di Simone Inzaghi continua a circolare attorno alla Juventus, ma dall'Arabia Saudita arrivano indicazioni che raffreddano sensibilmente le indiscrezioni su un possibile cambio di allenatore a Torino.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T22:00:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a3/a36cf48b6e2e0e504e5e6c84a6146c1f-49914-oooz0000.jpeg",
-   "id": "8f7527d027e4",
-   "age_minutes": 18,
-   "also": [],
-   "score": 7.096
-  },
-  {
-   "title": "Juventus, rischio record negativo a Lecce",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-rischio-record-negativo-lecce-797985",
-   "summary": "La Juventus di Luciano Spalletti si avvicina alla trasferta contro il Lecce, in programma domani sera, con un dato statistico che rischia di rendere ancora più complicato il bilancio dell'inizio di stagione.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T21:45:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1d/1daab15702962ef39cf91678796d522b-30985-oooz0000.jpeg",
-   "id": "1ac8744f0f6b"
-  },
-  {
-   "title": "Gattuso: \"Lassù non c'entriamo nulla, ma stiamo scrivendo una piccola storia di questo cluo. Vi spiego il caso Pellegrini\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/gattuso-lassu-entriamo-nulla-scrivendo-piccola-storia-cluo-spiego-pellegrini-797986",
-   "summary": "La Lazio supera il Parma per 2-1 e prosegue il proprio momento positivo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T21:30:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/86/862722b87a1f77595797363a5f5dfe5e-32075-oooz0000.jpeg",
-   "id": "6439e008bc57"
-  },
-  {
-   "title": "Fascetti: \"Non è la Juventus che tutti si aspettano, davvero poco per una squadra miliardaria. Spalletti è bravo, ma fatica. Con il Lecce vedo un pareggio\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/fascetti-non-juventus-aspettano-davvero-squadra-miliardaria-spalletti-bravo-fatica-lecce-vedo-paregg-797984",
-   "summary": "Eugenio Fascetti osserva con particolare partecipazione la sfida tra Lecce e Juventus, due società che hanno segnato profondamente la sua carriera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T21:15:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/64/648891b0bbf83b7c0a51822d3a12e1cc-79339-oooz0000.jpeg",
-   "id": "4fb45cf667ee"
-  },
-  {
-   "title": "Juventus, manca un regista, difesa fragile, attacco senza gol ed emergenza infortuni: ma Spalletti non può più sbagliare",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-manca-regista-difesa-fragile-attacco-gol-emergenza-infortuni-spalletti-sbagliare-797983",
-   "summary": "La Juventus di Luciano Spalletti continua a mostrare problemi strutturali e una preoccupante discontinuità di rendimento.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T21:00:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f7/f7a92dc72b66318c72c655aa5f235f25-17243-oooz0000.jpeg",
-   "id": "56b929451859"
-  },
-  {
-   "title": "Serie A, la Lazio non si ferma: Parma battuto 2-1, Gattuso in vetta. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-lazio-ferma-parma-battuto-2-1-gattuso-vetta-classifica-aggiornata-797982",
-   "summary": "La Lazio continua a sorprendere in questo avvio di stagione e conquista altri tre punti preziosi nella corsa ai vertici della Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T20:45:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/95/9502b27842f7858712327853d8c7fc9e-54294-oooz0000.jpeg",
-   "id": "9a11c800a477"
-  },
-  {
-   "title": "FIGC, Marotta e Percassi scaricano Malagò e puntano su Galliani: la Serie A si spacca",
-   "link": "https://www.tuttojuve.com/altre-notizie/figc-marotta-percassi-scaricano-malago-puntano-galliani-serie-spacca-797981",
-   "summary": "Si apre un nuovo fronte nella corsa alla presidenza della FIGC.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T20:30:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3b/3ba890ce5ae2be21e7ae64afe3f88195-49589-oooz0000.jpeg",
-   "id": "543c6f98ffce"
-  },
-  {
-   "title": "L'ex Juve Bernardeschi ritrova il gol su rigore. Il Cagliari è la sua vittima preferita",
-   "link": "https://www.tuttojuve.com/altre-notizie/juve-bernardeschi-ritrova-gol-rigore-cagliari-vittima-preferita-797980",
-   "summary": "Il Bologna espugna il campo del Cagliari con un successo per 2-0, maturato interamente nel secondo tempo dell'incontro valido per l'ottava giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T20:15:14+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/61/613305b5ae46ce9f94fd54f46e88e8d8-51050-oooz0000.jpeg",
-   "id": "f1ec9546be01",
-   "age_minutes": 123,
-   "also": [],
-   "score": 4.946
-  },
-  {
-   "title": "Juventus, attenzione a Tiago Gabriel: il difensore del Lecce domina cinque classifiche",
-   "link": "https://www.tuttojuve.com/l-avversario/juventus-attenzione-tiago-gabriel-difensore-lecce-domina-classifiche-797979",
-   "summary": "La Juventus si prepara alla trasferta contro il Lecce, in programma domani allo stadio Via del Mare, dove tra i giocatori da tenere maggiormente sotto osservazione figura Tiago Gabriel.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T20:00:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2e/2ec6ec58cdceae854a9d234f1352b392-70198-oooz0000.jpeg",
-   "id": "20cad97067e3"
-  },
-  {
-   "title": "Napoli, Allegri furioso: \"Molto arrabbiato per non aver vinto. Vedo altri che entrano in campo e ribaltano, io vengo espulso. Ho cambiato modo di giocare, ora voglio tutti all'attacco\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/napoli-allegri-furioso-molto-arrabbiato-vinto-vedo-entrano-campo-ribaltano-vengo-espulso-cambiato-gi-797978",
-   "summary": "Massimiliano Allegri non nasconde la propria amarezza dopo il 3-3 tra Napoli e Roma, incontro valido per l'ottava giornata di Serie A.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:45:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3e418dcbcf96311e9b229bad38ffd7a8-04317-oooz0000.jpeg",
-   "id": "44f4eed01401",
-   "age_minutes": 153,
-   "also": [],
-   "score": 4.806
-  },
-  {
-   "title": "De Grandis sugli infortuni della Juventus: “I giocatori non sono macchine e…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/de-grandis-infortuni-juventus-i-giocatori-macchine-e-797971",
-   "summary": "La Juventus sta attraversando un momento di profonda crisi e domani, nella sfida contro il Lecce, Spalletti spera con tutto se stesso di riuscire a invertire la rotta.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:30:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c8/c81d0d2bdf46101eef11bae1be37536f-44438-oooz0000.jpeg",
-   "id": "287c5a39f50e"
-  },
-  {
-   "title": "Juventus Women, il crollo è allarmante: il progetto di Mazzetta finisce sotto accusa",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-women-crollo-allarmante-progetto-mazzetta-finisce-accusa-797977",
-   "summary": "Ora non si può non parlare di crisi per la Juventus Women.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:29:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/3228746ba81034df2de144739a1cd688-59615-oooz0000.jpeg",
-   "id": "3ad433a66cba"
-  },
-  {
-   "title": "Juventus arrivata a Lecce. I convocati: otto assenti per il match di domani. C’è Sarr, anche se non è al meglio",
-   "link": "https://www.tuttojuve.com/in-diretta-dalla-continassa/allenamento-mattinata-juventus-allarme-infortuni-spalletti-assenti-lecce-dubbio-pape-sarr-797933",
-   "summary": "21:23 - La Juventus è arrivata a Lecce e adesso la squadra è in hotel. 17:48 - La Juventus è appena arrivata a Caselle e breve la squadra partirà per Lecce.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:24:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/80/801ca762b1ffd6c9d2cecca548d405d2-20673-oooz0000.jpeg",
-   "id": "5cbe0fc2ff0a",
-   "age_minutes": 174,
-   "also": [],
-   "score": 5.308
-  },
-  {
-   "title": "Juventus, in emergenza totale: i tempi di recupero degli 8 assenti",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-emergenza-totale-tempi-recupero-8-assenti-797974",
-   "summary": "La Juventus per la gara contro il Lecce dovrà fare a meno di 8 giocatori fermi ai box.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:15:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/67/670591001c6627e1fec66e25bcc4aef1-25865-oooz0000.jpeg",
-   "id": "04e12630507f",
-   "age_minutes": 183,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/10/24/824125/"
-    }
-   ],
-   "score": 5.868
-  },
-  {
-   "title": "Scarchilli: “Woltemade è un regista offensivo. La Juventus deve dare un segnale in casa del Lecce”",
-   "link": "https://www.tuttojuve.com/altre-notizie/scarchilli-woltemade-regista-offensivo-juventus-andare-dare-segnale-casa-lecce-797973",
-   "summary": "Nel match contro il Rennes Nick Woltemade è stato uno dei migliori in campo e il tedesco sembra essersi ritagliato un posto importante nella formazione bianconera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T19:00:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2f/2f156b862129c0e55e8c074d6267bafd-81850-oooz0000.jpeg",
-   "id": "fef2f17dca34"
-  },
-  {
-   "title": "Spalletti cerca di risolvere i problemi della Juventus: mancano il giusto atteggiamento e la leadership",
-   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-cerca-risolvere-problemi-juventus-mancano-giusto-atteggiamento-leadership-797975",
-   "summary": "La Juventus sta vivendo un altro momento di crisi e Luciano Spalletti sta cercano alcune soluzioni per far uscire la squadra da questa situazione di difficoltà.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T18:45:58+00:00",
-   "image": "",
-   "id": "e45c8e591fa0"
-  },
-  {
-   "title": "Taveri: “I giocatori della Juve mi sembrano impauriti. Quando le cose non vanno bene un po’ di colpe l’allenatore deve…”",
-   "link": "https://www.tuttojuve.com/altre-notizie/taveri-i-giocatori-juve-sembrano-impauriti-cose-vanno-po-colpe-l-allenatore-deve-797963",
-   "summary": "La Juventus sta cercando di uscire da una crisi di risultati che si porta dietro da diverse settimane. Della situazione bianconera a parlato Mino Taveri giornalista Mediaset.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T18:30:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e3/e3013b29c683849604d48e1b5827992d-59244-oooz0000.jpeg",
-   "id": "91dd20c88188"
-  },
-  {
-   "title": "Napoli-Roma, spettacolo e sei gol: finisce 3-3, Allegri espulso nel finale. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/napoli-roma-spettacolo-gol-finisce-3-3-allegri-espulso-finale-797969",
-   "summary": "Si è appena conclusa la sfida tra il Napoli e la Roma con il punteggio di 3-3, un risultato che lascia in parità due squadre protagoniste di una partita ricca di emozioni e colpi di scena fino all'ultimo minuto.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-24T18:15:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cb/cb9a9f45ee919c14338be09eee791709-59367-oooz0000.jpeg",
-   "id": "0bd7120cf6ee"
   },
   {
    "title": "Senior (per ora) meglio dei nuovi",
@@ -1332,9 +1345,9 @@
    "published": "2026-10-24T20:00:08+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/21/21fb48f201574b63017993d44e602e12-92064-oooz0000.jpeg",
    "id": "29b1c23b88ee",
-   "age_minutes": 138,
+   "age_minutes": 267,
    "also": [],
-   "score": 5.274
+   "score": 4.719
   },
   {
    "title": "Serena inquadra l'Inter: \"La più forte del campionato, ha due squadre\"",
@@ -1445,6 +1458,229 @@
    "published": "2026-10-24T17:39:00+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/de/de457a312296a97d9a87910c8f8a31e3-63844-oooz0000.jpg",
    "id": "fa10a93bddeb"
+  },
+  {
+   "title": "Cruciani sicuro: “Il Milan non è più quello di un tempo, ma la maglietta va sempre onorata”",
+   "link": "https://www.milannews.it/news/cruciani-sicuro-il-milan-tempo-maglietta-onorata-633874",
+   "summary": "Nell’ultima puntata di Numer1 podcast, il noto giornalista Giuseppe Cruciani è tornato a parlare della prestazione del Milan contro il Bournemouth. Queste le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T22:48:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/07/07397d628fe225919b1917a738e721ff-57905-oooz0000.jpeg",
+   "id": "37ebab0b0e38"
+  },
+  {
+   "title": "Allegri, 'Fatta buona partita, con questo spirito risaliamo la classifica'",
+   "link": "https://www.milannews.it/news/allegri-fatta-buona-partita-spirito-risaliamo-classifica-633877",
+   "summary": "(ANSA) - NAPOLI, 24 OTT - \"Stasera devo fare i complimenti ai ragazzi, la squadra ha fatto una buona partita anche difensivamente contro una Roma che è forte.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T22:36:58+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b7/b7ad13bc49bcb063f48f7b0f32fa3dd7-56011-oooz0000.jpeg",
+   "id": "11c8d7eac5ea"
+  },
+  {
+   "title": "Verso Udinese-Milan: due giocatori per parte hanno disputato tutti i 630 minuti di campionato",
+   "link": "https://www.milannews.it/news/udinese-milan-giocatori-disputato-630-minuti-campionato-633838",
+   "summary": "Domani sera Udinese e Milan si affronteranno in Friuli nella gara valida per l'8^ giornata di Serie A. Come riporta il sito della Lega Calcio Serie A, quello tra i due allenatori Kosta Runjaic e Ruben Amorim sarà primo…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T22:24:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/3854b4caaae4542489f4bde2675819fc-42022-oooz0000.jpeg",
+   "id": "1f04d3a46784",
+   "age_minutes": 123,
+   "also": [],
+   "score": 5.749
+  },
+  {
+   "title": "Pellegatti a gran voce: “Con questo organico insostenibile il doppio impegno, servono innesti a gennaio”",
+   "link": "https://www.milannews.it/news/pellegatti-gran-voce-con-organico-insostenibile-impegno-servono-innesti-gennaio-633875",
+   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato la notizia che riguarda gli infortunati che domani non saranno convocati per la partita contro l’Udinese. Queste le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T22:12:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9b/9b3e508c0b6a40acdb49da948acf785e-47570-oooz0000.jpeg",
+   "id": "cc3944e2a8fa"
+  },
+  {
+   "title": "Amorim sotto accusa. Nuovo dirigente in fretta",
+   "link": "https://www.milannews.it/editoriale/amorim-accusa-dirigente-fretta-633864",
+   "summary": "È ormai chiaro ed evidente a tutti che questo Milan non abbia una rosa all'altezza per competere in più competizioni. A livello numerico e qualitativo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T22:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0ceb3f34d726704a62a3bfc54e5e4dd-56687-oooz0000.jpeg",
+   "id": "1aab5b165b80"
+  },
+  {
+   "title": "Domani Milan Futuro-Club Milano: orario, diretta e info sulla sfida",
+   "link": "https://www.milannews.it/milan-futuro/domani-milan-futuro-club-milano-orario-diretta-info-sfida-633857",
+   "summary": "Domani il Milan Futuro affronta il Club Milano in un match valido per la 9ª giornata del girone B di Serie D. Appuntamento al Felice Chinetti di Solbiate Arno alle 14.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T21:48:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6e/6e55f22d461060ebcb919378238a3d78-42589-oooz0000.jpeg",
+   "id": "4d1c9d3e95bb"
+  },
+  {
+   "title": "Milan, domani ospiti dell’Udinese: il dato sugli ultimi precedenti",
+   "link": "https://www.milannews.it/news/milan-domani-ospiti-dell-udinese-dato-ultimi-precedenti-633871",
+   "summary": "Domani sera i rossoneri saranno ospitati nel BluEnergy Stadium dall’Udinese.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T21:36:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/09/09d67edd9dfdc06f0e7149ef6a9dad97-49876-oooz0000.jpeg",
+   "id": "035803e0e25a"
+  },
+  {
+   "title": "Udinese, Runjaic: \"Col Lecce punto più basso, ripartire con il Milan\"",
+   "link": "https://www.milannews.it/l-avversario/udinese-runjaic-lecce-punto-basso-ripartire-milan-633852",
+   "summary": "(ANSA) - UDINE, 24 OTT - \"In tre anni all'Udinese quella contro il Lecce è stata la nostra peggior partita. Abbiamo mollato, non deve più accadere\".",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T21:24:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ad/ada37b18f8cf99acbd5b37ba1ef33dbd-16578-oooz0000.jpeg",
+   "id": "3bb321d73a32"
+  },
+  {
+   "title": "Diddi spiega: “Se Amorim cambia idea spesso perde di credibilità e la squadra non lo segue più”",
+   "link": "https://www.milannews.it/news/diddi-spiega-se-amorim-cambia-idea-perde-credibilita-squadra-segue-piu-633870",
+   "summary": "Luca Diddi nel canale YouTube di Carlo Pellegatti ha parlato degli errori che sta commettendo secondo lui Ruben Amorim. Di seguito le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T21:12:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/38af6c177b279842bebb28d9fcb39122-35072-oooz0000.jpeg",
+   "id": "76bf93c87b8f"
+  },
+  {
+   "title": "Serie A, Lazio capolista da sola per una notte: la classifica aggiornata",
+   "link": "https://www.milannews.it/news/serie-a-classifica-aggiornata-633885",
+   "summary": "Al termine del match che ha chiuso il sabato di Serie A, Lazio-Parma, questa è la classifica aggiornata in attesa delle 5 gare di domani.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T21:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "bab75cb1b049"
+  },
+  {
+   "title": "Serie A, Gattuso non si ferma più: Lazio-Parma 2-1",
+   "link": "https://www.milannews.it/news/serie-a-lazio-parma-633884",
+   "summary": "Dopo Napoli e Roma che sono scese in campo alle 18:00, hanno chiuso la giornata di oggi la Lazio di Gattuso e il Parma di Gilardino in una sfida a tinte rossonere.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T20:48:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
+   "id": "3e2f9a203031"
+  },
+  {
+   "title": "Cagliari, il portiere Caprile prende la cittadinanza albanese",
+   "link": "https://www.milannews.it/news/cagliari-portiere-caprile-prende-cittadinanza-albanese-633822",
+   "summary": "(ANSA) - CAGLIARI, 23 OTT - Il portiere del Cagliari Elia Caprile è diventato anche cittadino albanese. Il decreto è stato pubblicato oggi.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T20:36:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/28/285a17275367dd3d238ff77b3228b58b-00489-oooz0000.jpeg",
+   "id": "9c024a4affaa"
+  },
+  {
+   "title": "Allegri, il retroscena post Napoli-Roma: “L’anno scorso gli hanno messo la Champions in tasca, l’ho pagata col Milan”",
+   "link": "https://www.milannews.it/news/allegri-retroscena-post-napoli-roma-l-anno-messo-champions-tasca-l-ho-pagata-milan-633886",
+   "summary": "Nel post partita di Napoli-Roma, terminata 3-3 con polemiche dei padroni di casa per il terzo gol dei giallorossi, come rivela il Corriere dello Sport è stato protagonista Max Allegri che, dopo le interviste a Dazn e prima della ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T20:24:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d0/d06622dc145f9b6ef92975f402874888-66661-oooz0000.jpeg",
+   "id": "01aeac436b9b"
+  },
+  {
+   "title": "Diddi evidenzia: “Moreira 5 ruoli diversi, continui cambi modulo, Amorim non ha le idee chiare”",
+   "link": "https://www.milannews.it/news/diddi-evidenzia-moreira-5-ruoli-diversi-continui-cambi-modulo-amorim-idee-chiare-633869",
+   "summary": "Luca Diddi nel canale YouTube di Carlo Pellegatti ha parlato degli errori che sta commettendo secondo lui Ruben Amorim. Di seguito le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T20:12:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/04/041b1e022b8844224b24c03305f1eb83-52446-oooz0000.jpeg",
+   "id": "05ed0eb907d4"
+  },
+  {
+   "title": "Pellegatti non ci sta: “Impazzisco, Rabiot non doveva entrare a Bournemouth. È indispensabile per noi”",
+   "link": "https://www.milannews.it/news/pellegatti-sta-impazzisco-rabiot-doveva-entrare-bournemouth-indispensabile-noi-633876",
+   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato la notizia che riguarda gli infortunati che domani non saranno convocati per la partita contro l’Udinese. Queste le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T20:00:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/70/70291f318f9d28faee9c6e9becaa9c9a-27963-oooz0000.jpeg",
+   "id": "0308fdbf1014"
+  },
+  {
+   "title": "Abodi: \"Il futuro della Figc? Io lascio le valutazioni a chi osserva, anche perché se soltanto provo a pensare c'è qualcuno che interpreta male\"",
+   "link": "https://www.milannews.it/news/figc-abodi-provo-pensare-interpreta-633843",
+   "summary": "(ANSA) - NAPOLI, 24 OTT - \"Il futuro della Figc? Io lascio le valutazioni a chi osserva, anche perché se soltanto provo a pensare c'è qualcuno che interpreta male, quindi mi oriento verso gli altri mille progetti che devo porta ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T19:49:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/35/358d6c5849a31ae3962393bb747bc214-34199-oooz0000.jpeg",
+   "id": "6ce91f8bc5d3"
+  },
+  {
+   "title": "Milan Femminile, Bakker: \"Soddisfatti per la vittoria. Felici per le 100 presenze di Mascarello e l'esordio di Bonanomi, se lo meritano\"",
+   "link": "https://www.milannews.it/milan-femminile/milan-femminile-bakker-soddisfatti-vittoria-felici-100-presenze-mascarello-esordio-bonanomi-meritano-633862",
+   "summary": "La Coach Suzanne Bakker e Sara Stokic hanno parlato al termine di Milan-Ternana Womne 3-0. Grande prova delle rossonere, per la soddisfazione dell'allenatrice.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T19:35:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/37/3717f3c435ca7424c2b7f0a6a4c112db-26197-oooz0000.jpeg",
+   "id": "4b1b163b088d"
+  },
+  {
+   "title": "Allegri sbotta nel post Napoli-Roma di DAZN: “A me buttano sempre fuori, ci sono altri che entrano e ribaltano tutto”",
+   "link": "https://www.milannews.it/news/allegri-sbotta-post-napoli-roma-dazn-a-buttano-fuori-entrano-ribaltano-tutto-633867",
+   "summary": "Nel post partita di Napoli-Roma 3-3, Max Allegri nell'intervista a DAZN si è lasciato andare con uno sfogo vista l'espulsione che ha rimediato nel finale della partita.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T19:24:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cb/cb9a9f45ee919c14338be09eee791709-59367-oooz0000.jpeg",
+   "id": "7f535b27b6d3"
+  },
+  {
+   "title": "Diddi sottolinea: “Amorim non è coerente con le sue idee, vedo tanta confusione”",
+   "link": "https://www.milannews.it/news/diddi-sottolinea-amorim-coerente-idee-vedo-tanta-confusione-633868",
+   "summary": "Nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato della partita di giovedì sera persa dai rossoneri analizzando diverse tematiche. Di seguito le sue parole.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T19:12:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a08d3d46e5bf0bb957f94b19fb5db7f7-36837-oooz0000.jpeg",
+   "id": "8c923d7f98d6"
+  },
+  {
+   "title": "Milan sempre a segno nelle ultime sei trasferte in Friuli contro l’Udinese",
+   "link": "https://www.milannews.it/news/milan-segno-ultime-trasferte-friuli-l-udinese-633840",
+   "summary": "Domani sera alle 20.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-24T19:01:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/64/64f28eb193a2bf0207686077a5857b74-63746-oooz0000.jpeg",
+   "id": "acfabd17771b"
   },
   {
    "title": "What happened when furious Allegri was sent off in Napoli 3-3 Roma",
@@ -1665,231 +1901,11 @@
    "published": "2026-10-24T14:46:34+00:00",
    "image": "",
    "id": "0cef0ef3202e"
-  },
-  {
-   "title": "Pellegatti a gran voce: “Con questo organico insostenibile il doppio impegno, servono innesti a gennaio”",
-   "link": "https://www.milannews.it/news/pellegatti-gran-voce-con-organico-insostenibile-impegno-servono-innesti-gennaio-633875",
-   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato la notizia che riguarda gli infortunati che domani non saranno convocati per la partita contro l’Udinese. Queste le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T22:12:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/9b/9b3e508c0b6a40acdb49da948acf785e-47570-oooz0000.jpeg",
-   "id": "cc3944e2a8fa"
-  },
-  {
-   "title": "Amorim sotto accusa. Nuovo dirigente in fretta",
-   "link": "https://www.milannews.it/editoriale/amorim-accusa-dirigente-fretta-633864",
-   "summary": "È ormai chiaro ed evidente a tutti che questo Milan non abbia una rosa all'altezza per competere in più competizioni. A livello numerico e qualitativo.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T22:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0ceb3f34d726704a62a3bfc54e5e4dd-56687-oooz0000.jpeg",
-   "id": "1aab5b165b80"
-  },
-  {
-   "title": "Domani Milan Futuro-Club Milano: orario, diretta e info sulla sfida",
-   "link": "https://www.milannews.it/milan-futuro/domani-milan-futuro-club-milano-orario-diretta-info-sfida-633857",
-   "summary": "Domani il Milan Futuro affronta il Club Milano in un match valido per la 9ª giornata del girone B di Serie D. Appuntamento al Felice Chinetti di Solbiate Arno alle 14.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T21:48:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6e/6e55f22d461060ebcb919378238a3d78-42589-oooz0000.jpeg",
-   "id": "4d1c9d3e95bb"
-  },
-  {
-   "title": "Milan, domani ospiti dell’Udinese: il dato sugli ultimi precedenti",
-   "link": "https://www.milannews.it/news/milan-domani-ospiti-dell-udinese-dato-ultimi-precedenti-633871",
-   "summary": "Domani sera i rossoneri saranno ospitati nel BluEnergy Stadium dall’Udinese.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T21:36:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/09/09d67edd9dfdc06f0e7149ef6a9dad97-49876-oooz0000.jpeg",
-   "id": "035803e0e25a"
-  },
-  {
-   "title": "Udinese, Runjaic: \"Col Lecce punto più basso, ripartire con il Milan\"",
-   "link": "https://www.milannews.it/l-avversario/udinese-runjaic-lecce-punto-basso-ripartire-milan-633852",
-   "summary": "(ANSA) - UDINE, 24 OTT - \"In tre anni all'Udinese quella contro il Lecce è stata la nostra peggior partita. Abbiamo mollato, non deve più accadere\".",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T21:24:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ad/ada37b18f8cf99acbd5b37ba1ef33dbd-16578-oooz0000.jpeg",
-   "id": "3bb321d73a32"
-  },
-  {
-   "title": "Diddi spiega: “Se Amorim cambia idea spesso perde di credibilità e la squadra non lo segue più”",
-   "link": "https://www.milannews.it/news/diddi-spiega-se-amorim-cambia-idea-perde-credibilita-squadra-segue-piu-633870",
-   "summary": "Luca Diddi nel canale YouTube di Carlo Pellegatti ha parlato degli errori che sta commettendo secondo lui Ruben Amorim. Di seguito le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T21:12:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/38af6c177b279842bebb28d9fcb39122-35072-oooz0000.jpeg",
-   "id": "76bf93c87b8f"
-  },
-  {
-   "title": "Serie A, Lazio capolista da sola per una notte: la classifica aggiornata",
-   "link": "https://www.milannews.it/news/serie-a-classifica-aggiornata-633885",
-   "summary": "Al termine del match che ha chiuso il sabato di Serie A, Lazio-Parma, questa è la classifica aggiornata in attesa delle 5 gare di domani.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T21:00:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
-   "id": "bab75cb1b049"
-  },
-  {
-   "title": "Serie A, Gattuso non si ferma più: Lazio-Parma 2-1",
-   "link": "https://www.milannews.it/news/serie-a-lazio-parma-633884",
-   "summary": "Dopo Napoli e Roma che sono scese in campo alle 18:00, hanno chiuso la giornata di oggi la Lazio di Gattuso e il Parma di Gilardino in una sfida a tinte rossonere.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T20:48:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a1/a15817c8e52b5e53b52304e36fb47fee-01885-oooz0000.jpeg",
-   "id": "3e2f9a203031"
-  },
-  {
-   "title": "Cagliari, il portiere Caprile prende la cittadinanza albanese",
-   "link": "https://www.milannews.it/news/cagliari-portiere-caprile-prende-cittadinanza-albanese-633822",
-   "summary": "(ANSA) - CAGLIARI, 23 OTT - Il portiere del Cagliari Elia Caprile è diventato anche cittadino albanese. Il decreto è stato pubblicato oggi.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T20:36:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/28/285a17275367dd3d238ff77b3228b58b-00489-oooz0000.jpeg",
-   "id": "9c024a4affaa"
-  },
-  {
-   "title": "Allegri, il retroscena post Napoli-Roma: “L’anno scorso gli hanno messo la Champions in tasca, l’ho pagata col Milan”",
-   "link": "https://www.milannews.it/news/allegri-retroscena-post-napoli-roma-l-anno-messo-champions-tasca-l-ho-pagata-milan-633886",
-   "summary": "Nel post partita di Napoli-Roma, terminata 3-3 con polemiche dei padroni di casa per il terzo gol dei giallorossi, come rivela il Corriere dello Sport è stato protagonista Max Allegri che, dopo le interviste a Dazn e prima della ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T20:24:52+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d0/d06622dc145f9b6ef92975f402874888-66661-oooz0000.jpeg",
-   "id": "01aeac436b9b"
-  },
-  {
-   "title": "Diddi evidenzia: “Moreira 5 ruoli diversi, continui cambi modulo, Amorim non ha le idee chiare”",
-   "link": "https://www.milannews.it/news/diddi-evidenzia-moreira-5-ruoli-diversi-continui-cambi-modulo-amorim-idee-chiare-633869",
-   "summary": "Luca Diddi nel canale YouTube di Carlo Pellegatti ha parlato degli errori che sta commettendo secondo lui Ruben Amorim. Di seguito le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T20:12:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/04/041b1e022b8844224b24c03305f1eb83-52446-oooz0000.jpeg",
-   "id": "05ed0eb907d4"
-  },
-  {
-   "title": "Pellegatti non ci sta: “Impazzisco, Rabiot non doveva entrare a Bournemouth. È indispensabile per noi”",
-   "link": "https://www.milannews.it/news/pellegatti-sta-impazzisco-rabiot-doveva-entrare-bournemouth-indispensabile-noi-633876",
-   "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato la notizia che riguarda gli infortunati che domani non saranno convocati per la partita contro l’Udinese. Queste le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T20:00:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/70/70291f318f9d28faee9c6e9becaa9c9a-27963-oooz0000.jpeg",
-   "id": "0308fdbf1014"
-  },
-  {
-   "title": "Abodi: \"Il futuro della Figc? Io lascio le valutazioni a chi osserva, anche perché se soltanto provo a pensare c'è qualcuno che interpreta male\"",
-   "link": "https://www.milannews.it/news/figc-abodi-provo-pensare-interpreta-633843",
-   "summary": "(ANSA) - NAPOLI, 24 OTT - \"Il futuro della Figc? Io lascio le valutazioni a chi osserva, anche perché se soltanto provo a pensare c'è qualcuno che interpreta male, quindi mi oriento verso gli altri mille progetti che devo porta ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T19:49:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/35/358d6c5849a31ae3962393bb747bc214-34199-oooz0000.jpeg",
-   "id": "6ce91f8bc5d3"
-  },
-  {
-   "title": "Milan Femminile, Bakker: \"Soddisfatti per la vittoria. Felici per le 100 presenze di Mascarello e l'esordio di Bonanomi, se lo meritano\"",
-   "link": "https://www.milannews.it/milan-femminile/milan-femminile-bakker-soddisfatti-vittoria-felici-100-presenze-mascarello-esordio-bonanomi-meritano-633862",
-   "summary": "La Coach Suzanne Bakker e Sara Stokic hanno parlato al termine di Milan-Ternana Womne 3-0. Grande prova delle rossonere, per la soddisfazione dell'allenatrice.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T19:35:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/37/3717f3c435ca7424c2b7f0a6a4c112db-26197-oooz0000.jpeg",
-   "id": "4b1b163b088d"
-  },
-  {
-   "title": "Allegri sbotta nel post Napoli-Roma di DAZN: “A me buttano sempre fuori, ci sono altri che entrano e ribaltano tutto”",
-   "link": "https://www.milannews.it/news/allegri-sbotta-post-napoli-roma-dazn-a-buttano-fuori-entrano-ribaltano-tutto-633867",
-   "summary": "Nel post partita di Napoli-Roma 3-3, Max Allegri nell'intervista a DAZN si è lasciato andare con uno sfogo vista l'espulsione che ha rimediato nel finale della partita.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T19:24:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cb/cb9a9f45ee919c14338be09eee791709-59367-oooz0000.jpeg",
-   "id": "7f535b27b6d3"
-  },
-  {
-   "title": "Diddi sottolinea: “Amorim non è coerente con le sue idee, vedo tanta confusione”",
-   "link": "https://www.milannews.it/news/diddi-sottolinea-amorim-coerente-idee-vedo-tanta-confusione-633868",
-   "summary": "Nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato della partita di giovedì sera persa dai rossoneri analizzando diverse tematiche. Di seguito le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T19:12:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a08d3d46e5bf0bb957f94b19fb5db7f7-36837-oooz0000.jpeg",
-   "id": "8c923d7f98d6"
-  },
-  {
-   "title": "Milan sempre a segno nelle ultime sei trasferte in Friuli contro l’Udinese",
-   "link": "https://www.milannews.it/news/milan-segno-ultime-trasferte-friuli-l-udinese-633840",
-   "summary": "Domani sera alle 20.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T19:01:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/64/64f28eb193a2bf0207686077a5857b74-63746-oooz0000.jpeg",
-   "id": "acfabd17771b"
-  },
-  {
-   "title": "Pronostico Udinese-Milan, ultime tre partite in Friuli favorevoli ai rossoneri",
-   "link": "https://www.milannews.it/scommesse/pronostici/pronostico-udinese-milan-633379",
-   "summary": "Milan chiamato a dare continuità al suo cammino in campionato, dopo il successo contro l'Atalanta. Si va in trasferta contro un'Udinese in crisi d'identità e col tecnico Kosta Runjaic in bilico.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T18:45:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ba/ba49825aec82661807d4fdcf65e82b02-47398-oooz0000.jpeg",
-   "id": "1719e93283f2"
-  },
-  {
-   "title": "VIDEO - Quando Udinese-Milan lo decideva Ibrahimovic in rovesciata",
-   "link": "https://www.milannews.it/news/video-udinese-milan-decideva-ibrahimovic-rovesciata-633858",
-   "summary": "Ormai sei anni fa, era il primo novembre 2020, si giocava Udinese-Milan in Friuli. Era il Milan di Pioli che stava acquisendo certezze e che a fine anno sarebbe tornato in Champions.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T18:35:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/5f/5f9a6c7b0dbdc13d18f3c523ca233c8a-77378-oooz0000.jpeg",
-   "id": "767f18efe09a"
-  },
-  {
-   "title": "Serie A, pareggiano Napoli e Roma: la classifica aggiornata",
-   "link": "https://www.milannews.it/news/serie-a-pareggiano-napoli-roma-classifica-aggiornata-633866",
-   "summary": "Al termine di Napoli-Roma 3-3, così cambia la classifica di Serie A.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-24T18:24:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2a/2aeadb6482c3eae896bf0802f4c9abf4-19205-oooz0000.jpeg",
-   "id": "121a87f371b8"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 130,
-  "in_edizione": 25
+  "in_edizione": 27
  }
 }
