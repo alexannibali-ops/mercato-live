@@ -4,11 +4,12 @@
  "https://www.tuttonapoli.net/rss": {},
  "https://www.tuttojuve.com/rss": {},
  "https://www.football-italia.net/feed/": {
-  "etag": "W/\"ae408fcc26ac113541ee6fc40e51f4b5\"",
-  "modified": "Mon, 26 Oct 2026 03:53:03 GMT"
+  "etag": "W/\"cb4e8f4867853452082cc64647e2fd80\"",
+  "modified": "Mon, 26 Oct 2026 14:30:37 GMT"
  },
  "https://www.calciomercato.it/feed/": {
-  "etag": "W/\"05ff25f180264bf9448217b45cac8e10\"",
-  "modified": "Mon, 26 Oct 2026 06:19:26 GMT"
- }
+  "etag": "W/\"31b5b45a815ecaa21a38bd4eaee79f01\"",
+  "modified": "Mon, 26 Oct 2026 12:21:05 GMT"
+ },
+ "https://www.tuttomercatoweb.com/rss": {}
 }
