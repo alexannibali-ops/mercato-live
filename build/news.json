@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:58:06.574080+01:00",
+ "generated_at": "2026-10-31T06:21:09.199660+01:00",
  "articles": [
   {
    "title": "Atalanta, colpo di scena Rowe: l’inglese ha chiesto la cessione | CM",
@@ -11,9 +11,23 @@
    "published": "2026-10-30T17:10:53+00:00",
    "image": "",
    "id": "383c2f3a1619",
-   "age_minutes": 407,
+   "age_minutes": 730,
    "also": [],
-   "score": 9.622
+   "score": 8.793
+  },
+  {
+   "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 30 ottobre",
+   "link": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-30-ottobre-2289048",
+   "summary": "MILAN, PULISIC RINNOVA FINO AL 2031.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T00:00:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/38/38fd5a4828280a74c2c9e92c0f66cbd2-43103-oooz0000.jpeg",
+   "id": "1d5040aad3f2",
+   "age_minutes": 321,
+   "also": [],
+   "score": 8.466
   },
   {
    "title": "Clamoroso Icardi, arriva l’annuncio ufficiale su un suo ritorno in Italia",
@@ -25,9 +39,23 @@
    "published": "2026-10-30T20:15:37+00:00",
    "image": "",
    "id": "e539d43ffea8",
-   "age_minutes": 222,
+   "age_minutes": 545,
    "also": [],
-   "score": 8.301
+   "score": 7.219
+  },
+  {
+   "title": "Juventus, a gennaio serve anche un esterno sinistro: ecco tutti i nomi. Inter c’è un’idea Chiesa, che può diventare un’opzione anche per la Roma. Milan, punto rinnovi: dopo Pulisic ora Rabiot. Tresoldi il sogno per il futuro",
+   "link": "https://www.tuttomercatoweb.com/editoriale/juventus-gennaio-serve-esterno-sinistro-nomi-inter-c-e-un-idea-chiesa-un-opzione-roma-milan-punto-ri-2289080",
+   "summary": "Il momento non è certo dei migliori per la Juventus.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T05:15:31+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/60/60fd8bc0858cc4c1724816d783a3ce30-61018-oooz0000.jpeg",
+   "id": "c3e8dcf129a6",
+   "age_minutes": 5,
+   "also": [],
+   "score": 6.918
   },
   {
    "title": "Inter, doppio rebus e (sempre) 5 assenti: le scelte di Chivu per il Milan",
@@ -39,37 +67,9 @@
    "published": "2026-10-30T22:57:49+00:00",
    "image": "",
    "id": "e5a78a45211c",
-   "age_minutes": 60,
+   "age_minutes": 383,
    "also": [],
-   "score": 8.066
-  },
-  {
-   "title": "Cardinale conferma Amorim, promette rinforzi e rinnova il contratto a Pulisic",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cardinale-conferma-amorim-promette-rinforzi-rinnova-contratto-pulisic-2289085",
-   "summary": "Giornata piena di eventi in casa Milan alla vigilia del derby: il numero uno del club, Gerry Cardinale, ha rilasciato un'intervista parlando delle ambizioni del club e confermando la possibilità di investire nell'Al…",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:49:03+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/83/8318ae40664ad7cc513f20c2e66b1338-27692-oooz0000.jpeg",
-   "id": "65fbd2ce0519",
-   "age_minutes": 9,
-   "also": [],
-   "score": 7.898
-  },
-  {
-   "title": "Lecce, sirene di mercato per Tiago Gabriel: Roma in prima fila. Il prezzo è di 25 milioni",
-   "link": "https://www.tuttomercatoweb.com/serie-a/lecce-sirene-mercato-tiago-gabriel-roma-fila-prezzo-25-2289072",
-   "summary": "I rumors di mercato sul futuro Tiago Gabriel si preparano ad essere uno dei temi da seguire nei prossimi mesi.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T22:59:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/2e/2ec6ec58cdceae854a9d234f1352b392-70198-oooz0000.jpeg",
-   "id": "967ad342ba7f",
-   "age_minutes": 59,
-   "also": [],
-   "score": 7.623
+   "score": 6.7
   },
   {
    "title": "Ufficiale: Pulisic ha rinnovato con il Milan fino al giugno del 2031",
@@ -81,37 +81,23 @@
    "published": "2026-10-30T14:25:35+00:00",
    "image": "",
    "id": "fadb9a6a0a5c",
-   "age_minutes": 572,
+   "age_minutes": 895,
    "also": [],
-   "score": 7.15
+   "score": 6.498
   },
   {
-   "title": "Juventus, occasione Ødegaard: il capitano dell'Arsenal può partire, Bayern in corsa e bianconeri alla finestra",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-occasione-odegaard-capitano-arsenal-partire-bayern-corsa-bianconeri-finestra-798772",
-   "summary": "Il futuro di Martin Ødegaard potrebbe diventare uno dei temi più interessanti del prossimo calciomercato estivo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-30T23:45:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ea/ea09af8ddbf6a1a703a4bafbdf05e3a7-30476-oooz0000.jpeg",
-   "id": "5a22b27075e5",
-   "age_minutes": 13,
-   "also": [],
-   "score": 6.725
-  },
-  {
-   "title": "Nuovo infortunio in casa Milan, Amorim continua a perdere pezzi",
-   "link": "https://www.calciomercato.it/2026/10/30/nuovo-infortunio-in-casa-milan-amorim-continua-a-perdere-pezzi/",
-   "summary": "L'articolo Nuovo infortunio in casa Milan, Amorim continua a perdere pezzi proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
+   "title": "Cardinale conferma Amorim, promette rinforzi e rinnova il contratto a Pulisic",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cardinale-conferma-amorim-promette-rinforzi-rinnova-contratto-pulisic-2289085",
+   "summary": "Giornata piena di eventi in casa Milan alla vigilia del derby: il numero uno del club, Gerry Cardinale, ha rilasciato un'intervista parlando delle ambizioni del club e confermando la possibilità di investire nell'Al…",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-10-30T21:48:40+00:00",
-   "image": "",
-   "id": "cb8d05b183be",
-   "age_minutes": 129,
+   "published": "2026-10-30T23:49:03+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/83/8318ae40664ad7cc513f20c2e66b1338-27692-oooz0000.jpeg",
+   "id": "65fbd2ce0519",
+   "age_minutes": 332,
    "also": [],
-   "score": 6.718
+   "score": 6.426
   },
   {
    "title": "La Juve boccia uno degli ultimi acquisti, via in prestito a gennaio",
@@ -123,65 +109,9 @@
    "published": "2026-10-30T10:15:40+00:00",
    "image": "",
    "id": "7552ac585a35",
-   "age_minutes": 822,
+   "age_minutes": 1145,
    "also": [],
-   "score": 6.62
-  },
-  {
-   "title": "Roma, idea Lisandro Martinez: il centrale dello United può lasciare l'Inghilterra",
-   "link": "https://www.tuttomercatoweb.com/serie-a/roma-idea-lisandro-martinez-centrale-united-lasciare-inghilterra-2289074",
-   "summary": "La Roma comincia a guardarsi intorno in vista delle prossime sessioni di mercato.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:30:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a3/a3d58fd5059c8eb20a5f78cc4a67474f-34366-oooz0000.jpeg",
-   "id": "b69daf75731e",
-   "age_minutes": 28,
-   "also": [],
-   "score": 6.591
-  },
-  {
-   "title": "Icardi e l’Inter, un legame che non si è mai spezzato: \"Mi piacerebbe un finale diverso\"",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/icardi-l-inter-legame-spezzato-mi-piacerebbe-finale-diverso-2289083",
-   "summary": "Mauro Icardi ha ancora qualche sogno nel cassetto.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:38:37+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/49/49971779bb3aab2a2a49f00d01cde261-81076-oooz0000.jpeg",
-   "id": "042ab2dd43fc",
-   "age_minutes": 19,
-   "also": [],
-   "score": 6.239
-  },
-  {
-   "title": "Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM",
-   "link": "https://www.calciomercato.it/2026/10/30/roma-contatti-avviati-per-il-nuovo-esterno-dattacco-ci-sono-3-nomi-cm/",
-   "summary": "L'articolo Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-30T19:00:51+00:00",
-   "image": "",
-   "id": "69de24072ab6",
-   "age_minutes": 297,
-   "also": [],
-   "score": 6.004
-  },
-  {
-   "title": "Juventus, si complica la pista Aït-Nouri: il Manchester United entra in corsa per il terzino del City",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-complica-pista-ait-nouri-manchester-united-entra-corsa-terzino-city-798771",
-   "summary": "La Juventus continua a monitorare le opportunità offerte dal mercato internazionale, con particolare attenzione agli esterni difensivi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-30T23:15:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/19/1963e1d690a8f1b9b21ff22d9e998fcd-53257-oooz0000.jpeg",
-   "id": "e3108aa3b886",
-   "age_minutes": 42,
-   "also": [],
-   "score": 5.764
+   "score": 6.165
   },
   {
    "title": "Como e Milan sfidano mezza Premier: bisogna pagare la clausola",
@@ -193,121 +123,79 @@
    "published": "2026-10-29T17:32:22+00:00",
    "image": "",
    "id": "b102293b487b",
-   "age_minutes": 1825,
+   "age_minutes": 2148,
    "also": [],
-   "score": 5.686
+   "score": 5.58
   },
   {
-   "title": "Ufficiale Juventus: squadra in ritiro fino al Napoli",
-   "link": "https://www.calciomercato.it/2026/10/29/ufficiale-juventus-squadra-in-ritiro-fino-al-napoli/",
-   "summary": "L'articolo Ufficiale Juventus: squadra in ritiro fino al Napoli proviene da CalcioMercato.it .",
+   "title": "Nuovo infortunio in casa Milan, Amorim continua a perdere pezzi",
+   "link": "https://www.calciomercato.it/2026/10/30/nuovo-infortunio-in-casa-milan-amorim-continua-a-perdere-pezzi/",
+   "summary": "L'articolo Nuovo infortunio in casa Milan, Amorim continua a perdere pezzi proviene da CalcioMercato.it .",
    "source": "Calciomercato.it",
    "source_weight": 1.2,
    "scope": "generalista",
-   "published": "2026-10-29T16:39:18+00:00",
+   "published": "2026-10-30T21:48:40+00:00",
    "image": "",
-   "id": "728ce44ad533",
-   "age_minutes": 1878,
+   "id": "cb8d05b183be",
+   "age_minutes": 452,
    "also": [],
-   "score": 5.665
+   "score": 5.481
   },
   {
-   "title": "Dalla Juventus al Bologna, affare in arrivo a gennaio",
-   "link": "https://www.calciomercato.it/2026/10/29/dalla-juventus-al-bologna-affare-in-arrivo-a-gennaio/",
-   "summary": "L'articolo Dalla Juventus al Bologna, affare in arrivo a gennaio proviene da CalcioMercato.it .",
+   "title": "Juventus, occasione Ødegaard: il capitano dell'Arsenal può partire, Bayern in corsa e bianconeri alla finestra",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-occasione-odegaard-capitano-arsenal-partire-bayern-corsa-bianconeri-finestra-798772",
+   "summary": "Il futuro di Martin Ødegaard potrebbe diventare uno dei temi più interessanti del prossimo calciomercato estivo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-30T23:45:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ea/ea09af8ddbf6a1a703a4bafbdf05e3a7-30476-oooz0000.jpeg",
+   "id": "5a22b27075e5",
+   "age_minutes": 336,
+   "also": [],
+   "score": 5.262
+  },
+  {
+   "title": "Roma, idea Lisandro Martinez: il centrale dello United può lasciare l'Inghilterra",
+   "link": "https://www.tuttomercatoweb.com/serie-a/roma-idea-lisandro-martinez-centrale-united-lasciare-inghilterra-2289074",
+   "summary": "La Roma comincia a guardarsi intorno in vista delle prossime sessioni di mercato.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:30:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a3/a3d58fd5059c8eb20a5f78cc4a67474f-34366-oooz0000.jpeg",
+   "id": "b69daf75731e",
+   "age_minutes": 351,
+   "also": [],
+   "score": 5.159
+  },
+  {
+   "title": "Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM",
+   "link": "https://www.calciomercato.it/2026/10/30/roma-contatti-avviati-per-il-nuovo-esterno-dattacco-ci-sono-3-nomi-cm/",
+   "summary": "L'articolo Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM proviene da CalcioMercato.it .",
    "source": "Calciomercato.it",
    "source_weight": 1.2,
    "scope": "generalista",
-   "published": "2026-10-29T14:00:15+00:00",
+   "published": "2026-10-30T19:00:51+00:00",
    "image": "",
-   "id": "577791c9fff1",
-   "age_minutes": 2037,
+   "id": "69de24072ab6",
+   "age_minutes": 620,
    "also": [],
-   "score": 5.611
+   "score": 5.033
   },
   {
-   "title": "Decreto Crescita, 7 stipendi ancora agevolati: quanto costano Lobotka, Anguissa e gli altri",
-   "link": "https://www.tuttonapoli.net/notizie/napoli-decreto-crescita-stipendi-lobotka-anguissa-beukema-rrahmani-660589",
-   "summary": "Il rinnovo di Christian Pulisic con il Milan fino al 2031 riporta l'attenzione sui vantaggi fiscali del Decreto Crescita, un meccanismo che continua a incidere sui costi degli stipendi di diversi club di Serie A…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T22:20:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c607d466cb4c908e74f44bb7c4f24894-05885-oooz0000.jpeg",
-   "id": "aa948233d87a",
-   "age_minutes": 97,
+   "title": "Icardi e l’Inter, un legame che non si è mai spezzato: \"Mi piacerebbe un finale diverso\"",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/icardi-l-inter-legame-spezzato-mi-piacerebbe-finale-diverso-2289083",
+   "summary": "Mauro Icardi ha ancora qualche sogno nel cassetto.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:38:37+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/49/49971779bb3aab2a2a49f00d01cde261-81076-oooz0000.jpeg",
+   "id": "042ab2dd43fc",
+   "age_minutes": 342,
    "also": [],
-   "score": 5.475
-  },
-  {
-   "title": "Nino D'Angelo: “Con Maradona facevamo a gara a chi era stato più povero!\"",
-   "link": "https://www.tuttonapoli.net/dai-social/nino-angelo-con-maradona-gara-povero-660593",
-   "summary": "Nel giorno del compleanno di Diego Armando Maradona, anche Nino D'Angelo ha voluto rendere omaggio al fuoriclasse argentino, intervenendo ai microfoni di Radio Kiss Kiss Napoli, nel corso di \"Radio Goal\".",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T23:00:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2cf8e8dacf0d92d7434be6f2c5528350-26833-oooz0000.jpeg",
-   "id": "47b1538b22a6",
-   "age_minutes": 57,
-   "also": [],
-   "score": 5.283
-  },
-  {
-   "title": "Pio Esposito, un gol nel derby per essere 'quasi' come Ronaldo e Martins",
-   "link": "https://www.fcinternews.it/news/pio-esposito-gol-derby-ronaldo-martins-1022034",
-   "summary": "Francesco Pio Esposito ha tanta voglia di mettere la sua firma nel derby contro il Milan.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-30T21:34:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b28ad8885ec96876c1f3335d6828502b-64517-1355o311o2231o1187z13dc.jpeg",
-   "id": "8f173393f1c8",
-   "age_minutes": 143,
-   "also": [],
-   "score": 5.249
-  },
-  {
-   "title": "Leao si sblocca: primo gol del portoghese con la maglia del Galatasaray su calcio di rigore",
-   "link": "https://www.milannews.it/gli-ex/leao-sblocca-gol-portoghese-maglia-galatasaray-calcio-rigore-634595",
-   "summary": "Dopo diversi mesi ed un ambientamento tutt'altro che semplice, l'ex numero 10 rossoneri Rafa Leao ha trovato il primo gol ufficiale con la maglia del Galatasaray.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-30T21:30:25+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01d11b92be8d3e40d366af3d330113a2-36026-oooz0000.jpeg",
-   "id": "e1954c9132e9",
-   "age_minutes": 147,
-   "also": [],
-   "score": 5.232
-  },
-  {
-   "title": "Nuovo centro sportivo, Alvino svela: “Atto dal notaio la prossima settimana”",
-   "link": "https://www.tuttonapoli.net/le-interviste/alvino-napoli-lobotka-centro-sportivo-stadio-aponte-de-laurentiis-660590",
-   "summary": "Il giornalista Carlo Alvino, intervenuto nel corso di \"Terzo Tempo Calcio Napoli\", trasmissione in onda su Televomero, ha analizzato le strategie del club azzurro, soffermandosi sull'assenza di Stanislav Lobotka e sul…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T22:30:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3053329b7bdb03f58d745ab9f4d227e-21434-oooz0000.jpeg",
-   "id": "9b227e4d01bf",
-   "age_minutes": 87,
-   "also": [],
-   "score": 5.127
-  },
-  {
-   "title": "GdS - Calhanoglu, penultimo derby nerazzurro? Giocatore e club valutano",
-   "link": "https://www.fcinternews.it/in-primo-piano/i-gds-i-calhanoglu-penultimo-derby-nerazzurro-giocatore-club-valutano-1022051",
-   "summary": "La sfida contro il Milan non è mai banale per Hakan Calhanoglu, specie ricordando come maturò l'addio al Milan da parte del turco che decise di lasciare a zero i rossoneri e accettare la proposta dell'Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-30T21:05:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ab/abd2ff21ca1f5846486e3f609d8a4731-91670-626o84o1348o806z0b30.jpeg",
-   "id": "6ee739c469fa",
-   "age_minutes": 172,
-   "also": [],
-   "score": 5.116
+   "score": 4.789
   },
   {
    "title": "Niente recupero per Dybala contro l’Udinese, Gasperini deve farne ancora a meno",
@@ -319,23 +207,23 @@
    "published": "2026-10-30T13:47:58+00:00",
    "image": "",
    "id": "14cb25833e07",
-   "age_minutes": 610,
+   "age_minutes": 933,
    "also": [],
-   "score": 5.057
+   "score": 4.439
   },
   {
-   "title": "Italiano: “Maradona il mio calciatore preferito! Ho due sue foto in ufficio, non devono mai mancare”",
-   "link": "https://www.tuttonapoli.net/le-interviste/vincenzo-italiano-maradona-napoli-fotografie-ufficio-660587",
-   "summary": "L'allenatore del Besiktas Vincenzo Italiano, intervenuto ai microfoni di Sky Sport, ha raccontato la sua profonda ammirazione per Diego Armando Maradona, ricordando le emozioni vissute da ragazzo davanti alle imprese…",
-   "source": "TuttoNapoli",
+   "title": "Juventus, si complica la pista Aït-Nouri: il Manchester United entra in corsa per il terzino del City",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-complica-pista-ait-nouri-manchester-united-entra-corsa-terzino-city-798771",
+   "summary": "La Juventus continua a monitorare le opportunità offerte dal mercato internazionale, con particolare attenzione agli esterni difensivi.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T22:00:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2a1b165aecebe36ebec96ff679439d7c-98017-oooz0000.jpeg",
-   "id": "494c86bab879",
-   "age_minutes": 117,
+   "scope": "Juventus",
+   "published": "2026-10-30T23:15:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/19/1963e1d690a8f1b9b21ff22d9e998fcd-53257-oooz0000.jpeg",
+   "id": "e3108aa3b886",
+   "age_minutes": 365,
    "also": [],
-   "score": 4.974
+   "score": 4.361
   },
   {
    "title": "Milan, torna Ibrahimovic: tutti i dettagli",
@@ -347,9 +235,9 @@
    "published": "2026-10-30T12:35:03+00:00",
    "image": "",
    "id": "df418c82eadd",
-   "age_minutes": 683,
+   "age_minutes": 1006,
    "also": [],
-   "score": 4.892
+   "score": 4.336
   },
   {
    "title": "Juventus, Spalletti in bilico: 4 traghettatori se non torna Conte",
@@ -361,51 +249,23 @@
    "published": "2026-10-30T12:33:43+00:00",
    "image": "",
    "id": "2786d7aec84c",
-   "age_minutes": 684,
+   "age_minutes": 1007,
    "also": [],
-   "score": 4.889
+   "score": 4.334
   },
   {
-   "title": "Primo gol in B per Topalovic: \"Sono molto felice di essere alla Carrarese\"",
-   "link": "https://www.fcinternews.it/news/gol-b-topalovic-sono-felice-carrarese-1022041",
-   "summary": "Battesimo del gol in Serie B per Luka Topalovic: il centrocampista di scuola Inter, girato in estate in prestito alla Carrarese dopo aver anche fatto qualche apparizione nella prima squadra nerazzurra, ha aperto le…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-30T19:39:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/acf811ef287d28a3bb2bb2df2dbb2303-74371-514o0o1190o675z094b.jpeg",
-   "id": "d55a20c8abeb",
-   "age_minutes": 258,
-   "also": [],
-   "score": 4.752
-  },
-  {
-   "title": "Milan, Pulisic a SM: \"Il derby con l'Inter la migliore partita del mondo\"",
-   "link": "https://www.fcinternews.it/l-avversario/milan-pulisic-i-sm-i-il-derby-inter-migliore-partita-mondo-1022043",
-   "summary": "Dopo l'ufficialità del suo rinnovo fino al 2031 col Milan, Christian Pulisic ha parlato anche ai microfoni di Sport Mediaset.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-10-30T19:26:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2c/2c10a9a432b84fa25a58fd6235e39fa6-45002-626o120o1349o843z0b7a.jpeg",
-   "id": "0666ca4b0a48",
-   "age_minutes": 272,
-   "also": [],
-   "score": 4.7
-  },
-  {
-   "title": "Carnevale ricorda Maradona: “Senza di lui non avremmo vinto nulla. Aveva sempre una parola per tutti”",
-   "link": "https://www.tuttonapoli.net/le-interviste/carnevale-ricorda-maradona-senza-vinto-nulla-parola-tutti-660577",
-   "summary": "Nel giorno del compleanno di Diego Armando Maradona, l'ex attaccante del Napoli Andrea Carnevale è intervenuto ai microfoni di Radio Kiss Kiss Napoli, nel corso di \"Radio Goal\", per ricordare il fuoriclasse argentino e…",
+   "title": "Decreto Crescita, 7 stipendi ancora agevolati: quanto costano Lobotka, Anguissa e gli altri",
+   "link": "https://www.tuttonapoli.net/notizie/napoli-decreto-crescita-stipendi-lobotka-anguissa-beukema-rrahmani-660589",
+   "summary": "Il rinnovo di Christian Pulisic con il Milan fino al 2031 riporta l'attenzione sui vantaggi fiscali del Decreto Crescita, un meccanismo che continua a incidere sui costi degli stipendi di diversi club di Serie A…",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-10-30T20:50:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/99/991acf962c406124665cb0c65e5d53c1-15958-oooz0000.jpeg",
-   "id": "087b32f0b88e",
-   "age_minutes": 187,
+   "published": "2026-10-30T22:20:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c607d466cb4c908e74f44bb7c4f24894-05885-oooz0000.jpeg",
+   "id": "aa948233d87a",
+   "age_minutes": 420,
    "also": [],
-   "score": 4.65
+   "score": 4.179
   },
   {
    "title": "Juve, assalto a un nuovo laterale mancino: ci sono 3 nomi",
@@ -417,9 +277,37 @@
    "published": "2026-10-30T08:42:10+00:00",
    "image": "",
    "id": "287804ef5a93",
-   "age_minutes": 915,
+   "age_minutes": 1238,
    "also": [],
-   "score": 4.466
+   "score": 4.068
+  },
+  {
+   "title": "Pio Esposito, un gol nel derby per essere 'quasi' come Ronaldo e Martins",
+   "link": "https://www.fcinternews.it/news/pio-esposito-gol-derby-ronaldo-martins-1022034",
+   "summary": "Francesco Pio Esposito ha tanta voglia di mettere la sua firma nel derby contro il Milan.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-30T21:34:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b28ad8885ec96876c1f3335d6828502b-64517-1355o311o2231o1187z13dc.jpeg",
+   "id": "8f173393f1c8",
+   "age_minutes": 467,
+   "also": [],
+   "score": 4.038
+  },
+  {
+   "title": "Leao si sblocca: primo gol del portoghese con la maglia del Galatasaray su calcio di rigore",
+   "link": "https://www.milannews.it/gli-ex/leao-sblocca-gol-portoghese-maglia-galatasaray-calcio-rigore-634595",
+   "summary": "Dopo diversi mesi ed un ambientamento tutt'altro che semplice, l'ex numero 10 rossoneri Rafa Leao ha trovato il primo gol ufficiale con la maglia del Galatasaray.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-30T21:30:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01d11b92be8d3e40d366af3d330113a2-36026-oooz0000.jpeg",
+   "id": "e1954c9132e9",
+   "age_minutes": 470,
+   "also": [],
+   "score": 4.027
   },
   {
    "title": "Simone Inzaghi verso la Juventus, il nuovo progetto partirà nel 2027",
@@ -431,9 +319,23 @@
    "published": "2026-10-30T07:55:06+00:00",
    "image": "",
    "id": "d9d339d87fac",
-   "age_minutes": 963,
+   "age_minutes": 1286,
    "also": [],
-   "score": 4.396
+   "score": 4.024
+  },
+  {
+   "title": "GdS - Calhanoglu, penultimo derby nerazzurro? Giocatore e club valutano",
+   "link": "https://www.fcinternews.it/in-primo-piano/i-gds-i-calhanoglu-penultimo-derby-nerazzurro-giocatore-club-valutano-1022051",
+   "summary": "La sfida contro il Milan non è mai banale per Hakan Calhanoglu, specie ricordando come maturò l'addio al Milan da parte del turco che decise di lasciare a zero i rossoneri e accettare la proposta dell'Inter.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-30T21:05:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ab/abd2ff21ca1f5846486e3f609d8a4731-91670-626o84o1348o806z0b30.jpeg",
+   "id": "6ee739c469fa",
+   "age_minutes": 495,
+   "also": [],
+   "score": 3.954
   },
   {
    "title": "Infortuni Milan, ecco chi recupera per il derby",
@@ -445,9 +347,79 @@
    "published": "2026-10-30T06:22:37+00:00",
    "image": "",
    "id": "7e4a41f8cfaa",
-   "age_minutes": 1055,
+   "age_minutes": 1378,
    "also": [],
-   "score": 4.271
+   "score": 3.946
+  },
+  {
+   "title": "Nino D'Angelo: “Con Maradona facevamo a gara a chi era stato più povero!\"",
+   "link": "https://www.tuttonapoli.net/dai-social/nino-angelo-con-maradona-gara-povero-660593",
+   "summary": "Nel giorno del compleanno di Diego Armando Maradona, anche Nino D'Angelo ha voluto rendere omaggio al fuoriclasse argentino, intervenendo ai microfoni di Radio Kiss Kiss Napoli, nel corso di \"Radio Goal\".",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-30T23:00:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2cf8e8dacf0d92d7434be6f2c5528350-26833-oooz0000.jpeg",
+   "id": "47b1538b22a6",
+   "age_minutes": 380,
+   "also": [],
+   "score": 3.91
+  },
+  {
+   "title": "Nuovo centro sportivo, Alvino svela: “Atto dal notaio la prossima settimana”",
+   "link": "https://www.tuttonapoli.net/le-interviste/alvino-napoli-lobotka-centro-sportivo-stadio-aponte-de-laurentiis-660590",
+   "summary": "Il giornalista Carlo Alvino, intervenuto nel corso di \"Terzo Tempo Calcio Napoli\", trasmissione in onda su Televomero, ha analizzato le strategie del club azzurro, soffermandosi sull'assenza di Stanislav Lobotka e sul…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-30T22:30:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3053329b7bdb03f58d745ab9f4d227e-21434-oooz0000.jpeg",
+   "id": "9b227e4d01bf",
+   "age_minutes": 410,
+   "also": [],
+   "score": 3.812
+  },
+  {
+   "title": "Primo gol in B per Topalovic: \"Sono molto felice di essere alla Carrarese\"",
+   "link": "https://www.fcinternews.it/news/gol-b-topalovic-sono-felice-carrarese-1022041",
+   "summary": "Battesimo del gol in Serie B per Luka Topalovic: il centrocampista di scuola Inter, girato in estate in prestito alla Carrarese dopo aver anche fatto qualche apparizione nella prima squadra nerazzurra, ha aperto le…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-30T19:39:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/acf811ef287d28a3bb2bb2df2dbb2303-74371-514o0o1190o675z094b.jpeg",
+   "id": "d55a20c8abeb",
+   "age_minutes": 581,
+   "also": [],
+   "score": 3.726
+  },
+  {
+   "title": "Italian e l’idolo Maradona: “Ho due sue foto in ufficio, non devono mai mancare”",
+   "link": "https://www.tuttonapoli.net/le-interviste/vincenzo-italiano-maradona-napoli-fotografie-ufficio-660587",
+   "summary": "L'allenatore del Besiktas Vincenzo Italiano, intervenuto ai microfoni di Sky Sport, ha raccontato la sua profonda ammirazione per Diego Armando Maradona, ricordando le emozioni vissute da ragazzo davanti alle imprese…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-30T22:00:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2a1b165aecebe36ebec96ff679439d7c-98017-oooz0000.jpeg",
+   "id": "494c86bab879",
+   "age_minutes": 440,
+   "also": [],
+   "score": 3.716
+  },
+  {
+   "title": "Milan, Pulisic a SM: \"Il derby con l'Inter la migliore partita del mondo\"",
+   "link": "https://www.fcinternews.it/l-avversario/milan-pulisic-i-sm-i-il-derby-inter-migliore-partita-mondo-1022043",
+   "summary": "Dopo l'ufficialità del suo rinnovo fino al 2031 col Milan, Christian Pulisic ha parlato anche ai microfoni di Sport Mediaset.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-10-30T19:26:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2c/2c10a9a432b84fa25a58fd6235e39fa6-45002-626o120o1349o843z0b7a.jpeg",
+   "id": "0666ca4b0a48",
+   "age_minutes": 595,
+   "also": [],
+   "score": 3.694
   },
   {
    "title": "Infortunio Lobotka, tegola Napoli: i tempi di recupero",
@@ -459,9 +431,9 @@
    "published": "2026-10-29T21:22:59+00:00",
    "image": "",
    "id": "ecbd22e0212d",
-   "age_minutes": 1595,
+   "age_minutes": 1918,
    "also": [],
-   "score": 3.8
+   "score": 3.651
   },
   {
    "title": "Carnevali striglia la Juve: 10 giorni di fuoco per Spalletti | CM",
@@ -473,12 +445,92 @@
    "published": "2026-10-29T17:21:50+00:00",
    "image": "",
    "id": "4df66b3f32a7",
-   "age_minutes": 1836,
+   "age_minutes": 2159,
    "also": [],
-   "score": 3.682
+   "score": 3.577
+  },
+  {
+   "title": "Marotta: Inter and Milan need new stadium to fill ‘big gap’ with European rivals",
+   "link": "https://football-italia.net/marotta-inter-milan-new-stadium-gap-rivals/",
+   "summary": "Inter President Beppe Marotta says the new San Siro will be an asset and a...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-10-30T09:37:56+00:00",
+   "image": "",
+   "id": "7749db4f355b",
+   "age_minutes": 1183,
+   "also": [],
+   "score": 2.474
   }
  ],
  "raw": [
+  {
+   "title": "Bordocampista Dazn: “Allegri ha trovato la svolta offensiva, la Juve rischia di crollare\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/secchi-napoli-juventus-allegri-champions-lazio-roma-como-660565",
+   "summary": "Il bordocampista di DAZN Nicola Secchi, intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania, ha analizzato il momento degli azz ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-31T05:00:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/45/455e7666eecc47cf752742599f15a241-34312-oooz0000.jpeg",
+   "id": "6ca6a4fd36b2"
+  },
+  {
+   "title": "Il Napoli a Rizzetta? Forgione: \"Attenzione, servono investimenti maggiori rispetto al basket\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-rizzetta-forgione-attenzione-servono-investimenti-maggiori-basket-660564",
+   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda dalle 7 su sito, app smartphone e smartTv e Dab Campania: \"È certamente una partita diver ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-31T04:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/88/880fbe6f4f21639c16a303f78fda7fc5-89419-oooz0000.jpeg",
+   "id": "ea20c4d16d92"
+  },
+  {
+   "title": "Meret-Milinkovic, Rampulla: \"Il Napoli ha due titolari, ma Allegri deve fare una cosa\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/meret-milinkovic-rampulla-il-napoli-titolari-allegri-cosa-660547",
+   "summary": "Michelangelo Rampulla, ex portiere, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania: \"Credo che soprattutto il Napoli f ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-31T03:00:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7a/7a64a2080533006f0017fcd493e954dc-92323-oooz0000.jpeg",
+   "id": "c0ea671c4a03"
+  },
+  {
+   "title": "Da Torino: \"Spalletti rischia già col Napoli. C'è un nome per il sostituto...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/juventus-napoli-allegri-spalletti-torino-660526",
+   "summary": "A due giorni da Juve-Napoli, Graziano Carugo Campi, giornalista che segue le vicende di casa Juventus, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live tutto il giorno su sito, app smartphone e sm ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-31T02:00:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/60/60f6c45415173f94c53fcaa525eb49b0-97938-oooz0000.jpeg",
+   "id": "a2133b0e9b9e"
+  },
+  {
+   "title": "Esposito: \"C'è un giocatore della Juve che vedrei bene a Napoli\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/esposito-c-giocatore-juve-vedrei-napoli-660523",
+   "summary": "Carmine Esposito, ex giocatore, oggi allenatore, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-31T01:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/36/36eb6c283480e33e7e24d809cb223fdd-82579-oooz0000.jpeg",
+   "id": "5ccfd5bdc396"
+  },
+  {
+   "title": "Varela-Napoli, Giuliani: \"Magari! Lucca non c'è, serve vero sostituto di Hojlund\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/giuliani-varela-magari-lucca-e-serve-vero-sostituto-hojlund-660524",
+   "summary": "Varela accostato al Napoli. Obiettivo concreto per gennaio per il club azzurro.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-10-31T00:00:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/76/76cf51769cec175021772eba97473a6b-88098-oooz0000.jpeg",
+   "id": "feaf225095b5"
+  },
   {
    "title": "Radio Tutto Napoli, il palinsesto di oggi: trasmissioni live dalle 10",
    "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-partiranno-10-647875",
@@ -500,9 +552,9 @@
    "published": "2026-10-30T23:00:55+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2c/2cf8e8dacf0d92d7434be6f2c5528350-26833-oooz0000.jpeg",
    "id": "47b1538b22a6",
-   "age_minutes": 57,
+   "age_minutes": 380,
    "also": [],
-   "score": 5.283
+   "score": 3.91
   },
   {
    "title": "Di Fusco: “Meret tecnicamente migliore di Milinkovic! Napoli in ripresa, ma subisce troppi gol”",
@@ -536,9 +588,9 @@
    "published": "2026-10-30T22:30:54+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d3053329b7bdb03f58d745ab9f4d227e-21434-oooz0000.jpeg",
    "id": "9b227e4d01bf",
-   "age_minutes": 87,
+   "age_minutes": 410,
    "also": [],
-   "score": 5.127
+   "score": 3.812
   },
   {
    "title": "Decreto Crescita, 7 stipendi ancora agevolati: quanto costano Lobotka, Anguissa e gli altri",
@@ -550,9 +602,9 @@
    "published": "2026-10-30T22:20:39+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c607d466cb4c908e74f44bb7c4f24894-05885-oooz0000.jpeg",
    "id": "aa948233d87a",
-   "age_minutes": 97,
+   "age_minutes": 420,
    "also": [],
-   "score": 5.475
+   "score": 4.179
   },
   {
    "title": "Juventus-Napoli, Barillà avverte Spalletti: “In caso di crollo può cambiare tutto”",
@@ -566,7 +618,7 @@
    "id": "bca96e29db44"
   },
   {
-   "title": "Italiano: “Maradona il mio calciatore preferito! Ho due sue foto in ufficio, non devono mai mancare”",
+   "title": "Italian e l’idolo Maradona: “Ho due sue foto in ufficio, non devono mai mancare”",
    "link": "https://www.tuttonapoli.net/le-interviste/vincenzo-italiano-maradona-napoli-fotografie-ufficio-660587",
    "summary": "L'allenatore del Besiktas Vincenzo Italiano, intervenuto ai microfoni di Sky Sport, ha raccontato la sua profonda ammirazione per Diego Armando Maradona, ricordando le emozioni vissute da ragazzo davanti alle imprese…",
    "source": "TuttoNapoli",
@@ -575,9 +627,9 @@
    "published": "2026-10-30T22:00:18+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/2a/2a1b165aecebe36ebec96ff679439d7c-98017-oooz0000.jpeg",
    "id": "494c86bab879",
-   "age_minutes": 117,
+   "age_minutes": 440,
    "also": [],
-   "score": 4.974
+   "score": 3.716
   },
   {
    "title": "Eurorivali, il Bodo/Glimt vince lo scontro diretto col Viking per il titolo! 5 gol e due allenatori espulsi",
@@ -646,75 +698,6 @@
    "id": "62a4fa189b68"
   },
   {
-   "title": "Carnevale ricorda Maradona: “Senza di lui non avremmo vinto nulla. Aveva sempre una parola per tutti”",
-   "link": "https://www.tuttonapoli.net/le-interviste/carnevale-ricorda-maradona-senza-vinto-nulla-parola-tutti-660577",
-   "summary": "Nel giorno del compleanno di Diego Armando Maradona, l'ex attaccante del Napoli Andrea Carnevale è intervenuto ai microfoni di Radio Kiss Kiss Napoli, nel corso di \"Radio Goal\", per ricordare il fuoriclasse argentino e…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T20:50:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/99/991acf962c406124665cb0c65e5d53c1-15958-oooz0000.jpeg",
-   "id": "087b32f0b88e",
-   "age_minutes": 187,
-   "also": [],
-   "score": 4.65
-  },
-  {
-   "title": "Napoli, dolci ai poliziotti durante lo sciopero: il gesto e le parole di due manifestanti",
-   "link": "https://www.tuttonapoli.net/napoli-citta/napoli-sciopero-generale-manifestanti-dolci-poliziotti-660580",
-   "summary": "Un gesto di solidarietà nei confronti delle forze dell'ordine durante lo sciopero generale del 30 ottobre a Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T20:40:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1c/1cb51770f8a745761690005843364922-18826-oooz0000.jpeg",
-   "id": "c29c7a82e8a8"
-  },
-  {
-   "title": "Juve-Napoli, Sabatini: “Nella squadra dei sogni di Allegri c'è KDB regista! Bianconeri pieni di paura\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/sabatini-juventus-napoli-allegri-de-bruyne-regista-anguissa-mctominay-660578",
-   "summary": "Il giornalista Sandro Sabatini, intervenuto nel corso di \"Siamo Tutti Allenatori\", trasmissione in onda su Radio Marte, ha analizzato la sfida tra Juventus e Napoli, soffermandosi sul momento delle due squadre e sulle scelte tattiche di Mas ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T20:30:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a4/a43632cff8ebcccf3aea0f7e06753134-41603-oooz0000.jpeg",
-   "id": "2805148063ef"
-  },
-  {
-   "title": "Maradona Jr: “Devo ringraziare Ferlaino due volte, senza di lui non sarei qui”",
-   "link": "https://www.tuttonapoli.net/le-interviste/maradona-jr-devo-ringraziare-ferlaino-volte-qui-660575",
-   "summary": "Nel giorno del compleanno di Diego Armando Maradona, suo figlio Diego Armando Maradona Junior è intervenuto ai microfoni di Radio Kiss Kiss Napoli, nel corso di \"Radio Goal\", rivolgendo un ringraziamento speciale all'ex president ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T20:20:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a4/a47a692dd98bc5b3f91077e850deeec6-91967-oooz0000.jpeg",
-   "id": "2d733c98b953"
-  },
-  {
-   "title": "Juventus, Spalletti a rischio esonero: numeri da incubo dopo un anno",
-   "link": "https://www.tuttonapoli.net/serie-a/juventus-spalletti-esonero-numeri-un-anno-napoli-660579",
-   "summary": "Luciano Spalletti si gioca il futuro sulla panchina della Juventus nella sfida contro il Napoli. A un anno dal suo arrivo a Torino, avvenuto il 30 ottobre 2025 al posto dell'esonerato Igor Tudor, il bilancio del tecnico toscano non convince.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T20:10:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a66c5d66aaa0aab10cc14dfd81076e6-86701-oooz0000.jpeg",
-   "id": "059e5a082578"
-  },
-  {
-   "title": "Juve-Napoli, Mauro: \"Rischia di essere una tragedia sportiva! Spalletti e Allegri in grande difficoltà”",
-   "link": "https://www.tuttonapoli.net/le-interviste/massimo-mauro-juventus-napoli-tragedia-sportiva-spalletti-allegri-660572",
-   "summary": "L'ex calciatore di Napoli e Juventus Massimo Mauro, intervistato dalla Gazzetta dello Sport, ha analizzato il difficile momento delle due squadre in vista dello scontro diretto di domenica.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-10-30T20:00:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/76/7675de0b60af44913a47b9a498cc5ef6-81135-oooz0000.jpeg",
-   "id": "809f34bc0153"
-  },
-  {
    "title": "Inter, doppio rebus e (sempre) 5 assenti: le scelte di Chivu per il Milan",
    "link": "https://www.calciomercato.it/2026/10/30/824264/",
    "summary": "L'articolo Inter, doppio rebus e (sempre) 5 assenti: le scelte di Chivu per il Milan proviene da CalcioMercato.it .",
@@ -724,9 +707,9 @@
    "published": "2026-10-30T22:57:49+00:00",
    "image": "",
    "id": "e5a78a45211c",
-   "age_minutes": 60,
+   "age_minutes": 383,
    "also": [],
-   "score": 8.066
+   "score": 6.7
   },
   {
    "title": "Nuovo infortunio in casa Milan, Amorim continua a perdere pezzi",
@@ -738,9 +721,9 @@
    "published": "2026-10-30T21:48:40+00:00",
    "image": "",
    "id": "cb8d05b183be",
-   "age_minutes": 129,
+   "age_minutes": 452,
    "also": [],
-   "score": 6.718
+   "score": 5.481
   },
   {
    "title": "Clamoroso Icardi, arriva l’annuncio ufficiale su un suo ritorno in Italia",
@@ -752,9 +735,9 @@
    "published": "2026-10-30T20:15:37+00:00",
    "image": "",
    "id": "e539d43ffea8",
-   "age_minutes": 222,
+   "age_minutes": 545,
    "also": [],
-   "score": 8.301
+   "score": 7.219
   },
   {
    "title": "Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM",
@@ -766,9 +749,9 @@
    "published": "2026-10-30T19:00:51+00:00",
    "image": "",
    "id": "69de24072ab6",
-   "age_minutes": 297,
+   "age_minutes": 620,
    "also": [],
-   "score": 6.004
+   "score": 5.033
   },
   {
    "title": "Atalanta, colpo di scena Rowe: l’inglese ha chiesto la cessione | CM",
@@ -780,9 +763,9 @@
    "published": "2026-10-30T17:10:53+00:00",
    "image": "",
    "id": "383c2f3a1619",
-   "age_minutes": 407,
+   "age_minutes": 730,
    "also": [],
-   "score": 9.622
+   "score": 8.793
   },
   {
    "title": "Ufficiale: Pulisic ha rinnovato con il Milan fino al giugno del 2031",
@@ -794,9 +777,9 @@
    "published": "2026-10-30T14:25:35+00:00",
    "image": "",
    "id": "fadb9a6a0a5c",
-   "age_minutes": 572,
+   "age_minutes": 895,
    "also": [],
-   "score": 7.15
+   "score": 6.498
   },
   {
    "title": "Niente recupero per Dybala contro l’Udinese, Gasperini deve farne ancora a meno",
@@ -808,9 +791,9 @@
    "published": "2026-10-30T13:47:58+00:00",
    "image": "",
    "id": "14cb25833e07",
-   "age_minutes": 610,
+   "age_minutes": 933,
    "also": [],
-   "score": 5.057
+   "score": 4.439
   },
   {
    "title": "Milan, torna Ibrahimovic: tutti i dettagli",
@@ -822,9 +805,9 @@
    "published": "2026-10-30T12:35:03+00:00",
    "image": "",
    "id": "df418c82eadd",
-   "age_minutes": 683,
+   "age_minutes": 1006,
    "also": [],
-   "score": 4.892
+   "score": 4.336
   },
   {
    "title": "Juventus, Spalletti in bilico: 4 traghettatori se non torna Conte",
@@ -836,9 +819,9 @@
    "published": "2026-10-30T12:33:43+00:00",
    "image": "",
    "id": "2786d7aec84c",
-   "age_minutes": 684,
+   "age_minutes": 1007,
    "also": [],
-   "score": 4.889
+   "score": 4.334
   },
   {
    "title": "La Juve boccia uno degli ultimi acquisti, via in prestito a gennaio",
@@ -850,9 +833,9 @@
    "published": "2026-10-30T10:15:40+00:00",
    "image": "",
    "id": "7552ac585a35",
-   "age_minutes": 822,
+   "age_minutes": 1145,
    "also": [],
-   "score": 6.62
+   "score": 6.165
   },
   {
    "title": "Juve, assalto a un nuovo laterale mancino: ci sono 3 nomi",
@@ -864,9 +847,9 @@
    "published": "2026-10-30T08:42:10+00:00",
    "image": "",
    "id": "287804ef5a93",
-   "age_minutes": 915,
+   "age_minutes": 1238,
    "also": [],
-   "score": 4.466
+   "score": 4.068
   },
   {
    "title": "Simone Inzaghi verso la Juventus, il nuovo progetto partirà nel 2027",
@@ -878,9 +861,9 @@
    "published": "2026-10-30T07:55:06+00:00",
    "image": "",
    "id": "d9d339d87fac",
-   "age_minutes": 963,
+   "age_minutes": 1286,
    "also": [],
-   "score": 4.396
+   "score": 4.024
   },
   {
    "title": "Infortuni Milan, ecco chi recupera per il derby",
@@ -892,9 +875,9 @@
    "published": "2026-10-30T06:22:37+00:00",
    "image": "",
    "id": "7e4a41f8cfaa",
-   "age_minutes": 1055,
+   "age_minutes": 1378,
    "also": [],
-   "score": 4.271
+   "score": 3.946
   },
   {
    "title": "Infortunio Lobotka, tegola Napoli: i tempi di recupero",
@@ -906,9 +889,9 @@
    "published": "2026-10-29T21:22:59+00:00",
    "image": "",
    "id": "ecbd22e0212d",
-   "age_minutes": 1595,
+   "age_minutes": 1918,
    "also": [],
-   "score": 3.8
+   "score": 3.651
   },
   {
    "title": "Como e Milan sfidano mezza Premier: bisogna pagare la clausola",
@@ -920,9 +903,9 @@
    "published": "2026-10-29T17:32:22+00:00",
    "image": "",
    "id": "b102293b487b",
-   "age_minutes": 1825,
+   "age_minutes": 2148,
    "also": [],
-   "score": 5.686
+   "score": 5.58
   },
   {
    "title": "Carnevali striglia la Juve: 10 giorni di fuoco per Spalletti | CM",
@@ -934,9 +917,9 @@
    "published": "2026-10-29T17:21:50+00:00",
    "image": "",
    "id": "4df66b3f32a7",
-   "age_minutes": 1836,
+   "age_minutes": 2159,
    "also": [],
-   "score": 3.682
+   "score": 3.577
   },
   {
    "title": "Ufficiale Juventus: squadra in ritiro fino al Napoli",
@@ -1108,6 +1091,39 @@
    "id": "539e778edf6e"
   },
   {
+   "title": "Juventus-Napoli, probabile formazione: Spalletti punta sul 3-5-2, Gatti titolare e Woltemade torna dall'inizio",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-napoli-probabile-formazione-spalletti-punta-3-5-2-gatti-titolare-woltemade-torna-inizio-798767",
+   "summary": "La Juventus si prepara alla sfida contro il Napoli di domenica 1 novembre, in programma alle 20.45 all'Allianz Stadium.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-31T00:30:54+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/bb/bb2df6b49d227177858b0a2fdd15525e-44222-oooz0000.jpeg",
+   "id": "33c7c5e51ee8"
+  },
+  {
+   "title": "Deschamps si scalda se crolla tutto",
+   "link": "https://www.tuttojuve.com/calciomercato/deschamps-scalda-crolla-798775",
+   "summary": "La Juventus potrebbe trovarsi presto davanti a una decisione importante per il proprio futuro.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-31T00:15:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f5/f5a2d26968722a2a27843af825765a04-50893-oooz0000.jpeg",
+   "id": "7ee6d684c358"
+  },
+  {
+   "title": "Napoli, probabile formazione contro la Juventus: Allegri punta su De Bruyne regista, Højlund al centro dell'attacco",
+   "link": "https://www.tuttojuve.com/altre-notizie/napoli-probabile-formazione-juventus-allegri-punta-de-bruyne-regista-hojlund-centro-attacco-798768",
+   "summary": "Il Napoli si prepara alla trasferta contro la Juventus con una formazione condizionata dagli infortuni, ma anche con alcune novità tattiche che nelle ultime settimane hanno cambiato il volto della squadra di Massimiliano Allegri.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-10-31T00:00:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a8/a85157be682e217b0b4b4a14f321f99d-27470-oooz0000.jpeg",
+   "id": "550198d31657"
+  },
+  {
    "title": "Juventus, occasione Ødegaard: il capitano dell'Arsenal può partire, Bayern in corsa e bianconeri alla finestra",
    "link": "https://www.tuttojuve.com/calciomercato/juventus-occasione-odegaard-capitano-arsenal-partire-bayern-corsa-bianconeri-finestra-798772",
    "summary": "Il futuro di Martin Ødegaard potrebbe diventare uno dei temi più interessanti del prossimo calciomercato estivo.",
@@ -1117,9 +1133,9 @@
    "published": "2026-10-30T23:45:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ea/ea09af8ddbf6a1a703a4bafbdf05e3a7-30476-oooz0000.jpeg",
    "id": "5a22b27075e5",
-   "age_minutes": 13,
+   "age_minutes": 336,
    "also": [],
-   "score": 6.725
+   "score": 5.262
   },
   {
    "title": "In punizione per venire fuori dal tunnel, ma gli spifferi dallo spogliatoio fanno discutere",
@@ -1153,9 +1169,9 @@
    "published": "2026-10-30T23:15:56+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/19/1963e1d690a8f1b9b21ff22d9e998fcd-53257-oooz0000.jpeg",
    "id": "e3108aa3b886",
-   "age_minutes": 42,
+   "age_minutes": 365,
    "also": [],
-   "score": 5.764
+   "score": 4.361
   },
   {
    "title": "Juventus, la società alza la voce: basta alibi, adesso i giocatori devono assumersi le responsabilità",
@@ -1301,39 +1317,6 @@
    "id": "73cbe5b4d275"
   },
   {
-   "title": "Pengue: \"Vedo Spalletti poco lucido. Napoli, non è utopia fare risultato a Torino\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/pengue-vedo-spalletti-lucido-napoli-utopia-risultato-torino-798790",
-   "summary": "Lucio Pengue (Radio Kiss Kiss) è intervenuto a Radio Bianconera, durante Cose di Calcio, per parlare della sfida tra Juve e Napoli: \"Napoli favorito è sbagliato, ma ha l'inerzia favorevole.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-30T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/60/60f6c45415173f94c53fcaa525eb49b0-97938-oooz0000.jpeg",
-   "id": "b66aa4b6d1a9"
-  },
-  {
-   "title": "Il mental coach Marchese: \"Si deve comunicare in campo. Basta contrapposizioni\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/mental-coach-marchese-si-comunicare-campo-contrapposizioni-798789",
-   "summary": "A Radio Bianconera è intervenuto Marco Marchese, mental coach sportivo, che si è espresso così sul momento attuale della squadra: \"Sicuramente quello che non va fatto è continuare che il mister comunichi in un modo e ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-30T20:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2d/2d3f715c1fa4e8384085252e1a8ea4e2-51071-oooz0000.jpeg",
-   "id": "10a70d126f47"
-  },
-  {
-   "title": "Massimo Orlando: \"Spero rimanga Spalletti ma è evidente che non riesce a trasmettere...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/massimo-orlando-spero-rimanga-spalletti-evidente-riesce-trasmettere-798760",
-   "summary": "L'ex calciatore Massimo Orlando è tornato a parlare del momento di Luciano Spalletti: \"Per la bravura dell'allenatore dico di andare avanti, ma non è così.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-10-30T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0c/0c627bfd3b9f66d1a3161cb21230cc8f-11041-oooz0000.jpeg",
-   "id": "97118e782e0d"
-  },
-  {
    "title": "L'Inter e il derby, Zanetti il re delle presenze e Meazza il re dei bomber. Lautaro insegue",
    "link": "https://www.fcinternews.it/stats/inter-derby-zanetti-re-presenze-meazza-re-bomber-lautaro-insegue-1022030",
    "summary": "Tra gli uomini simbolo della stracittadina spicca in casa Inter spicca sicuramente Javier Zanetti, primatista assoluto per numero di presenze nel derby con la maglia nerazzurra.",
@@ -1431,9 +1414,9 @@
    "published": "2026-10-30T21:34:08+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b28ad8885ec96876c1f3335d6828502b-64517-1355o311o2231o1187z13dc.jpeg",
    "id": "8f173393f1c8",
-   "age_minutes": 143,
+   "age_minutes": 467,
    "also": [],
-   "score": 5.249
+   "score": 4.038
   },
   {
    "title": "Questione di genetica: i cugini Sucic condividono un primato statistico",
@@ -1456,9 +1439,9 @@
    "published": "2026-10-30T21:05:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ab/abd2ff21ca1f5846486e3f609d8a4731-91670-626o84o1348o806z0b30.jpeg",
    "id": "6ee739c469fa",
-   "age_minutes": 172,
+   "age_minutes": 495,
    "also": [],
-   "score": 5.116
+   "score": 3.954
   },
   {
    "title": "Milan, Gerry Cardinale a cena a Milano con Simonelli e Buonfiglio",
@@ -1525,9 +1508,9 @@
    "published": "2026-10-30T19:39:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/acf811ef287d28a3bb2bb2df2dbb2303-74371-514o0o1190o675z094b.jpeg",
    "id": "d55a20c8abeb",
-   "age_minutes": 258,
+   "age_minutes": 581,
    "also": [],
-   "score": 4.752
+   "score": 3.726
   },
   {
    "title": "VIDEO - Bigica: \"Complimenti alla Roma. Noi abbiamo fatto degli errori\"",
@@ -1550,9 +1533,9 @@
    "published": "2026-10-30T19:26:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2c/2c10a9a432b84fa25a58fd6235e39fa6-45002-626o120o1349o843z0b7a.jpeg",
    "id": "0666ca4b0a48",
-   "age_minutes": 272,
+   "age_minutes": 595,
    "also": [],
-   "score": 4.7
+   "score": 3.694
   },
   {
    "title": "Sky - Verso il derby, ancora due ballottaggi aperti per Chivu",
@@ -1564,6 +1547,28 @@
    "published": "2026-10-30T19:11:11+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fde886beaf1e09fe9e99856aa9fe1faf-00861-oooz0000.jpeg",
    "id": "b6be36c84dd0"
+  },
+  {
+   "title": "PROBABILE FORMAZIONE - Verso Milan-Inter: Amorim cambia ancora! Sorpresa dietro, dubbio davanti",
+   "link": "https://www.milannews.it/news/probabile-formazione-milan-inter-amorim-derby-rabiot-pulisic-modric-gila-634435",
+   "summary": "Dopo la pesante sconfitta casalinga nell'infrasettimanale contro il Bologna, il Milan di Ruben Amorim si giocherà il primo derby stagionale, da disputare nel San Siro in versione milanista.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-31T00:45:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/78/783960eca41115eb1e4b3a52923d4dd6-85346-oooz0000.jpeg",
+   "id": "2b54c4f2eac6"
+  },
+  {
+   "title": "Cardinale sul nuovo stadio: \"Rappresenta una dichiarazione fortissima da parte mia e di RedBird di quanto tutto questo sia importante per noi\"",
+   "link": "https://www.milannews.it/news/cardinale-stadio-rappresenta-dichiarazione-fortissima-redbird-importante-noi-634503",
+   "summary": "Gerry Cardinale, proprietario del Milan, è stato intervistato da Andrea Ramazzotti de La Gazzetta dello Sport.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-10-31T00:00:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/69/694376e2f115b62d9d0d578500a0db29-17553-oooz0000.jpeg",
+   "id": "30bc028f6d33"
   },
   {
    "title": "Diego Moreira svela chi è il suo idolo: \"Volevo essere come lui anche nei capelli\"",
@@ -1751,9 +1756,9 @@
    "published": "2026-10-30T21:30:25+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/01/01d11b92be8d3e40d366af3d330113a2-36026-oooz0000.jpeg",
    "id": "e1954c9132e9",
-   "age_minutes": 147,
+   "age_minutes": 470,
    "also": [],
-   "score": 5.232
+   "score": 4.027
   },
   {
    "title": "Derby terreno di conquista per il Milan: cinque vittorie nelle ultime sette",
@@ -1765,260 +1770,6 @@
    "published": "2026-10-30T21:20:58+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/ba/ba49825aec82661807d4fdcf65e82b02-47398-oooz0000.jpeg",
    "id": "ed34063825c3"
-  },
-  {
-   "title": "Cardinale organizza una cena alla vigilia del Derby con diverse glorie rossonere: presente anche Galliani",
-   "link": "https://www.milannews.it/news/cardinale-organizza-cena-vigilia-derby-diverse-glorie-rossonere-presente-galliani-634594",
-   "summary": "Domani sera a San Siro si giocherà la partita più bella dell'intero campionato di Serie A, il derby di Milano. Alle 20:45 Milan e Inter scenderanno in campo per il match valido la 10^ giornata di Serie A.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-30T21:10:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/7c/7c1de0be260eec63277bca97c9707bf0-64285-oooz0000.jpeg",
-   "id": "edafb10cf456"
-  },
-  {
-   "title": "DAZN, programmazione speciale per il Derby della Madonnina di domani",
-   "link": "https://www.milannews.it/news/calcio-dazn-programmazione-speciale-derby-madonnina-634558",
-   "summary": "(ANSA) - ROMA, 30 OTT - In vista del derby della Madonnina tra Milan ed Inter, Dazn ha annunciato una serie di iniziative nella propria programmazione per coprire l'evento.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-10-30T21:00:34+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/b0/b0823826cff091e53296cb58c7926c90-74600-oooz0000.jpeg",
-   "id": "cd5ba5eff962"
-  },
-  {
-   "title": "Il messaggio è unanime: \"Vincere il derby\". Chivu, Akanji e Diouf presentano la sfida col Milan",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/messaggio-unanime-vincere-derby-chivu-akanji-diouf-presentano-sfida-milan-2289066",
-   "summary": "Vigilia di derby in casa Inter.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:53:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/16/166aade3e832c3b5f93f507c0bcb29d7-25807-oooz0000.jpeg",
-   "id": "e0a2efc31f2f"
-  },
-  {
-   "title": "Cardinale conferma Amorim, promette rinforzi e rinnova il contratto a Pulisic",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cardinale-conferma-amorim-promette-rinforzi-rinnova-contratto-pulisic-2289085",
-   "summary": "Giornata piena di eventi in casa Milan alla vigilia del derby: il numero uno del club, Gerry Cardinale, ha rilasciato un'intervista parlando delle ambizioni del club e confermando la possibilità di investire nell'Al…",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:49:03+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/83/8318ae40664ad7cc513f20c2e66b1338-27692-oooz0000.jpeg",
-   "id": "65fbd2ce0519",
-   "age_minutes": 9,
-   "also": [],
-   "score": 7.898
-  },
-  {
-   "title": "La Juventus va in ritiro in vista del Napoli: Spalletti recupera Ekhator e tifosi invocano Conte",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-ritiro-vista-napoli-spalletti-recupera-ekhator-tifosi-invocano-conte-2289064",
-   "summary": "Luciano Spalletti opta per il ritiro in vista della gara contro il Napoli.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:45:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/7d/7d753d297e8e30c6d14c403627848ea6-76204-oooz0000.jpeg",
-   "id": "efa96325439d"
-  },
-  {
-   "title": "Thiago Motta è libero e torna su piazza, la Juve risparmia: tutti contenti",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/thiago-motta-libero-torna-piazza-juve-risparmia-contenti-2289084",
-   "summary": "Thiago Motta è libero da vincoli.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:42:58+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/db/dbff3226f91d382a111e61b6c3d1ea8e-61361-oooz0000.jpeg",
-   "id": "59fc63d1f35b"
-  },
-  {
-   "title": "Icardi e l’Inter, un legame che non si è mai spezzato: \"Mi piacerebbe un finale diverso\"",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/icardi-l-inter-legame-spezzato-mi-piacerebbe-finale-diverso-2289083",
-   "summary": "Mauro Icardi ha ancora qualche sogno nel cassetto.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:38:37+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/49/49971779bb3aab2a2a49f00d01cde261-81076-oooz0000.jpeg",
-   "id": "042ab2dd43fc",
-   "age_minutes": 19,
-   "also": [],
-   "score": 6.239
-  },
-  {
-   "title": "Salernitana, Vito Di Bari riparte dopo 12 giorni: è lui il dopo Cosmi",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/salernitana-vito-bari-riparte-12-giorni-cosmi-2289042",
-   "summary": "La Salernitana riparte da Vito Di Bari.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:34:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/7e/7ecc2a3e88c78b061b1997b03f06125c-76638-oooz0000.jpeg",
-   "id": "03412b332631"
-  },
-  {
-   "title": "Roma, idea Lisandro Martinez: il centrale dello United può lasciare l'Inghilterra",
-   "link": "https://www.tuttomercatoweb.com/serie-a/roma-idea-lisandro-martinez-centrale-united-lasciare-inghilterra-2289074",
-   "summary": "La Roma comincia a guardarsi intorno in vista delle prossime sessioni di mercato.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:30:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a3/a3d58fd5059c8eb20a5f78cc4a67474f-34366-oooz0000.jpeg",
-   "id": "b69daf75731e",
-   "age_minutes": 28,
-   "also": [],
-   "score": 6.591
-  },
-  {
-   "title": "Dopo la tegola Sulc, Lione in ansia anche per Morton: possibile lungo stop per l'inglese",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/tegola-sulc-lione-ansia-morton-possibile-stop-centrocampista-2289002",
-   "summary": "Dopo Pavel Sulc, che si fermerà per circa quattro mesi a causa di un infortunio al menisco, il Lione rischia di perdere per un lungo periodo anche Tyler Morton.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:26:32+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/6f/6f77d0c4a035754133036d3030f85bcd-39767-oooz0000.jpeg",
-   "id": "b5ee8217d287"
-  },
-  {
-   "title": "Udinese, Davis: \"Ambientato bene\". Ma poi rivela: \"Preferisco la cucina inglese\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/udinese-davis-mi-ambientato-potessi-pensare-2289053",
-   "summary": "Kenan Davis racconta il suo ambientamento all'Udinese.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:23:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/11/11cb2c72d00155c3f3e9dfafdca30046-21516-oooz0000.jpeg",
-   "id": "8b989645fad1"
-  },
-  {
-   "title": "Serie C 2026/2027, il punto sulle panchine: Vito Di Bari sbarca alla Salernitana",
-   "link": "https://www.tuttomercatoweb.com/serie-c/serie-2026-2027-punto-panchine-vito-bari-sbarca-salernitana-2288987",
-   "summary": "Inizia l'era di Vito Di Bari alla Salernitana.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:19:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ce/ce9f8af659011b17dbd6436823abdff6-46154-oooz0000.jpeg",
-   "id": "726f081c23c7"
-  },
-  {
-   "title": "Ernesto Paolillo: \"Inter, è il momento di vincere il derby. FIGC, sto con Galliani: ne sa più di Malagò\"",
-   "link": "https://www.tuttomercatoweb.com/a-tu-per-tu/ernesto-paolillo-inter-vincere-derby-figc-galliani-sa-malago-2289087",
-   "summary": "\"Il derby? Non partirei dalla premessa che l'Inter sta facendo bene e il Milan no, perché sappiamo come sono finiti gli ultimi derby.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:16:34+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/36/368848ae6f4be94b9dcb85c0c6708b1a-44841-oooz0000.jpeg",
-   "id": "c38198b63800"
-  },
-  {
-   "title": "Mora brilla con la Roma. Il ct del Portogallo U21: \"Si vede che il club crede molto in lui\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/mora-brilla-roma-ct-portogallo-u21-si-vede-club-crede-lui-2289070",
-   "summary": "Luís Freire, commissario tecnico del Portogallo Under 21, ha parlato in un'intervista all'agenzia Lusa del percorso di Rodrigo Mora, arrivato alla Roma in estate e ancora alla ricerca di continuità con la maglia giallorossa.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:15:24+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/65/65923ad5243e32e314702a77bef50de1-20124-oooz0000.jpeg",
-   "id": "b1649952f3f9"
-  },
-  {
-   "title": "Araujo rinato a Liverpool, l'agente: \"Presto per parlare di futuro ma si trova bene\"",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/araujo-rinato-liverpool-agente-presto-parlare-trova-bene-2289014",
-   "summary": "Ronald Araujo potrebbe restare in Premier League.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:12:33+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/68/68a2be677f14ffe7d6a1a5ff9199ff4a-47908-oooz0000.jpeg",
-   "id": "991cd6b20430"
-  },
-  {
-   "title": "Lazio, Taylor si sta facendo notare anche in Premier. Occhio al Bournemouth",
-   "link": "https://www.tuttomercatoweb.com/serie-a/lazio-taylor-notare-premier-occhio-bournemouth-2289069",
-   "summary": "Kenneth Taylor è uno dei grandi protagonisti della Lazio di questo inizio stagione.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:08:14+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a7/a712b3a1a4ff1a3a852307fe4ef31326-99920-oooz0000.jpeg",
-   "id": "4c53fdf761d2"
-  },
-  {
-   "title": "Serie B, classifiche a confronto. Mantova da record: è +12! Male Cesena e Juve Stabia",
-   "link": "https://www.tuttomercatoweb.com/serie-b/serie-b-classifiche-confronto-mantova-record-12-cesena-juve-stabia-2289051",
-   "summary": "La classifica della Serie B 2026/2027, dopo nove giornate di campionato, racconta di un Palermo in testa e di un Mantova protagonista di una crescita decisamente significativa rispetto alla passata stagione.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:04:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/41/418d699833d927d875aa56b3919771c6-52525-oooz0000.jpeg",
-   "id": "0dd380ef36cb"
-  },
-  {
-   "title": "31 ottobre 2004, il Messina vince il derby dello stretto. Gol decisivo di Di Napoli",
-   "link": "https://www.tuttomercatoweb.com/accadde-oggi/31-ottobre-2004-messina-vince-derby-stretto-gol-decisivo-napoli-2288913",
-   "summary": "Il 31 ottobre del 2004, allo stadio San Filippo di Messina, è in programma il derby dello stretto.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T23:00:38+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/0e/0e2afc47f86503c7fe507b0493e3bc26-78384-oooz0000.jpeg",
-   "id": "aae0583fa99f"
-  },
-  {
-   "title": "Lecce, sirene di mercato per Tiago Gabriel: Roma in prima fila. Il prezzo è di 25 milioni",
-   "link": "https://www.tuttomercatoweb.com/serie-a/lecce-sirene-mercato-tiago-gabriel-roma-fila-prezzo-25-2289072",
-   "summary": "I rumors di mercato sul futuro Tiago Gabriel si preparano ad essere uno dei temi da seguire nei prossimi mesi.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T22:59:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/2e/2ec6ec58cdceae854a9d234f1352b392-70198-oooz0000.jpeg",
-   "id": "967ad342ba7f",
-   "age_minutes": 59,
-   "also": [],
-   "score": 7.623
-  },
-  {
-   "title": "Ladri svaligiano la casa di Barry. L'aveva mostrata su un video Youtube poche settimane fa",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/ladri-svaligiano-casa-barry-mostrata-video-youtube-poche-settimane-2289027",
-   "summary": "Una serata dai due volti per Thierno Barry.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T22:56:58+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/b0/b054c66f9a01e900013b1b5ae17a758a-16607-oooz0000.jpeg",
-   "id": "e992bd734703"
-  },
-  {
-   "title": "Juventus, a Marassi i tifosi invocano Conte: \"Sette lettere per tornare a vincere: Antonio\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/juventus-marassi-tifosi-invocano-conte-sette-lettere-tornare-vincere-antonio-2289060",
-   "summary": "Sconfitta pesante per la Juventus.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T22:53:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/9d/9d083a168a9ba29ae885d9603a63b14e-08319-oooz0000.jpeg",
-   "id": "73dcdc652cbe"
-  },
-  {
-   "title": "Ostiamare, D’Astolfo suona la carica: “Siamo in difficoltà Mi aspetto di più da tutti”",
-   "link": "https://www.tuttomercatoweb.com/serie-c/ostiamare-d-astolfo-suona-carica-siamo-difficolta-aspetto-tutti-2289067",
-   "summary": "Quaranta giorni senza vittorie, due sconfitte consecutive e la necessità di ritrovare risultati e fiducia.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-10-30T22:49:00+00:00",
-   "image": "",
-   "id": "f8fcbd269d6a"
   },
   {
    "title": "Crespo: ‘Inter are a battleship, nobody in Italy can sink them, Milan improved considerably’",
@@ -2184,9 +1935,9 @@
    "published": "2026-10-30T09:37:56+00:00",
    "image": "",
    "id": "7749db4f355b",
-   "age_minutes": 860,
+   "age_minutes": 1183,
    "also": [],
-   "score": 2.905
+   "score": 2.474
   },
   {
    "title": "Cardinale: ‘I’ll stand by Amorim’s side’ and buy more players in January",
@@ -2242,11 +1993,246 @@
    "published": "2026-10-29T22:38:58+00:00",
    "image": "",
    "id": "fdbcd73f4b35"
+  },
+  {
+   "title": "Juventus, a gennaio serve anche un esterno sinistro: ecco tutti i nomi. Inter c’è un’idea Chiesa, che può diventare un’opzione anche per la Roma. Milan, punto rinnovi: dopo Pulisic ora Rabiot. Tresoldi il sogno per il futuro",
+   "link": "https://www.tuttomercatoweb.com/editoriale/juventus-gennaio-serve-esterno-sinistro-nomi-inter-c-e-un-idea-chiesa-un-opzione-roma-milan-punto-ri-2289080",
+   "summary": "Il momento non è certo dei migliori per la Juventus.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T05:15:31+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/60/60fd8bc0858cc4c1724816d783a3ce30-61018-oooz0000.jpeg",
+   "id": "c3e8dcf129a6",
+   "age_minutes": 5,
+   "also": [],
+   "score": 6.918
+  },
+  {
+   "title": "Serie B, Modena-Mantova: scontro d'alta quota al Braglia",
+   "link": "https://www.tuttomercatoweb.com/serie-b/serie-b-modena-mantova-scontro-alta-quota-braglia-2288792",
+   "summary": "Non c’è spazio per tirare il fiato nel campionato di Serie B.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T05:12:29+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/4e/4eaa97812fefe31978ccaee1104d76c8-19490-oooz0000.jpeg",
+   "id": "37b634d945a0"
+  },
+  {
+   "title": "Serie B, Cremonese-Benevento: i due tecnici cercano continuità",
+   "link": "https://www.tuttomercatoweb.com/serie-b/serie-b-cremonese-benevento-tecnici-cercano-continuita-2289093",
+   "summary": "Dopo la vittoria a sorpresa del turno infrasettimanale ottenuta a Mantova, la Cremonese ospita un’altra squadra che si trova in ottimo stato di forma: il Benevento di Antonio Floro Flores.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T05:06:00+00:00",
+   "image": "",
+   "id": "efbbcb0d9d71"
+  },
+  {
+   "title": "Oggi in TV, stasera Milan-Inter: dove vedere il derby e le altre partite",
+   "link": "https://www.tuttomercatoweb.com/altre-notizie/i-oggi-tv-i-stasera-milan-inter-vedere-derby-partite-2289010",
+   "summary": "Tanto calcio giocato da poter seguire in tv quest'oggi, sabato 31 ottobre 2026.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T04:30:02+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/67/67737370246e7f1a150f0c4bd06ea0c7-08668-oooz0000.jpeg",
+   "id": "150846f86f20"
+  },
+  {
+   "title": "Georges Mikautadze, in hotel per due mesi ad Amsterdam. E poi venduto dal Lione",
+   "link": "https://www.tuttomercatoweb.com/nato-oggi/georges-mikautadze-hotel-amsterdam-venduto-lione-2288919",
+   "summary": "Georges Mikautadze ha sempre segnato tantissimo.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T04:00:24+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/d4/d47f0a3686a1befdf7c86a54cc2d6eba-41921-oooz0000.jpeg",
+   "id": "bbda126e6d3c"
+  },
+  {
+   "title": "Le partite di oggi: il programma di sabato 31 ottobre",
+   "link": "https://www.tuttomercatoweb.com/altre-notizie/i-le-partite-oggi-i-programma-sabato-31-ottobre-2288894",
+   "summary": "Di seguito il programma delle partite in calendario oggi, sabato 31 ottobre, con sfide dai principali campionati europei e italiani.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T03:30:17+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/9a/9a2864c9e5392012d21329152dcabc76-91635-oooz0000.jpeg",
+   "id": "c73201740616"
+  },
+  {
+   "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 30 ottobre",
+   "link": "https://www.tuttomercatoweb.com/serie-a/i-calciomercato-i-stop-indiscrezioni-trattative-retroscena-30-ottobre-2289048",
+   "summary": "MILAN, PULISIC RINNOVA FINO AL 2031.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-31T00:00:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/38/38fd5a4828280a74c2c9e92c0f66cbd2-43103-oooz0000.jpeg",
+   "id": "1d5040aad3f2",
+   "age_minutes": 321,
+   "also": [],
+   "score": 8.466
+  },
+  {
+   "title": "Serie A, al via la 10ª giornata: le probabili formazioni delle partite in programma",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-via-10a-giornata-probabili-formazioni-partite-programma-2289077",
+   "summary": "La Serie A torna subito in campo con la 10ª giornata.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:56:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ba/ba24cc0e172349376ea29d9094aab4f1-06191-oooz0000.jpeg",
+   "id": "24e0cf2c72cc"
+  },
+  {
+   "title": "Il messaggio è unanime: \"Vincere il derby\". Chivu, Akanji e Diouf presentano la sfida col Milan",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/messaggio-unanime-vincere-derby-chivu-akanji-diouf-presentano-sfida-milan-2289066",
+   "summary": "Vigilia di derby in casa Inter.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:53:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/16/166aade3e832c3b5f93f507c0bcb29d7-25807-oooz0000.jpeg",
+   "id": "e0a2efc31f2f"
+  },
+  {
+   "title": "Cardinale conferma Amorim, promette rinforzi e rinnova il contratto a Pulisic",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/cardinale-conferma-amorim-promette-rinforzi-rinnova-contratto-pulisic-2289085",
+   "summary": "Giornata piena di eventi in casa Milan alla vigilia del derby: il numero uno del club, Gerry Cardinale, ha rilasciato un'intervista parlando delle ambizioni del club e confermando la possibilità di investire nell'Al…",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:49:03+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/83/8318ae40664ad7cc513f20c2e66b1338-27692-oooz0000.jpeg",
+   "id": "65fbd2ce0519",
+   "age_minutes": 332,
+   "also": [],
+   "score": 6.426
+  },
+  {
+   "title": "La Juventus va in ritiro in vista del Napoli: Spalletti recupera Ekhator e tifosi invocano Conte",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-ritiro-vista-napoli-spalletti-recupera-ekhator-tifosi-invocano-conte-2289064",
+   "summary": "Luciano Spalletti opta per il ritiro in vista della gara contro il Napoli.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:45:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/7d/7d753d297e8e30c6d14c403627848ea6-76204-oooz0000.jpeg",
+   "id": "efa96325439d"
+  },
+  {
+   "title": "Thiago Motta è libero e torna su piazza, la Juve risparmia: tutti contenti",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/thiago-motta-libero-torna-piazza-juve-risparmia-contenti-2289084",
+   "summary": "Thiago Motta è libero da vincoli.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:42:58+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/db/dbff3226f91d382a111e61b6c3d1ea8e-61361-oooz0000.jpeg",
+   "id": "59fc63d1f35b"
+  },
+  {
+   "title": "Icardi e l’Inter, un legame che non si è mai spezzato: \"Mi piacerebbe un finale diverso\"",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/icardi-l-inter-legame-spezzato-mi-piacerebbe-finale-diverso-2289083",
+   "summary": "Mauro Icardi ha ancora qualche sogno nel cassetto.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:38:37+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/49/49971779bb3aab2a2a49f00d01cde261-81076-oooz0000.jpeg",
+   "id": "042ab2dd43fc",
+   "age_minutes": 342,
+   "also": [],
+   "score": 4.789
+  },
+  {
+   "title": "Salernitana, Vito Di Bari riparte dopo 12 giorni: è lui il dopo Cosmi",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/salernitana-vito-bari-riparte-12-giorni-cosmi-2289042",
+   "summary": "La Salernitana riparte da Vito Di Bari.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:34:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/7e/7ecc2a3e88c78b061b1997b03f06125c-76638-oooz0000.jpeg",
+   "id": "03412b332631"
+  },
+  {
+   "title": "Roma, idea Lisandro Martinez: il centrale dello United può lasciare l'Inghilterra",
+   "link": "https://www.tuttomercatoweb.com/serie-a/roma-idea-lisandro-martinez-centrale-united-lasciare-inghilterra-2289074",
+   "summary": "La Roma comincia a guardarsi intorno in vista delle prossime sessioni di mercato.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:30:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a3/a3d58fd5059c8eb20a5f78cc4a67474f-34366-oooz0000.jpeg",
+   "id": "b69daf75731e",
+   "age_minutes": 351,
+   "also": [],
+   "score": 5.159
+  },
+  {
+   "title": "Dopo la tegola Sulc, Lione in ansia anche per Morton: possibile lungo stop per l'inglese",
+   "link": "https://www.tuttomercatoweb.com/calcio-estero/tegola-sulc-lione-ansia-morton-possibile-stop-centrocampista-2289002",
+   "summary": "Dopo Pavel Sulc, che si fermerà per circa quattro mesi a causa di un infortunio al menisco, il Lione rischia di perdere per un lungo periodo anche Tyler Morton.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:26:32+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/6f/6f77d0c4a035754133036d3030f85bcd-39767-oooz0000.jpeg",
+   "id": "b5ee8217d287"
+  },
+  {
+   "title": "Udinese, Davis: \"Ambientato bene\". Ma poi rivela: \"Preferisco la cucina inglese\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/udinese-davis-mi-ambientato-potessi-pensare-2289053",
+   "summary": "Kenan Davis racconta il suo ambientamento all'Udinese.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:23:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/11/11cb2c72d00155c3f3e9dfafdca30046-21516-oooz0000.jpeg",
+   "id": "8b989645fad1"
+  },
+  {
+   "title": "Serie C 2026/2027, il punto sulle panchine: Vito Di Bari sbarca alla Salernitana",
+   "link": "https://www.tuttomercatoweb.com/serie-c/serie-2026-2027-punto-panchine-vito-bari-sbarca-salernitana-2288987",
+   "summary": "Inizia l'era di Vito Di Bari alla Salernitana.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:19:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ce/ce9f8af659011b17dbd6436823abdff6-46154-oooz0000.jpeg",
+   "id": "726f081c23c7"
+  },
+  {
+   "title": "Ernesto Paolillo: \"Inter, è il momento di vincere il derby. FIGC, sto con Galliani: ne sa più di Malagò\"",
+   "link": "https://www.tuttomercatoweb.com/a-tu-per-tu/ernesto-paolillo-inter-vincere-derby-figc-galliani-sa-malago-2289087",
+   "summary": "\"Il derby? Non partirei dalla premessa che l'Inter sta facendo bene e il Milan no, perché sappiamo come sono finiti gli ultimi derby.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:16:34+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/36/368848ae6f4be94b9dcb85c0c6708b1a-44841-oooz0000.jpeg",
+   "id": "c38198b63800"
+  },
+  {
+   "title": "Mora brilla con la Roma. Il ct del Portogallo U21: \"Si vede che il club crede molto in lui\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/mora-brilla-roma-ct-portogallo-u21-si-vede-club-crede-lui-2289070",
+   "summary": "Luís Freire, commissario tecnico del Portogallo Under 21, ha parlato in un'intervista all'agenzia Lusa del percorso di Rodrigo Mora, arrivato alla Roma in estate e ancora alla ricerca di continuità con la maglia giallorossa.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-10-30T23:15:24+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/65/65923ad5243e32e314702a77bef50de1-20124-oooz0000.jpeg",
+   "id": "b1649952f3f9"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 150,
-  "in_edizione": 34
+  "in_edizione": 33
  }
 }
