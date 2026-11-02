@@ -1,19 +1,94 @@
 {
- "generated_at": "2026-11-02T02:22:37.742584+01:00",
+ "generated_at": "2026-11-02T09:03:54.198039+01:00",
  "articles": [
   {
-   "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena dell'1 novembre",
-   "link": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-1-novembre-2289788",
-   "summary": "UDINESE, RUNJAIC VERSO L’ESONERO.",
+   "title": "Mercato Milan: a gennaio nuovo assalto per Inacio. Vice-Ramos: Camarda in prestito e arriva un altro centravanti?",
+   "link": "https://www.milannews.it/primo-piano/mercato-milan-gennaio-assalto-inacio-vice-ramos-camarda-prestito-arriva-centravanti-634865",
+   "summary": "La vittoria nel derby contro l'Inter ha portato un entusiasmo in casa rossonera che non si vedeva da tempo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:00:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/382519b6f73f11de0c2a81815f2d008e-92969-oooz0000.jpeg",
+   "id": "7ec855ee9a0d",
+   "age_minutes": 62,
+   "also": [],
+   "score": 8.853
+  },
+  {
+   "title": "Esonero Runjaic in arrivo, l’Udinese ha già deciso il sostituto",
+   "link": "https://www.calciomercato.it/2026/11/02/esonero-runjaic-in-arrivo-ludinese-ha-gia-deciso-il-sostituto/",
+   "summary": "L'articolo Esonero Runjaic in arrivo, l’Udinese ha già deciso il sostituto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-02T08:00:51+00:00",
+   "image": "",
+   "id": "a39b801d8c33",
+   "age_minutes": 3,
+   "also": [
+    {
+     "source": "Calciomercato.it",
+     "link": "https://www.calciomercato.it/2026/11/01/udinese-esonero-in-arrivo-per-runjaic-i-possibili-sostituti/"
+    }
+   ],
+   "score": 7.982
+  },
+  {
+   "title": "Milan, dopo il derby si torna a parlare di rinnovi: priorità per la firma fino al 2030 di Rabiot",
+   "link": "https://www.tuttomercatoweb.com/serie-a/milan-derby-torna-parlare-rinnovi-priorita-firma-2030-rabiot-2289798",
+   "summary": "Dopo la vittoria nel derby contro l'Inter che ha rilanciato il Milan in classifica, adesso i rossoneri sono intenzionati a riprendere a lavorare sul futuro dei loro protagonisti.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-02T00:30:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/38/38f9c3b0cea18644d17496674d06d893-86869-oooz0000.jpeg",
-   "id": "56de6dd9bed2",
-   "age_minutes": 52,
+   "published": "2026-11-02T07:15:28+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/70/70291f318f9d28faee9c6e9becaa9c9a-27963-oooz0000.jpeg",
+   "id": "66f96adab8e6",
+   "age_minutes": 48,
    "also": [],
-   "score": 9.657
+   "score": 7.68
+  },
+  {
+   "title": "Cagliari, rimpianti e voglia di riscatto: Pisacane e Kofler suonano la carica",
+   "link": "https://www.tuttomercatoweb.com/serie-a/cagliari-rimpianti-voglia-riscatto-pisacane-kofler-suonano-carica-2289711",
+   "summary": "Il Cagliari torna da Roma, per la seconda volta consecutiva, con una sconfitta che lascia l'amaro in bocca, soprattutto per quanto mostrato nella prima parte di gara.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:12:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c7/c7207e3a92330a319ffa3a46f74af480-43928-oooz0000.jpeg",
+   "id": "350e17cc28a0",
+   "age_minutes": 51,
+   "also": [],
+   "score": 7.661
+  },
+  {
+   "title": "Isaksen mai così determinante: la Lazio deve blindarlo, a che punto è il rinnovo",
+   "link": "https://www.tuttomercatoweb.com/serie-a/isaksen-determinante-lazio-blindarlo-punto-rinnovo-2289641",
+   "summary": "Un bellissimo gol e il cross da cui nasce il 2-1 di Andre Pinamonti: il volto sorridente dell'attaccante ha preso le copertine del successo della Lazio contro il Genoa, ma c'è tanto, tantissimo di Gustav Isaksen nel…",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T06:55:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ed/ed267a17092af7e58143296bb9d3f02f-33204-288o600o984o1296z0c60.jpeg",
+   "id": "53eaa35b207e",
+   "age_minutes": 68,
+   "also": [],
+   "score": 7.571
+  },
+  {
+   "title": "Davide Lippi racconta la lotta con la malattia: \"Vinta la battaglia, non la guerra\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/davide-lippi-racconta-lotta-malattia-vinta-battaglia-guerra-2289531",
+   "summary": "Il noto agente di mercato e imprenditore, Davide Lippi, figlio dell'ex c.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:26:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/11/112ab5c18a2438c637cff426127aef69-72799-oooz0000.jpeg",
+   "id": "e230e8fface8",
+   "age_minutes": 37,
+   "also": [],
+   "score": 6.937
   },
   {
    "title": "Paulo Fonseca allo Sporting, addio immediato al Lione",
@@ -25,9 +100,23 @@
    "published": "2026-11-01T20:59:29+00:00",
    "image": "",
    "id": "4a4ed92e9a63",
-   "age_minutes": 263,
+   "age_minutes": 664,
    "also": [],
-   "score": 8.135
+   "score": 6.932
+  },
+  {
+   "title": "Krosche-Milan, Romano: \"Accordo verbale trovato, si aspettano le prossime settimane per ratificarlo\"",
+   "link": "https://www.milannews.it/calciomercato-milan/krosche-milan-romano-accordo-verbale-trovato-aspettano-prossime-settimane-ratificarlo-634866",
+   "summary": "Intervenuto in un video pubblicato sul suo canale YouTube, Fabrizio Romano ha parlato così dell'arrivo al Milan di Marku Krosche come nuovo Head of Football: \"Il Milan vuole costruire. Vuole rinforzare la propria…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:10:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/15/15a4b9e0ab9b7a3e6b9fab84d3ee37c8-22434-oooz0000.jpeg",
+   "id": "4984d265b0cf",
+   "age_minutes": 53,
+   "also": [],
+   "score": 6.902
   },
   {
    "title": "Addio Juve, può finire alla Fiorentina per 15 milioni di euro",
@@ -39,9 +128,65 @@
    "published": "2026-11-01T20:38:15+00:00",
    "image": "",
    "id": "4ef2ac61c826",
-   "age_minutes": 284,
+   "age_minutes": 685,
    "also": [],
-   "score": 8.053
+   "score": 6.886
+  },
+  {
+   "title": "GdS - Testa ai contratti, approcci, mercato: cosa non va nell'Inter. Confronto Chivu-giocatori: è emerso che...",
+   "link": "https://www.fcinternews.it/in-primo-piano/i-gds-i-testa-contratti-approcci-mercato-inter-confronto-chivu-giocatori-emerso-che-1022226",
+   "summary": "La Gazzetta dello Sport prova oggi ad inquadrare i problemi dell'Inter, reduce dal quarto derby perso consecutivo, sebbene in una situazione di classifica ancora ottima (è seconda a -3 dalla vetta), ma con dei difetti…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-02T07:00:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d8/d899e784be85a4761bd1ae5669ab1f11-46221-oooz0000.jpeg",
+   "id": "1d98376937ad",
+   "age_minutes": 62,
+   "also": [],
+   "score": 6.852
+  },
+  {
+   "title": "Ora il Milan non si ferma più, tre colpi in vista di gennaio",
+   "link": "https://www.calciomercato.it/2026/11/02/ora-il-milan-non-si-ferma-piu-tre-colpi-in-vista-di-gennaio/",
+   "summary": "L'articolo Ora il Milan non si ferma più, tre colpi in vista di gennaio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-02T06:19:23+00:00",
+   "image": "",
+   "id": "f67177751ca6",
+   "age_minutes": 104,
+   "also": [],
+   "score": 6.84
+  },
+  {
+   "title": "Romano svela il prossimo rinnovo al quale sta lavorando il Milan",
+   "link": "https://www.milannews.it/calciomercato-milan/romano-svela-prossimo-rinnovo-lavorando-milan-634847",
+   "summary": "Nel corso del consueto appuntamento con il video aggiornamento sul suo canale YouTube, Fabrizio Romano ha fatto il punto in casa Milan soffermandosi in modo particolare sul discorso Markus Krösche e non solo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T06:24:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1d/1dc2ba82559d9cc4199cbc9e9ee57365-94981-oooz0000.jpeg",
+   "id": "c49a123d4a9a",
+   "age_minutes": 99,
+   "also": [],
+   "score": 6.663
+  },
+  {
+   "title": "Un colpo d’Ala e la Juve si rialza",
+   "link": "https://www.tuttojuve.com/altre-notizie/colpo-d-ala-juve-rialza-799007",
+   "summary": "La Juventus rialza la testa nel momento più difficile della stagione. Dopo le sconfitte contro Lazio e Genoa, la squadra di Luciano Spalletti ritrova la vittoria battendo il Napoli per 2-0 all'Allianz Stadium.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T06:15:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c6a6f5b88ae70cfc6ef005511fe3b30-73156-oooz0000.jpeg",
+   "id": "ec118bb26a7b",
+   "age_minutes": 108,
+   "also": [],
+   "score": 6.62
   },
   {
    "title": "Juve, sfumato in extremis l’acquisto di un top assoluto: tutta la verità",
@@ -53,23 +198,65 @@
    "published": "2026-11-01T17:29:58+00:00",
    "image": "",
    "id": "d6f49b14f5f4",
-   "age_minutes": 472,
+   "age_minutes": 873,
    "also": [],
-   "score": 7.421
+   "score": 6.532
   },
   {
-   "title": "Allegri, è game over? Da re dei risultati a media punti da retrocessione tra Milan e Napoli",
-   "link": "https://www.tuttonapoli.net/notizie/allegri-game-over-re-risultati-media-punti-retrocessione-milan-napoli-660761",
+   "title": "\"Spalletti mette Allegri nei guai\": la prima di Tuttosport",
+   "link": "https://www.tuttonapoli.net/brevi/spalletti-mette-allegri-guai-tuttosport-660786",
+   "summary": "“Un colpo d’ala e la Juve si rialza”. È il titolo con cui Tuttosport apre la prima pagina dopo il 2-0 di Torino, e racconta la risposta della Juventus dopo giorni difficili.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T08:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/80/803415b2cbac0c8ab3543137fa317071-16622-oooz0000.jpeg",
+   "id": "c09f3da28dbd",
+   "age_minutes": 3,
+   "also": [],
+   "score": 5.978
+  },
+  {
+   "title": "Via Camarda, arriva un altro attaccante? Il sogno è Tresoldi, ma è molto difficile a gennaio. Se ne riparlerà in estate",
+   "link": "https://www.milannews.it/rassegna-stampa/via-camarda-arriva-attaccante-sogno-tresoldi-difficile-gennaio-riparlera-estate-634879",
+   "summary": "Con l'arrivo ormai definito di Markus Krosche come nuovo Head of Football, il Milan può iniziare a pianficare il suo mercato invernale.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:59:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2b45ced7f0e492ddca0992cd0a64f5c1-23032-oooz0000.jpeg",
+   "id": "9e7a19a25a15",
+   "age_minutes": 4,
+   "also": [],
+   "score": 5.973
+  },
+  {
+   "title": "Tuttosport titola sul Milan: \"Krosche arriva e chiude subito per Gonçalo Inacio\"",
+   "link": "https://www.milannews.it/rassegna-stampa/tuttosport-titola-milan-krosche-arriva-chiude-goncalo-inacio-634877",
+   "summary": "\"Krosche arriva e chiude subito per Gonçalo Inacio\": titola così stamattina Tuttosport che spiega che, dopo aver raggiunto un accordo verbale, nelle prossime settmane verranno sistemati gli ultimi dettagli e poi Markus…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:50:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/49/49ec9302192ae5fd174863253336038d-59408-oooz0000.jpeg",
+   "id": "4070e1433134",
+   "age_minutes": 13,
+   "also": [],
+   "score": 5.921
+  },
+  {
+   "title": "Allegri, è game over? Il risultatista con la media punti da retrocessione tra Milan e Napoli",
+   "link": "https://www.tuttonapoli.net/copertina/allegri-game-over-re-risultati-media-punti-retrocessione-milan-napoli-660761",
    "summary": "La crisi del Napoli di Massimiliano Allegri assume contorni ancora più grotteschi se si allarga lo sguardo anche all'ultima fase della precedente esperienza del tecnico sulla panchina del Milan.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
    "published": "2026-11-02T01:00:17+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b4/b4a9ac34f23cfdf12a356de5a76d88e4-39765-oooz0000.jpeg",
-   "id": "22b9c1fc2b12",
-   "age_minutes": 22,
+   "id": "ade34b806f09",
+   "age_minutes": 423,
    "also": [],
-   "score": 7.073
+   "score": 5.37
   },
   {
    "title": "Krosche, Rabiot e gennaio: I prossimi passi sul mercato. Dove Amorim ha vinto il derby e i retroscena sui recuperi",
@@ -81,37 +268,9 @@
    "published": "2026-11-01T23:00:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f4/f44dfbfa2554d24a9da9d0248dee0b6a-04351-oooz0000.jpeg",
    "id": "673102a3fcbd",
-   "age_minutes": 142,
+   "age_minutes": 543,
    "also": [],
-   "score": 6.456
-  },
-  {
-   "title": "Cabal a Sky: \"Settimana pesante dopo il Genoa, il ritiro è servito tantissimo. Vicino all'addio? \"La mia idea è sempre stata quella di restare\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/cabal-settimana-pesante-genoa-ritiro-servito-tantissimo-addio-la-idea-restare-798986",
-   "summary": "Juan Cabal si gode la vittoria della Juventus contro il Napoli e guarda con fiducia al futuro, dopo una settimana particolarmente difficile per la squadra bianconera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:40:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0d/0d5499850f3dd50cdd12b5be553b3745-70981-oooz0000.jpeg",
-   "id": "cd29e9a8f431",
-   "age_minutes": 162,
-   "also": [],
-   "score": 6.363
-  },
-  {
-   "title": "La Lazio sogna: 2-1 al Cagliari, sola in vetta 16 anni dopo. Gattuso: \"Io mi sarei preso il punto...\"",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/lazio-sogna-2-1-cagliari-sola-vetta-16-dopo-gattuso-io-preso-punto-2289640",
-   "summary": "Risultato finale: Lazio-Cagliari 2-1 Come vola la Lazio di Gattuso: in una gara bloccata e sofferta, i biancocelesti rimontano 2-1 il Cagliari con il gol nel finale di Pinamonti che risulta decisivo dopo la perla di…",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:42:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/95/9540917992bf86806bce0ef0577a3a06-97710-oooz0000.jpeg",
-   "id": "7af262b58930",
-   "age_minutes": 100,
-   "also": [],
-   "score": 6.209
+   "score": 5.024
   },
   {
    "title": "Juventus-Napoli, KO poco prima del match: cambia l’attacco",
@@ -123,23 +282,9 @@
    "published": "2026-11-01T19:25:38+00:00",
    "image": "",
    "id": "33d23c6f7fbb",
-   "age_minutes": 356,
+   "age_minutes": 758,
    "also": [],
-   "score": 5.789
-  },
-  {
-   "title": "Caso Milla, Como \"fortunato\" con il Venezia. Fabregas ammette: \"Sembrava rigore netto\"",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/milla-como-fortunato-venezia-fabregas-ammette-a-rigore-netto-2289782",
-   "summary": "Non si arresta la marcia del Como, che conquista il quarto successo consecutivo in campionato piegando di misura l'ultima della classe e riappropriandosi del quarto posto in classifica di Serie A, a due lunghezze di…",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:36:52+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/67/67aee5ff60e178824ef011ddfab26b4c-87138-oooz0000.jpeg",
-   "id": "24748c7d3b86",
-   "age_minutes": 105,
-   "also": [],
-   "score": 5.783
+   "score": 4.738
   },
   {
    "title": "Lecce-Genoa 1-2, volano i rossoblu di De Rossi",
@@ -151,79 +296,9 @@
    "published": "2026-11-01T19:01:08+00:00",
    "image": "",
    "id": "bac52971e45a",
-   "age_minutes": 381,
+   "age_minutes": 782,
    "also": [],
-   "score": 5.706
-  },
-  {
-   "title": "Lo Scudetto è un affare per tante? L'Inter riaccende la lotta per il tricolore",
-   "link": "https://www.fcinternews.it/focus/scudetto-affare-tante-inter-riaccende-lotta-tricolore-1022210",
-   "summary": "Non è l'Inter più brillante delle ultime stagioni, per utilizzare un eufemismo. Ed ecco che la corsa per il tricolore si riaccende a cavallo tra la fine di ottobre e l'inizio di novembre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T19:22:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/df/df1ed4b7551afb2cc8e4f16c55d4fffb-93505-oooz0000.jpeg",
-   "id": "44a2cf1481f8",
-   "age_minutes": 360,
-   "also": [],
-   "score": 5.578
-  },
-  {
-   "title": "L'editoriale di Chiariello: “Se l'allenatore non si chiamasse Allegri, ne chiederemmo la testa!\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-se-allenatore-chiamasse-allegri-chiederemmo-testa-660762",
-   "summary": "Il giornalista Umberto Chiariello, nel suo consueto editoriale durante 'Campania Sport' su Canale 21, ha commentato duramente la sconfitta del Napoli contro la Juventus, evidenziando la gravità della situazione di…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:00:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
-   "id": "76260909fe06",
-   "age_minutes": 141,
-   "also": [],
-   "score": 5.46
-  },
-  {
-   "title": "Landucci: “Siamo scappati troppo! Se esci bene non prendi gol, non era questa la nostra richiesta”",
-   "link": "https://www.tuttonapoli.net/le-interviste/landucci-siamo-scappati-troppo-esci-prendi-gol-richiesta-660754",
-   "summary": "Il viceallenatore del Napoli Marco Landucci, nel corso dell'intervista ai microfoni di DAZN dopo la sconfitta contro la Juventus, ha analizzato l'atteggiamento della difesa azzurra nell'azione che ha portato al gol dei…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:25:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/05/05ede6f109385799ca24c3e478f30bf0-68817-oooz0000.jpeg",
-   "id": "62c641ae85c3",
-   "age_minutes": 177,
-   "also": [],
-   "score": 5.296
-  },
-  {
-   "title": "VIDEO - Errore clamoroso del portiere: Kostic ne approfitta e regala 3 punti allo Sparta Rotterdam",
-   "link": "https://www.milannews.it/news/video-errore-clamoroso-portiere-kostic-approfitta-regala-3-punti-sparta-rotterdam-634840",
-   "summary": "Andrej Kostic finalmente decisivo in Eredivisie: l'attaccante del Milan in prestito allo Sparta Rotterdam subentra e risulta decisivo al minuto 85 con un gol - il primo in Olanda - facile facile.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T22:48:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d81da52195f4d1219852e464fda07144-96124-oooz0000.jpeg",
-   "id": "340bf0947efd",
-   "age_minutes": 153,
-   "also": [],
-   "score": 5.204
-  },
-  {
-   "title": "Udinese, esonero in arrivo per Runjaic: i possibili sostituti",
-   "link": "https://www.calciomercato.it/2026/11/01/udinese-esonero-in-arrivo-per-runjaic-i-possibili-sostituti/",
-   "summary": "L'articolo Udinese, esonero in arrivo per Runjaic: i possibili sostituti proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-01T16:00:28+00:00",
-   "image": "",
-   "id": "8f1ae16c8023",
-   "age_minutes": 562,
-   "also": [],
-   "score": 5.176
+   "score": 4.692
   },
   {
    "title": "Napoli, Allegri ha scelto il centrocampo e l’attacco contro la Juve: chi gioca",
@@ -235,23 +310,23 @@
    "published": "2026-11-01T14:00:49+00:00",
    "image": "",
    "id": "28b2a618a4bc",
-   "age_minutes": 681,
+   "age_minutes": 1083,
    "also": [],
-   "score": 4.894
+   "score": 4.237
   },
   {
-   "title": "Missione quinta punta: ora l'Inter riflette. Icardi tornerebbe volentieri, però...",
-   "link": "https://www.fcinternews.it/in-primo-piano/missione-quinta-punta-inter-riflette-icardi-tornerebbe-volentieri-pero-1022217",
-   "summary": "L'emergenza legata agli infortuni potrebbe far aprire le porte, in casa Inter, ad una soluzione nuova sul mercato. Ecco perché a fine estate si era parlato di una possibile quinta punta, che poi non è arrivata.",
-   "source": "FcInterNews",
+   "title": "Landucci fa discutere: “Difesa si abbassa? Non è nostra richiesta. Sul gol dovevamo uscire...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/landucci-siamo-scappati-troppo-esci-prendi-gol-richiesta-660754",
+   "summary": "Il viceallenatore del Napoli Marco Landucci, nel corso dell'intervista ai microfoni di DAZN dopo la sconfitta contro la Juventus, ha analizzato l'atteggiamento della difesa azzurra nell'azione che ha portato al gol dei…",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T20:22:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6b/6bc179cf314ce7bd42cc4d35bdcc80de-27001-oooz0000.jpeg",
-   "id": "e1bc90ab262e",
-   "age_minutes": 300,
+   "scope": "Napoli",
+   "published": "2026-11-02T00:15:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/05/05ede6f109385799ca24c3e478f30bf0-68817-oooz0000.jpeg",
+   "id": "62c641ae85c3",
+   "age_minutes": 468,
    "also": [],
-   "score": 4.592
+   "score": 4.233
   },
   {
    "title": "Spalletti cambia ancora la Juve, fuori 2 grandi nomi: la decisione",
@@ -263,9 +338,9 @@
    "published": "2026-11-01T10:56:06+00:00",
    "image": "",
    "id": "e39e633150c8",
-   "age_minutes": 866,
+   "age_minutes": 1267,
    "also": [],
-   "score": 4.545
+   "score": 4.041
   },
   {
    "title": "Bastoni di nuovo nel mirino del Barcellona, i catalani pronti all’assalto del difensore",
@@ -277,9 +352,9 @@
    "published": "2026-11-01T08:48:40+00:00",
    "image": "",
    "id": "dea37c1f331d",
-   "age_minutes": 993,
+   "age_minutes": 1395,
    "also": [],
-   "score": 4.352
+   "score": 3.933
   },
   {
    "title": "Un ex Milan in pole per sostituire Spalletti, la Juventus valuta il cambio in panchina",
@@ -291,9 +366,9 @@
    "published": "2026-11-01T08:01:08+00:00",
    "image": "",
    "id": "5705b2f30687",
-   "age_minutes": 1041,
+   "age_minutes": 1442,
    "also": [],
-   "score": 4.289
+   "score": 3.898
   },
   {
    "title": "L’Inter piomba su Floriani Mussolini: la Lazio prova a resistere. Ma a giugno…",
@@ -305,9 +380,23 @@
    "published": "2026-11-01T06:13:16+00:00",
    "image": "",
    "id": "a7ddf8299b59",
-   "age_minutes": 1149,
+   "age_minutes": 1550,
    "also": [],
-   "score": 4.161
+   "score": 3.826
+  },
+  {
+   "title": "VIDEO - Errore clamoroso del portiere: Kostic ne approfitta e regala 3 punti allo Sparta Rotterdam",
+   "link": "https://www.milannews.it/news/video-errore-clamoroso-portiere-kostic-approfitta-regala-3-punti-sparta-rotterdam-634840",
+   "summary": "Andrej Kostic finalmente decisivo in Eredivisie: l'attaccante del Milan in prestito allo Sparta Rotterdam subentra e risulta decisivo al minuto 85 con un gol - il primo in Olanda - facile facile.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-01T22:48:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d81da52195f4d1219852e464fda07144-96124-oooz0000.jpeg",
+   "id": "340bf0947efd",
+   "age_minutes": 554,
+   "also": [],
+   "score": 3.795
   },
   {
    "title": "Amorim post derby: “Avere Moreira, Gila e Rabiot fa la differenza”",
@@ -319,68 +408,37 @@
    "published": "2026-10-31T22:24:44+00:00",
    "image": "",
    "id": "b9acb2c4c1cb",
-   "age_minutes": 1617,
+   "age_minutes": 2019,
    "also": [],
-   "score": 3.787
+   "score": 3.617
   },
   {
-   "title": "Juventus, Spalletti e la panchina che scotta: “Carnevali è stato chiarissimo”",
-   "link": "https://www.calciomercato.it/2026/10/31/juventus-spalletti-e-la-panchina-che-scotta-carnevali-e-stato-chiarissimo/",
-   "summary": "L'articolo Juventus, Spalletti e la panchina che scotta: “Carnevali è stato chiarissimo” proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-31T17:38:38+00:00",
-   "image": "",
-   "id": "c9c4387a4d59",
-   "age_minutes": 1903,
+   "title": "Missione quinta punta: ora l'Inter riflette. Icardi tornerebbe volentieri, però...",
+   "link": "https://www.fcinternews.it/in-primo-piano/missione-quinta-punta-inter-riflette-icardi-tornerebbe-volentieri-pero-1022217",
+   "summary": "L'emergenza legata agli infortuni potrebbe far aprire le porte, in casa Inter, ad una soluzione nuova sul mercato. Ecco perché a fine estate si era parlato di una possibile quinta punta, che poi non è arrivata.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-01T20:22:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6b/6bc179cf314ce7bd42cc4d35bdcc80de-27001-oooz0000.jpeg",
+   "id": "e1bc90ab262e",
+   "age_minutes": 701,
    "also": [],
-   "score": 3.656
-  },
-  {
-   "title": "Juventus, torna disponibile dopo 2 mesi: finora zero minuti con Spalletti",
-   "link": "https://www.calciomercato.it/2026/10/31/juventus-torna-disponibile-dopo-2-mesi-finora-zero-minuti-con-spalletti/",
-   "summary": "L'articolo Juventus, torna disponibile dopo 2 mesi: finora zero minuti con Spalletti proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-31T17:14:22+00:00",
-   "image": "",
-   "id": "fe7aeed4d4ea",
-   "age_minutes": 1928,
-   "also": [],
-   "score": 3.647
-  },
-  {
-   "title": "Tutti pazzi per Tiago Gabriel: tris d’assi in Serie A, Milan accerchiato",
-   "link": "https://www.calciomercato.it/2026/10/31/tutti-pazzi-per-tiago-gabriel-tris-dassi-in-serie-a-milan-accerchiato/",
-   "summary": "L'articolo Tutti pazzi per Tiago Gabriel: tris d’assi in Serie A, Milan accerchiato proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-31T14:12:02+00:00",
-   "image": "",
-   "id": "5578b778a989",
-   "age_minutes": 2110,
-   "also": [],
-   "score": 3.59
-  },
-  {
-   "title": "Un Martinez tira l’altro: l’Inter sfida due italiane per Lisandro",
-   "link": "https://www.calciomercato.it/2026/10/31/un-martinez-tira-laltro-linter-sfida-due-italiane-per-lisandro/",
-   "summary": "L'articolo Un Martinez tira l’altro: l’Inter sfida due italiane per Lisandro proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-31T14:10:00+00:00",
-   "image": "",
-   "id": "1914b8da3f6d",
-   "age_minutes": 2112,
-   "also": [],
-   "score": 3.589
+   "score": 3.452
   }
  ],
  "raw": [
+  {
+   "title": "Kolo Muani delude, Woltemade non incide: il problema dell'attacco resta",
+   "link": "https://www.tuttojuve.com/altre-notizie/kolo-muani-delude-woltemade-non-incide-il-problema-dellattacco-resta-799009",
+   "summary": "Kolo Muani ha vissuto un'altra serata complicata, senza riuscire a rendersi realmente pericoloso davanti alla porta. Anche Woltemade, pur partecipando al gioco e offrendo alcuni appoggi ai compagni, non ha trovato la giocata decisiva.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T08:00:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6e/6e1c83d24cb58c74a72c908ae9436b75-62279-oooz0000.jpeg",
+   "id": "755105ea014a"
+  },
   {
    "title": "JUVENTUS batte Napoli nonostante Sozza. Bel regalo di compleanno.",
    "link": "https://www.tuttojuve.com/firme-bianconere/juventus-batte-napoli-sozza-bel-regalo-compleanno-798995",
@@ -388,9 +446,155 @@
    "source": "TuttoJuve",
    "source_weight": 0.8,
    "scope": "Juventus",
-   "published": "2026-11-02T00:47:12+00:00",
+   "published": "2026-11-02T08:00:12+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
    "id": "abba3d0c12b3"
+  },
+  {
+   "title": "Bucchioni: \"Spalletti si salva, Allegri un disastro. Ma la Juve non brilla. Kolo Muani bocciato\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/bucchioni-spalletti-si-salva-allegri-un-disastro-ma-la-juve-non-brilla-kolo-muani-bocciato-799005",
+   "summary": "Il collega Bucchioni su tmw. Spalletti respira, ma a salvare la sua panchina sono stati due eurogol di Alajbegovic e Boga.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T07:50:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
+   "id": "6387a8bdd43a"
+  },
+  {
+   "title": "Spalletti avverte! Ansia per McKennie",
+   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-avverte-ansia-mckennie-799013",
+   "summary": "La Juventus torna a sorridere dopo il successo per 2-0 contro il Napoli, ma Luciano Spalletti non nasconde le difficoltà che continuano a condizionare la stagione bianconera.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T07:40:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d1/d1e06ea4416387f5e969352834a1ee5d-53449-oooz0000.jpeg",
+   "id": "894edb24ea82"
+  },
+  {
+   "title": "Juventus-Napoli, le polemiche arbitrali: Cabal e Woltemade chiedono due rigori",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-napoli-le-polemiche-arbitrali-cabal-e-woltemade-chiedono-due-rigori-798996",
+   "summary": "La Juventus batte il Napoli per 2-0, ma il successo bianconero non cancella le discussioni sull'arbitraggio di Simone Sozza.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T07:30:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/26/26b8c2f4c5b05daa28813d992bf2c962-59379-oooz0000.jpeg",
+   "id": "814710a392d9"
+  },
+  {
+   "title": "Spalletti trova la chiave dalla panchina",
+   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-trova-chiave-panchina-799012",
+   "summary": "La Juventus ritrova il successo contro il Napoli e scopre di avere una risorsa importante sulla quale costruire la propria risalita: la capacità dei giocatori subentrati di incidere sulle partite.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T07:20:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/69/6950c3571f809c074343a941b605fb25-25784-oooz0000.jpeg",
+   "id": "e24be719fe98"
+  },
+  {
+   "title": "Juventus, la vittoria contro il Napoli lascia tre interrogativi: McKennie, Cabal e Alajbegovic da valutare",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-vittoria-napoli-lascia-interrogativi-mckennie-cabal-alajbegovic-valutare-799003",
+   "summary": "La Juventus ritrova il sorriso battendo il Napoli per 2-0, ma Luciano Spalletti deve fare i conti con nuove preoccupazioni legate alle condizioni fisiche dei suoi giocatori.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T07:10:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/05/0547cc11038bb6b5c1f4391de113a064-85305-oooz0000.jpeg",
+   "id": "fc4e694d5ee1"
+  },
+  {
+   "title": "Alajbegovic, il talento che accende lo Stadium",
+   "link": "https://www.tuttojuve.com/altre-notizie/alajbegovic-il-talento-che-accende-lo-stadium-799008",
+   "summary": "Il giovane esterno ha disputato una prestazione di grande personalità, creando difficoltà alla difesa del Napoli attraverso accelerazioni, cambi di direzione e iniziative individuali.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T07:00:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7fc6ef8c722a7843d85475df8beea52e-90065-oooz0000.jpeg",
+   "id": "0afc8afb9274"
+  },
+  {
+   "title": "Juventus, Cabal e la risposta che serviva: più solidità e attenzione",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-cabal-e-la-risposta-che-serviva-piu-solidita-e-attenzione-798994",
+   "summary": "La vittoria della Juventus contro il Napoli riporta al centro dell'attenzione anche il tema della solidità difensiva.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T06:45:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0d/0d5499850f3dd50cdd12b5be553b3745-70981-oooz0000.jpeg",
+   "id": "ec0565a624e7"
+  },
+  {
+   "title": "Koop da rosso?",
+   "link": "https://www.tuttojuve.com/altre-notizie/koop-rosso-799014",
+   "summary": "La Juventus supera il Napoli per 2-0 grazie alle reti di Alajbegovic e Boga, ma la sfida dell'Allianz Stadium lascia spazio a diverse discussioni sulla direzione arbitrale di Simone Sozza.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T06:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c1/c12f916b6d4c0d30d89b59fe8f752cdf-67751-566o614o1590o1638z1138.jpeg",
+   "id": "f198431f1a4a"
+  },
+  {
+   "title": "Un colpo d’Ala e la Juve si rialza",
+   "link": "https://www.tuttojuve.com/altre-notizie/colpo-d-ala-juve-rialza-799007",
+   "summary": "La Juventus rialza la testa nel momento più difficile della stagione. Dopo le sconfitte contro Lazio e Genoa, la squadra di Luciano Spalletti ritrova la vittoria battendo il Napoli per 2-0 all'Allianz Stadium.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T06:15:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c6a6f5b88ae70cfc6ef005511fe3b30-73156-oooz0000.jpeg",
+   "id": "ec118bb26a7b",
+   "age_minutes": 108,
+   "also": [],
+   "score": 6.62
+  },
+  {
+   "title": "Lampi di Juve, il Napoli non c’è",
+   "link": "https://www.tuttojuve.com/altre-notizie/lampi-juve-napoli-c-e-799010",
+   "summary": "La Juventus torna a vincere e, soprattutto, dimostra di essere ancora dalla parte di Luciano Spalletti. Il 2-0 contro il Napoli rappresenta una risposta importante dopo giorni di tensioni, risultati negativi e contestazioni.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T06:00:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/36/3671066a0262600e64dce8b6c25f16ce-30581-oooz0000.jpeg",
+   "id": "89766391ebc3"
+  },
+  {
+   "title": "Formula 1, Kimi Antonelli campione del mondo 2026: l'Italia torna sul tetto del mondo dopo 73 anni",
+   "link": "https://www.tuttojuve.com/altre-notizie/formula-1-kimi-antonelli-campione-del-mondo-2026-litalia-torna-sul-tetto-del-mondo-dopo-73-anni-799004",
+   "summary": "Un'impresa destinata a entrare nella storia dello sport italiano. Andrea Kimi Antonelli è campione del mondo di Formula 1 2026.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T05:45:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7e/7e01d888884d5a40b1b64dc75a60ff52-93982-oooz0000.jpeg",
+   "id": "4a300402896a"
+  },
+  {
+   "title": "Juventus, il ritiro deve continuare fino alla Fiorentina: vietato fermarsi dopo una vittoria",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-il-ritiro-deve-continuare-fino-alla-fiorentina-vietato-fermarsi-dopo-una-vittoria-798999",
+   "summary": "La Juventus ha battuto il Napoli, ha ritrovato i tre punti e soprattutto ha dimostrato di possedere ancora carattere e determinazione.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T05:40:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b7/b70228a21ed509d748cf0181b11a56e5-34138-oooz0000.jpeg",
+   "id": "cceae343c5a7"
+  },
+  {
+   "title": "Ki-mitico",
+   "link": "https://www.tuttojuve.com/altre-notizie/ki-mitico-799006",
+   "summary": "Andrea Kimi Antonelli è il volto di una nuova generazione della Formula 1.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-02T05:30:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a8/a80fe29739d38b2dc42b8951c644daa1-64179-oooz0000.jpeg",
+   "id": "34cd54d94c17"
   },
   {
    "title": "Vicario, la parata che vale quanto un gol",
@@ -448,161 +652,291 @@
    "id": "1cde1bdeb6f8"
   },
   {
-   "title": "Woltemade, tanto lavoro ma manca il gol: il centravanti deve crescere",
-   "link": "https://www.tuttojuve.com/altre-notizie/woltemade-lavoro-manca-gol-centravanti-crescere-798984",
-   "summary": "Nick Woltemade parte titolare contro il Napoli e rappresenta uno degli elementi più interessanti nelle scelte offensive di Luciano Spalletti.",
-   "source": "TuttoJuve",
+   "title": "\"Spalletti mette Allegri nei guai\": la prima di Tuttosport",
+   "link": "https://www.tuttonapoli.net/brevi/spalletti-mette-allegri-guai-tuttosport-660786",
+   "summary": "“Un colpo d’ala e la Juve si rialza”. È il titolo con cui Tuttosport apre la prima pagina dopo il 2-0 di Torino, e racconta la risposta della Juventus dopo giorni difficili.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:40:45+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1e/1e42597e6aab9fa3caa58910fe77a58b-69375-oooz0000.jpeg",
-   "id": "2effe1021551"
-  },
-  {
-   "title": "Gatti, una risposta di carattere: la Juventus ritrova aggressività",
-   "link": "https://www.tuttojuve.com/altre-notizie/gatti-risposta-carattere-juventus-ritrova-aggressivita-798983",
-   "summary": "Federico Gatti torna a trovare spazio nella Juventus in una partita nella quale servono soprattutto attenzione, aggressività e capacità di resistere nei momenti complicati Contro il Napoli, il difensore bianconero viene chiamato in caus ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:30:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c9/c942d3a8b5507dc866df2c6b7cf18685-82716-oooz0000.jpeg",
-   "id": "9c44d14a01e9"
-  },
-  {
-   "title": "Spalletti a Sky: \"Il 4-4-2? Non abbiamo altri giocatori a disposizione. Non abbiamo fatto una partita straordinaria, ma abbiamo meritato. Il ritiro è servito\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/spalletti-sky-il-4-4-2-giocatori-disposizione-partita-straordinaria-meritato-ritiro-servito-799000",
-   "summary": "Luciano Spalletti ritrova il successo contro il Napoli e sottolinea soprattutto la reazione caratteriale della Juventus, arrivata dopo giorni difficili e un ritiro che ha permesso alla squadra di ritrovare compattezza.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:25:10+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c7/c790ab93ab183323f72b9a8d37fe4839-75502-oooz0000.jpeg",
-   "id": "c41fbed567b8"
-  },
-  {
-   "title": "Boga, l'arma in più: entra e chiude la partita",
-   "link": "https://www.tuttojuve.com/altre-notizie/boga-l-arma-in-piu-entra-e-chiude-la-partita-798977",
-   "summary": "Jeremie Boga manda un messaggio importante a Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:20:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/b8/b84673a28c6eba32215524a421198685-42434-oooz0000.jpeg",
-   "id": "b2df67aba3ca"
-  },
-  {
-   "title": "Juventus, la forza del gruppo: la risposta più importante dopo Genova",
-   "link": "https://www.tuttojuve.com/primo-piano/juventus-la-forza-del-gruppo-la-risposta-piu-importante-dopo-genova-798998",
-   "summary": "La Juventus batte il Napoli 2-0, ma il risultato racconta soltanto una parte della serata dell'Allianz Stadium, la notizia più importante è probabilmente un'altra: la squadra di Luciano Spalletti ha mostrato una reazione collett ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:16:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/33/3396835aa752868f298d75e4a6f2607c-70674-oooz0000.jpeg",
-   "id": "6e19408ce7b2"
-  },
-  {
-   "title": "Juventus-Napoli, i tre migliori bianconeri: Alajbegovic, Vicario e Boga",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-napoli-i-tre-migliori-bianconeri-alajbegovic-vicario-e-boga-798993",
-   "summary": "La Juventus ritrova la vittoria e lo fa nella partita più delicata, battendo il Napoli per 2-0 all'Allianz Stadium. Un successo che restituisce fiducia alla squadra di Luciano Spalletti dopo le delusioni contro Lazio e Genoa.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:10:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/2a/2a54d46d3efd7f14131830a488bab4d9-18687-oooz0000.jpeg",
-   "id": "8d908a6968d0"
-  },
-  {
-   "title": "Spalletti in conferenza: “I ragazzi hanno vinto meritatamente con enormi difficoltà. Siamo in 13, McKennie, Alajbegovic e Cabal dovranno essere valutati”",
-   "link": "https://www.tuttojuve.com/primo-piano/spalletti-conferenza-798881",
-   "summary": "Luciano Spalletti ha parlato in conferenza stampa dopo la gara contro il Napoli. Ecco le sue parole riprese da TuttoJuve.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:09:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f5/f535597bc7124e8a8cea1787297dbbfc-66110-oooz0000.jpeg",
-   "id": "dc925dc1c188"
-  },
-  {
-   "title": "Alajbegovic, la notte della consacrazione: gol e personalità contro il Napoli",
-   "link": "https://www.tuttojuve.com/altre-notizie/alajbegovic-798975",
-   "summary": "Kerim Alajbegovic si prende la Juventus e lo fa nella partita più delicata.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T23:00:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7fc6ef8c722a7843d85475df8beea52e-90065-oooz0000.jpeg",
-   "id": "585834c7b238"
-  },
-  {
-   "title": "Koopmeiners a DAZN: \"Alajbegovic ha fatto molto bene. Quella col Genoa non era la vera Juve\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/koopmeiners-dazn-alajbegovic-bene-798991",
-   "summary": "Teun Koopmeiners ha parlato ai microfoni di DAZN dopo la vittoria della Juventus sul Napoli. Le sue considerazioni: Puoi dirci qualcosa su Alajbegovic? \"Sì, lui è un bravo ragazzo, abbiamo bisogno di questa energia.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:54:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/cc/cc377f70af5c00409699f2bf0363501e-48864-oooz0000.jpeg",
-   "id": "dbb358100f56"
-  },
-  {
-   "title": "Alajbegovic a DAZN: \"Molto contento per il primo gol, anche perchè la squadra ha vissuto settimane difficili. Spalletti grande allenatore, mi aiuta a migliorare\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/alajbegovic-dazn-molto-contento-gol-squadra-vissuto-settimane-difficili-798990",
-   "summary": "Kerim Alajbegovic è stato intervistato da DAZN dopo Juventus-Napoli, gara vinta dai bianconeri anche grazie al suo magnifico gol dell'1-0, prima del sigillo finale di Boga.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:50:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4c/4c6a6f5b88ae70cfc6ef005511fe3b30-73156-oooz0000.jpeg",
-   "id": "0e36e486563b"
-  },
-  {
-   "title": "Napoli, Di Lorenzo a DAZN: \"Momento difficile, manca continuità. Spalletti? È sempre bello rivederlo\"",
-   "link": "https://www.tuttojuve.com/l-avversario/napoli-lorenzo-momento-difficile-manca-continuita-spalletti-bello-rivederlo-798989",
-   "summary": "Giovanni Di Lorenzo non nasconde la delusione per la sconfitta del Napoli contro la Juventus.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:43:04+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6c/6c84f5cf53404e1273c4327056adc759-05486-oooz0000.jpeg",
-   "id": "046b17aafe62"
-  },
-  {
-   "title": "Cabal a Sky: \"Settimana pesante dopo il Genoa, il ritiro è servito tantissimo. Vicino all'addio? \"La mia idea è sempre stata quella di restare\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/cabal-settimana-pesante-genoa-ritiro-servito-tantissimo-addio-la-idea-restare-798986",
-   "summary": "Juan Cabal si gode la vittoria della Juventus contro il Napoli e guarda con fiducia al futuro, dopo una settimana particolarmente difficile per la squadra bianconera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:40:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/0d/0d5499850f3dd50cdd12b5be553b3745-70981-oooz0000.jpeg",
-   "id": "cd29e9a8f431",
-   "age_minutes": 162,
+   "scope": "Napoli",
+   "published": "2026-11-02T08:00:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/80/803415b2cbac0c8ab3543137fa317071-16622-oooz0000.jpeg",
+   "id": "c09f3da28dbd",
+   "age_minutes": 3,
    "also": [],
-   "score": 6.363
+   "score": 5.978
   },
   {
-   "title": "Meret in conferenza: “Oggi sono mancati i dettagli”",
-   "link": "https://www.tuttojuve.com/altre-notizie/giocatore-napoli-conferenza-798887",
-   "summary": "Alex Meret ha parlato in conferenza stampa dopo la gara con la Juventus. Tuttojuve.",
-   "source": "TuttoJuve",
+   "title": "Moviola quotidiani, Sozza bocciato: \"Manca un rosso per la Juventus\"",
+   "link": "https://www.tuttonapoli.net/rassegna-stampa/moviola-quotidiani-sozza-bocciato-manca-rosso-juventus-660785",
+   "summary": "Pagelle poco generose per Sozza, l’arbitro di Juventus-Napoli. Il Corriere dello Sport gli assegna un 5, parlando di una gara “non pulitissima”, con un primo quarto d’ora definito “un incubo”.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:31:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/db/db67966fabbd89b6b24d7142e692990f-70094-0o0o1091o1091z0886.jpeg",
-   "id": "697d6a2e1aa3"
+   "scope": "Napoli",
+   "published": "2026-11-02T07:50:51+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c1/c12f916b6d4c0d30d89b59fe8f752cdf-67751-oooz0000.jpeg",
+   "id": "00044002427e"
   },
   {
-   "title": "Falci: \"Respira la Juventus e respira Spalletti. Alajbegovic merita di giocare e la fiducia del tecnico. Ha avuto ragione Max Allegri...\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/falci-respira-juventus-respira-spalletti-alajbegovic-merita-giocare-fiducia-tecnico-ragione-max-alle-798974",
-   "summary": "La Juventus ritrova il successo e Luciano Spalletti può finalmente respirare.",
-   "source": "TuttoJuve",
+   "title": "Napoli ko contro la Juve, la reazione di Allegri: il gesto a fine partita",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/napoli-ko-juve-reazione-allegri-gesto-partita-660784",
+   "summary": "Come avrà reagito Massimiliano Allegri in tribuna vedendo un’altra sconfitta del suo Napoli? Lo 0-2 dello Stadium contro la Juventus ha lasciato un finale amaro, e l’edizione odierna de La Gazzetta dello Sport ha svelato l’um ...",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-01T22:30:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c2/c29d7404922ec7dbfa8618ae58beb825-42479-oooz0000.jpeg",
-   "id": "81bbe0b2469b"
+   "scope": "Napoli",
+   "published": "2026-11-02T07:40:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ec/ec8961ed9e08853317865400e0bf0a4a-67911-oooz0000.jpeg",
+   "id": "301ba9cba977"
+  },
+  {
+   "title": "“Kimi mitico: campione da record\": la prima de La Gazzetta dello Sport",
+   "link": "https://www.tuttonapoli.net/brevi/kimi-mitico-campione-record-de-gazzetta-sport-660783",
+   "summary": "“Kimi mitico”. È il titolo che 'La Gazzetta dello Sport' mette in apertura di prima pagina per celebrare Antonelli, che a 20 anni diventa il più giovane campione del mondo di Formula 1 di sempre.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T07:30:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ef/efb871e5392ea3b5e3359f36fd5609c8-92184-oooz0000.jpeg",
+   "id": "f0f11e563f28"
+  },
+  {
+   "title": "Napoli, notte da dimenticare a Torino: ecco cosa non si è visto in tv",
+   "link": "https://www.tuttonapoli.net/notizie/napoli-notte-dimenticare-torino-tv-660780",
+   "summary": "La sconfitta per la squadra di Allegri resta amara, amarissima.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T07:20:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/d3/d37f0c4c142069f49da0405bc1247a87-32964-oooz0000.jpeg",
+   "id": "237131fa15d7"
+  },
+  {
+   "title": "Corriere dello Sport-Stadio in prima dedica spazio a Kimi: \"L'Italiano\"",
+   "link": "https://www.tuttonapoli.net/brevi/corriere-sport-stadio-dedica-spazio-kimi-l-italiano-660782",
+   "summary": "“L’italiano”: è il titolo con cui il Corriere dello Sport apre la prima pagina per celebrare Kimi Antonelli, campione del mondo di Formula 1.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T07:10:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/82/824f9b9162856718f3eaa72da0825e23-41306-oooz0000.jpeg",
+   "id": "bd94419a31b0"
+  },
+  {
+   "title": "Infortunio De Bruyne, a rischio la sfida col Porto: cosa filtra da Torino",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/infortunio-de-bruyne-rischio-sfida-porto-filtra-torino-660779",
+   "summary": "Infortunio per De Bruyne contro la Juventus.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T07:00:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/74/7489e510496dfca051c52729978f09e8-68439-oooz0000.jpeg",
+   "id": "52e5c34a7e69"
+  },
+  {
+   "title": "Napoli in emergenza totale: altri cinque forfait da Torino, il lungo elenco",
+   "link": "https://www.tuttonapoli.net/in-primo-piano/napoli-emergenza-totale-forfait-torino-elenco-660781",
+   "summary": "Serata da dimenticare per il Napoli sul fronte delle condizioni fisiche. Giovanni Di Lorenzo è uscito all’intervallo per un risentimento all’adduttore, aggiungendo un’altra incognita alla lista degli indisponibili.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T06:45:19+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c33e498648fe181afcd7772ebb5d0377-27804-oooz0000.jpeg",
+   "id": "a3f736f89b3b"
+  },
+  {
+   "title": "Radio Tutto Napoli, il palinsesto di oggi: si parte live dalle 7",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-live-8-657597",
+   "summary": "Lunga giornata nel day after di Juventus-Napoli da vivere con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T06:30:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "f88d2ca230a8"
+  },
+  {
+   "title": "Auriemma: “Allegri superato ma si sapeva già, ora ADL passi la mano…”",
+   "link": "https://www.tuttonapoli.net/dai-social/auriemma-allegri-superato-sapeva-gia-adl-passi-mano-660770",
+   "summary": "Il giornalista Raffaele Auriemma, attraverso un lungo messaggio pubblicato sul proprio account X, ha espresso un giudizio durissimo sulla situazione del Napoli, reduce dalla sconfitta contro la Juventus.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T06:15:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5c/5c930ea8ef25a23712abf219363d9974-10782-oooz0000.jpeg",
+   "id": "22069369f76f"
+  },
+  {
+   "title": "Calcio in Tv, le gare trasmesse oggi: termina la 10ª giornata di Serie A",
+   "link": "https://www.tuttonapoli.net/brevi/calcio-tv-gare-trasmesse-oggi-termina-10a-giornata-serie-660775",
+   "summary": "Il programma del calcio in TV di oggi, lunedì 2 novembre, propone due sfide di Serie A che completano la decima giornata di campionato. Si parte alle 18.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T06:00:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "20d01b33b584"
+  },
+  {
+   "title": "Esplode la rabbia dei tifosi dopo il ko con la Juve: #AllegriOut spopola sui social",
+   "link": "https://www.tuttonapoli.net/dai-social/esplode-rabbia-tifosi-ko-juve-allegriout-spopola-social-660746",
+   "summary": "La sconfitta per 2-0 contro la Juventus all'Allianz Stadium scatena la furia dei tifosi del Napoli, sempre più delusi dall'andamento della squadra di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T05:30:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e3/e3ed8d451d6b224ee44e95c8440f18ac-48143-oooz0000.jpeg",
+   "id": "3c2392e0e62d"
+  },
+  {
+   "title": "Juve-Napoli, il match-analyst Galardo: \"Zero gioco tra le linee, solo lanci lunghi!\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/juve-napoli-match-analyst-galardo-non-gioca-linee-lanci-lunghi-660773",
+   "summary": "Il match analyst Francesco Galardo, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania, ha analizzato le difficoltà ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T05:00:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/55/5552172da6d2d044cac9256a811fee4c-29413-oooz0000.jpeg",
+   "id": "0a4fe7da4563"
+  },
+  {
+   "title": "Giuliani: “Allegri da esonerare! Manca gioco ed ha tradito il DNA del Napoli…”",
+   "link": "https://www.tuttonapoli.net/dai-social/giuliani-allegri-esonerare-manca-gioco-tradito-dna-napoli-660768",
+   "summary": "La sconfitta del Napoli contro la Juventus alimenta le critiche nei confronti di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T04:00:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/04/047a8fa5ea82ea60441b4946273b3c76-16365-oooz0000.jpeg",
+   "id": "eab662159571"
+  },
+  {
+   "title": "Sky, Marchegiani: “Allegri senza alternative, non mi sento di muovere critiche”",
+   "link": "https://www.tuttonapoli.net/le-interviste/sky-marchegiani-allegri-alternative-sento-muovere-critiche-660774",
+   "summary": "L'ex portiere Luca Marchegiani, intervenuto ai microfoni di 'Sky Calcio Club', ha analizzato la sconfitta del Napoli contro la Juventus, invitando a non esprimere giudizi troppo severi sulla prestazione degli azzurri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T03:00:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26df2cecb1fc465efec91069b3919149-66168-oooz0000.jpeg",
+   "id": "c6516ea19118"
+  },
+  {
+   "title": "Juventus-Napoli, le pagelle di Caporale: \"Marianucci disastroso, squadra che si scioglie!\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/juventus-napoli-pagelle-caporale-marianucci-disastroso-squadra-scioglie-660771",
+   "summary": "Il giornalista Carlo Caporale, intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania, ha analizzato la pesante sconfitta degli az ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T02:00:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a02463d5ffba12e42e2351d28631354-36371-oooz0000.jpeg",
+   "id": "98b0fffaeb52"
+  },
+  {
+   "title": "L'editoriale di Chiariello: “2T raccapricciante! Con altri allenatori chiederemmo l'esonero!\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-se-allenatore-chiamasse-allegri-chiederemmo-testa-660762",
+   "summary": "Il giornalista Umberto Chiariello, nel suo consueto editoriale durante 'Campania Sport' su Canale 21, ha commentato duramente la sconfitta del Napoli contro la Juventus, evidenziando la gravità della situazione di classifica e la manca ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T01:30:53+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
+   "id": "76260909fe06"
+  },
+  {
+   "title": "Allegri, è game over? Il risultatista con la media punti da retrocessione tra Milan e Napoli",
+   "link": "https://www.tuttonapoli.net/copertina/allegri-game-over-re-risultati-media-punti-retrocessione-milan-napoli-660761",
+   "summary": "La crisi del Napoli di Massimiliano Allegri assume contorni ancora più grotteschi se si allarga lo sguardo anche all'ultima fase della precedente esperienza del tecnico sulla panchina del Milan.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T01:00:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b4/b4a9ac34f23cfdf12a356de5a76d88e4-39765-oooz0000.jpeg",
+   "id": "ade34b806f09",
+   "age_minutes": 423,
+   "also": [],
+   "score": 5.37
+  },
+  {
+   "title": "Allegri out? Gaito: “Basta polvere sotto al tappeto, nulla giustifica la metà classifica…”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/juve-napoli-gaito-allegri-esonerare-giustifica-meta-classifica-660772",
+   "summary": "Il direttore Antonio Gaito, intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania, ha espresso forti perplessità sulla ges ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T00:15:20+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c9e2d6cf318f69043a3deb24a27c942d-93341-oooz0000.jpeg",
+   "id": "1d0b715e4f10"
+  },
+  {
+   "title": "Landucci fa discutere: “Difesa si abbassa? Non è nostra richiesta. Sul gol dovevamo uscire...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/landucci-siamo-scappati-troppo-esci-prendi-gol-richiesta-660754",
+   "summary": "Il viceallenatore del Napoli Marco Landucci, nel corso dell'intervista ai microfoni di DAZN dopo la sconfitta contro la Juventus, ha analizzato l'atteggiamento della difesa azzurra nell'azione che ha portato al gol dei…",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-02T00:15:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/05/05ede6f109385799ca24c3e478f30bf0-68817-oooz0000.jpeg",
+   "id": "62c641ae85c3",
+   "age_minutes": 468,
+   "also": [],
+   "score": 4.233
+  },
+  {
+   "title": "CdS - Feyenoord-Inter, difesa obbligata e novità negli altri due reparti",
+   "link": "https://www.fcinternews.it/rassegna/i-cds-i-feyenoord-inter-difesa-obbligata-novita-reparti-1022231",
+   "summary": "Sarà ancora un'Inter con qualche difficoltà di formazione quella che domani affronterà il Feyenoord a Rotterdam.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-02T07:56:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8b23253b7466a7c58ca1313eed1c3ed8-94310-1416o372o2184o1140z13f8.jpeg",
+   "id": "d24096c31d76"
+  },
+  {
+   "title": "CdS - Inter post-derby: l'esempio dell'anno scorso. Ma quanto manca Lautaro",
+   "link": "https://www.fcinternews.it/focus/i-cds-i-inter-post-derby-scorso-manca-lautaro-1022230",
+   "summary": "La sconfitta nel derby di Milano non è purtroppo una novità guardando alle ultime stagioni. Ma come ricorda il Corriere dello Sport, lo scorso anno l'Inter ha trovato il modo di reagire nel modo giusto.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-02T07:42:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/98/980cee8248d9f6093e97b5b47a54a1cc-73122-oooz0000.jpeg",
+   "id": "e63867a10d18"
+  },
+  {
+   "title": "TS - Inter, riflessioni sulla quinta punta: no a Icardi, tre nomi \"azzurri\" sul taccuino",
+   "link": "https://www.fcinternews.it/focus/i-ts-i-inter-riflessioni-quinta-punta-icardi-nomi-azzurri-taccuino-1022228",
+   "summary": "Nell'Inter torna d'attualità il nodo della possibile quinta punta. La domanda è stata fatta esplicitamente a Cristian Chivu in conferenza stampa e un'apertura è arrivata.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-02T07:28:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7e/7e9530dd08d730c4e0f02c7d7d648641-16489-oooz0000.jpeg",
+   "id": "b646bf9eed2c"
+  },
+  {
+   "title": "GdS - Feyenoord-Inter, conferme e novità: le probabili scelte di Chivu",
+   "link": "https://www.fcinternews.it/copertina/i-gds-i-feyenoord-inter-conferme-novita-probabili-scelte-chivu-1022227",
+   "summary": "E' già tempo di tornare in campo. Domani c'è Feyenoord-Inter di Champions League e per sperare ancora negli ottavi diretti i nerazzurri devono dare seguito alla vittoria contro lo Shakhtar Donetsk.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-02T07:14:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fde886beaf1e09fe9e99856aa9fe1faf-00861-oooz0000.jpeg",
+   "id": "3d0a949f3959"
+  },
+  {
+   "title": "GdS - Testa ai contratti, approcci, mercato: cosa non va nell'Inter. Confronto Chivu-giocatori: è emerso che...",
+   "link": "https://www.fcinternews.it/in-primo-piano/i-gds-i-testa-contratti-approcci-mercato-inter-confronto-chivu-giocatori-emerso-che-1022226",
+   "summary": "La Gazzetta dello Sport prova oggi ad inquadrare i problemi dell'Inter, reduce dal quarto derby perso consecutivo, sebbene in una situazione di classifica ancora ottima (è seconda a -3 dalla vetta), ma con dei difetti…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-02T07:00:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d8/d899e784be85a4761bd1ae5669ab1f11-46221-oooz0000.jpeg",
+   "id": "1d98376937ad",
+   "age_minutes": 62,
+   "also": [],
+   "score": 6.852
   },
   {
    "title": "Pioli: \"Un capitano come Lautaro è la fortuna di ogni allenatore\"",
@@ -757,9 +1091,9 @@
    "published": "2026-11-01T20:22:16+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6b/6bc179cf314ce7bd42cc4d35bdcc80de-27001-oooz0000.jpeg",
    "id": "e1bc90ab262e",
-   "age_minutes": 300,
+   "age_minutes": 701,
    "also": [],
-   "score": 4.592
+   "score": 3.452
   },
   {
    "title": "Padalino (Noi Moderati): \"No all'invito per il Generali Stadium, ecco perché\"",
@@ -773,62 +1107,37 @@
    "id": "21ec13090d9c"
   },
   {
-   "title": "Elezioni FIGC, la nota di Cagliari, Sassuolo e Venezia: \"Ancora indecisi\"",
-   "link": "https://www.fcinternews.it/news/elezioni-figc-nota-cagliari-sassuolo-venezia-ancora-indecisi-1022174",
-   "summary": "In vista delle prossime elezioni a nuovo Presidente della FIGC, i due candidati, il presidente uscente e attuale commissario Giovanni Malagò e lo sfidante Adriano Galliani, stanno facendo la conta dell'appoggio dei vari club di Serie A in ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T19:50:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/74/7483bdfa64553d9a3fb759c50fc9bfa5-61983-oooz0000.jpeg",
-   "id": "4f3e80363846"
+   "title": "Esonero Runjaic in arrivo, l’Udinese ha già deciso il sostituto",
+   "link": "https://www.calciomercato.it/2026/11/02/esonero-runjaic-in-arrivo-ludinese-ha-gia-deciso-il-sostituto/",
+   "summary": "L'articolo Esonero Runjaic in arrivo, l’Udinese ha già deciso il sostituto proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-02T08:00:51+00:00",
+   "image": "",
+   "id": "a39b801d8c33",
+   "age_minutes": 3,
+   "also": [
+    {
+     "source": "Calciomercato.it",
+     "link": "https://www.calciomercato.it/2026/11/01/udinese-esonero-in-arrivo-per-runjaic-i-possibili-sostituti/"
+    }
+   ],
+   "score": 7.982
   },
   {
-   "title": "Milan, De Winter: \"Cambi tattici dell'Inter? Quando siamo concentrati, possiamo fare sempre bene\"",
-   "link": "https://www.fcinternews.it/il-resto-della-a/milan-de-winter-cambi-tattici-inter-concentrati-possiamo-bene-1022211",
-   "summary": "Koni De Winter, difensore del Milan, ha parlato anche a TeleLombardia dopo il successo contro l'Inter: \"Oggi (ieri, ndr) abbiamo giocato da gruppo sono veramente contento che abbiamo vinto questa partita.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T19:36:05+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/77/77429c332091527a53a5fe960b3c7a3b-09536-626o0o1517o891z0bda.jpeg",
-   "id": "379c5d84c441"
-  },
-  {
-   "title": "Lo Scudetto è un affare per tante? L'Inter riaccende la lotta per il tricolore",
-   "link": "https://www.fcinternews.it/focus/scudetto-affare-tante-inter-riaccende-lotta-tricolore-1022210",
-   "summary": "Non è l'Inter più brillante delle ultime stagioni, per utilizzare un eufemismo. Ed ecco che la corsa per il tricolore si riaccende a cavallo tra la fine di ottobre e l'inizio di novembre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T19:22:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/df/df1ed4b7551afb2cc8e4f16c55d4fffb-93505-oooz0000.jpeg",
-   "id": "44a2cf1481f8",
-   "age_minutes": 360,
+   "title": "Ora il Milan non si ferma più, tre colpi in vista di gennaio",
+   "link": "https://www.calciomercato.it/2026/11/02/ora-il-milan-non-si-ferma-piu-tre-colpi-in-vista-di-gennaio/",
+   "summary": "L'articolo Ora il Milan non si ferma più, tre colpi in vista di gennaio proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-02T06:19:23+00:00",
+   "image": "",
+   "id": "f67177751ca6",
+   "age_minutes": 104,
    "also": [],
-   "score": 5.578
-  },
-  {
-   "title": "Il Lecce ci mette tanta generosità, ma non basta: al Via del Mare esulta il Genoa",
-   "link": "https://www.fcinternews.it/il-resto-della-a/lecce-mette-tanta-generosita-basta-via-mare-esulta-genoa-1022215",
-   "summary": "Il Genoa ottiene la prima vittoria in trasferta in questo campionato di Serie A, espugnando il Via del Mare di Lecce al termine di un ottimo primo tempo.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T19:07:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/08/089041c11c5b58f50ae5502f9dce2934-94626-oooz0000.jpeg",
-   "id": "634bf1bf88c0"
-  },
-  {
-   "title": "Inter, la mancata fame... nei numeri di Modric: a 41 anni domina in mezzo al campo",
-   "link": "https://www.fcinternews.it/copertina/inter-mancata-fame-numeri-modric-41-domina-campo-1022209",
-   "summary": "La mancata fame agonistica dei giocatori dell'Inter viene messa a confronto con i numeri di Luka Modric nel derby di Milano.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-01T18:53:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/27/27c0c9355d41ac201cb178585f55b415-01221-824o0o1715o890z0d65.jpeg",
-   "id": "f0c474392d5a"
+   "score": 6.84
   },
   {
    "title": "PAGELLE e TABELLINO Juventus-Napoli 2-0: Alajbegovic rilancia Spalletti, De Bruyne non inventa",
@@ -851,9 +1160,9 @@
    "published": "2026-11-01T20:59:29+00:00",
    "image": "",
    "id": "4a4ed92e9a63",
-   "age_minutes": 263,
+   "age_minutes": 664,
    "also": [],
-   "score": 8.135
+   "score": 6.932
   },
   {
    "title": "Addio Juve, può finire alla Fiorentina per 15 milioni di euro",
@@ -865,9 +1174,9 @@
    "published": "2026-11-01T20:38:15+00:00",
    "image": "",
    "id": "4ef2ac61c826",
-   "age_minutes": 284,
+   "age_minutes": 685,
    "also": [],
-   "score": 8.053
+   "score": 6.886
   },
   {
    "title": "Juventus-Napoli, KO poco prima del match: cambia l’attacco",
@@ -879,9 +1188,9 @@
    "published": "2026-11-01T19:25:38+00:00",
    "image": "",
    "id": "33d23c6f7fbb",
-   "age_minutes": 356,
+   "age_minutes": 758,
    "also": [],
-   "score": 5.789
+   "score": 4.738
   },
   {
    "title": "Lecce-Genoa 1-2, volano i rossoblu di De Rossi",
@@ -893,9 +1202,9 @@
    "published": "2026-11-01T19:01:08+00:00",
    "image": "",
    "id": "bac52971e45a",
-   "age_minutes": 381,
+   "age_minutes": 782,
    "also": [],
-   "score": 5.706
+   "score": 4.692
   },
   {
    "title": "Juve, sfumato in extremis l’acquisto di un top assoluto: tutta la verità",
@@ -907,9 +1216,9 @@
    "published": "2026-11-01T17:29:58+00:00",
    "image": "",
    "id": "d6f49b14f5f4",
-   "age_minutes": 472,
+   "age_minutes": 873,
    "also": [],
-   "score": 7.421
+   "score": 6.532
   },
   {
    "title": "Udinese, esonero in arrivo per Runjaic: i possibili sostituti",
@@ -921,9 +1230,10 @@
    "published": "2026-11-01T16:00:28+00:00",
    "image": "",
    "id": "8f1ae16c8023",
-   "age_minutes": 562,
-   "also": [],
-   "score": 5.176
+   "_kw": 1.6,
+   "_fresh": 0.24876280207339851,
+   "_fp": "udinese esonero arrivo runjaic possibili sostituti",
+   "age_minutes": 963
   },
   {
    "title": "Napoli, Allegri ha scelto il centrocampo e l’attacco contro la Juve: chi gioca",
@@ -935,9 +1245,9 @@
    "published": "2026-11-01T14:00:49+00:00",
    "image": "",
    "id": "28b2a618a4bc",
-   "age_minutes": 681,
+   "age_minutes": 1083,
    "also": [],
-   "score": 4.894
+   "score": 4.237
   },
   {
    "title": "Spalletti cambia ancora la Juve, fuori 2 grandi nomi: la decisione",
@@ -949,9 +1259,9 @@
    "published": "2026-11-01T10:56:06+00:00",
    "image": "",
    "id": "e39e633150c8",
-   "age_minutes": 866,
+   "age_minutes": 1267,
    "also": [],
-   "score": 4.545
+   "score": 4.041
   },
   {
    "title": "Lazio-Cagliari, probabili formazioni: un dubbio in difesa per Gattuso",
@@ -974,9 +1284,9 @@
    "published": "2026-11-01T08:48:40+00:00",
    "image": "",
    "id": "dea37c1f331d",
-   "age_minutes": 993,
+   "age_minutes": 1395,
    "also": [],
-   "score": 4.352
+   "score": 3.933
   },
   {
    "title": "Un ex Milan in pole per sostituire Spalletti, la Juventus valuta il cambio in panchina",
@@ -988,9 +1298,9 @@
    "published": "2026-11-01T08:01:08+00:00",
    "image": "",
    "id": "5705b2f30687",
-   "age_minutes": 1041,
+   "age_minutes": 1442,
    "also": [],
-   "score": 4.289
+   "score": 3.898
   },
   {
    "title": "L’Inter piomba su Floriani Mussolini: la Lazio prova a resistere. Ma a giugno…",
@@ -1002,9 +1312,9 @@
    "published": "2026-11-01T06:13:16+00:00",
    "image": "",
    "id": "a7ddf8299b59",
-   "age_minutes": 1149,
+   "age_minutes": 1550,
    "also": [],
-   "score": 4.161
+   "score": 3.826
   },
   {
    "title": "Amorim post derby: “Avere Moreira, Gila e Rabiot fa la differenza”",
@@ -1016,9 +1326,9 @@
    "published": "2026-10-31T22:24:44+00:00",
    "image": "",
    "id": "b9acb2c4c1cb",
-   "age_minutes": 1617,
+   "age_minutes": 2019,
    "also": [],
-   "score": 3.787
+   "score": 3.617
   },
   {
    "title": "PAGELLE e TABELLINO Milan-Inter 3-1: incubo derby per Chivu, Moreira devastante",
@@ -1051,10 +1361,7 @@
    "scope": "generalista",
    "published": "2026-10-31T17:38:38+00:00",
    "image": "",
-   "id": "c9c4387a4d59",
-   "age_minutes": 1903,
-   "also": [],
-   "score": 3.656
+   "id": "c9c4387a4d59"
   },
   {
    "title": "Juventus, torna disponibile dopo 2 mesi: finora zero minuti con Spalletti",
@@ -1065,10 +1372,7 @@
    "scope": "generalista",
    "published": "2026-10-31T17:14:22+00:00",
    "image": "",
-   "id": "fe7aeed4d4ea",
-   "age_minutes": 1928,
-   "also": [],
-   "score": 3.647
+   "id": "fe7aeed4d4ea"
   },
   {
    "title": "Tutti pazzi per Tiago Gabriel: tris d’assi in Serie A, Milan accerchiato",
@@ -1079,10 +1383,7 @@
    "scope": "generalista",
    "published": "2026-10-31T14:12:02+00:00",
    "image": "",
-   "id": "5578b778a989",
-   "age_minutes": 2110,
-   "also": [],
-   "score": 3.59
+   "id": "5578b778a989"
   },
   {
    "title": "Un Martinez tira l’altro: l’Inter sfida due italiane per Lisandro",
@@ -1093,10 +1394,7 @@
    "scope": "generalista",
    "published": "2026-10-31T14:10:00+00:00",
    "image": "",
-   "id": "1914b8da3f6d",
-   "age_minutes": 2112,
-   "also": [],
-   "score": 3.589
+   "id": "1914b8da3f6d"
   },
   {
    "title": "Milan-Inter, le probabili formazioni: torna Modric, Chivu cambia a centrocampo",
@@ -1187,26 +1485,151 @@
    "id": "cb8d05b183be"
   },
   {
-   "title": "Clamoroso Icardi, arriva l’annuncio ufficiale su un suo ritorno in Italia",
-   "link": "https://www.calciomercato.it/2026/10/30/clamoroso-icardi-arriva-lannuncio-ufficiale-su-un-suo-ritorno-in-italia/",
-   "summary": "L'articolo Clamoroso Icardi, arriva l’annuncio ufficiale su un suo ritorno in Italia proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-30T20:15:37+00:00",
-   "image": "",
-   "id": "e539d43ffea8"
+   "title": "Via Camarda, arriva un altro attaccante? Il sogno è Tresoldi, ma è molto difficile a gennaio. Se ne riparlerà in estate",
+   "link": "https://www.milannews.it/rassegna-stampa/via-camarda-arriva-attaccante-sogno-tresoldi-difficile-gennaio-riparlera-estate-634879",
+   "summary": "Con l'arrivo ormai definito di Markus Krosche come nuovo Head of Football, il Milan può iniziare a pianficare il suo mercato invernale.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:59:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/2b/2b45ced7f0e492ddca0992cd0a64f5c1-23032-oooz0000.jpeg",
+   "id": "9e7a19a25a15",
+   "age_minutes": 4,
+   "also": [],
+   "score": 5.973
   },
   {
-   "title": "Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM",
-   "link": "https://www.calciomercato.it/2026/10/30/roma-contatti-avviati-per-il-nuovo-esterno-dattacco-ci-sono-3-nomi-cm/",
-   "summary": "L'articolo Roma, contatti avviati per il nuovo esterno d’attacco: ci sono 3 nomi | CM proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-10-30T19:00:51+00:00",
-   "image": "",
-   "id": "69de24072ab6"
+   "title": "Tuttosport titola sul Milan: \"Krosche arriva e chiude subito per Gonçalo Inacio\"",
+   "link": "https://www.milannews.it/rassegna-stampa/tuttosport-titola-milan-krosche-arriva-chiude-goncalo-inacio-634877",
+   "summary": "\"Krosche arriva e chiude subito per Gonçalo Inacio\": titola così stamattina Tuttosport che spiega che, dopo aver raggiunto un accordo verbale, nelle prossime settmane verranno sistemati gli ultimi dettagli e poi Markus…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:50:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/49/49ec9302192ae5fd174863253336038d-59408-oooz0000.jpeg",
+   "id": "4070e1433134",
+   "age_minutes": 13,
+   "also": [],
+   "score": 5.921
+  },
+  {
+   "title": "A 41 anni continua a stupire tutti. CorSport: \"Immenso Modric\"",
+   "link": "https://www.milannews.it/rassegna-stampa/41-continua-stupire-tutti-corsport-immenso-modric-634873",
+   "summary": "Il Corriere dello Sport titola così stamattina: \"Immenso Modric\".",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:40:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/27/27c0c9355d41ac201cb178585f55b415-01221-oooz0000.jpeg",
+   "id": "4b49805dfbbd"
+  },
+  {
+   "title": "Gazzetta: \"La carica di Cardinale. Gerry è entusiasta: è convinto di poter lottare per lo scudetto\"",
+   "link": "https://www.milannews.it/rassegna-stampa/gazzetta-la-carica-cardinale-gerry-entusiasta-convinto-poter-lottare-scudetto-634871",
+   "summary": "L'edizione odierna della Gazzetta dello Sport titola così stamattina: \"La carica di Cardinale. Gerry è entusiasta: è convinto di poter lottare per lo scudetto\".",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:30:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/7c/7c1de0be260eec63277bca97c9707bf0-64285-oooz0000.jpeg",
+   "id": "6b9d8cabe2c2"
+  },
+  {
+   "title": "Fonseca lascia Lione: ritorna in Portogallo, allenerà lo Sporting",
+   "link": "https://www.milannews.it/gli-ex/fonseca-lascia-lione-ritorna-portogallo-allenera-sporting-634853",
+   "summary": "Paulo Fonseca è pronto a lasciare il Lione per diventare il nuovo allenatore dello Sporting Lisbona.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:20:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c4/c40a6ea778ade84ec12b87c5044b3ce8-70039-oooz0000.jpeg",
+   "id": "15b64c2d0ecd"
+  },
+  {
+   "title": "Krosche-Milan, Romano: \"Accordo verbale trovato, si aspettano le prossime settimane per ratificarlo\"",
+   "link": "https://www.milannews.it/calciomercato-milan/krosche-milan-romano-accordo-verbale-trovato-aspettano-prossime-settimane-ratificarlo-634866",
+   "summary": "Intervenuto in un video pubblicato sul suo canale YouTube, Fabrizio Romano ha parlato così dell'arrivo al Milan di Marku Krosche come nuovo Head of Football: \"Il Milan vuole costruire. Vuole rinforzare la propria…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:10:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/15/15a4b9e0ab9b7a3e6b9fab84d3ee37c8-22434-oooz0000.jpeg",
+   "id": "4984d265b0cf",
+   "age_minutes": 53,
+   "also": [],
+   "score": 6.902
+  },
+  {
+   "title": "Mercato Milan: a gennaio nuovo assalto per Inacio. Vice-Ramos: Camarda in prestito e arriva un altro centravanti?",
+   "link": "https://www.milannews.it/primo-piano/mercato-milan-gennaio-assalto-inacio-vice-ramos-camarda-prestito-arriva-centravanti-634865",
+   "summary": "La vittoria nel derby contro l'Inter ha portato un entusiasmo in casa rossonera che non si vedeva da tempo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T07:00:59+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/38/382519b6f73f11de0c2a81815f2d008e-92969-oooz0000.jpeg",
+   "id": "7ec855ee9a0d",
+   "age_minutes": 62,
+   "also": [],
+   "score": 8.853
+  },
+  {
+   "title": "Il Milan oggi non si allena: secondo dei due giorni di riposo. Domani la ripresa",
+   "link": "https://www.milannews.it/news/milan-allena-riposo-domani-ripresa-634857",
+   "summary": "Oggi non ci sarà alcun allenamento per il Milan a Milanello: dopo il derby vinto, infatti, Ruben Amorim ha concesso due giorni di riposo (domenica e lunedì) a Maignan e compagni.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T06:48:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/e3/e37c084f67b01dd70ecae8de451d995c-37626-oooz0000.jpeg",
+   "id": "f257c27346ca"
+  },
+  {
+   "title": "Derby di Milano e F1, grandi ascolti su Sky e Now",
+   "link": "https://www.milannews.it/news/derby-milano-f1-grandi-ascolti-sky-now-634838",
+   "summary": "(ANSA) - ROMA, 01 NOV - Grandi ascolti per il derby di Milano e la Formula 1 su Sky e NOW.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T06:36:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0f239ddac41128d2c037f4027e7bcb96-56741-oooz0000.jpeg",
+   "id": "8530891fb011"
+  },
+  {
+   "title": "Romano svela il prossimo rinnovo al quale sta lavorando il Milan",
+   "link": "https://www.milannews.it/calciomercato-milan/romano-svela-prossimo-rinnovo-lavorando-milan-634847",
+   "summary": "Nel corso del consueto appuntamento con il video aggiornamento sul suo canale YouTube, Fabrizio Romano ha fatto il punto in casa Milan soffermandosi in modo particolare sul discorso Markus Krösche e non solo.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T06:24:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1d/1dc2ba82559d9cc4199cbc9e9ee57365-94981-oooz0000.jpeg",
+   "id": "c49a123d4a9a",
+   "age_minutes": 99,
+   "also": [],
+   "score": 6.663
+  },
+  {
+   "title": "Milan, il prossimo impegno: qualche giorno in più, ma si gioca subito. E sempre a San Siro",
+   "link": "https://www.milannews.it/news/milan-prossimo-impegno-piu-gioca-subito-san-siro-634845",
+   "summary": "Dopo la vittoria sull'Inter di ieri sera, il Milan tornerà in campo giovedì 4 novembre alle 18:45 contro il Ferencvaros, nel match valido per la quarta giornata della League Phase di Europa League.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T06:12:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/07/07397d628fe225919b1917a738e721ff-57905-oooz0000.jpeg",
+   "id": "1fc57c6dd395"
+  },
+  {
+   "title": "La classifica di Serie A dopo la domenica: il Milan quinto a -2 dal Como",
+   "link": "https://www.milannews.it/news/classifica-serie-domenica-milan-2-como-634844",
+   "summary": "Di seguito la classifica di Serie A aggiornata dopo le partite della domenica di questa decima giornata di campionato: Inter 25 Lazio 25 Roma 24 Como 23 Milan 21 Frosinone 20 Napoli 14 Bologna 14 Juventus 14 Torino 13 Genoa 23 ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-02T06:00:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "0f49b8eb4b11"
   },
   {
    "title": "Pioli: \"Leao è un giocatore buono che va stimolato in un certo modo\"",
@@ -1273,9 +1696,9 @@
    "published": "2026-11-01T23:00:01+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f4/f44dfbfa2554d24a9da9d0248dee0b6a-04351-oooz0000.jpeg",
    "id": "673102a3fcbd",
-   "age_minutes": 142,
+   "age_minutes": 543,
    "also": [],
-   "score": 6.456
+   "score": 5.024
   },
   {
    "title": "VIDEO - Errore clamoroso del portiere: Kostic ne approfitta e regala 3 punti allo Sparta Rotterdam",
@@ -1287,9 +1710,9 @@
    "published": "2026-11-01T22:48:57+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d81da52195f4d1219852e464fda07144-96124-oooz0000.jpeg",
    "id": "340bf0947efd",
-   "age_minutes": 153,
+   "age_minutes": 554,
    "also": [],
-   "score": 5.204
+   "score": 3.795
   },
   {
    "title": "Pioli ricorda Leao: \"L'anno dello scudetto è stato devastante. Ho visto pochi giocatori di quel livello\"",
@@ -1303,255 +1726,167 @@
    "id": "059fcb1b6466"
   },
   {
-   "title": "Moreira festeggia la vittoria nel derby sui social: \"Milano siamo noi\"",
-   "link": "https://www.milannews.it/news/moreira-festeggia-vittoria-derby-social-milano-noi-634849",
-   "summary": "A 24 ore dalla notte da sogno, Diego Moreira ha festeggiato sui propri canali social l'importante vittoria, con gol, nel derby contro l'Inter.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T22:24:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/28/280e875a145e92ae302cbec7d9c47cb5-97728-oooz0000.jpeg",
-   "id": "1122a437a634"
-  },
-  {
-   "title": "Bianchin: \"Amorim da quattro giorni dice che vede i ragazzi stanchi e loro gli hanno mandato un messaggio\"",
-   "link": "https://www.milannews.it/news/bianchin-amorim-vede-ragazzi-stanchi-mandato-messaggio-634793",
-   "summary": "Luca Bianchin, giornalista, si è così espresso su La Gazzetta dello Sport commentando la vittoria del Milan nel derby contro l'Inter: \"Se cercate una chiave, provate con queste due. La prima: l'energia del Milan.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T22:12:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/68/68ab5617ea6b8e7a0b9a040584d2b0c1-97474-oooz0000.jpeg",
-   "id": "adc003ae5ddf"
-  },
-  {
-   "title": "La classifica di Serie A aggiornata dopo la vittoria della Juventus sul Napoli",
-   "link": "https://www.milannews.it/news/classifica-serie-aggiornata-vittoria-juventus-napoli-634850",
-   "summary": "Di seguito la classifica di Serie A aggiornata dopo le partite della domenica di questa decima giornata di campionato: Inter 25 Lazio 25 Roma 24 Como 23 Milan 21 Frosinone 20 Juventus 17 Napoli 14 Bologna 14 Torino 13 Genoa 23 ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T22:00:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/4c/4c6a6f5b88ae70cfc6ef005511fe3b30-73156-oooz0000.jpeg",
-   "id": "dbc7a2f7eb96"
-  },
-  {
-   "title": "La Juventus torna a vincere e lo fa battendo in casa il Napoli grazie a Alajbegovic e Boga",
-   "link": "https://www.milannews.it/news/serie-a-juventus-napoli-2-0-634851",
-   "summary": "(ANSA) - TORINO, 01 NOV - La Juventus batte il Napoli 2-0 nel posticipo domenicale della decima di serie A.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T21:46:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/30/30e007ad07fdd1feadcc150cd3885801-60341-oooz0000.jpeg",
-   "id": "ff6bc0534068"
-  },
-  {
-   "title": "Pasotto: \"Per quanto si è visto ieri sera, il Milan ha validi motivi per credere nello Scudetto\"",
-   "link": "https://www.milannews.it/news/pasotto-per-sera-milanha-validi-motivi-credere-scudetto-634792",
-   "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport commentando le parole di Amorim dopo il derby di ieri sera: \"Dopo un derby così, gli slogan coniati nelle ultime ore da Cardinale sul suo allenatore v ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T21:35:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/93/93afb073106c197a8d4f5748d18e1b2c-76812-oooz0000.jpeg",
-   "id": "6e3f520a19f5"
-  },
-  {
-   "title": "Ravezzani elogia Cardinale: \"È diventato milanista dentro. Ha messo a nudo la parte vera di sé\"",
-   "link": "https://www.milannews.it/news/ravezzani-elogia-cardinale-e-milanista-dentro-messo-nudo-vera-se-634785",
-   "summary": "Fabio Ravezzani, giornalista, si è così espresso sul suo canale Youtube commentando il derby vinto dal Milan per 3-1 sull'Inter: \"Si può dire che la scena più bella del derby vinto con pieno merito dal Milan sull& ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T21:24:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f0/f0b8a25a543579b33564ad14afccb766-15926-oooz0000.jpeg",
-   "id": "69efe28497e7"
-  },
-  {
-   "title": "Florenzi salva Ramos: \"A me è saltato all'occhio nel primo tempo quando ha fatto...\"",
-   "link": "https://www.milannews.it/news/florenzi-salva-ramos-a-saltato-occhio-fatto-634787",
-   "summary": "Alessandro Florenzi, ex calciatore e attuale opinionista, si è così espresso su SkySport su Goncalo Ramos, attaccante portoghese del Milan: \"A me è saltato all'occhio nel primo tempo, quasi alla fine del primo tempo, qua ...",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T21:11:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/14/14164482b0e75d1de0cb52c0ba05fb45-93334-oooz0000.jpeg",
-   "id": "11026243d3d8"
-  },
-  {
-   "title": "Sabatini: \"Non fatevi ingannare dagli xG: il 3-1 fotografa una partita nella quale il Milan ha vinto tutti i duelli\"",
-   "link": "https://www.milannews.it/news/sabatini-non-fatevi-ingannare-xg-3-1-fotografa-partita-milan-vinto-duelli-634782",
-   "summary": "Sandro Sabatini, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 3-1 sull'Inter: \"Il Milan in trionfo e l'Inter in ansia.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T21:00:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a3/a3c73e7d0738c7d2277745a1c61c8efa-11209-oooz0000.jpeg",
-   "id": "24b879e7dc21"
-  },
-  {
-   "title": "Pedullà: \"Diciamolo subito a scanso di equivoci: non c'è stata partita. Un dominio del Milan\"",
-   "link": "https://www.milannews.it/news/pedulla-diciamolo-scanso-equivoci-partita-dominio-milan-634799",
-   "summary": "Alfredo Pedullà, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan nel derby contro l'Inter per 3-1: \"Diciamolo subito a scanso di equivoci: non c'è stata partita.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T20:48:39+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/94/941abe90070ab9ef82c34a10cb66bc21-84346-oooz0000.jpeg",
-   "id": "298ddf0b636a"
-  },
-  {
-   "title": "Milan da record? Pulisic, Rabiot e Moreira come Albertini, Ganz e Savicevic: lo dice la storia",
-   "link": "https://www.milannews.it/news/milan-record-pulisic-rabiot-moreira-albertini-ganz-savicevic-storia-634818",
-   "summary": "E' stato un grandissimo Milan quello visto ieri sera nel derby contro l'Inter.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T20:36:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d1/d183daa98aba23e23b3e806cc910c9b6-15632-oooz0000.jpeg",
-   "id": "7ef30d1584d2"
-  },
-  {
-   "title": "Moreira-gol: il belga eguaglia così Pirlo e Theo Hernandez",
-   "link": "https://www.milannews.it/news/moreira-gol-belga-eguaglia-pirlo-theo-hernandez-634817",
-   "summary": "Diego Moreira è stato decisivo contro l'Inter grazie ai suoi due assist e gol nella prima frazione di gioco. Un impatto incredibile quello avuto dal belga in questa sua prima stagione in rossonero.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T20:24:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a3/a3514ee0cf5476485f3a57c6aac60bcf-72981-oooz0000.jpeg",
-   "id": "3d13e30c19ac"
-  },
-  {
-   "title": "Romano: \"Il Milan vuole costruire e rinforzare la propria struttura\"",
-   "link": "https://www.milannews.it/news/romano-il-milan-vuole-costruire-rinforzare-propria-struttura-634846",
-   "summary": "Nel corso del consueto appuntamento con il video aggiornamento sul suo canale YouTube, Fabrizio Romano ha fatto il punto in casa Milan soffermandosi in modo particolare sul discorso Markus Krösche e non solo.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-01T20:00:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c3/c3e8f63ce9b46401e389632e6634aa8a-52073-oooz0000.jpeg",
-   "id": "643edae32d18"
-  },
-  {
-   "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena dell'1 novembre",
-   "link": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-1-novembre-2289788",
-   "summary": "UDINESE, RUNJAIC VERSO L’ESONERO.",
+   "title": "Quanto fa testo? Allegri dieci anni fa partì anche peggio e poi vinse lo Scudetto",
+   "link": "https://www.tuttomercatoweb.com/serie-a/testo-allegri-dieci-parti-vinse-scudetto-2289809",
+   "summary": "E' davvero complicato salvare qualcosa del Napoli che ieri sera ha perso 2-0 allo Stadium contro la Juventus.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-02T00:30:00+00:00",
+   "published": "2026-11-02T07:55:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/01/019bd8c292144d8011a2607de7f824a6-05301-oooz0000.jpeg",
+   "id": "fca68432b191"
+  },
+  {
+   "title": "Retroscena Inter, Chivu a colloquio con la squadra dopo il ko nel derby: cosa è emerso",
+   "link": "https://www.tuttomercatoweb.com/serie-a/retroscena-inter-chivu-colloqui-squadra-ko-derby-emerso-2289807",
+   "summary": "Il derby perso contro il Milan lascia inevitabilmente il segno in casa Inter.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:50:50+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/fd/fde886beaf1e09fe9e99856aa9fe1faf-00861-oooz0000.jpeg",
+   "id": "744dd2c1fc6d"
+  },
+  {
+   "title": "Sassuolo, Esposito: \"Abbiamo potenzialità enormi. In neroverde anche per la Nazionale\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/sassuolo-esposito-abbiamo-potenzialita-enormi-neroverde-nazionale-2289797",
+   "summary": "Arrivato in estate al Sassuolo dopo l'esperienza a Cagliari, Sebastiano Esposito è subito riuscito a ritagliarsi uno spazio di primo piano nella formazione di Alberto Aquilani.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:45:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/90/906676a9a704f844c26c55a1c22f65d9-03584-oooz0000.jpeg",
+   "id": "408392962388"
+  },
+  {
+   "title": "Pioli: \"Mi hanno chiamato tutti, anche la Roma. Nazionale? L'ho sfiorata, non da moltissimo\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/pioli-mi-chiamato-tutti-roma-nazionale-sfiorata-moltissimo-2289806",
+   "summary": "Nel corso della sua lunga intervista a Sky Sport, Stefano Pioli ha parlato anche della Nazionale, visto che anche lui è stato accostato alla panchina dell'Italia: \"L'ho sfiorata, non da moltissimo.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:41:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/30/304079bf8e29966a9da8a5792a6e5bd6-99847-oooz0000.jpeg",
+   "id": "04b7416f87d3"
+  },
+  {
+   "title": "Marotta, lo daresti ancora Frattesi alla Lazio per 'soli' 15 milioni di euro?",
+   "link": "https://www.tuttomercatoweb.com/serie-a/marotta-daresti-frattesi-lazio-soli-15-euro-2289800",
+   "summary": "Le modalità con cui è arrivata la sconfitta nel derby è ormai diventata una triste consuetudine per l'Inter: non scendendo in campo in avvio di partita e concedendo un 2-0 per la quinta volta in stagione dopo Napoli, Real Madrid, Udinese e Roma.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:37:40+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8f/8f1754c49774d5485abe7831d10c7940-07135-oooz0000.jpeg",
+   "id": "502e15df2440"
+  },
+  {
+   "title": "Paura in Trastevere-Anzio: occhio fuori dall'orbita per Giordani. Lo salva il guardalinee",
+   "link": "https://www.tuttomercatoweb.com/serie-d/paura-trastevere-anzio-2289804",
+   "summary": "Momenti di grande paura in Trastevere-Anzio, sfida valida per la decima giornata di Serie D.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:33:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/9a/9a1741a5d54e1466702cdb78ba8ed6b5-67734-1020o132o1812o924z0f30.jpeg",
+   "id": "599b515aa508"
+  },
+  {
+   "title": "Udinese, Runjaic a un passo dall'esonero: crescono le quotazioni di Zanetti. I dettagli",
+   "link": "https://www.tuttomercatoweb.com/serie-a/udinese-runjaic-passo-esonero-crescono-quotazioni-zanetti-dettagli-2289664",
+   "summary": "L'avventura di Kosta Runjaic sulla panchina dell'Udinese è arrivata ai titoli di coda.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:29:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/cb/cbb48091ea7afd9317a86bf7dd266cca-73545-oooz0000.jpeg",
+   "id": "cc195432b5d2"
+  },
+  {
+   "title": "Davide Lippi racconta la lotta con la malattia: \"Vinta la battaglia, non la guerra\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/davide-lippi-racconta-lotta-malattia-vinta-battaglia-guerra-2289531",
+   "summary": "Il noto agente di mercato e imprenditore, Davide Lippi, figlio dell'ex c.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:26:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/11/112ab5c18a2438c637cff426127aef69-72799-oooz0000.jpeg",
+   "id": "e230e8fface8",
+   "age_minutes": 37,
+   "also": [],
+   "score": 6.937
+  },
+  {
+   "title": "Dopo 10 turni la Serie A ha già cambiato un quarto degli allenatori. Altrove invece...",
+   "link": "https://www.tuttomercatoweb.com/serie-a/10-turni-serie-cambiato-allenatori-invece-2289803",
+   "summary": "Kosta Runjaic ai titoli di coda.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:22:00+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/38/38f9c3b0cea18644d17496674d06d893-86869-oooz0000.jpeg",
-   "id": "56de6dd9bed2",
-   "age_minutes": 52,
+   "id": "82f10457d160"
+  },
+  {
+   "title": "Serie C, 12ª giornata: si chiude il quadro del turno. Tre sfide alle ore 20:30",
+   "link": "https://www.tuttomercatoweb.com/serie-c/serie-c-12a-giornata-chiude-quadro-turno-sfide-20-30-2289791",
+   "summary": "Si chiuderà questa sera il quadro delle gare valide per la 12ª giornata del campionato di Serie C.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:19:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ce/ce9f8af659011b17dbd6436823abdff6-46154-oooz0000.jpeg",
+   "id": "58f9078612e4"
+  },
+  {
+   "title": "Milan, dopo il derby si torna a parlare di rinnovi: priorità per la firma fino al 2030 di Rabiot",
+   "link": "https://www.tuttomercatoweb.com/serie-a/milan-derby-torna-parlare-rinnovi-priorita-firma-2030-rabiot-2289798",
+   "summary": "Dopo la vittoria nel derby contro l'Inter che ha rilanciato il Milan in classifica, adesso i rossoneri sono intenzionati a riprendere a lavorare sul futuro dei loro protagonisti.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T07:15:28+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/70/70291f318f9d28faee9c6e9becaa9c9a-27963-oooz0000.jpeg",
+   "id": "66f96adab8e6",
+   "age_minutes": 48,
    "also": [],
-   "score": 9.657
+   "score": 7.68
   },
   {
-   "title": "Luciano Moggi: \"Juve, vinto con due tiri. Inter, perdere il derby porta fortuna\"",
-   "link": "https://www.tuttomercatoweb.com/a-tu-per-tu/luciano-moggi-juve-vinto-tiri-inter-perdere-derby-porta-fortuna-2289787",
-   "summary": "“Ci hanno messo la grinta, il carattere.",
+   "title": "Cagliari, rimpianti e voglia di riscatto: Pisacane e Kofler suonano la carica",
+   "link": "https://www.tuttomercatoweb.com/serie-a/cagliari-rimpianti-voglia-riscatto-pisacane-kofler-suonano-carica-2289711",
+   "summary": "Il Cagliari torna da Roma, per la seconda volta consecutiva, con una sconfitta che lascia l'amaro in bocca, soprattutto per quanto mostrato nella prima parte di gara.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-02T00:00:48+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a4/a4ab86bb0696f108e60e5468c408469a-60540-oooz0000.jpeg",
-   "id": "683a74d0969a"
-  },
-  {
-   "title": "Spalletti risorge contro il Napoli: 2-0 Juve allo Stadium. Perla assoluta di Alajbegovic",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/spalletti-risorge-napoli-2-0-juve-stadium-perla-assoluta-alajbegovic-2289783",
-   "summary": "Luciano Spalletti ha salvato la sua panchina battendo il Napoli per 2-0 all'Allianz Stadium.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:57:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8e/8ef77a3f8941a69a32eba76965285f04-11223-oooz0000.jpeg",
-   "id": "aaa733cd9c48"
-  },
-  {
-   "title": "Serie A, le probabili formazioni di Sassuolo-Fiorentina e Atalanta-Parma: le ultime dai campi",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-probabili-formazioni-sassuolo-fiorentina-atalanta-parma-ultime-campi-2289742",
-   "summary": "Il decimo turno di Serie A si prepara a chiudere i battenti con gli ultimi due appuntamenti in programma questo lunedì.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:54:40+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8b/8bcf9afebf4fc9ef0c0e1c1197d96b50-27987-oooz0000.jpeg",
-   "id": "e00f1566e7f2"
-  },
-  {
-   "title": "La Lazio vola in testa da sola, la Juve si riavvicina alla Champions: Serie A, la classifica",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/lazio-vola-testa-sola-juve-riavvicina-champions-serie-a-classifica-2289776",
-   "summary": "È una domenica bellissima quella appena conclusa per la Lazio, che ha battuto 2-1 il Cagliari e si è regalata la vetta della classifica di Serie A, allungando così a +3 sull'Inter e a +4 sulla Roma.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:51:57+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e1/e1f95bd356eb502de03037ef2afdcb57-68573-oooz0000.jpeg",
-   "id": "15d5c27d413f"
-  },
-  {
-   "title": "Runjaic verso l'esonero: Paolo Zanetti in pole per sostituirlo alla guida dell'Udinese",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/runjaic-esonero-paolo-zanetti-pole-sostituirlo-guida-udinese-2289762",
-   "summary": "L'avventura di Kosta Runjaic sulla panchina dell'Udinese sembra ormai arrivata al capolinea.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:48:51+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/21/21572f9e775890cad4fa1692b8368a7a-45692-oooz0000.jpeg",
-   "id": "647b2fc004fe"
-  },
-  {
-   "title": "I giovani di De Rossi \"non se la fanno addosso\", quelli di DiFra non segnano: Lecce-Genoa 1-2",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/giovani-de-rossi-non-addosso-difra-segnano-lecce-genoa-1-2-2289739",
-   "summary": "Il Genoa espugna il Via del Mare e supera il Lecce per 2-1, conquistando la terza vittoria consecutiva e salendo a quota 13 punti in classifica.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:45:18+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/80/8002af9dc314feb0e8432f68b2f8b960-22091-oooz0000.jpeg",
-   "id": "32f7b935a597"
-  },
-  {
-   "title": "La Lazio sogna: 2-1 al Cagliari, sola in vetta 16 anni dopo. Gattuso: \"Io mi sarei preso il punto...\"",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/lazio-sogna-2-1-cagliari-sola-vetta-16-dopo-gattuso-io-preso-punto-2289640",
-   "summary": "Risultato finale: Lazio-Cagliari 2-1 Come vola la Lazio di Gattuso: in una gara bloccata e sofferta, i biancocelesti rimontano 2-1 il Cagliari con il gol nel finale di Pinamonti che risulta decisivo dopo la perla di…",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:42:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/95/9540917992bf86806bce0ef0577a3a06-97710-oooz0000.jpeg",
-   "id": "7af262b58930",
-   "age_minutes": 100,
+   "published": "2026-11-02T07:12:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c7/c7207e3a92330a319ffa3a46f74af480-43928-oooz0000.jpeg",
+   "id": "350e17cc28a0",
+   "age_minutes": 51,
    "also": [],
-   "score": 6.209
+   "score": 7.661
   },
   {
-   "title": "I numeri del Frosinone si abbattono sul Torino. Ghedjemis e Calò fanno volare Alvini",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/numeri-frosinone-abbattono-torino-ghedjemis-calo-volare-alvini-2289666",
-   "summary": "Sono tre punti d'oro, quelli che conquista il Frosinone allo Stirpe contro il Torino.",
+   "title": "Tira poco, segna sempre: Varela, le statistiche irreali del capocannoniere della Serie A",
+   "link": "https://www.tuttomercatoweb.com/serie-a/tira-poco-segna-sempre-varela-mister-39-numeri-irreali-capocannoniere-serie-2289719",
+   "summary": "È diventato inaspettatamente uno degli uomini copertina della Serie A, il volto nuovo del campionato capace di diventarne il capocannoniere solitario dopo dieci giornate.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-01T23:39:19+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/d6/d69b65681fd0904d4f8c8a883822a1a0-22040-923o623o2302o2002z16da.jpeg",
-   "id": "04a669683e27"
+   "published": "2026-11-02T07:08:36+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a7/a70d3d57dcaa43cf945db2b1713f8075-77605-oooz0000.jpeg",
+   "id": "8d7c17a6fa42"
   },
   {
-   "title": "Caso Milla, Como \"fortunato\" con il Venezia. Fabregas ammette: \"Sembrava rigore netto\"",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/milla-como-fortunato-venezia-fabregas-ammette-a-rigore-netto-2289782",
-   "summary": "Non si arresta la marcia del Como, che conquista il quarto successo consecutivo in campionato piegando di misura l'ultima della classe e riappropriandosi del quarto posto in classifica di Serie A, a due lunghezze di…",
+   "title": "Il punto sulla Serie B: il Palermo allunga in vetta, il Modena frena e l'Avellino sale",
+   "link": "https://www.tuttomercatoweb.com/serie-b/punto-serie-b-palermo-allunga-vetta-modena-frena-avellino-sale-2289731",
+   "summary": "Si è conclusa la decima giornata del campionato di Serie B con il Palermo che consolida il primato in classifica, portandosi a 26 punti grazie al successo casalingo contro il Vicenza.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-01T23:36:52+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/67/67aee5ff60e178824ef011ddfab26b4c-87138-oooz0000.jpeg",
-   "id": "24748c7d3b86",
-   "age_minutes": 105,
-   "also": [],
-   "score": 5.783
+   "published": "2026-11-02T07:04:27+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c9/c9e4a639eff5de6007243d552ebbcfd5-67074-oooz0000.jpeg",
+   "id": "5199f91fde71"
   },
   {
    "title": "Spalletti si salva, Allegri un disastro. Ma la Juve non brilla. Kolo Muani bocciato. Napoli a pezzi: aveva ragione Conte. Inter, allarme Champions. Arbitri, un altro flop. Insulti sessisti a Ferreri Caputi durante Como-Venezia",
@@ -1560,337 +1895,67 @@
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-01T23:30:52+00:00",
+   "published": "2026-11-02T07:00:00+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e3/e3a5a38b89394f05bc66b7551ff2bc1e-21568-oooz0000.jpeg",
    "id": "16abf1a27b5f"
   },
   {
-   "title": "Napoli, Meret dopo il ko di Torino: \"Troppi alti e bassi, non stiamo trovando continuità\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/napoli-meret-ko-torino-troppi-alti-bassi-trovando-continuita-2289777",
-   "summary": "Il portiere del Napoli, Alex Meret, è intervenuto ai microfoni della Rai dopo la sconfitta per 2-0 contro la Juventus.",
+   "title": "Fantacalcio, top & flop della 10ª giornata",
+   "link": "https://www.tuttomercatoweb.com/fantacalcio/fantacalcio-top-flop-10a-giornata-2289757",
+   "summary": "In attesa delle due partite di oggi ecco i top e i flop del decimo turno al fantacalcio TOP Moreira: protagonista assoluto del derby con 2 assist e uno splendido gol su punizione.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-01T23:30:37+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/aa/aab0a7ddab13572810025ee445fd9128-35350-oooz0000.jpeg",
-   "id": "87e622bc093a"
+   "published": "2026-11-02T07:00:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/3a/3aff17ab09c17fef11ffa41ca3dcbd13-44381-oooz0000.jpeg",
+   "id": "5e3567ee845b"
   },
   {
-   "title": "Weghorst bomber a 34 anni, 4 gol con il Twente: \"Mai fatti così tanti e così belli\"",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/weghorst-bomber-34-anni-4-gol-twente-mai-fatti-tanti-belli-2289768",
-   "summary": "Spettacolo assoluto in Eredivisie, per una goleada che non è passata inosservata anche per il principale mattatore di giornata.",
+   "title": "Isaksen mai così determinante: la Lazio deve blindarlo, a che punto è il rinnovo",
+   "link": "https://www.tuttomercatoweb.com/serie-a/isaksen-determinante-lazio-blindarlo-punto-rinnovo-2289641",
+   "summary": "Un bellissimo gol e il cross da cui nasce il 2-1 di Andre Pinamonti: il volto sorridente dell'attaccante ha preso le copertine del successo della Lazio contro il Genoa, ma c'è tanto, tantissimo di Gustav Isaksen nel…",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-01T23:26:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/84/84a012e9b214407856f30476b85d5d9d-08429-oooz0000.jpeg",
-   "id": "5a6fe9cbd631"
-  },
-  {
-   "title": "Juventus, Spalletti e la scelta del 4-4-2: \"Non abbiamo altri giocatori. Tutti hanno fatto la differenza\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/juventus-spalletti-scelta-4-4-2-non-giocatori-differenza-2289781",
-   "summary": "Il tecnico della Juventus, Luciano Spalletti, ha parlato a Sky Sport dopo la vittoria per 2-0 contro il Napoli, partendo dalla scelta di schierare la sua squadra con il 4-4-2: \"Non abbiamo altri calciatori.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:23:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/09/090994dddd8dd0d1d74c6d8b3295fe52-90111-oooz0000.jpeg",
-   "id": "8b0ef1e44ea9"
-  },
-  {
-   "title": "Ostiamare, mal di vittorie: a secco da oltre un mese. D'Antoni: \"Ingenui sul gol preso dal Livorno\"",
-   "link": "https://www.tuttomercatoweb.com/serie-c/ostiamare-mal-vittorie-secco-mese-antoni-ingenui-gol-preso-livorno-2289775",
-   "summary": "Terza sconfitta consecutiva per l'Ostiamare, caduto all'\"Armando Picchi\" per mano del Livorno: l'1-0 porta i laziali al 18^ posto in graduatoria del girone B di Serie C.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:19:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/22/22cf93ca7aa98fb58152251c6e07c88a-64221-oooz0000.jpeg",
-   "id": "377db23b5edf"
-  },
-  {
-   "title": "Napoli, Meret: \"Momento difficile, stiamo faticando a trovare continuità. Le motivazioni non c'entrano\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/napoli-meret-momento-difficile-faticando-trovare-continuita-motivazioni-entrano-2289779",
-   "summary": "Alex Meret, portiere del Napoli, ha parlato a Sky Sport dopo la sconfitta per 2-0 contro la Juventus: “Sicuramente abbiamo diversi infortunati e indisponibili in questo momento, però chi c'è ha le qualità per giocare in questo Napoli e per fare bene....",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:15:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a0/a03ee2f6f2b5889cbedb7f48f92aca25-65998-oooz0000.jpeg",
-   "id": "1bdabe8c224a"
-  },
-  {
-   "title": "Rigore negato al Venezia, insulti sessisti per l'arbitra Ferrieri Caputi a Como",
-   "link": "https://www.tuttomercatoweb.com/altre-notizie/rigore-negato-venezia-insulti-sessisti-arbitra-como-2289780",
-   "summary": "(ANSA) - COMO, 01 NOV - Insulti sessisti e forti polemiche per un errore arbitrale diventato un caso non solo per le conseguenze dirette sul risultato della partita.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:13:01+00:00",
-   "image": "",
-   "id": "fff09762fee0"
-  },
-  {
-   "title": "Meglio di Gundogan e Ozil: Havertz è il miglior marcatore tedesco di sempre in Premier League",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/gundogan-ozil-havertz-miglior-marcatore-tedesco-premier-league-2289754",
-   "summary": "Il gol vittoria di Kai Havertz nel trionfo per 1-0 dell'Arsenal a Liverpool di questa domenica è valso un record.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:11:26+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8c/8cc3f0667acaa27d9f158f1381ca4f45-03469-oooz0000.jpeg",
-   "id": "9304af9c0b7c"
-  },
-  {
-   "title": "Juve-Napoli, Fiorentina, derby e Lazio. Pioli parla a 360 gradi: \"Mi manca la panchina\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/juve-napoli-fiorentina-derby-lazio-pioli-parla-360-gradi-mi-manca-panchina-2289778",
-   "summary": "Stefano Pioli, ex allenatore della Fiorentina, attualmente senza una panchina, è intervenuto ai microfoni di Sky Sport, parlando così della vittoria per 2-0 dei bianconeri sul Napoli: \"È stata una partita bella e avvincente nel primo tempo, ma la Juventus...",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:08:20+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/30/304079bf8e29966a9da8a5792a6e5bd6-99847-oooz0000.jpeg",
-   "id": "4729b007d591"
-  },
-  {
-   "title": "Juventus, Spalletti: \"Oggi abbiamo vinto con enormi difficoltà perché siamo in 13\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/juventus-breve-conferenza-stampa-spalletti-2289705",
-   "summary": "23:17 - Luciano Spalletti, allenatore della Juventus, ha parlato in conferenza stampa al termine della sfida contro il Napoli.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-01T23:07:51+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/7c/7c183b8a0176cb7f2df685309c03a0b6-78747-oooz0000.jpeg",
-   "id": "185bd678d832"
-  },
-  {
-   "title": "Allegri, è game over? Da re dei risultati a media punti da retrocessione tra Milan e Napoli",
-   "link": "https://www.tuttonapoli.net/notizie/allegri-game-over-re-risultati-media-punti-retrocessione-milan-napoli-660761",
-   "summary": "La crisi del Napoli di Massimiliano Allegri assume contorni ancora più grotteschi se si allarga lo sguardo anche all'ultima fase della precedente esperienza del tecnico sulla panchina del Milan.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-02T01:00:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b4/b4a9ac34f23cfdf12a356de5a76d88e4-39765-oooz0000.jpeg",
-   "id": "22b9c1fc2b12",
-   "age_minutes": 22,
+   "published": "2026-11-02T06:55:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ed/ed267a17092af7e58143296bb9d3f02f-33204-288o600o984o1296z0c60.jpeg",
+   "id": "53eaa35b207e",
+   "age_minutes": 68,
    "also": [],
-   "score": 7.073
+   "score": 7.571
   },
   {
-   "title": "Radio Tutto Napoli, il palinsesto di oggi: si parte live dalle 7",
-   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-live-8-657597",
-   "summary": "Lunga giornata nel day after di Juventus-Napoli da vivere con la nostra Radio TuttoNapoli, prima radio tematica sul Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-02T00:30:40+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
-   "id": "f88d2ca230a8"
+   "title": "Orsato in tribuna a Como-Venezia: designatore seccato dopo il VAR sul caso Milla",
+   "link": "https://www.tuttomercatoweb.com/serie-a/orsato-tribuna-como-venezia-designatore-seccato-var-milla-2289795",
+   "summary": "Il caso arbitrale di Como-Venezia ha avuto un testimone d’eccezione: il designatore Daniele Orsato era in tribuna e ha seguito l’episodio dal vivo, non davanti a un monitor.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T06:50:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/98/9867e2af10bbe1dc0bd0d8b1f33c6f9d-87654-oooz0000.jpeg",
+   "id": "403cb0527525"
   },
   {
-   "title": "Juve-Napoli, Gaito: “Allegri da esonero! Nulla giustifica la metà classifica…”",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/juve-napoli-gaito-allegri-esonerare-giustifica-meta-classifica-660772",
-   "summary": "Il direttore Antonio Gaito, intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania, ha espresso forti perplessità sulla ges ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-02T00:15:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c9/c9e2d6cf318f69043a3deb24a27c942d-93341-oooz0000.jpeg",
-   "id": "1d0b715e4f10"
+   "title": "Como, traiettoria da big: Inter avvisata. Senza Chalobah torna miglior difesa della Serie A",
+   "link": "https://www.tuttomercatoweb.com/serie-a/como-traiettoria-big-inter-avvisata-torna-miglior-difesa-campionato-chalobah-2289785",
+   "summary": "Un Como \"fortunato\", lo ha ammesso anche Cesc Fabregas dopo il successo di misura sul Venezia: l'episodio controverso che ha riguardato Luis Milla avrebbe potuto complicare la vita ai lariani, che invece hanno capitalizzato al massimo dal rigore glaciale...",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T06:45:09+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/73/73fe7d02156bfc18df650d48dfe2e439-60157-oooz0000.jpeg",
+   "id": "6c774dc5bf90"
   },
   {
-   "title": "Del Genio: \"Juve inguardabile, ma poi Spalletti ha trovato soluzioni e Allegri no”",
-   "link": "https://www.tuttonapoli.net/le-interviste/del-genio-napoli-juventus-allegri-spalletti-classifica-soluzioni-660769",
-   "summary": "Il giornalista Paolo Del Genio, intervenuto ai microfoni di Canale 8, ha analizzato duramente la sconfitta del Napoli contro la Juventus, soffermandosi sulla preoccupante situazione di classifica e sulle difficoltà della formazione di Massimil ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-02T00:00:37+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/75/7557041ecaa1688fa80f49d8465b5c8d-51302-oooz0000.jpeg",
-   "id": "f40d77106822"
-  },
-  {
-   "title": "Marelli: “1° tempo brutto di Sozza! Koopmeiners rischia il rosso, graziato anche Lucumì”",
-   "link": "https://www.tuttonapoli.net/le-interviste/marelli-primo-brutto-sozza-koopmeiners-rischia-rosso-graziato-lucumi-660764",
-   "summary": "L'ex arbitro Luca Marelli, intervenuto dagli studi di DAZN, ha analizzato gli episodi arbitrali più discussi di Juventus-Napoli, soffermandosi sulla direzione di gara di Simone Sozza.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:50:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/59/595f93224a1685d7c6ab591c64b4e86a-56466-oooz0000.jpeg",
-   "id": "4333a5ec5a1a"
-  },
-  {
-   "title": "Pioli: \"Successo Juve meritato, ma non ha vinto grazie al ritiro. Mi manca la panchina\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/pioli-successo-juve-meritato-vinto-ritiro-manca-panchina-660765",
-   "summary": "L'ex allenatore della Fiorentina Stefano Pioli, attualmente senza panchina, è intervenuto ai microfoni di Sky Sport, analizzando la vittoria per 2-0 della Juventus contro il Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:40:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/30/304079bf8e29966a9da8a5792a6e5bd6-99847-oooz0000.jpeg",
-   "id": "7ad110da3903"
-  },
-  {
-   "title": "Formula 1, Kimi Antonelli campione del mondo! I complimenti della SSC Napoli",
-   "link": "https://www.tuttonapoli.net/dai-social/formula-1-kimi-antonelli-campione-mondo-complimenti-ssc-napoli-660767",
-   "summary": "Anche il Napoli festeggia la storica impresa di Kimi Antonelli, laureatosi campione del mondo di Formula 1 a soli 20 anni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:30:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8d/8d55e723aa3367ea4dd4c0f05f46e450-09624-oooz0000.jpeg",
-   "id": "3bb5bd783bc7"
-  },
-  {
-   "title": "Meret a Sky: \"Troppi alti e bassi! Non è un problema di motivazioni, siamo tutti uniti”",
-   "link": "https://www.tuttonapoli.net/le-interviste/meret-sky-troppi-alti-bassi-problema-motivazioni-uniti-660766",
-   "summary": "Alex Meret, portiere del Napoli, ha parlato ai microfoni di Sky Sport dopo la sconfitta per 2-0 contro la Juventus: “Sicuramente abbiamo diversi infortunati e indisponibili in questo momento, però chi c'è ha le qualit&agr ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:20:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/59/59c73999867f0d35dd3dfa24c6e4d62e-31069-oooz0000.jpeg",
-   "id": "58de70048d50"
-  },
-  {
-   "title": "Juventus, Alajbegovic a Dazn: “Spalletti è un grande allenatore, mi aiuta sempre”",
-   "link": "https://www.tuttonapoli.net/le-interviste/juve-alajbegovic-dazn-spalletti-allenatore-aiuta-sempre-660763",
-   "summary": "Il trequartista della Juventus Kerim-Sam Alajbegovic è intervenuto ai microfoni di DAZN dopo la vittoria per 2-0 contro il Napoli, nella gara valida per la decima giornata di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:10:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/14/1439c456dadbb6a05989751396112c8d-30040-oooz0000.jpeg",
-   "id": "aa61652da4b8"
-  },
-  {
-   "title": "L'editoriale di Chiariello: “Se l'allenatore non si chiamasse Allegri, ne chiederemmo la testa!\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/editoriale-chiariello-se-allenatore-chiamasse-allegri-chiederemmo-testa-660762",
-   "summary": "Il giornalista Umberto Chiariello, nel suo consueto editoriale durante 'Campania Sport' su Canale 21, ha commentato duramente la sconfitta del Napoli contro la Juventus, evidenziando la gravità della situazione di…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T23:00:53+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/11/11fc8f64dd81d9189443d42028898739-81148-oooz0000.jpeg",
-   "id": "76260909fe06",
-   "age_minutes": 141,
-   "also": [],
-   "score": 5.46
-  },
-  {
-   "title": "Juventus, Koopmeiners a Dazn: \"Col Napoli un buon inizio, abbiamo cambiato mentalità”",
-   "link": "https://www.tuttonapoli.net/le-interviste/juventus-koopmeiners-dazn-col-napoli-buon-inizio-cambiato-mentalita-660760",
-   "summary": "Teun Koopmeiners, centrocampista della Juventus, ha parlato ai microfoni di DAZN, dopo il match contro il Napoli vinto per 2-0 e valido per la 10ª giornata di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:50:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/bc/bc6112223681f10d278daf8120bfd237-63559-oooz0000.jpeg",
-   "id": "df804be90632"
-  },
-  {
-   "title": "Juve, Boga in conferenza: \"Ci abbiamo messo il cuore! Ritiro è stato importante...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/juve-boga-conferenza-ci-messo-cuore-ritiro-importante-660758",
-   "summary": "La Juventus supera il Napoli per 2-0 e conquista tre punti importanti nello scontro diretto dell'Allianz Stadium.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:41:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c6/c6d354806f0daef78068b6b9f5f47e13-99014-oooz0000.jpeg",
-   "id": "b2e0357dc92b"
-  },
-  {
-   "title": "Meret alla Rai: “Troppi alti e bassi, non troviamo continuità! Sui gol dovevamo essere più cattivi”",
-   "link": "https://www.tuttonapoli.net/le-interviste/meret-rai-troppi-alti-bassi-troviamo-continuita-gol-dovevamo-cattivi-660759",
-   "summary": "Il portiere del Napoli Alex Meret, intervenuto ai microfoni della Rai dopo la sconfitta per 2-0 contro la Juventus, ha analizzato il momento difficile attraversato dalla formazione azzurra, evidenziando soprattutto la mancanza di continuità ne ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:41:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/df/df9ea95c88d5c220be314745ec402711-63761-oooz0000.jpeg",
-   "id": "dd8e114527e8"
-  },
-  {
-   "title": "Formula 1, impresa storica di Kimi Antonelli: campione del mondo a 20 anni, battuto ogni record!",
-   "link": "https://www.tuttonapoli.net/brevi/formula-1-impresa-storica-kimi-antonelli-campione-20-anni-battuto-record-660757",
-   "summary": "Kimi Antonelli scrive una pagina indimenticabile della storia della Formula 1.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:33:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/8d/8d55e723aa3367ea4dd4c0f05f46e450-09624-oooz0000.jpeg",
-   "id": "c7766343c264"
-  },
-  {
-   "title": "Juve, Spalletti a Dazn: “Il Napoli ha iniziato bene, poi siamo stati bravissimi! Merito di tutti\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/juve-spalletti-dazn-il-napoli-iniziato-bene-bravissimi-meriti-calciatori-660756",
-   "summary": "Il tecnico della Juventus Luciano Spalletti ha parlato ai microfoni di DAZN, dopo il successo per 2-0 nel match contro il Napoli valido per la 10ª giornata di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:30:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/09/090994dddd8dd0d1d74c6d8b3295fe52-90111-oooz0000.jpeg",
-   "id": "a6520b8d7016"
-  },
-  {
-   "title": "Juve, Cabal a Sky: “Il ritiro è servito tantissimo! Sapevamo che il Napoli era forte, questo è solo l'inizio”",
-   "link": "https://www.tuttonapoli.net/le-interviste/juventus-cabal-sky-il-ritiro-servito-tantissimo-sapevamo-napoli-forte-inizio-660755",
-   "summary": "Juan Cabal, difensore della Juventus, ha parlato ai microfoni di Sky Sport dopo la vittoria contro il Napoli allo Stadium per 2-0: \"L'idea era quella di lavorare e lasciare tutto in campo per la squadra”.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:27:54+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/9d/9d6484c41602aec056c742946c75019d-37093-oooz0000.jpeg",
-   "id": "ae7e115f62f7"
-  },
-  {
-   "title": "Landucci: “Siamo scappati troppo! Se esci bene non prendi gol, non era questa la nostra richiesta”",
-   "link": "https://www.tuttonapoli.net/le-interviste/landucci-siamo-scappati-troppo-esci-prendi-gol-richiesta-660754",
-   "summary": "Il viceallenatore del Napoli Marco Landucci, nel corso dell'intervista ai microfoni di DAZN dopo la sconfitta contro la Juventus, ha analizzato l'atteggiamento della difesa azzurra nell'azione che ha portato al gol dei…",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:25:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/05/05ede6f109385799ca24c3e478f30bf0-68817-oooz0000.jpeg",
-   "id": "62c641ae85c3",
-   "age_minutes": 177,
-   "also": [],
-   "score": 5.296
-  },
-  {
-   "title": "Di Lorenzo a Dazn: “Tutti dobbiamo alzare il livello, me compreso! Non stavo bene già prima della gara!\"",
-   "link": "https://www.tuttonapoli.net/zoom/lorenzo-dazn-tutti-dobbiamo-alzare-livello-compreso-gara-660753",
-   "summary": "Il capitano del Napoli Giovanni Di Lorenzo ha parlato ai microfoni di DAZN, dopo la sfida contro la Juventus persa 2-0 e valevole per la 10ª giornata di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:22:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/69/693c9f3e4383459452b29b582faacaef-64011-oooz0000.jpeg",
-   "id": "3747eac7c3c9"
-  },
-  {
-   "title": "Meret in conferenza: \"Gara equilibrata, volevamo vincere! C'è tempo per risalire la classifica...\"",
-   "link": "https://www.tuttonapoli.net/zoom/meret-conferenza-partita-decisa-tiro-qualita-risalire-classifica-660752",
-   "summary": "Il Napoli esce sconfitto per 2-0 contro la Juventus e resta fermo a 14 punti dopo dieci giornate di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:21:47+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/68/68e507dfa83488830a5b884ce27926bd-34341-oooz0000.jpeg",
-   "id": "ea778b7cbf0b"
-  },
-  {
-   "title": "Landucci in conferenza: \"Serve fiducia! Juve ha meritato, non puoi farli tirare così liberi! Su De Bruyne e Di Lorenzo...\"",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/landucci-conferenza-serve-fiducia-juve-meritato-puoi-farli-tirare-liberi-de-bruyne-lorenzo-660751",
-   "summary": "Il Napoli esce sconfitto per 2-0 contro la Juventus e resta fermo a 14 punti dopo dieci giornate di Serie A.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-01T22:18:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c4/c471e45a0a29abeb8d082294d5aed99a-80074-oooz0000.jpeg",
-   "id": "08ec9aaa2aa2"
+   "title": "Atalanta-Parma, le probabili formazioni: Zalewski più di Rowe, Corvi si riprende il posto",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/atalanta-parma-probabili-formazioni-zalewski-rowe-corvi-riprende-2288872",
+   "summary": "Le ultime dai campi e le probabili formazioni di Atalanta-Parma: Come arriva l'Atalanta Un’Atalanta in piena emergenza di classifica e infortuni dove mister Sarri dovrà fare a mano quasi una decina di giocatori.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-02T06:43:10+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/b6/b6240b085e2e058f5b6e00b570d3c4ee-89134-oooz0000.jpeg",
+   "id": "bf71add35095"
   },
   {
    "title": "Spalletti: ‘Juventus players deserve credit for victory, but we need fans by our side’",
@@ -2116,6 +2181,6 @@
  "stats": {
   "fonti": 8,
   "voci_lette": 150,
-  "in_edizione": 27
+  "in_edizione": 30
  }
 }
