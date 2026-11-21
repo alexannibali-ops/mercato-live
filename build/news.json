@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:50:06.140795+01:00",
+ "generated_at": "2026-11-21T07:24:20.648829+01:00",
  "articles": [
   {
    "title": "Milan, summit di mercato con Cardinale: si lavora al rinnovo di Rabiot fino al 2031",
@@ -11,9 +11,37 @@
    "published": "2026-11-20T22:30:06+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3c/3c49607eac77fb3e38b911effd86deb1-87792-oooz0000.jpeg",
    "id": "a3fd1d23f103",
-   "age_minutes": 80,
+   "age_minutes": 474,
    "also": [],
-   "score": 9.764
+   "score": 8.217
+  },
+  {
+   "title": "Isaksen e Provstgaard, star e uomini mercato. Dalla Danimarca: \"Colonne della Nazionale\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/isaksen-provstgaard-star-uomini-mercato-danimarca-colonne-nazionale-2295242",
+   "summary": "I talenti danesi della Lazio sono certamente tra i giocatori più in vista in questo momento.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:15:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e5/e595a172e7adce3735055053ce132cdb-53714-oooz0000.jpeg",
+   "id": "3826cd3e27fd",
+   "age_minutes": 9,
+   "also": [],
+   "score": 7.896
+  },
+  {
+   "title": "Nome nuovo per l’attacco del Milan, centravanti a sorpresa per Amorim",
+   "link": "https://www.calciomercato.it/2026/11/21/nome-nuovo-per-lattacco-del-milan-centravanti-a-sorpresa-per-amorim/",
+   "summary": "L'articolo Nome nuovo per l’attacco del Milan, centravanti a sorpresa per Amorim proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-21T06:16:43+00:00",
+   "image": "",
+   "id": "454a62a64f04",
+   "age_minutes": 7,
+   "also": [],
+   "score": 7.356
   },
   {
    "title": "Runjaic ha risolto il contratto con l’Udinese, possibilità nazionale polacca",
@@ -25,37 +53,9 @@
    "published": "2026-11-20T20:44:20+00:00",
    "image": "",
    "id": "d46f5659bdea",
-   "age_minutes": 185,
+   "age_minutes": 580,
    "also": [],
-   "score": 8.459
-  },
-  {
-   "title": "Calciomercato Napoli, limite prestiti a gennaio? La fake news su un solo slot: ecco il regolamento",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/calciomercato-napoli-lucca-lang-prestito-slot-liberi-occupati-situazione-aggiornata-662511",
-   "summary": "Il Napoli si prepara al mercato di gennaio con diverse situazioni da risolvere, soprattutto sul fronte delle possibili cessioni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
-   "id": "4d79fe519231",
-   "age_minutes": 170,
-   "also": [],
-   "score": 8.329
-  },
-  {
-   "title": "Calciomercato Napoli, Dzemaili consiglia: \"C'è un esterno svizzero spacca-partite...\"",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-dzemaili-consiglia-c-giocatore-svizzero-spacca-partite-662503",
-   "summary": "Blerim Dzemaili, ex centrocampista di Napoli e Torino, è intervenuto sulla nostra Radio Tutto Napoli, soffermandosi sulle possibili operazioni di mercato degli azzurri a gennaio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:50:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/14/148f17108d14581f151237d72951d58d-93502-oooz0000.jpeg",
-   "id": "bbba2aa71709",
-   "age_minutes": 179,
-   "also": [],
-   "score": 8.288
+   "score": 7.131
   },
   {
    "title": "Endrick, annuncio ufficiale sul futuro: Roma e Milan pronte a inserirsi",
@@ -67,37 +67,9 @@
    "published": "2026-11-20T19:15:57+00:00",
    "image": "",
    "id": "76540d32f805",
-   "age_minutes": 274,
+   "age_minutes": 668,
    "also": [],
-   "score": 8.092
-  },
-  {
-   "title": "Dalla Primavera al gol nel derby fino al rinnovo al 2030: la scalata di Lorenzo Mezzotero",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/primavera-gol-derby-rinnovo-2030-scalata-lorenzo-mezzotero-2295770",
-   "summary": "La Sampdoria blinda uno dei talenti più interessanti del proprio settore giovanile.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:34:00+00:00",
-   "image": "",
-   "id": "3d15efc7988b",
-   "age_minutes": 16,
-   "also": [],
-   "score": 7.858
-  },
-  {
-   "title": "Giocondo Martorelli: \"Sosta utile per gli infortunati. Fiorentina, è il momento della svolta. Samp, il mercato aiuterà\"",
-   "link": "https://www.tuttomercatoweb.com/a-tu-per-tu/giocondo-martorelli-sosta-utile-infortunati-fiorentina-svolta-samp-mercato-aiutera-2295830",
-   "summary": "\"Questa sosta ha giovato per tutti i calciatori infortunati che erano nelle varie squadre.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:33:25+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/03/033d6cd6273799a601bb3961e3e98d11-79282-oooz0000.jpeg",
-   "id": "209f55f44ad2",
-   "age_minutes": 16,
-   "also": [],
-   "score": 7.855
+   "score": 6.924
   },
   {
    "title": "Juventus, Sørloth si complica: l'Atletico Madrid dice no al prestito, lo Stoccarda prepara lo sgambetto ai bianconeri",
@@ -109,65 +81,9 @@
    "published": "2026-11-20T23:15:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d2/d2cfd44c48f3489659dacaca09a47f6e-67002-oooz0000.jpeg",
    "id": "d9f8a4b7c675",
-   "age_minutes": 34,
+   "age_minutes": 428,
    "also": [],
-   "score": 7.805
-  },
-  {
-   "title": "Roma, nuovo esterno d’attacco a gennaio: prestito con diritto di riscatto",
-   "link": "https://www.calciomercato.it/2026/11/19/roma-nuovo-esterno-dattacco-a-gennaio-prestito-con-diritto-di-riscatto/",
-   "summary": "L'articolo Roma, nuovo esterno d’attacco a gennaio: prestito con diritto di riscatto proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-19T16:00:37+00:00",
-   "image": "",
-   "id": "2059ca728251",
-   "age_minutes": 1909,
-   "also": [],
-   "score": 7.654
-  },
-  {
-   "title": "Romano: “Arrivo di Krosche assodato, il Milan inizia a pensare al mercato a partire dal difensore”",
-   "link": "https://www.milannews.it/calciomercato-milan/romano-arrivo-krosche-assodato-milan-inizia-pensare-mercato-partire-difensore-636836",
-   "summary": "Nel suo canale YouTube, l'esperto di calciomercato Fabrizio Romano ha parlato del mercato del Milan di gennaio. Di seguito le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/75/759995501088b1142a83f8325fad6402-38500-oooz0000.jpeg",
-   "id": "ae6b70f24b22",
-   "age_minutes": 190,
-   "also": [],
-   "score": 7.04
-  },
-  {
-   "title": "Romano conferma: “Camarda sarà ceduto, opzione estero valida. Arriverà un’altro attaccante”",
-   "link": "https://www.milannews.it/calciomercato-milan/romano-conferma-camarda-ceduto-opzione-estero-valida-arrivera-un-altro-attaccante-636837",
-   "summary": "Nel suo canale YouTube, l'esperto di calciomercato Fabrizio Romano ha parlato del mercato del Milan di gennaio. Di seguito le sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T20:50:10+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/97/97a83e8a236f7d090a81d48e0d107eca-81182-oooz0000.jpeg",
-   "id": "c948c759c98a",
-   "age_minutes": 179,
-   "also": [],
-   "score": 6.885
-  },
-  {
-   "title": "Roma, per la fascia sinistra contatti con l'agente di Lino: ma il Flamengo spara altissimo",
-   "link": "https://www.tuttomercatoweb.com/serie-a/roma-fascia-sinistra-contatti-agente-lino-flamengo-spara-altissimo-2295811",
-   "summary": "Come già anticipato, la Roma è su Samuel Lino, esterno attualmente in forza al Flamengo, ma in Brasile parlano di passi in avanti, per quanto piccoli, nell'interesse.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:15:29+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/1b/1bbd7f438c6e1dcca7a09f152b7ceae6-11781-oooz0000.jpeg",
-   "id": "0f4cad99ecb8",
-   "age_minutes": 34,
-   "also": [],
-   "score": 6.755
+   "score": 6.153
   },
   {
    "title": "Juventus, si ragiona sulla risoluzione del contratto di Milik: le ultimissime | CM",
@@ -179,9 +95,9 @@
    "published": "2026-11-20T11:01:21+00:00",
    "image": "",
    "id": "47d24df9e156",
-   "age_minutes": 768,
+   "age_minutes": 1162,
    "also": [],
-   "score": 6.718
+   "score": 6.146
   },
   {
    "title": "Bruno Fernandes-Milan, contatto: i rossoneri puntano il colpo per il 2027",
@@ -193,56 +109,9 @@
    "published": "2026-11-20T06:29:57+00:00",
    "image": "",
    "id": "9113f90610ae",
-   "age_minutes": 1040,
+   "age_minutes": 1434,
    "also": [],
-   "score": 6.291
-  },
-  {
-   "title": "Newcastle, occhi su Kenneth Taylor: ma la Lazio non vuole smantellare a gennaio",
-   "link": "https://www.tuttomercatoweb.com/serie-a/newcastle-occhi-kenneth-taylor-lazio-vuole-smantellare-gennaio-2295817",
-   "summary": "Secondo quanto riportato da Tuttosport, il Newcastle United ha messo nel mirino Kenneth Taylor, centrocampista olandese classe 2002 in forza alla Lazio, ma deve fare i conti con la concorrenza di altri due club di…",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T22:59:55+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/96/96e27c1ee50765f03611892afd255ad0-82925-oooz0000.jpeg",
-   "id": "06fed50e7d3a",
-   "age_minutes": 50,
-   "also": [],
-   "score": 6.07
-  },
-  {
-   "title": "Inter, adesso Bastoni può partire: Barcellona e Bayern Monaco alla finestra",
-   "link": "https://www.calciomercato.it/2026/11/20/inter-adesso-bastoni-puo-partire-barcellona-e-bayern-monaco-alla-finestra/",
-   "summary": "L'articolo Inter, adesso Bastoni può partire: Barcellona e Bayern Monaco alla finestra proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-20T16:00:26+00:00",
-   "image": "",
-   "id": "e099f77377a2",
-   "age_minutes": 469,
-   "also": [
-    {
-     "source": "Calciomercato.it",
-     "link": "https://www.calciomercato.it/2026/11/19/inter-quanti-pericoli-per-bastoni-spunta-anche-il-bayern-monaco/"
-    }
-   ],
-   "score": 6.03
-  },
-  {
-   "title": "Di Marzio svela: “Milan sulle tracce di Da Silva, talento svedese paragonato a Van Dijk”",
-   "link": "https://www.milannews.it/calciomercato-milan/marzio-svela-milan-tracce-silva-talento-svedese-paragonato-van-dijk-636838",
-   "summary": "Nel suo profilo X, l'esperto di calciomercato di Sky Gianluca di Marzio ha parlato di un nuovo possibile nome che il Milan avrebbe attenzionato per il mercato di gennaio. Di seguito lo sue parole.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T21:10:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/92/92a97e7d1f486f96c4bc25346c44ca1e-78238-oooz0000.jpeg",
-   "id": "33cad08cf500",
-   "age_minutes": 160,
-   "also": [],
-   "score": 5.974
+   "score": 5.904
   },
   {
    "title": "Colpo Lazio dalla rivale, arriva il rinforzo per Gattuso",
@@ -254,9 +123,28 @@
    "published": "2026-11-19T19:22:02+00:00",
    "image": "",
    "id": "eb9379f51a3b",
-   "age_minutes": 1708,
+   "age_minutes": 2102,
    "also": [],
-   "score": 5.74
+   "score": 5.592
+  },
+  {
+   "title": "Inter, adesso Bastoni può partire: Barcellona e Bayern Monaco alla finestra",
+   "link": "https://www.calciomercato.it/2026/11/20/inter-adesso-bastoni-puo-partire-barcellona-e-bayern-monaco-alla-finestra/",
+   "summary": "L'articolo Inter, adesso Bastoni può partire: Barcellona e Bayern Monaco alla finestra proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-20T16:00:26+00:00",
+   "image": "",
+   "id": "e099f77377a2",
+   "age_minutes": 863,
+   "also": [
+    {
+     "source": "Calciomercato.it",
+     "link": "https://www.calciomercato.it/2026/11/19/inter-quanti-pericoli-per-bastoni-spunta-anche-il-bayern-monaco/"
+    }
+   ],
+   "score": 5.149
   },
   {
    "title": "Juve, Gatti piace tantissimo alla Lazio: primi contatti",
@@ -268,107 +156,23 @@
    "published": "2026-11-20T17:19:44+00:00",
    "image": "",
    "id": "f21a50c4d376",
-   "age_minutes": 390,
+   "age_minutes": 784,
    "also": [],
-   "score": 5.676
+   "score": 4.688
   },
   {
-   "title": "Torri: \"Koné? A gennaio bisogna dire di no. Dybala? Me lo aspetto in campo\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/torri-kone-gennaio-bisogna-no-dybala-aspetto-campo-801397",
-   "summary": "Piero Torri, giornalista de La Repubblica, è intervenuto ai microfoni di Radio Manà Manà Sport (90,9), soffermandosi sul mercato della Roma, sul futuro di Koné e sulle prossime sfide della squadra di Gian Piero…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-20T22:50:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dc/dcac336579ec5d890ef9247ae7b05189-86496-oooz0000.jpeg",
-   "id": "00a9f098e456",
-   "age_minutes": 59,
-   "also": [],
-   "score": 5.67
-  },
-  {
-   "title": "Inter, doppio colpo a zero: Alisson più Anguissa",
-   "link": "https://www.calciomercato.it/2026/11/19/inter-doppio-colpo-a-zero-alisson-piu-anguissa/",
-   "summary": "L'articolo Inter, doppio colpo a zero: Alisson più Anguissa proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-19T14:29:42+00:00",
-   "image": "",
-   "id": "2e9e2f40c289",
-   "age_minutes": 2000,
-   "also": [],
-   "score": 5.623
-  },
-  {
-   "title": "Sorpresa dall'Inghilterra, il Napoli vuole un centrocampista del Man City: piace Kovacic",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/sorpresa-inghilterra-napoli-vuole-centrocampista-man-city-piace-kovacic-662519",
-   "summary": "Il Napoli guarda già al mercato della prossima estate e valuta una possibile occasione a parametro zero per rinforzare il centrocampo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:20:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a9/a910a376d7ca1cf432f5e7692341af09-98530-oooz0000.jpeg",
-   "id": "d28416dd8b98",
-   "age_minutes": 89,
-   "also": [],
-   "score": 5.514
-  },
-  {
-   "title": "Juventus, senza Kalulu la difesa è sotto esame: adesso servono risposte da tutti, non sono ammessi errori",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-kalulu-difesa-esame-servono-risposte-tutti-ammessi-errori-801350",
-   "summary": "L'assenza di Pierre Kalulu rappresenta un problema per la Juventus, ma non può trasformarsi in una giustificazione, la squadra di Luciano Spalletti deve dimostrare di possedere alternative affidabili e soprattutto di…",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-20T23:30:41+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/47/47a4b0854d32f2d91471b550797027b5-43569-oooz0000.jpeg",
-   "id": "633967c61c79",
-   "age_minutes": 19,
-   "also": [],
-   "score": 5.489
-  },
-  {
-   "title": "Sabatini: \"Se il Milan vuole McTominay, farei uno scambio con Rabiot\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/sabatini-se-milan-vuole-mctominay-scambio-rabiot-662517",
-   "summary": "Sandro Sabatini, giornalista, sul suo canale YouTube ha analizzato le possibili strategie di mercato del Napoli per rinforzare la rosa di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:10:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/92/92ce22aebc3d351a2767cc7699274138-08639-oooz0000.jpeg",
-   "id": "5698bd4538a5",
-   "age_minutes": 99,
-   "also": [],
-   "score": 5.464
-  },
-  {
-   "title": "Atalanta, a partire dalla gara con l'Inter mezzi gratis per chi ha il biglietto",
-   "link": "https://www.fcinternews.it/news/atalanta-partire-gara-inter-mezzi-gratis-biglietto-1023677",
-   "summary": "L'Atalanta comunica che anche per questa stagione è stato raggiunto l’accordo economico raggiunto con ATB, l'azienda trasporti pubblici di Bergamo.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T22:02:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f73327e4ef9148e7738d32ac43d46fe-14216-oooz0000.jpeg",
-   "id": "653c2ac7834b",
-   "age_minutes": 108,
-   "also": [],
-   "score": 5.422
-  },
-  {
-   "title": "Dalla Spagna sono sicuri, a giugno Nico Paz torna al Real Madrid: al Como 80 milioni",
-   "link": "https://www.milannews.it/news/spagna-sicuri-giugno-nico-paz-torna-real-madrid-como-80-636830",
-   "summary": "Nico Paz, protagonista dello scorso mercato estivo, è destinato a diventare tale anche la prossima estate.",
+   "title": "Di Marzio svela: “Milan sulle tracce di Da Silva, talento svedese paragonato a Van Dijk”",
+   "link": "https://www.milannews.it/calciomercato-milan/marzio-svela-milan-tracce-silva-talento-svedese-paragonato-van-dijk-636838",
+   "summary": "Nel suo profilo X, l'esperto di calciomercato di Sky Gianluca di Marzio ha parlato di un nuovo possibile nome che il Milan avrebbe attenzionato per il mercato di gennaio. Di seguito lo sue parole.",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-11-20T22:00:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bf/bf56b188858df922df436bf43b965fae-38577-oooz0000.jpeg",
-   "id": "eedd12e5f3e0",
-   "age_minutes": 109,
+   "published": "2026-11-20T21:10:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/92/92a97e7d1f486f96c4bc25346c44ca1e-78238-oooz0000.jpeg",
+   "id": "33cad08cf500",
+   "age_minutes": 554,
    "also": [],
-   "score": 5.414
+   "score": 4.596
   },
   {
    "title": "Parma-Roma, c’è l’annuncio: le ultime su Svilar, Mancini e Dybala",
@@ -380,37 +184,51 @@
    "published": "2026-11-20T14:17:31+00:00",
    "image": "",
    "id": "085e48914cfa",
-   "age_minutes": 572,
+   "age_minutes": 966,
    "also": [],
-   "score": 5.15
+   "score": 4.39
   },
   {
-   "title": "Inchiesta San Siro, annullato il sequestro dei dispositivi di Malangone",
-   "link": "https://www.fcinternews.it/news/inchiesta-san-siro-annullato-sequestro-dispositivi-malangone-1023671",
-   "summary": "La Corte di Cassazione dà un colpo importante sull'inchiesta legata alle presunte irregolarità nella vendita dello stadio di San Siro a Inter e Milan: è stato infatti annullato definitivamente il sequestro del cellulare…",
-   "source": "FcInterNews",
+   "title": "Juventus, spunta l'occasione Kovacic: può lasciare il Manchester City a gennaio. Anche l'Atletico Madrid sul croato",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-spunta-occasione-kovacic-lasciare-manchester-city-gennaio-atletico-madrid-croato-801356",
+   "summary": "La Juventus guarda con attenzione alle possibili occasioni del mercato di gennaio e tra i nomi da monitorare spunta quello di Mateo Kovacic, il centrocampista croato, 32 anni, sta trovando pochissimo spazio al…",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T20:23:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b9/b9ab68f0303392bf4c5742c9e865d7df-41896-oooz0000.jpeg",
-   "id": "a5feb2f8e20c",
-   "age_minutes": 206,
+   "scope": "Juventus",
+   "published": "2026-11-21T00:15:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a9/a910a376d7ca1cf432f5e7692341af09-98530-oooz0000.jpeg",
+   "id": "c9237119575f",
+   "age_minutes": 368,
    "also": [],
-   "score": 4.967
+   "score": 4.349
   },
   {
-   "title": "Inter-Lazio di Supercoppa, gli ultras biancocelesti al primo anello blu",
-   "link": "https://www.fcinternews.it/news/inter-lazio-supercoppa-ultras-biancocelesti-anello-blu-1023668",
-   "summary": "Attraverso la pagina Instagram della propria fanzine ufficiale, la Curva Nord laziale ha annunciato quella che sarà la collocazione dei tifosi biancocelesti più caldi in vista della finale di Supercoppa italiana contro…",
-   "source": "FcInterNews",
+   "title": "Esposito-Napoli, Gaito: \"Interessante, ma con Allegri fatica persino Hojlund...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/gaito-conferenze-allegri-662435",
+   "summary": "Tra campo e mercato verso la gara contro il Torino.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T20:09:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c8/c8ec557b7f1507d3478c95fa87c14a08-84068-oooz0000.jpeg",
-   "id": "6feb39e3cd84",
-   "age_minutes": 220,
+   "scope": "Napoli",
+   "published": "2026-11-21T00:00:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b6/b646a4592777b82578e72eac6cba4f75-85923-oooz0000.jpeg",
+   "id": "6eb51fe20bdb",
+   "age_minutes": 383,
    "also": [],
-   "score": 4.907
+   "score": 4.299
+  },
+  {
+   "title": "Gonçalves: \"Ho aspettato di decidere sul mio futuro per l'eventualità di unirmi al Milan di Amorim\"",
+   "link": "https://www.milannews.it/news/goncalves-ho-aspettato-decidere-eventualita-unirmi-milan-amorim-636804",
+   "summary": "Pedro Gonçalves, centrocampista della Fiorentina arrivato in prestito dallo Sporting Club nel corso dell'ultima estate, in un'intervista a Record ha raccontato del suo rapporto con l'ex allenatore Ruben Amorim, oggi…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-20T23:50:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3e/3ef2118e908a69a67b3256a597e5be0e-68517-oooz0000.jpeg",
+   "id": "36649861ea73",
+   "age_minutes": 393,
+   "also": [],
+   "score": 4.264
   },
   {
    "title": "Napoli, assalto a Sebastiano Esposito: prezzo fissato",
@@ -422,9 +240,23 @@
    "published": "2026-11-20T12:10:42+00:00",
    "image": "",
    "id": "23dc4e9e9a9a",
-   "age_minutes": 699,
+   "age_minutes": 1093,
    "also": [],
-   "score": 4.857
+   "score": 4.224
+  },
+  {
+   "title": "Torri: \"Koné? A gennaio bisogna dire di no. Dybala? Me lo aspetto in campo\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/torri-kone-gennaio-bisogna-no-dybala-aspetto-campo-801397",
+   "summary": "Piero Torri, giornalista de La Repubblica, è intervenuto ai microfoni di Radio Manà Manà Sport (90,9), soffermandosi sul mercato della Roma, sul futuro di Koné e sulle prossime sfide della squadra di Gian Piero…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-20T22:50:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dc/dcac336579ec5d890ef9247ae7b05189-86496-oooz0000.jpeg",
+   "id": "00a9f098e456",
+   "age_minutes": 453,
+   "also": [],
+   "score": 4.077
   },
   {
    "title": "La Juventus in pole per Raimondo, c’è il prezzo | CM",
@@ -436,9 +268,23 @@
    "published": "2026-11-20T09:00:28+00:00",
    "image": "",
    "id": "36b349602780",
-   "age_minutes": 889,
+   "age_minutes": 1283,
    "also": [],
-   "score": 4.507
+   "score": 4.026
+  },
+  {
+   "title": "Sorpresa dall'Inghilterra, il Napoli vuole un centrocampista del Man City: piace Kovacic",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/sorpresa-inghilterra-napoli-vuole-centrocampista-man-city-piace-kovacic-662519",
+   "summary": "Il Napoli guarda già al mercato della prossima estate e valuta una possibile occasione a parametro zero per rinforzare il centrocampo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:20:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a9/a910a376d7ca1cf432f5e7692341af09-98530-oooz0000.jpeg",
+   "id": "d28416dd8b98",
+   "age_minutes": 483,
+   "also": [],
+   "score": 3.989
   },
   {
    "title": "Tre nuovi convocati in vista di marzo: Mancini punta su tre giovani",
@@ -450,26 +296,143 @@
    "published": "2026-11-20T07:51:50+00:00",
    "image": "",
    "id": "8c0af14edfe7",
-   "age_minutes": 958,
+   "age_minutes": 1352,
    "also": [],
-   "score": 4.403
+   "score": 3.967
   },
   {
-   "title": "Juventus, nuove voci su Sesko: la situazione",
-   "link": "https://www.calciomercato.it/2026/11/19/juventus-nuove-voci-su-sesko-la-situazione/",
-   "summary": "L'articolo Juventus, nuove voci su Sesko: la situazione proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-19T18:00:07+00:00",
-   "image": "",
-   "id": "eab8b63537fe",
-   "age_minutes": 1789,
+   "title": "Sabatini: \"Se il Milan vuole McTominay, farei uno scambio con Rabiot\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/sabatini-se-milan-vuole-mctominay-scambio-rabiot-662517",
+   "summary": "Sandro Sabatini, giornalista, sul suo canale YouTube ha analizzato le possibili strategie di mercato del Napoli per rinforzare la rosa di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:10:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/92/92ce22aebc3d351a2767cc7699274138-08639-oooz0000.jpeg",
+   "id": "5698bd4538a5",
+   "age_minutes": 493,
    "also": [],
-   "score": 3.702
+   "score": 3.96
+  },
+  {
+   "title": "Atalanta, a partire dalla gara con l'Inter mezzi gratis per chi ha il biglietto",
+   "link": "https://www.fcinternews.it/news/atalanta-partire-gara-inter-mezzi-gratis-biglietto-1023677",
+   "summary": "L'Atalanta comunica che anche per questa stagione è stato raggiunto l’accordo economico raggiunto con ATB, l'azienda trasporti pubblici di Bergamo.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T22:02:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f73327e4ef9148e7738d32ac43d46fe-14216-oooz0000.jpeg",
+   "id": "653c2ac7834b",
+   "age_minutes": 502,
+   "also": [],
+   "score": 3.937
+  },
+  {
+   "title": "Dalla Spagna sono sicuri, a giugno Nico Paz torna al Real Madrid: al Como 80 milioni",
+   "link": "https://www.milannews.it/news/spagna-sicuri-giugno-nico-paz-torna-real-madrid-como-80-636830",
+   "summary": "Nico Paz, protagonista dello scorso mercato estivo, è destinato a diventare tale anche la prossima estate.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-20T22:00:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bf/bf56b188858df922df436bf43b965fae-38577-oooz0000.jpeg",
+   "id": "eedd12e5f3e0",
+   "age_minutes": 503,
+   "also": [],
+   "score": 3.932
+  },
+  {
+   "title": "Juventus, senza Kalulu la difesa è sotto esame: adesso servono risposte da tutti, non sono ammessi errori",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-kalulu-difesa-esame-servono-risposte-tutti-ammessi-errori-801350",
+   "summary": "L'assenza di Pierre Kalulu rappresenta un problema per la Juventus, ma non può trasformarsi in una giustificazione, la squadra di Luciano Spalletti deve dimostrare di possedere alternative affidabili e soprattutto di…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-20T23:30:41+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/47/47a4b0854d32f2d91471b550797027b5-43569-oooz0000.jpeg",
+   "id": "633967c61c79",
+   "age_minutes": 413,
+   "also": [],
+   "score": 3.801
+  },
+  {
+   "title": "Inchiesta San Siro, annullato il sequestro dei dispositivi di Malangone",
+   "link": "https://www.fcinternews.it/news/inchiesta-san-siro-annullato-sequestro-dispositivi-malangone-1023671",
+   "summary": "La Corte di Cassazione dà un colpo importante sull'inchiesta legata alle presunte irregolarità nella vendita dello stadio di San Siro a Inter e Milan: è stato infatti annullato definitivamente il sequestro del cellulare…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T20:23:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b9/b9ab68f0303392bf4c5742c9e865d7df-41896-oooz0000.jpeg",
+   "id": "a5feb2f8e20c",
+   "age_minutes": 601,
+   "also": [],
+   "score": 3.679
+  },
+  {
+   "title": "Inter-Lazio di Supercoppa, gli ultras biancocelesti al primo anello blu",
+   "link": "https://www.fcinternews.it/news/inter-lazio-supercoppa-ultras-biancocelesti-anello-blu-1023668",
+   "summary": "Attraverso la pagina Instagram della propria fanzine ufficiale, la Curva Nord laziale ha annunciato quella che sarà la collocazione dei tifosi biancocelesti più caldi in vista della finale di Supercoppa italiana contro…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T20:09:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c8/c8ec557b7f1507d3478c95fa87c14a08-84068-oooz0000.jpeg",
+   "id": "6feb39e3cd84",
+   "age_minutes": 615,
+   "also": [],
+   "score": 3.645
   }
  ],
  "raw": [
+  {
+   "title": "LE PAROLE DI ANTONIO CONTE COME UN BULLDOZER SUI TIFOSI DELLA JUVENTUS.",
+   "link": "https://www.tuttojuve.com/firme-bianconere/parole-antonio-conte-bulldozer-tifosi-juventus-801164",
+   "summary": "Le parole di Antonio Conte spaccano il mondo del tifo bianconero. Come un fulmine a ciel sereno, Antonio rivela pubblicamente quello che privatamente sapevamo già.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-21T06:21:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
+   "id": "e67a2c4e588d"
+  },
+  {
+   "title": "Juventus-Venezia, la probabile formazione: Spalletti sceglie il 3-4-2-1, Gatti titolare. Douglas Luiz in regia, Woltemade guida l'attacco",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-probabile-formazione-spalletti-sceglie-3-4-2-1-gatti-titolare-douglas-luiz-regia-wo-801352",
+   "summary": "La Juventus prepara il ritorno in campo dopo la sosta per le nazionali.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-21T00:30:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6c/6c1cb86069ebf73cfa64db86178fa494-50805-oooz0000.jpeg",
+   "id": "99e286ab3f48"
+  },
+  {
+   "title": "Juventus, spunta l'occasione Kovacic: può lasciare il Manchester City a gennaio. Anche l'Atletico Madrid sul croato",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-spunta-occasione-kovacic-lasciare-manchester-city-gennaio-atletico-madrid-croato-801356",
+   "summary": "La Juventus guarda con attenzione alle possibili occasioni del mercato di gennaio e tra i nomi da monitorare spunta quello di Mateo Kovacic, il centrocampista croato, 32 anni, sta trovando pochissimo spazio al…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-21T00:15:35+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a9/a910a376d7ca1cf432f5e7692341af09-98530-oooz0000.jpeg",
+   "id": "c9237119575f",
+   "age_minutes": 368,
+   "also": [],
+   "score": 4.349
+  },
+  {
+   "title": "Juventus, Douglas Luiz deve cambiare passo: non basta il compitino, da lui ci si aspetta molto di più",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-douglas-luiz-cambiare-passo-compitino-aspetta-801351",
+   "summary": "Douglas Luiz deve dare qualcosa in più alla Juventus, non basta giocare semplice, non basta evitare errori e non basta limitarsi a una prestazione ordinata.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-21T00:00:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d6/d663f2d3dbd81b21419a1a0c5207b63a-92496-oooz0000.jpeg",
+   "id": "722e05241202"
+  },
   {
    "title": "Juventus, Varela scatena un'asta internazionale: Liverpool e Tottenham sfidano i bianconeri. Il Benfica può complicare tutto",
    "link": "https://www.tuttojuve.com/calciomercato/juventus-varela-scatena-asta-internazionale-liverpool-tottenham-sfidano-bianconeri-benfica-complicar-801354",
@@ -491,9 +454,9 @@
    "published": "2026-11-20T23:30:41+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/47/47a4b0854d32f2d91471b550797027b5-43569-oooz0000.jpeg",
    "id": "633967c61c79",
-   "age_minutes": 19,
+   "age_minutes": 413,
    "also": [],
-   "score": 5.489
+   "score": 3.801
   },
   {
    "title": "Juventus, Sørloth si complica: l'Atletico Madrid dice no al prestito, lo Stoccarda prepara lo sgambetto ai bianconeri",
@@ -505,9 +468,9 @@
    "published": "2026-11-20T23:15:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d2/d2cfd44c48f3489659dacaca09a47f6e-67002-oooz0000.jpeg",
    "id": "d9f8a4b7c675",
-   "age_minutes": 34,
+   "age_minutes": 428,
    "also": [],
-   "score": 7.805
+   "score": 6.153
   },
   {
    "title": "Conte ha detto una cosa giusta: alla Juventus deve tornare l'ossessione per la vittoria. E gli avversari devono tornare ad avere paura",
@@ -541,9 +504,9 @@
    "published": "2026-11-20T22:50:29+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/dc/dcac336579ec5d890ef9247ae7b05189-86496-oooz0000.jpeg",
    "id": "00a9f098e456",
-   "age_minutes": 59,
+   "age_minutes": 453,
    "also": [],
-   "score": 5.67
+   "score": 4.077
   },
   {
    "title": "Juventus, dieci partite senza ripetere lo stesso risultato: non accadeva dal 1997",
@@ -566,9 +529,9 @@
    "published": "2026-11-20T22:30:06+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3c/3c49607eac77fb3e38b911effd86deb1-87792-oooz0000.jpeg",
    "id": "a3fd1d23f103",
-   "age_minutes": 80,
+   "age_minutes": 474,
    "also": [],
-   "score": 9.764
+   "score": 8.217
   },
   {
    "title": "Exor, più pharma che auto per John",
@@ -659,280 +622,18 @@
    "id": "c19023a31b11"
   },
   {
-   "title": "Brambati: \"Spalletti ha il grande difetto di non sbattere mai i pugni sul tavolo\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/brambati-spalletti-difetto-sbattere-pugni-tavolo-801385",
-   "summary": "\"Spalletti ha il grande difetto di non sbattere mai i pugni sul tavolo. Gliel'ho sempre detto che sbaglia, in tanti domandano e chiedono, non pensate a Conte guardate Gasperini quanto ha lottato per tenere Koné.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-20T21:10:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/1b/1bc93bf1c9b616cedaf065bd6dd12822-75287-oooz0000.jpeg",
-   "id": "51ff20fc54f8"
-  },
-  {
-   "title": "L'ammissione di Zola: \"Nella Juve vedo idee, a volte manca la giusta esecuzione\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/ammissione-zola-nella-juve-vedo-idee-manca-giusta-esecuzione-801382",
-   "summary": "A La Repubblica, Magic Box Gianfranco Zola, oggi vicepresidente della Lega Pro e coordinatore per i progetti delle attività giovanili del Club Italia, ha parlato del percorso balbettante in Serie A di Napoli e Juventus: \"Il Napoli pensavo ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-20T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/ec/ec166afdee45aa90fa90c798c028d52d-04343-oooz0000.jpeg",
-   "id": "067d6d9b933a"
-  },
-  {
-   "title": "Corsa alla presidenza FIFA, Infantino ha ancora l'appoggio della CONMEBOL",
-   "link": "https://www.tuttojuve.com/altre-notizie/corsa-presidenza-fifa-infantino-appoggio-conmebol-801379",
-   "summary": "La CONMEBOL voterà per Gianni Infantino alle prossime elezioni FIFA, in programma il 18 marzo 2027 a Rabat.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-20T20:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a7/a7a49458bd74a903354b89ffdd5c6499-83640-oooz0000.jpeg",
-   "id": "7d2fb16ccc1f"
-  },
-  {
-   "title": "Balzarini: \"Conte dice certe cose perché dalla società Juve non ha appoggio come dai tifosi\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/balzarini-conte-cose-societa-juve-appoggio-tifosi-801378",
-   "summary": "\"Questa di Antonio Conte sta diventando una specie di docuserie.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-20T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/58/58244b31bf01b7270a6c22e1469c0bab-73051-oooz0000.jpeg",
-   "id": "665fe98ef4c2"
-  },
-  {
-   "title": "Radio Tutto Napoli, il palinsesto: ampio pre e post per Napoli-Torino",
-   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-ampio-pre-post-torino-juve-napoli-660651",
-   "summary": "Radio TuttoNapoli non si ferma mai e vi accompagnerà anche quest'oggi con ampio pre, le reaction ed il post di Napoli-Torino. La prima radio tematica sul Napoli inizierà il proprio palinsesto alle 19.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T23:30:57+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
-   "id": "585df9db1357"
-  },
-  {
-   "title": "Napoli-Torino, probabili formazioni: Allegri ha scelto il modulo. De Bruyne out?",
-   "link": "https://www.tuttonapoli.net/zoom/napoli-torino-probabili-formazioni-scelta-allegri-modulo-de-bruyne-out-662450",
-   "summary": "Il Napoli torna in campo dopo la sosta per le nazionali, reduce dal pareggio contro la Lazio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T23:00:46+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ade8d32f1e15eaa5dca6d3c3627c7b0e-45881-oooz0000.jpeg",
-   "id": "7e8984cffbbb"
-  },
-  {
-   "title": "Infortuni Napoli, dato clamoroso: 19 giocatori su 26 hanno accusato problemi fisici",
-   "link": "https://www.tuttonapoli.net/notizie/infortuni-napoli-dato-clamoroso-19-giocatori-26-accusato-problemi-fisici-662417",
-   "summary": "Diciannove giocatori su ventisei: è il dato che fotografa meglio l'emergenza infortuni del Napoli in questa stagione.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:50:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6f/6fa98f21cc1cffac28f6038171f164cb-47876-oooz0000.jpeg",
-   "id": "e6052da2f4e9"
-  },
-  {
-   "title": "Conte-Juve? Orlando: \"Da programmare già ora, senza aspettare Spalletti...\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/conte-juve-orlando-devi-programmare-ora-puoi-aspettare-spalletti-662518",
-   "summary": "Massimo Orlando, ex calciatore, è intervenuto ai microfoni di Maracanà sulle frequenze di TMW Radio, soffermandosi sulle dichiarazioni di Antonio Conte riguardo a un possibile ritorno alla Juventus.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:40:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cd/cd353a4ddd07ec075c23faf1ce9ce093-87033-oooz0000.jpeg",
-   "id": "f3ae76a4547b"
-  },
-  {
-   "title": "Hojlund e De Bruyne-show, messaggi chiari ad Allegri: tutti i numeri degli 8 nazionali",
-   "link": "https://www.tuttonapoli.net/notizie/hojlund-de-bruyne-show-messaggi-chiari-allegri-numeri-8-nazionali-662411",
-   "summary": "Gol, assist e prestazioni da protagonisti: Rasmus Hojlund e Kevin De Bruyne si sono presi la scena nell'ultima sosta per le Nazionali del 2026, confermando il loro ottimo momento e mandando segnali importanti anche a Massimiliano Allegri in vista ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:30:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/47/47bb0cc33d86387a5463c27e0fefb52e-38661-oooz0000.jpeg",
-   "id": "dd99f770b975"
-  },
-  {
-   "title": "Sorpresa dall'Inghilterra, il Napoli vuole un centrocampista del Man City: piace Kovacic",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/sorpresa-inghilterra-napoli-vuole-centrocampista-man-city-piace-kovacic-662519",
-   "summary": "Il Napoli guarda già al mercato della prossima estate e valuta una possibile occasione a parametro zero per rinforzare il centrocampo.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:20:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a9/a910a376d7ca1cf432f5e7692341af09-98530-oooz0000.jpeg",
-   "id": "d28416dd8b98",
-   "age_minutes": 89,
+   "title": "Nome nuovo per l’attacco del Milan, centravanti a sorpresa per Amorim",
+   "link": "https://www.calciomercato.it/2026/11/21/nome-nuovo-per-lattacco-del-milan-centravanti-a-sorpresa-per-amorim/",
+   "summary": "L'articolo Nome nuovo per l’attacco del Milan, centravanti a sorpresa per Amorim proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-21T06:16:43+00:00",
+   "image": "",
+   "id": "454a62a64f04",
+   "age_minutes": 7,
    "also": [],
-   "score": 5.514
-  },
-  {
-   "title": "Sabatini: \"Se il Milan vuole McTominay, farei uno scambio con Rabiot\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/sabatini-se-milan-vuole-mctominay-scambio-rabiot-662517",
-   "summary": "Sandro Sabatini, giornalista, sul suo canale YouTube ha analizzato le possibili strategie di mercato del Napoli per rinforzare la rosa di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:10:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/92/92ce22aebc3d351a2767cc7699274138-08639-oooz0000.jpeg",
-   "id": "5698bd4538a5",
-   "age_minutes": 99,
-   "also": [],
-   "score": 5.464
-  },
-  {
-   "title": "Calaiò: \"Ho la sensazione che ad Allegri non piaccia Vergara\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/calaio-ho-sensazione-allegri-piaccia-vergara-662516",
-   "summary": "Emanuele Calaiò, ex attaccante del Napoli, è intervenuto ai microfoni di Televomero, soffermandosi sull'impiego di Antonio Vergara da parte di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T22:00:43+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/44/4479310187f0c386c2053905fbc56db9-44981-oooz0000.jpeg",
-   "id": "919647f66ac8"
-  },
-  {
-   "title": "Napoli-Torino, Rampulla avvisa: \"Ora tutte le partite sono da ultima chiamata\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-torino-rampulla-avvisa-ora-partite-ultima-chiamata-662499",
-   "summary": "Michelangelo Rampulla, ex portiere, è intervenuto ai microfoni di Maracanà, trasmissione di TMW Radio, soffermandosi sulla corsa alla qualificazione in Champions League e sulle difficoltà delle grandi squadre.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:50:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5d/5dcfa197c24bda0e392e27b53485aab2-11849-oooz0000.jpeg",
-   "id": "fab51395f6bb"
-  },
-  {
-   "title": "Caso De Bruyne, Civoli: \"Basta fare il bambino viziato! Visto Modric con Allegri?\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-bruyne-civoli-non-bambino-viziato-modric-allegri-662507",
-   "summary": "Marco Civoli, giornalista e storica voce della Rai, è intervenuto sulla nostra Radio Tutto Napoli, soffermandosi sul momento difficile del Napoli e sul lavoro di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:40:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/56/56d1bb68f798c5a3ee20cb76fb4b288b-63752-oooz0000.jpeg",
-   "id": "98b7c3a49064"
-  },
-  {
-   "title": "Napoli Primavera, domani sfida al Perugia: i convocati di Nocerino",
-   "link": "https://www.tuttonapoli.net/giovanili/napoli-primavera-domani-sfida-perugia-convocati-nocerino-662514",
-   "summary": "Il Napoli Primavera si prepara ad affrontare il Perugia nella nona giornata del campionato Primavera 2. La formazione allenata da Antonio Nocerino scenderà in campo domani, sabato 21 novembre, alle ore 12.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:30:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/dd/dd13e456899f849db2d95ff0a2dc1dca-83448-oooz0000.jpeg",
-   "id": "f9ca7449ca80"
-  },
-  {
-   "title": "McTominay diventa papà! Scott e la compagna condividono la notizia sui social",
-   "link": "https://www.tuttonapoli.net/dai-social/mctominay-papa-scott-compagna-condividono-notizia-social-662512",
-   "summary": "Scott McTominay diventerà papà! Il centrocampista del Napoli e la compagna Cam Reading hanno annunciato sui social l'arrivo del loro primo figlio, condividendo la bella notizia con i propri follower.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:20:15+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c3/c3fbb41e641f023267b1f2c61f598deb-14651-oooz0000.jpeg",
-   "id": "b710b2266632"
-  },
-  {
-   "title": "Napoli a fine ciclo? Mattei: \"Tutto sbagliato! Squadra vecchia, ad Allegri serve altro\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/napoli-ciclo-mattei-tutto-sbagliato-squadra-vecchia-allegri-serve-altro-662500",
-   "summary": "Stefano Mattei, giornalista, è intervenuto ai microfoni di Maracanà sulle frequenze di TMW Radio, esprimendo un giudizio molto critico sul Napoli di Massimiliano Allegri.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:10:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b4/b4a9ac34f23cfdf12a356de5a76d88e4-39765-oooz0000.jpeg",
-   "id": "3e3d5e62a591"
-  },
-  {
-   "title": "Calciomercato Napoli, limite prestiti a gennaio? La fake news su un solo slot: ecco il regolamento",
-   "link": "https://www.tuttonapoli.net/in-primo-piano/calciomercato-napoli-lucca-lang-prestito-slot-liberi-occupati-situazione-aggiornata-662511",
-   "summary": "Il Napoli si prepara al mercato di gennaio con diverse situazioni da risolvere, soprattutto sul fronte delle possibili cessioni.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/26/26c2914dcbc4f2ba4a4cc321b213865b-51965-oooz0000.jpeg",
-   "id": "4d79fe519231",
-   "age_minutes": 170,
-   "also": [],
-   "score": 8.329
-  },
-  {
-   "title": "Calciomercato Napoli, Dzemaili consiglia: \"C'è un esterno svizzero spacca-partite...\"",
-   "link": "https://www.tuttonapoli.net/calciomercato-napoli/calciomercato-napoli-dzemaili-consiglia-c-giocatore-svizzero-spacca-partite-662503",
-   "summary": "Blerim Dzemaili, ex centrocampista di Napoli e Torino, è intervenuto sulla nostra Radio Tutto Napoli, soffermandosi sulle possibili operazioni di mercato degli azzurri a gennaio.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:50:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/14/148f17108d14581f151237d72951d58d-93502-oooz0000.jpeg",
-   "id": "bbba2aa71709",
-   "age_minutes": 179,
-   "also": [],
-   "score": 8.288
-  },
-  {
-   "title": "Infortunio Meret, entità e possibili tempi di recupero: l'analisi del dott. Delle Donne",
-   "link": "https://www.tuttonapoli.net/notizie/infortunio-meret-entita-possibili-tempi-recupero-analisi-dott-donne-662510",
-   "summary": "Giuseppe Delle Donne, chirurgo ortopedico del gruppo GVM Italia e primario della struttura ortopedica Villa delle Magnolie di Caserta, ha analizzato il nuovo infortunio di Alex Meret, che ha riportato una frattura della quinta vertebra lombare durant ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:40:22+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/df/df9ea95c88d5c220be314745ec402711-63761-oooz0000.jpeg",
-   "id": "65efe4ed2eb7"
-  },
-  {
-   "title": "Qual è il problema del Napoli? Mizzoni: \"È la squadra meno allegriana possibile\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/qual-problema-napoli-mizzoni-e-squadra-allegriana-possibile-662495",
-   "summary": "La giornalista Giulia Mizzoni, nel corso del podcast \"Appunti di Telecronaca\" del Corriere dello Sport, ha analizzato le difficoltà del Napoli di Massimiliano Allegri, soffermandosi sui problemi accumulati nelle ultime stagioni e sul ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:30:58+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/67/67eaceb2c07cd606922e5b0c74229199-51379-oooz0000.jpeg",
-   "id": "91988197daa6"
-  },
-  {
-   "title": "Meret-Milinkovic, l'ex prep. portieri del Napoli: \"Ben venga il dualismo quando è sano\"",
-   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/meret-milinkovic-prep-portieri-napoli-ben-venga-dualismo-sano-662508",
-   "summary": "Alessandro Nista, ex portiere del Torino ed ex preparatore dei portieri del Napoli, è intervenuto sulla nostra Radio Tutto Napoli, soffermandosi sul nuovo infortunio di Alex Meret e sulle difficoltà attraversate dalla squadra di Massimi ...",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:20:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1f/1ff5463257e501188b6d3b0b3449dcf9-96291-oooz0000.jpeg",
-   "id": "1a7441b0801d"
-  },
-  {
-   "title": "Sosa: \"Non basterà vincere, serve la prestazione! Allegri, il Torino va attaccato\"",
-   "link": "https://www.tuttonapoli.net/le-interviste/sosa-non-bastera-vincere-serve-prestazione-allegri-torino-attaccato-662506",
-   "summary": "Roberto \"El Pampa\" Sosa, ex attaccante del Napoli, è intervenuto ai microfoni di Tele A nel corso di A Tutto Napoli, analizzando la prossima sfida degli azzurri contro il Torino.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:00:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ed/ed2d595a908051bd330b946533f1b362-17517-oooz0000.jpeg",
-   "id": "fb5a4ba75502"
-  },
-  {
-   "title": "NOVITA' - Tuttonapoli, l'app n.1 anche in versione 'Premium' per eliminare le pubblicità",
-   "link": "https://www.tuttonapoli.net/brevi/novita-tuttonapoli-app-versione-premium-eliminare-pubblicita-642060",
-   "summary": "Sono oltre un milione i tifosi azzurri che da anni hanno già scaricato le nostre applicazioni gratuite per smartphone Apple o Android, le più scaricate per l'informazione sul calcio Napoli.",
-   "source": "TuttoNapoli",
-   "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-20T20:00:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c0/c056a6bebad20a46a04a34c108100d17-20443-oooz0000.jpeg",
-   "id": "aac9160b472b"
+   "score": 7.356
   },
   {
    "title": "Runjaic ha risolto il contratto con l’Udinese, possibilità nazionale polacca",
@@ -944,9 +645,9 @@
    "published": "2026-11-20T20:44:20+00:00",
    "image": "",
    "id": "d46f5659bdea",
-   "age_minutes": 185,
+   "age_minutes": 580,
    "also": [],
-   "score": 8.459
+   "score": 7.131
   },
   {
    "title": "Endrick, annuncio ufficiale sul futuro: Roma e Milan pronte a inserirsi",
@@ -958,9 +659,9 @@
    "published": "2026-11-20T19:15:57+00:00",
    "image": "",
    "id": "76540d32f805",
-   "age_minutes": 274,
+   "age_minutes": 668,
    "also": [],
-   "score": 8.092
+   "score": 6.924
   },
   {
    "title": "Juve, Gatti piace tantissimo alla Lazio: primi contatti",
@@ -972,9 +673,9 @@
    "published": "2026-11-20T17:19:44+00:00",
    "image": "",
    "id": "f21a50c4d376",
-   "age_minutes": 390,
+   "age_minutes": 784,
    "also": [],
-   "score": 5.676
+   "score": 4.688
   },
   {
    "title": "Inter, adesso Bastoni può partire: Barcellona e Bayern Monaco alla finestra",
@@ -986,14 +687,14 @@
    "published": "2026-11-20T16:00:26+00:00",
    "image": "",
    "id": "e099f77377a2",
-   "age_minutes": 469,
+   "age_minutes": 863,
    "also": [
     {
      "source": "Calciomercato.it",
      "link": "https://www.calciomercato.it/2026/11/19/inter-quanti-pericoli-per-bastoni-spunta-anche-il-bayern-monaco/"
     }
    ],
-   "score": 6.03
+   "score": 5.149
   },
   {
    "title": "Parma-Roma, c’è l’annuncio: le ultime su Svilar, Mancini e Dybala",
@@ -1005,9 +706,9 @@
    "published": "2026-11-20T14:17:31+00:00",
    "image": "",
    "id": "085e48914cfa",
-   "age_minutes": 572,
+   "age_minutes": 966,
    "also": [],
-   "score": 5.15
+   "score": 4.39
   },
   {
    "title": "Napoli, assalto a Sebastiano Esposito: prezzo fissato",
@@ -1019,9 +720,9 @@
    "published": "2026-11-20T12:10:42+00:00",
    "image": "",
    "id": "23dc4e9e9a9a",
-   "age_minutes": 699,
+   "age_minutes": 1093,
    "also": [],
-   "score": 4.857
+   "score": 4.224
   },
   {
    "title": "Juventus, si ragiona sulla risoluzione del contratto di Milik: le ultimissime | CM",
@@ -1033,9 +734,9 @@
    "published": "2026-11-20T11:01:21+00:00",
    "image": "",
    "id": "47d24df9e156",
-   "age_minutes": 768,
+   "age_minutes": 1162,
    "also": [],
-   "score": 6.718
+   "score": 6.146
   },
   {
    "title": "La Juventus in pole per Raimondo, c’è il prezzo | CM",
@@ -1047,9 +748,9 @@
    "published": "2026-11-20T09:00:28+00:00",
    "image": "",
    "id": "36b349602780",
-   "age_minutes": 889,
+   "age_minutes": 1283,
    "also": [],
-   "score": 4.507
+   "score": 4.026
   },
   {
    "title": "Tre nuovi convocati in vista di marzo: Mancini punta su tre giovani",
@@ -1061,9 +762,9 @@
    "published": "2026-11-20T07:51:50+00:00",
    "image": "",
    "id": "8c0af14edfe7",
-   "age_minutes": 958,
+   "age_minutes": 1352,
    "also": [],
-   "score": 4.403
+   "score": 3.967
   },
   {
    "title": "Bruno Fernandes-Milan, contatto: i rossoneri puntano il colpo per il 2027",
@@ -1075,9 +776,9 @@
    "published": "2026-11-20T06:29:57+00:00",
    "image": "",
    "id": "9113f90610ae",
-   "age_minutes": 1040,
+   "age_minutes": 1434,
    "also": [],
-   "score": 6.291
+   "score": 5.904
   },
   {
    "title": "Inter, quanti pericoli per Bastoni: spunta anche il Bayern Monaco",
@@ -1090,9 +791,9 @@
    "image": "",
    "id": "ab66e0904b55",
    "_kw": 1.6,
-   "_fresh": 0.09203525848539297,
+   "_fresh": 0.0520843393165334,
    "_fp": "inter quanti pericoli bastoni spunta anche bayern monaco",
-   "age_minutes": 1652
+   "age_minutes": 2046
   },
   {
    "title": "Colpo Lazio dalla rivale, arriva il rinforzo per Gattuso",
@@ -1104,9 +805,9 @@
    "published": "2026-11-19T19:22:02+00:00",
    "image": "",
    "id": "eb9379f51a3b",
-   "age_minutes": 1708,
+   "age_minutes": 2102,
    "also": [],
-   "score": 5.74
+   "score": 5.592
   },
   {
    "title": "Juventus, nuove voci su Sesko: la situazione",
@@ -1117,10 +818,7 @@
    "scope": "generalista",
    "published": "2026-11-19T18:00:07+00:00",
    "image": "",
-   "id": "eab8b63537fe",
-   "age_minutes": 1789,
-   "also": [],
-   "score": 3.702
+   "id": "eab8b63537fe"
   },
   {
    "title": "Roma, nuovo esterno d’attacco a gennaio: prestito con diritto di riscatto",
@@ -1131,10 +829,7 @@
    "scope": "generalista",
    "published": "2026-11-19T16:00:37+00:00",
    "image": "",
-   "id": "2059ca728251",
-   "age_minutes": 1909,
-   "also": [],
-   "score": 7.654
+   "id": "2059ca728251"
   },
   {
    "title": "Inter, doppio colpo a zero: Alisson più Anguissa",
@@ -1145,10 +840,7 @@
    "scope": "generalista",
    "published": "2026-11-19T14:29:42+00:00",
    "image": "",
-   "id": "2e9e2f40c289",
-   "age_minutes": 2000,
-   "also": [],
-   "score": 5.623
+   "id": "2e9e2f40c289"
   },
   {
    "title": "Il Milan sogna McTominay, bomba di mercato in Serie A",
@@ -1305,244 +997,51 @@
    "id": "5807530333c7"
   },
   {
-   "title": "Lucca lascia il Napoli: l’intreccio con Varela e il Monza | CM",
-   "link": "https://www.calciomercato.it/2026/11/18/lucca-lascia-il-napoli-lintreccio-con-varela-e-il-monza-cm/",
-   "summary": "L'articolo Lucca lascia il Napoli: l’intreccio con Varela e il Monza | CM proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-18T07:55:05+00:00",
-   "image": "",
-   "id": "bf27e1d78827"
+   "title": "Conferenza stampa pre Milan-Frosinone: Amorim parlerà alle ore 14:00",
+   "link": "https://www.milannews.it/news/conferenza-stampa-pre-milan-frosinone-amorim-parlera-14-00-636840",
+   "summary": "Dopo due settimane di stop a causa delle nazionali, oggi riparte la Serie A con la 12^ giornata. I rossoneri ospiteranno domani alle 18:00 il Frosinone di Alvini, una delle più grandi rivelazioni di questa Serie A.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-21T06:24:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a099848127c2eda0c2a47fffd56a3cb5-45152-oooz0000.jpeg",
+   "id": "b05377690a39"
   },
   {
-   "title": "L'ex nerazzurro Kovacic finisce nei radar di tre squadre di Serie A",
-   "link": "https://www.fcinternews.it/ex-nerazzurri/nerazzurro-kovacic-finisce-radar-squadre-serie-1023688",
-   "summary": "Nel futuro di Mateo Kovacic potrebbe esserci nuovamente la Serie A. Secondo quanto riportato dal The Sun, l'ex centrocampista dell'Inter avrebbe attirato le attenzioni del Napoli, probabilmente destinato a salutare Kevin De Bruyne.",
-   "source": "FcInterNews",
+   "title": "Milan, domani a San Siro arriva il Frosinone: tutte le info su dove seguire il match",
+   "link": "https://www.milannews.it/news/milan-domani-san-siro-arriva-frosinone-info-seguire-match-636832",
+   "summary": "Dopo due settimane di fermo a causa della pausa nazionali, è tempo di tornare a pensare alla Serie A. Oggi, alle ore 15:00, Como-Cagliari e Lazio-Lecce daranno il via alla 12^ giornata.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T23:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e8/e8fcdeaa7335f2f7ff88d0ca378c46c9-66170-879o143o2943o2207z181c.jpeg",
-   "id": "f515cc615de3"
+   "scope": "Milan",
+   "published": "2026-11-21T06:12:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/20/20fcbb73ef660a17f5f919ce9616906a-21609-oooz0000.jpeg",
+   "id": "99e384bd0b12"
   },
   {
-   "title": "Compatti e umili. Questa è la strada",
-   "link": "https://www.fcinternews.it/editoriale/compatti-umili-strada-1023672",
-   "summary": "La macchia del terzo derby perso consecutivamente dall'Inter in campionato, rimane.",
-   "source": "FcInterNews",
+   "title": "Vigilia di Milan-Frosinone, la probabile formazione rossonera: Maignan recuperato, Pavlovic da valutare",
+   "link": "https://www.milannews.it/news/probabile-formazione-636833",
+   "summary": "Domani pomeriggio alle ore 18:00 i rossoneri ospiteranno il Frosinone di Alvini a San Siro nel match valido la 12^ giornata di Serie A.",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T23:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3b/3b0934717da48d8e34a917d94311eb83-52752-oooz0000.jpeg",
-   "id": "9191220bbf49"
+   "scope": "Milan",
+   "published": "2026-11-21T06:00:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/51/51f2d54e76151e1ef00a61927f31ab56-49303-oooz0000.jpeg",
+   "id": "22323ca0eadf"
   },
   {
-   "title": "Santana: \"Lautaro Martinez? Difficile aggiungere qualcosa su di lui\"",
-   "link": "https://www.fcinternews.it/news/santana-lautaro-martinez-difficile-aggiungere-lui-1023676",
-   "summary": "Nel corso di un recente intervento a TMW, l'ex calciatore e ora tecnico argentino Mario Alberto Santana ha analizzato quali tra i profili \"italiani\" potrebbe raccogliere l'eredità di Lionel Messi, appena ritiratosi dalla Nazi ...",
-   "source": "FcInterNews",
+   "title": "Gonçalves: \"Ho aspettato di decidere sul mio futuro per l'eventualità di unirmi al Milan di Amorim\"",
+   "link": "https://www.milannews.it/news/goncalves-ho-aspettato-decidere-eventualita-unirmi-milan-amorim-636804",
+   "summary": "Pedro Gonçalves, centrocampista della Fiorentina arrivato in prestito dallo Sporting Club nel corso dell'ultima estate, in un'intervista a Record ha raccontato del suo rapporto con l'ex allenatore Ruben Amorim, oggi…",
+   "source": "MilanNews",
    "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T22:45:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a1/a199bb62f8cfdad0ac600056e5ed0679-06320-684o0o2196o1512z1128.jpeg",
-   "id": "b2a23bf16783"
-  },
-  {
-   "title": "Bonanni: \"L'Inter prima o poi dovrà ringiovanire la rosa\"",
-   "link": "https://www.fcinternews.it/news/bonanni-l-inter-ringiovanire-rosa-1023682",
-   "summary": "Nel corso di una recente puntata del programma \"Maracanà\" su TMW, l'ex calciatore Massimo Bonanni si è sbilanciato su quale dei calciatori dell'Inter ancora in bilico a livello di rinnovi contrattuale - ovvero Dimarco, ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T22:30:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8b23253b7466a7c58ca1313eed1c3ed8-94310-516o168o2028o1680z1128.jpeg",
-   "id": "4fe525ceada0"
-  },
-  {
-   "title": "Braglia: \"Inter su Alisson? Non hanno più fiducia in Martinez\"",
-   "link": "https://www.fcinternews.it/news/braglia-inter-alisson-fiducia-martinez-1023681",
-   "summary": "Nel corso di una recente puntata del programma \"Maracanà\" su TMW, l'ex portiere Simone Braglia ha commentato il presunto accostamento di Alisson all'Inter, evidenziando come questa voce costituirebbe un'ammissione di sfid ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T22:16:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/24/249f09414cdddb6fb00ec04fdc97a03d-89494-1391o0o2758o1367z158c.jpeg",
-   "id": "19b53fa3a2e4"
-  },
-  {
-   "title": "Atalanta, a partire dalla gara con l'Inter mezzi gratis per chi ha il biglietto",
-   "link": "https://www.fcinternews.it/news/atalanta-partire-gara-inter-mezzi-gratis-biglietto-1023677",
-   "summary": "L'Atalanta comunica che anche per questa stagione è stato raggiunto l’accordo economico raggiunto con ATB, l'azienda trasporti pubblici di Bergamo.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T22:02:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f73327e4ef9148e7738d32ac43d46fe-14216-oooz0000.jpeg",
-   "id": "653c2ac7834b",
-   "age_minutes": 108,
+   "scope": "Milan",
+   "published": "2026-11-20T23:50:21+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3e/3ef2118e908a69a67b3256a597e5be0e-68517-oooz0000.jpeg",
+   "id": "36649861ea73",
+   "age_minutes": 393,
    "also": [],
-   "score": 5.422
-  },
-  {
-   "title": "Orlando: \"Thuram finanziariamente vale più di tutti\"",
-   "link": "https://www.fcinternews.it/news/orlando-thuram-finanziariamente-tutti-1023679",
-   "summary": "Nel corso di un recente intervento radiofonico ai microfoni di TMW Radio, l'ex calciatore Massimo Orlando si è espresso in merito alla posizione di alcuni elementi cruciali dello scacchiere dell'Inter: \"Le generazioni durano 7-8 a ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T21:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/55/554fbfc669930a25a37a355925ee843e-78825-827o0o2111o1283z107d.jpeg",
-   "id": "db1348c540d4"
-  },
-  {
-   "title": "Rampulla: \"Ecco chi lascerei andare tra Calhanoglu, Dimarco e Thuram\"",
-   "link": "https://www.fcinternews.it/news/rampulla-ecco-lascerei-andare-calhanoglu-dimarco-thuram-1023678",
-   "summary": "Nel corso di un recente intervento radiofonico a TMW Radio, l'ex portiere Michelangelo Rampulla ha espresso una propria preferenza in merito a chi, secondo lui, si meriterebbe la permanenza all'Inter tra Calhanoglu, Dimarco e Thuram, tutti e ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T21:34:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c1038b4613eadb33bce864dbdd769279-65284-445o48o1469o1072z0bda.jpeg",
-   "id": "139b35ade760"
-  },
-  {
-   "title": "SI - Bastoni-Barça, osservatori nella sera del 'famoso' Inter-Juve. Ora...",
-   "link": "https://www.fcinternews.it/focus/i-si-i-bastoni-barca-osservatori-sera-famoso-inter-juve-ora-1023683",
-   "summary": "Nell'ambito dell'inseguimento perpetrato nei mesi scorsi, il Barcellona ha mandato alcune volte degli osservati per monitorare le prestazioni di Alessandro Bastoni.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T21:20:03+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b0/b05cea72531c84747a7a3e8f5a2cbf45-63731-132o335o840o1043z092e.jpeg",
-   "id": "4d7029d82684"
-  },
-  {
-   "title": "Mangas: \"Varela mi ricorda due ex giocatori dell'Inter\"",
-   "link": "https://www.fcinternews.it/news/mangas-varela-ricorda-giocatori-inter-1023675",
-   "summary": "Nel corso di una recente intervista concessa a Sky Sport, Ricardo Mangas, terzino sinistro del Monza, ha parlato apertamente del talento di Gustavo Varela, suo compagno di squadra nella compagine brianzola e attuale capocannoniere del campionato.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T21:06:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/ac20f8071f2af3c80873616662fc68f5-98593-1007o0o2411o1403z12d5.jpeg",
-   "id": "65f9605f1cf7"
-  },
-  {
-   "title": "Ternana Women, Quizzico: \"L'Inter ha molta qualità, lotta per restare ai vertici del campionato\"",
-   "link": "https://www.fcinternews.it/l-avversario/ternana-women-quizzico-l-inter-qualita-lotta-restare-vertici-campionato-1023655",
-   "summary": "Francesca Quazzico, difensore della Ternana Women, ha presentato la sfida in programma domenica alle 12.30 al Moreno Giubotti contro l'Inter Women.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T20:52:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/69/694604342d065bece07a2c4a6431e664-85054-oooz0000.jpeg",
-   "id": "afea7d89f0a2"
-  },
-  {
-   "title": "Galliani-Malagò, caso chiuso: l'ex AD Milan rinuncia al ricorso nel merito",
-   "link": "https://www.fcinternews.it/news/galliani-malago-chiuso-milan-rinuncia-ricorso-merito-1023674",
-   "summary": "Si chiude definitivamente il caso del ricorso di Adriano Galliani contro la commissione per le candidature alle elezioni della FIGC creata da Giovanni Malagò.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T20:38:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f0/f00dfdb8937957308c10109e724977d4-75987-oooz0000.jpeg",
-   "id": "0ed2d659dbed"
-  },
-  {
-   "title": "Inchiesta San Siro, annullato il sequestro dei dispositivi di Malangone",
-   "link": "https://www.fcinternews.it/news/inchiesta-san-siro-annullato-sequestro-dispositivi-malangone-1023671",
-   "summary": "La Corte di Cassazione dà un colpo importante sull'inchiesta legata alle presunte irregolarità nella vendita dello stadio di San Siro a Inter e Milan: è stato infatti annullato definitivamente il sequestro del cellulare…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T20:23:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b9/b9ab68f0303392bf4c5742c9e865d7df-41896-oooz0000.jpeg",
-   "id": "a5feb2f8e20c",
-   "age_minutes": 206,
-   "also": [],
-   "score": 4.967
-  },
-  {
-   "title": "Inter-Lazio di Supercoppa, gli ultras biancocelesti al primo anello blu",
-   "link": "https://www.fcinternews.it/news/inter-lazio-supercoppa-ultras-biancocelesti-anello-blu-1023668",
-   "summary": "Attraverso la pagina Instagram della propria fanzine ufficiale, la Curva Nord laziale ha annunciato quella che sarà la collocazione dei tifosi biancocelesti più caldi in vista della finale di Supercoppa italiana contro…",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T20:09:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c8/c8ec557b7f1507d3478c95fa87c14a08-84068-oooz0000.jpeg",
-   "id": "6feb39e3cd84",
-   "age_minutes": 220,
-   "also": [],
-   "score": 4.907
-  },
-  {
-   "title": "Un Van Dijk per la cantera: l'Inter mette gli occhi su un 2010 del Malmö",
-   "link": "https://www.fcinternews.it/in-primo-piano/van-dijk-cantera-inter-mette-occhi-silva-malmo-1023673",
-   "summary": "Ha soltanto 16 anni, ma ha saputo calamitare già le attenzioni dei grandi club soprattutto in Italia.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T19:55:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d9/d9ad2240f060d822c789417da61fe6e5-98658-oooz0000.jpeg",
-   "id": "b2eafc0cb947"
-  },
-  {
-   "title": "Luis Garcia: \"Siviglia-Betis è un'altra cosa rispetto a Inter-Milan\"",
-   "link": "https://www.fcinternews.it/news/luis-garcia-siviglia-betis-inter-milan-fofana-1023663",
-   "summary": "Luis García Plaza, allenatore del SIviglia, è pronto a giocare il suo primo derby della città andalusa alla guida del Nervion.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T19:40:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5a/5a55e88efe1c3d1d38e1b564c8f78463-73382-523o0o1204o680z0967.jpeg",
-   "id": "60272aa46613"
-  },
-  {
-   "title": "Stoccarda, Hoeneß spera: \"Stiller potrebbe esserci contro l'Inter\"",
-   "link": "https://www.fcinternews.it/eurorivali/stoccarda-hoeness-spera-stiller-esserci-inter-1023662",
-   "summary": "Sebastian Hoeneß, allenatore dello Stoccarda ha dato speranza ai tifosi riguardo al suo giocatore chiave, il centrocampista Angelo Stiller, che potrebbe essere di nuovo disponibile per la partita di Champions League contro l'Inter di mercol ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T19:25:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/98/98a23ede31d2af9becd9486072d2356d-92081-1127o0o2038o911z0fec.jpeg",
-   "id": "5e7e8f1c1221"
-  },
-  {
-   "title": "Missione Luis Henrique: \"Far sognare un futuro dignitoso alla mia gente\"",
-   "link": "https://www.fcinternews.it/news/missione-luis-henrique-far-sognare-dignitoso-gente-1023661",
-   "summary": "L'esterno dell'Inter Luis Henrique ha lanciato un'iniziativa benefica, denominata LH11, per 300 ragazzi di Solanea, la sua città in Brasile.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T19:11:18+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/45e97a736cf57d80627368b0bb2504b4-59450-oooz0000.jpeg",
-   "id": "a96e120e0347"
-  },
-  {
-   "title": "Andreazzoli: \"Esposito, a La Spezia stessi atteggiamenti che ha all'Inter\"",
-   "link": "https://www.fcinternews.it/focus/andreazzoli-esposito-spezia-atteggiamenti-inter-1023667",
-   "summary": "Aurelio Andreazzoli, allenatore della Fiorentina Primavera, parla nel corso di 'Sky Calcio Unplugged' dello sviluppo dei giovani italiani con riferimetno particolare sui percorsi di Pio Esposito e Francesco Camarda: \"Credo non esista una ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T18:58:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/aa/aa9624553a8d6ab99c8ecdafb045c6af-33591-1031o107o1738o815z0e6b.jpeg",
-   "id": "4c5a829a7330"
-  },
-  {
-   "title": "Atalanta, Zappacosta: \"Affrontare l'Inter dà sempre grandi stimoli\"",
-   "link": "https://www.fcinternews.it/l-avversario/atalanta-zappacosta-affrontare-inter-da-grandi-stimoli-1023669",
-   "summary": "L'esterno dell'Atalanta Davide Zappacosta, raggiunto da Sportitalia, presenta così la sfida di domenica sera contro l'Inter: \"La partita sarà difficile, ma affrontare l'Inter dà sempre grossi stimoli.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-20T18:43:06+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/be/becc0c391f02869ec6b889eff6ad366c-52156-771o108o1469o807z0c53.jpeg",
-   "id": "787567278f99"
+   "score": 4.264
   },
   {
    "title": "Frosinone, Schmid: \"Milan parte favorito, hanno un gioco diverso dal Cagliari\"",
@@ -1664,9 +1163,9 @@
    "published": "2026-11-20T22:00:26+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bf/bf56b188858df922df436bf43b965fae-38577-oooz0000.jpeg",
    "id": "eedd12e5f3e0",
-   "age_minutes": 109,
+   "age_minutes": 503,
    "also": [],
-   "score": 5.414
+   "score": 3.932
   },
   {
    "title": "Cisse, che numeri! Il confronto con i centrocampisti dei top 5 campionati europei è impressionante",
@@ -1722,131 +1221,249 @@
    "published": "2026-11-20T21:10:02+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/92/92a97e7d1f486f96c4bc25346c44ca1e-78238-oooz0000.jpeg",
    "id": "33cad08cf500",
-   "age_minutes": 160,
+   "age_minutes": 554,
    "also": [],
-   "score": 5.974
+   "score": 4.596
   },
   {
-   "title": "Serie C, fascia da capitano rossa per dire no alla violenza sulle donne",
-   "link": "https://www.milannews.it/news/serie-c-fascia-capitano-rossa-violenza-donne-636814",
-   "summary": "(ANSA) - ROMA, 20 NOV - La Serie C scende in campo per dire 'No' alla violenza sulle donne, colorandosi di rosso grazie alle fasce da capitano speciali che verranno indossate per la quarta stagione consecutiva da tutti i club nella 15ª g ...",
-   "source": "MilanNews",
+   "title": "Dzemaili racconta: \"A Napoli gli anni migliori! Vergara? Diverso da me, il suo ruolo...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/dzemaili-racconta-a-napoli-migliori-vergara-diverso-me-ruolo-662505",
+   "summary": "Blerim Dzemaili, ex centrocampista di Napoli e Torino, è intervenuto sulla nostra Radio Tutto Napoli nel corso della trasmissione Difendo la Città, ripercorrendo le tappe più significative della sua carriera.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T21:00:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/bc/bcdb169992dbe6fc7eee9d806e09db8e-18491-oooz0000.jpeg",
-   "id": "c503d92e7f00"
+   "scope": "Napoli",
+   "published": "2026-11-21T06:15:47+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/10/105d6c561593380c04db517d052d7403-95091-oooz0000.jpeg",
+   "id": "1796a4545f10"
   },
   {
-   "title": "Romano conferma: “Camarda sarà ceduto, opzione estero valida. Arriverà un’altro attaccante”",
-   "link": "https://www.milannews.it/calciomercato-milan/romano-conferma-camarda-ceduto-opzione-estero-valida-arrivera-un-altro-attaccante-636837",
-   "summary": "Nel suo canale YouTube, l'esperto di calciomercato Fabrizio Romano ha parlato del mercato del Milan di gennaio. Di seguito le sue parole.",
-   "source": "MilanNews",
+   "title": "Calcio in Tv, le gare trasmesse oggi: torna la Serie A, c'è Napoli-Torino",
+   "link": "https://www.tuttonapoli.net/brevi/calcio-tv-gare-trasmesse-oggi-torna-serie-a-napoli-torino-662515",
+   "summary": "Torna la Serie A e si apre una giornata ricca di appuntamenti per gli appassionati di calcio. Il programma di sabato 21 novembre 2026 propone quattro partite del massimo campionato italiano, con Napoli-Torino a chiudere la giornata alle 20.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T20:50:10+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/97/97a83e8a236f7d090a81d48e0d107eca-81182-oooz0000.jpeg",
-   "id": "c948c759c98a",
-   "age_minutes": 179,
+   "scope": "Napoli",
+   "published": "2026-11-21T06:00:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
+   "id": "ce6c068caeff"
+  },
+  {
+   "title": "Napoli-Torino, tutte le info utili per i tifosi: svelato l'orario di apertura tornelli",
+   "link": "https://www.tuttonapoli.net/brevi/napoli-torino-info-utili-tifosi-svelato-orario-apertura-tornelli-662493",
+   "summary": "In occasione della gara di campionato contro il Torino, in programma oggi alle ore 20:45, la SSC Napoli invita tutti i tifosi a recarsi allo stadio con largo anticipo rispetto al fischio d'inizio, al fine di espletare correttamente le proced ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T05:30:52+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/63/63cfe2003498f9bb953ecb2e30b10496-23825-oooz0000.jpeg",
+   "id": "ccc625a83c62"
+  },
+  {
+   "title": "Intervista Conte, Forgione: \"Sugli ‘Yes Man' il riferimento è anche ad Allegri\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/intervista-conte-forgione-quando-parla-yes-man-riferimento-allegri-662487",
+   "summary": "Angelo Forgione, giornalista e scrittore, è intervenuto sulla nostra Radio Tutto Napoli, la prima radio tematica sul Napoli in onda dalle 7 su sito, app smartphone e smartTv e Dab Campania. Di seguito l'intervista integrale.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T05:00:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/88/880fbe6f4f21639c16a303f78fda7fc5-89419-oooz0000.jpeg",
+   "id": "6c0e1e8d4b9f"
+  },
+  {
+   "title": "Intervista Conte, Corazzi: \"L'ho visto carico! Tra Napoli e Juve per lui prevalgono i bianconeri\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/intervista-conte-corazzi-l-carico-napoli-juve-prevalgono-bianconeri-662483",
+   "summary": "Emanuele Corazzi, direttore di Cronache di Spogliatoio e autore dell'ultima intervista rilasciata da Antonio Conte, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app sm ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T04:00:10+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/e0/e0908e52f657774aa957dd9dbb243984-62533-oooz0000.jpeg",
+   "id": "5b672a929125"
+  },
+  {
+   "title": "Futuro De Bruyne, Marolda: \"Se punta i piedi, il Napoli può farci poco\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/de-bruyne-marolda-se-puntera-piedi-napoli-potra-farci-poco-662447",
+   "summary": "Il futuro di De Bruyne e non solo. Francesco Marolda, giornalista, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live dalle 7 su sito, app smartphone e smartTv e Dab Campania.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T03:00:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/83/83e4f97307632e27ded154e3623a737a-86537-oooz0000.jpeg",
+   "id": "1047a8202c1d"
+  },
+  {
+   "title": "Dazn, Turci: \"Il Napoli è forte! Tutti devono assumersi le proprie responsabilità\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/flop-napoli-turci-la-squadra-forte-devono-assumersi-proprie-responsabilita-662486",
+   "summary": "Tommaso Turci, giornalista Dazn, è intervenuto sulla nostra Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania: \"Napoli-Torino? Credo che sarà ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T02:00:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/76/767910297fb5115853573e7dc333d22e-25063-oooz0000.jpeg",
+   "id": "300e86425c30"
+  },
+  {
+   "title": "Verso Napoli-Torino, Marino: \"Occhio ad Abate, gioca e non si limita a difendersi! Sarà dura...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/conferenza-allegri-annullata-marino-il-problema-stare-zitta-societa-662485",
+   "summary": "Giuseppe Marino, allenatore, è stato ospite della nostra Radio Tutto Napoli, l'unica radio tutta azzurra e live dalle 7 su sito, app smartphone e smartTv e Dab Campania: \"Favasuli-Spinazzola? Sicuramente credo che l'ingresso ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T01:00:06+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/32/321572f63cbc2da9304ac91ef63badf5-81970-oooz0000.jpeg",
+   "id": "898b72019f12"
+  },
+  {
+   "title": "Pisa, Bianco su Rao: “Tramoni è più intelligente tatticamente. Ma è nostro fino a giugno!”",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/rao-gioca-poco-allenatore-pisa-tutto-ha-problemi-662444",
+   "summary": "Paolo Bianco ha parlato in conferenza stampa prima della sfida con l'Empoli. Ecco le parole dell'allenatore del Pisa su Emanuele Rao, talento del Napoli e dell'U20 che sta giocando poco in campionato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T00:30:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/15/15647d72b1d035d570ceda5e83880d79-14849-662o325o1674o1337z0f9e.jpeg",
+   "id": "193be6ee3fae"
+  },
+  {
+   "title": "Conferenze Napoli, Caporale: \"Scelta anacronistica del club che non condivido\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/conferenze-napoli-caporale-scelta-anacronistica-condivido-662436",
+   "summary": "Carlo Caporale, giornalista, opinionista, ha aperto così il suo editoriale quotidiano nel \"Buongiorno Tutto Napoli\", la prima trasmissione live già dalle 7 sulla nostra Radio Tutto Napoli, l'unica radio tematica ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T00:15:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/64/644d8f2374500d12af1ca5a114363297-22838-oooz0000.jpeg",
+   "id": "8a8cb8e1e59d"
+  },
+  {
+   "title": "Esposito-Napoli, Gaito: \"Interessante, ma con Allegri fatica persino Hojlund...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/gaito-conferenze-allegri-662435",
+   "summary": "Tra campo e mercato verso la gara contro il Torino.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-21T00:00:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/b6/b646a4592777b82578e72eac6cba4f75-85923-oooz0000.jpeg",
+   "id": "6eb51fe20bdb",
+   "age_minutes": 383,
    "also": [],
-   "score": 6.885
+   "score": 4.299
   },
   {
-   "title": "Romano: “Arrivo di Krosche assodato, il Milan inizia a pensare al mercato a partire dal difensore”",
-   "link": "https://www.milannews.it/calciomercato-milan/romano-arrivo-krosche-assodato-milan-inizia-pensare-mercato-partire-difensore-636836",
-   "summary": "Nel suo canale YouTube, l'esperto di calciomercato Fabrizio Romano ha parlato del mercato del Milan di gennaio. Di seguito le sue parole.",
-   "source": "MilanNews",
+   "title": "Radio Tutto Napoli, il palinsesto: ampio pre e post per Napoli-Torino",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-ampio-pre-post-torino-juve-napoli-660651",
+   "summary": "Radio TuttoNapoli non si ferma mai e vi accompagnerà anche quest'oggi con ampio pre, le reaction ed il post di Napoli-Torino. La prima radio tematica sul Napoli inizierà il proprio palinsesto alle 19.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T20:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/75/759995501088b1142a83f8325fad6402-38500-oooz0000.jpeg",
-   "id": "ae6b70f24b22",
-   "age_minutes": 190,
+   "scope": "Napoli",
+   "published": "2026-11-20T23:30:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "585df9db1357"
+  },
+  {
+   "title": "Napoli-Torino, probabili formazioni: Allegri ha scelto il modulo. De Bruyne out?",
+   "link": "https://www.tuttonapoli.net/zoom/napoli-torino-probabili-formazioni-scelta-allegri-modulo-de-bruyne-out-662450",
+   "summary": "Il Napoli torna in campo dopo la sosta per le nazionali, reduce dal pareggio contro la Lazio.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T23:00:46+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ade8d32f1e15eaa5dca6d3c3627c7b0e-45881-oooz0000.jpeg",
+   "id": "7e8984cffbbb"
+  },
+  {
+   "title": "Infortuni Napoli, dato clamoroso: 19 giocatori su 26 hanno accusato problemi fisici",
+   "link": "https://www.tuttonapoli.net/notizie/infortuni-napoli-dato-clamoroso-19-giocatori-26-accusato-problemi-fisici-662417",
+   "summary": "Diciannove giocatori su ventisei: è il dato che fotografa meglio l'emergenza infortuni del Napoli in questa stagione.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:50:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/6f/6fa98f21cc1cffac28f6038171f164cb-47876-oooz0000.jpeg",
+   "id": "e6052da2f4e9"
+  },
+  {
+   "title": "Conte-Juve? Orlando: \"Da programmare già ora, senza aspettare Spalletti...\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/conte-juve-orlando-devi-programmare-ora-puoi-aspettare-spalletti-662518",
+   "summary": "Massimo Orlando, ex calciatore, è intervenuto ai microfoni di Maracanà sulle frequenze di TMW Radio, soffermandosi sulle dichiarazioni di Antonio Conte riguardo a un possibile ritorno alla Juventus.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:40:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/cd/cd353a4ddd07ec075c23faf1ce9ce093-87033-oooz0000.jpeg",
+   "id": "f3ae76a4547b"
+  },
+  {
+   "title": "Hojlund e De Bruyne-show, messaggi chiari ad Allegri: tutti i numeri degli 8 nazionali",
+   "link": "https://www.tuttonapoli.net/notizie/hojlund-de-bruyne-show-messaggi-chiari-allegri-numeri-8-nazionali-662411",
+   "summary": "Gol, assist e prestazioni da protagonisti: Rasmus Hojlund e Kevin De Bruyne si sono presi la scena nell'ultima sosta per le Nazionali del 2026, confermando il loro ottimo momento e mandando segnali importanti anche a Massimiliano Allegri in vista ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:30:31+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/47/47bb0cc33d86387a5463c27e0fefb52e-38661-oooz0000.jpeg",
+   "id": "dd99f770b975"
+  },
+  {
+   "title": "Sorpresa dall'Inghilterra, il Napoli vuole un centrocampista del Man City: piace Kovacic",
+   "link": "https://www.tuttonapoli.net/calciomercato-napoli/sorpresa-inghilterra-napoli-vuole-centrocampista-man-city-piace-kovacic-662519",
+   "summary": "Il Napoli guarda già al mercato della prossima estate e valuta una possibile occasione a parametro zero per rinforzare il centrocampo.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:20:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/a9/a910a376d7ca1cf432f5e7692341af09-98530-oooz0000.jpeg",
+   "id": "d28416dd8b98",
+   "age_minutes": 483,
    "also": [],
-   "score": 7.04
+   "score": 3.989
   },
   {
-   "title": "Romano spiega: “Van Dijk-Milan? Discorso prematuro, Cardinale osserva con cautela”",
-   "link": "https://www.milannews.it/calciomercato-milan/romano-spiega-van-dijk-milan-discorso-prematuro-cardinale-osserva-cautela-636835",
-   "summary": "Nel suo canale YouTube, Fabrizio Romano ha parlato delle voci che accostano Virgil Van Dijk, capitano del Liverpool, al Milan per il mercato estivo. Queste le sue parole.",
-   "source": "MilanNews",
+   "title": "Sabatini: \"Se il Milan vuole McTominay, farei uno scambio con Rabiot\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/sabatini-se-milan-vuole-mctominay-scambio-rabiot-662517",
+   "summary": "Sandro Sabatini, giornalista, sul suo canale YouTube ha analizzato le possibili strategie di mercato del Napoli per rinforzare la rosa di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-20T20:32:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/6f/6f60a95db0bd2dca5683da763a48fba9-78484-oooz0000.jpeg",
-   "id": "b2c35431f769"
+   "scope": "Napoli",
+   "published": "2026-11-20T22:10:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/92/92ce22aebc3d351a2767cc7699274138-08639-oooz0000.jpeg",
+   "id": "5698bd4538a5",
+   "age_minutes": 493,
+   "also": [],
+   "score": 3.96
   },
   {
-   "title": "Nations League, sorteggiati quarti di finale e playoff: c'è Francia-Spagna. Il tabellone",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/nations-league-sorteggiati-quarti-finale-playoff-francia-spagna-tabellone-2295727",
-   "summary": "Nella giornata di oggi la UEFA ha effettuato il sorteggio per i quarti di finale della Nations League 2026/2027, che non vedrà protagonista l'Italia di Mancini, eliminata ai gironi dopo l'ultimo ko con il Belgio.",
+   "title": "Calaiò: \"Ho la sensazione che ad Allegri non piaccia Vergara\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/calaio-ho-sensazione-allegri-piaccia-vergara-662516",
+   "summary": "Emanuele Calaiò, ex attaccante del Napoli, è intervenuto ai microfoni di Televomero, soffermandosi sull'impiego di Antonio Vergara da parte di Massimiliano Allegri.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T22:00:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/44/4479310187f0c386c2053905fbc56db9-44981-oooz0000.jpeg",
+   "id": "919647f66ac8"
+  },
+  {
+   "title": "Napoli-Torino, Rampulla avvisa: \"Ora tutte le partite sono da ultima chiamata\"",
+   "link": "https://www.tuttonapoli.net/le-interviste/napoli-torino-rampulla-avvisa-ora-partite-ultima-chiamata-662499",
+   "summary": "Michelangelo Rampulla, ex portiere, è intervenuto ai microfoni di Maracanà, trasmissione di TMW Radio, soffermandosi sulla corsa alla qualificazione in Champions League e sulle difficoltà delle grandi squadre.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-20T21:50:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5d/5dcfa197c24bda0e392e27b53485aab2-11849-oooz0000.jpeg",
+   "id": "fab51395f6bb"
+  },
+  {
+   "title": "Italia U21, il ct Baldini esalta gli azzurri rossoneri: \"Bartesaghi tra i miegliori mai allenati\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/italia-u21-ct-baldini-esalta-azzurri-rossoneri-bartesaghi-miegliori-allenati-2295836",
+   "summary": "Il Milan guarda con interesse alla crescita dei propri giovani, protagonisti anche con la maglia dell'Italia Under 21.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T23:38:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/f3/f3ae9282158abe26c4010d76b4f1b494-34639-oooz0000.jpeg",
-   "id": "76e5c9e6c599"
-  },
-  {
-   "title": "Dalla Primavera al gol nel derby fino al rinnovo al 2030: la scalata di Lorenzo Mezzotero",
-   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/primavera-gol-derby-rinnovo-2030-scalata-lorenzo-mezzotero-2295770",
-   "summary": "La Sampdoria blinda uno dei talenti più interessanti del proprio settore giovanile.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:34:00+00:00",
+   "published": "2026-11-21T06:20:01+00:00",
    "image": "",
-   "id": "3d15efc7988b",
-   "age_minutes": 16,
-   "also": [],
-   "score": 7.858
-  },
-  {
-   "title": "Giocondo Martorelli: \"Sosta utile per gli infortunati. Fiorentina, è il momento della svolta. Samp, il mercato aiuterà\"",
-   "link": "https://www.tuttomercatoweb.com/a-tu-per-tu/giocondo-martorelli-sosta-utile-infortunati-fiorentina-svolta-samp-mercato-aiutera-2295830",
-   "summary": "\"Questa sosta ha giovato per tutti i calciatori infortunati che erano nelle varie squadre.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:33:25+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/03/033d6cd6273799a601bb3961e3e98d11-79282-oooz0000.jpeg",
-   "id": "209f55f44ad2",
-   "age_minutes": 16,
-   "also": [],
-   "score": 7.855
-  },
-  {
-   "title": "Fiorentina a lavoro per trattenere Mastantuono: la decisione del Real Madrid tra marzo e aprile",
-   "link": "https://www.tuttomercatoweb.com/serie-a/fiorentina-lavoro-trattenere-mastantuono-decisione-real-madrid-marzo-aprile-2295812",
-   "summary": "La Fiorentina vuole con sé Franco Mastantuono per un'altra stagione.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:30:02+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/4c/4c74e9464f79675021993585f593386f-35736-oooz0000.jpeg",
-   "id": "0f73bde0a5f1"
-  },
-  {
-   "title": "Monaco, Filipe Luis e l'infermeria: \"Idumbo, Ansu Fati e Golovin non saranno disponibili\"",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/monaco-filipe-luis-infermeria-idumbo-ansu-fati-golovin-disponibili-2295795",
-   "summary": "Intervenuto in conferenza stampa, il tecnico del Monaco Filipe Luis ha fatto il punto della situazione sull'infermeria: \"Stanis Idumbo, Ansu Fati e Golovin non saranno disponibili.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:27:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/64/64d10d34199f085088a709f71bd35bb0-08061-oooz0000.jpeg",
-   "id": "d70d6842827a"
-  },
-  {
-   "title": "Monza, Mout: \"Gruppo fantastico, Ondoa il compagno più divertente. Idoli? Tevez, Pirlo e Zidane\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/monza-mout-gruppo-fantastico-ondoa-compagno-divertente-idoli-tevez-pirlo-zidane-2295824",
-   "summary": "Ai microfoni ufficiali del Monza è intervenuto il centrocampista Mathis Mout.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:23:07+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/db/dbd87ce7287e31a95b0e2dbc1fe9af61-57162-oooz0000.jpeg",
-   "id": "6a3a14d56f5e"
+   "id": "68e1c0a23a0b"
   },
   {
    "title": "Probabili formazioni Serie A, le ultime sulla 12ª giornata di campionato",
@@ -1855,114 +1472,67 @@
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T23:20:00+00:00",
+   "published": "2026-11-21T06:20:00+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/47/47d3d900839bc084ffab23121045cf79-68361-708o408o2136o1836z13e0.jpeg",
    "id": "0f81a7f5365a"
   },
   {
-   "title": "Catanzaro-Palermo, designato Feliciani: per i rosanero riaffiora l'incubo degli scorsi playoff",
-   "link": "https://www.tuttomercatoweb.com/serie-b/catanzaro-palermo-designato-feliciani-rosanero-riaffiora-incubo-scorsi-playoff-2295010",
-   "summary": "Sarà Ermanno Feliciani, arbitro della sezione di Teramo, a dirigere Catanzaro-Palermo, gara valida per la 12ª giornata del campionato di Serie B, in programma alle ore 17.",
+   "title": "Isaksen e Provstgaard, star e uomini mercato. Dalla Danimarca: \"Colonne della Nazionale\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/isaksen-provstgaard-star-uomini-mercato-danimarca-colonne-nazionale-2295242",
+   "summary": "I talenti danesi della Lazio sono certamente tra i giocatori più in vista in questo momento.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T23:19:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/93/9343077e9c8e9e7df0eaed1a9b37422d-42748-oooz0000.jpeg",
-   "id": "e0d37e41578d"
-  },
-  {
-   "title": "Roma, per la fascia sinistra contatti con l'agente di Lino: ma il Flamengo spara altissimo",
-   "link": "https://www.tuttomercatoweb.com/serie-a/roma-fascia-sinistra-contatti-agente-lino-flamengo-spara-altissimo-2295811",
-   "summary": "Come già anticipato, la Roma è su Samuel Lino, esterno attualmente in forza al Flamengo, ma in Brasile parlano di passi in avanti, per quanto piccoli, nell'interesse.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:15:29+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/1b/1bbd7f438c6e1dcca7a09f152b7ceae6-11781-oooz0000.jpeg",
-   "id": "0f4cad99ecb8",
-   "age_minutes": 34,
+   "published": "2026-11-21T06:15:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e5/e595a172e7adce3735055053ce132cdb-53714-oooz0000.jpeg",
+   "id": "3826cd3e27fd",
+   "age_minutes": 9,
    "also": [],
-   "score": 6.755
+   "score": 7.896
   },
   {
-   "title": "City, Maresca: \"Nunez e Khusanov in dubbio per domani. Avrei voluto giocare subito\"",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/city-maresca-nunez-khusanov-dubbio-domani-voluto-giocare-subito-2295765",
-   "summary": "In vista della sfida di domani contro il Fulham, il tecnico del Manchester City Enzo Maresca ha fatto il punto della situazione per quanto riguarda gli infortunati: \"Matheus Nunez e Khusanov restano in dubbio per domani.",
+   "title": "Bundesliga: Kane si infortuna, il Bayern lo perde per \"diversi mesi\"",
+   "link": "https://www.tuttomercatoweb.com/altre-notizie/bundesliga-kane-infortuna-bayern-perde-diversi-mesi-2295837",
+   "summary": "(ANSA) - ROMA, 20 NOV - Tegola per il Bayern Monaco, che al ripresa della Bundesliga dopo la sosta per le nazionali non solo ha pareggiato 1-1 in casa col Colonia, ma soprattutto ha perso per diverso tempo Harry Kane.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T23:12:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/5a/5a0bdc83aacc49dfeb775105e14e82e2-84430-oooz0000.jpeg",
-   "id": "0b6c7bab104d"
-  },
-  {
-   "title": "Baiocco: \"O'Neill il più forte che ho mai visto. Ti poteva mettere 20 punizioni all'incrocio\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/baiocco-o-neill-forte-visto-poteva-mettere-20-punizioni-incrocio-2295819",
-   "summary": "Davide Baiocco nel corso della puntata di ieri de \"Il Casinò de Il lato nascosto del calcio\" ha parlato di Fabián O'Neill, con cui condivise l'esperienza al Perugia nel 2002: \"Per me è più forte di tutti.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:08:30+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/71/717331cb3f135b98611710e746b315da-17072-oooz0000.jpeg",
-   "id": "e3f63e52dc5c"
-  },
-  {
-   "title": "Serie C, panchine sempre più bollenti: 20 cambi in tre mesi. Un anno fa erano 12",
-   "link": "https://www.tuttomercatoweb.com/serie-c/serie-c-panchine-bollenti-20-cambi-mesi-12-2295024",
-   "summary": "In Serie C, il valzer delle panchine che non accenna a fermarsi.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:04:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e6/e6f5ec68274603e4584d2a04b6b6a481-12653-oooz0000.jpeg",
-   "id": "0b9752d270ef"
-  },
-  {
-   "title": "21 novembre 2012, la rovesciata straordinaria di Philippe Mexes contro l'Anderlecht",
-   "link": "https://www.tuttomercatoweb.com/accadde-oggi/21-novembre-2012-rovesciata-straordinaria-philippe-mexes-anderlecht-2294967",
-   "summary": "Il 21 novembre del 2012, al Constant Vanden Stock Stadium, il Milan cerca la qualificazione al prossimo turno di Champions League.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-20T23:00:33+00:00",
+   "published": "2026-11-21T06:12:40+00:00",
    "image": "",
-   "id": "0e43e9696c2b"
+   "id": "d90a90a1921b"
   },
   {
-   "title": "Newcastle, occhi su Kenneth Taylor: ma la Lazio non vuole smantellare a gennaio",
-   "link": "https://www.tuttomercatoweb.com/serie-a/newcastle-occhi-kenneth-taylor-lazio-vuole-smantellare-gennaio-2295817",
-   "summary": "Secondo quanto riportato da Tuttosport, il Newcastle United ha messo nel mirino Kenneth Taylor, centrocampista olandese classe 2002 in forza alla Lazio, ma deve fare i conti con la concorrenza di altri due club di…",
+   "title": "40 milioni per 10 partite in Serie A: sicuri che Varela sia già pronto per una big?",
+   "link": "https://www.tuttomercatoweb.com/podcast-tmw/40-10-partite-serie-a-sicuri-varela-pronto-big-2295270",
+   "summary": "Ne abbiamo parlato lungamente anche nell'editoriale: Gustavo Varela, straordinariamente capocannoniere della Serie A con 9 reti in 10 partite giocate, è un giocatore già da grande squadra? Non ha esperienza, non ha trascorsi in una big e di fatto è in...",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:59:55+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/96/96e27c1ee50765f03611892afd255ad0-82925-oooz0000.jpeg",
-   "id": "06fed50e7d3a",
-   "age_minutes": 50,
-   "also": [],
-   "score": 6.07
+   "published": "2026-11-21T06:11:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c1/c19d8017e4038032ee42e6c58e5318de-97560-oooz0000.jpeg",
+   "id": "3a88b0718a30"
   },
   {
-   "title": "Mayulu e il debutto con la Francia: \"Non me l'aspettavo. Zidane mi ha fatto i complimenti\"",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/mayulu-debutto-francia-non-aspettavo-zidane-complimenti-2295799",
-   "summary": "Il calciatore del Paris Saint-Germain Senny Mayulu ha raccontato le sue sensazioni dopo il debutto in Nazionale maggiore: \"Onestamente, no.",
+   "title": "Milan-Frosinone, sfida tra chi vuole rimanere in alto e chi vuole stupire",
+   "link": "https://www.tuttomercatoweb.com/serie-a/milan-frosinone-sfida-sogna-scudetto-vuole-stupire-2295825",
+   "summary": "Milan-Frosinone non è soltanto una partita di campionato, ma anche un confronto tra due allenatori che hanno una caratteristica comune: amano proporre calcio.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:56:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a8/a81d15f29d5567d324173d6ca8f2ab69-57762-oooz0000.jpeg",
-   "id": "1217cd7a2ddd"
+   "published": "2026-11-21T06:10:20+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/de/ded9c1724ad85967ad9eb277834dde21-90024-oooz0000.jpeg",
+   "id": "e4c77aa0afab"
   },
   {
-   "title": "Genoa, Frendrup ancora ai box: domani giornata decisiva. La situazione da Pegli",
-   "link": "https://www.tuttomercatoweb.com/serie-a/genoa-frendrup-box-domani-giornata-decisiva-situazione-pegli-2295816",
-   "summary": "La sfida di Reggio Emilia si avvicina.",
+   "title": "Le prime pagine dei quotidiani italiani e stranieri di oggi, sabato 21 novembre",
+   "link": "https://www.tuttomercatoweb.com/rassegna-stampa/prime-pagine-quotidiani-italiani-stranieri-oggi-sabato-21-novembre-2295835",
+   "summary": "Torna la Serie A, si riparte dalla dodicesimo turno, si aprono le danze con Como-Cagliari al Sinigaglia oggi ma la giornata sarà più corposa di così.",
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:53:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/0a/0a16a34cae228c31d86c59d4e74904ad-70353-oooz0000.jpeg",
-   "id": "34dfa9143aa4"
+   "published": "2026-11-21T06:06:35+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/1b/1b1c3df31331e03c1b360a6016454030-02257-oooz0000.jpeg",
+   "id": "b74b9f9f40f0"
   },
   {
    "title": "Monza-Fiorentina, le probabili formazioni: Varela intoccabile. Vanoli conferma il 4-2-3-1",
@@ -1971,7 +1541,7 @@
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:50:09+00:00",
+   "published": "2026-11-21T06:05:09+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/38/38c4e3cf6a88cf2e667a6bda23fb203e-21294-oooz0000.jpeg",
    "id": "d4916e8452ce"
   },
@@ -1982,7 +1552,7 @@
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:50:08+00:00",
+   "published": "2026-11-21T06:05:08+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/1e/1ea5f89c20f1badc9dcf94cc3574ef06-84156-oooz0000.jpeg",
    "id": "a981fda8c21f"
   },
@@ -1993,7 +1563,7 @@
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:50:07+00:00",
+   "published": "2026-11-21T06:05:07+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/26/261615c7ece6e6a20fae6eeadb4b42d1-85440-oooz0000.jpeg",
    "id": "44c74741ebf0"
   },
@@ -2004,9 +1574,108 @@
    "source": "TuttoMercatoWeb",
    "source_weight": 1.3,
    "scope": "generalista",
-   "published": "2026-11-20T22:50:06+00:00",
+   "published": "2026-11-21T06:05:06+00:00",
    "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e2/e2914331170cd21a9684e34775483f0b-93816-oooz0000.jpeg",
    "id": "18bc1f2328a6"
+  },
+  {
+   "title": "Juventus-Venezia, le probabili formazioni: Kolo e Alajbegovic dietro Woltermade. Gatti dal 1'",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/juventus-venezia-probabili-formazioni-kolo-alajbegovic-woltermade-gatti-1-2295610",
+   "summary": "Le ultime dai campi e le probabili formazioni di Juventus-Venezia: Come arriva la Juventus La Juventus, dopo la sosta per le nazionali, è pronta a tornare in campo in campionato per sfidare il Venezia domenica alle 12:30.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:04+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/cd/cd8f235e93d86c864790da4a5c68dd5e-22280-oooz0000.jpeg",
+   "id": "bda1d271bea4"
+  },
+  {
+   "title": "Napoli-Torino, le probabili formazioni: De Bruyne play. Lang e Politano con Hojlund",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/napoli-torino-probabili-formazioni-de-bruyne-play-lang-politano-hojlund-2295609",
+   "summary": "Le ultime dai campi e le probabili formazioni di Napoli-Torino: Come arriva il Napoli Il Napoli si prepara alla sfida contro il Torino con un possibile ritorno al 4-3-3.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:03+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8c/8c31d083807dcc9a78b66335437ccbd2-61523-oooz0000.jpeg",
+   "id": "5d9acfe47269"
+  },
+  {
+   "title": "Parma-Roma, le probabili formazioni: riecco Dybala. Toure-Elphege: chi accanto a Lontani?",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/parma-roma-probabili-formazioni-dybala-toure-elphege-accanto-lontani-2295607",
+   "summary": "Le ultime dai campi e le probabili formazioni di Parma-Roma: Come arriva il Parma Il ritorno del campionato porta con sé una seria emergenza in difesa per il Parma, che dovrà rinunciare a Ndiaye (squalificato), oltre a Drobnic e Diego Carlos, le cui...",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:02+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c7/c7b618334e7870435bf6f1f97944b34e-98599-oooz0000.jpeg",
+   "id": "809b47cce477"
+  },
+  {
+   "title": "Cacciamani, fari puntati al Maradona. Il Napoli lo segue e Manna non si nasconde",
+   "link": "https://www.tuttomercatoweb.com/serie-a/cacciamani-provino-maradona-napoli-segue-manna-nasconde-2295661",
+   "summary": "Un provino in casa di chi ci sta pensando per gennaio.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c1/c1b765f2e7fbd1168dd320480e521bea-81679-oooz0000.jpeg",
+   "id": "62df103a689f"
+  },
+  {
+   "title": "Bologna-Udinese, le probabili formazioni: Cambiaghi subito pronto. C'è Zaniolo",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/bologna-udinese-probabili-formazioni-piccoli-vantaggio-odgaard-zaniolo-2295628",
+   "summary": "Le ultime dai campi e le probabili formazioni di Bologna-Udinese: Come arriva il Bologna Squadra che vince non si cambia.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/68/683e46c7a598dc28f384ebfb83a36c49-98266-oooz0000.jpeg",
+   "id": "da0ca917fa1a"
+  },
+  {
+   "title": "Lazio-Lecce, le probabili formazioni: Zaccagni ancora out. Confermato Pinamonti dal 1'",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/lazio-lecce-probabili-formazioni-zaccagni-out-confermato-pinamonti-1-2295586",
+   "summary": "Le ultime dai campi e le probabili formazioni di Lazio-Lecce: Come arriva la Lazio La sosta per le nazionali lascia qualche dubbio per Gennaro Gattuso, che dovrà rinunciare già a quattro infortunati che sono Zaccagni, Tavares, Sutalo e Marusic.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/29/291891c5f3cac995f243bd646857ba19-57731-oooz0000.jpeg",
+   "id": "264d219e97ff"
+  },
+  {
+   "title": "Como-Cagliari, le probabili formazioni: Trepy titolare con Mendy e Maldini. Kaiki dal 1'?",
+   "link": "https://www.tuttomercatoweb.com/probabili-formazioni/como-cagliari-probabili-formazioni-2295561",
+   "summary": "Le ultime dai campi e le probabili formazioni di Como-Cagliari: Come arriva il Como Alla ripresa del campionato il Como ritrova Chalobah, per Diao e Addai servirà ancora un po' di pazienza.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:05:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a1/a108b5831ba53ff084feceb558a01b91-95844-oooz0000.jpeg",
+   "id": "4ce5a5f5c29d"
+  },
+  {
+   "title": "Il sorriso di Tikus, la forza di Thuram. E l'Inter vuole tenerselo stretto",
+   "link": "https://www.tuttomercatoweb.com/serie-a/sorriso-tikus-thuram-inter-vuole-tenerselo-stretto-2295747",
+   "summary": "Lo chiamano Tikus da quando era bambino.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T06:00:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/cc/cc4578b1218ff949fd64992b848eba36-74101-oooz0000.jpeg",
+   "id": "f0d08abef526"
+  },
+  {
+   "title": "Roma, Gasperini ritrova tre pedine fondamentali e avverte: “Parma è una trappola”",
+   "link": "https://www.tuttomercatoweb.com/serie-a/roma-gasperini-ritrova-pedine-fondamentali-avverte-parma-trappola-2295831",
+   "summary": "La Roma riparte dalla trasferta dello Stadio Ennio Tardini.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-21T05:53:00+00:00",
+   "image": "",
+   "id": "99ee54e9e7f2"
   },
   {
    "title": "Conte set the ‘Pirlo Law’ at Juventus and made strong Buffon statement",
@@ -2227,11 +1896,240 @@
    "published": "2026-11-20T12:20:00+00:00",
    "image": "",
    "id": "346d384a7c6b"
+  },
+  {
+   "title": "Elezioni FIFA, dalla CONMEBOL \"fermo sostegno\" al presidente Infantino",
+   "link": "https://www.fcinternews.it/news/elezioni-fifa-conmebol-fermo-sostegno-presidente-infantino-1023680",
+   "summary": "La CONMEBOL, confederazione calcistica del Sud America, ha confermato il proprio sostegno al presidente in carica della FIFA Gianni Infantino in vista delle elezioni del 18 dicembre a Rabat, \"con una decisione presa all'unanimità\" ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-21T00:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ce/ce8245ed346486055469106bca5b0ab0-57968-oooz0000.jpeg",
+   "id": "6c57a06e8be1"
+  },
+  {
+   "title": "L'ex nerazzurro Kovacic finisce nei radar di tre squadre di Serie A",
+   "link": "https://www.fcinternews.it/ex-nerazzurri/nerazzurro-kovacic-finisce-radar-squadre-serie-1023688",
+   "summary": "Nel futuro di Mateo Kovacic potrebbe esserci nuovamente la Serie A. Secondo quanto riportato dal The Sun, l'ex centrocampista dell'Inter avrebbe attirato le attenzioni del Napoli, probabilmente destinato a salutare Kevin De Bruyne.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T23:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e8/e8fcdeaa7335f2f7ff88d0ca378c46c9-66170-879o143o2943o2207z181c.jpeg",
+   "id": "f515cc615de3"
+  },
+  {
+   "title": "Compatti e umili. Questa è la strada",
+   "link": "https://www.fcinternews.it/editoriale/compatti-umili-strada-1023672",
+   "summary": "La macchia del terzo derby perso consecutivamente dall'Inter in campionato, rimane.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T23:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3b/3b0934717da48d8e34a917d94311eb83-52752-oooz0000.jpeg",
+   "id": "9191220bbf49"
+  },
+  {
+   "title": "Santana: \"Lautaro Martinez? Difficile aggiungere qualcosa su di lui\"",
+   "link": "https://www.fcinternews.it/news/santana-lautaro-martinez-difficile-aggiungere-lui-1023676",
+   "summary": "Nel corso di un recente intervento a TMW, l'ex calciatore e ora tecnico argentino Mario Alberto Santana ha analizzato quali tra i profili \"italiani\" potrebbe raccogliere l'eredità di Lionel Messi, appena ritiratosi dalla Nazi ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T22:45:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a1/a199bb62f8cfdad0ac600056e5ed0679-06320-684o0o2196o1512z1128.jpeg",
+   "id": "b2a23bf16783"
+  },
+  {
+   "title": "Bonanni: \"L'Inter prima o poi dovrà ringiovanire la rosa\"",
+   "link": "https://www.fcinternews.it/news/bonanni-l-inter-ringiovanire-rosa-1023682",
+   "summary": "Nel corso di una recente puntata del programma \"Maracanà\" su TMW, l'ex calciatore Massimo Bonanni si è sbilanciato su quale dei calciatori dell'Inter ancora in bilico a livello di rinnovi contrattuale - ovvero Dimarco, ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T22:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8b/8b23253b7466a7c58ca1313eed1c3ed8-94310-516o168o2028o1680z1128.jpeg",
+   "id": "4fe525ceada0"
+  },
+  {
+   "title": "Braglia: \"Inter su Alisson? Non hanno più fiducia in Martinez\"",
+   "link": "https://www.fcinternews.it/news/braglia-inter-alisson-fiducia-martinez-1023681",
+   "summary": "Nel corso di una recente puntata del programma \"Maracanà\" su TMW, l'ex portiere Simone Braglia ha commentato il presunto accostamento di Alisson all'Inter, evidenziando come questa voce costituirebbe un'ammissione di sfid ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T22:16:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/24/249f09414cdddb6fb00ec04fdc97a03d-89494-1391o0o2758o1367z158c.jpeg",
+   "id": "19b53fa3a2e4"
+  },
+  {
+   "title": "Atalanta, a partire dalla gara con l'Inter mezzi gratis per chi ha il biglietto",
+   "link": "https://www.fcinternews.it/news/atalanta-partire-gara-inter-mezzi-gratis-biglietto-1023677",
+   "summary": "L'Atalanta comunica che anche per questa stagione è stato raggiunto l’accordo economico raggiunto con ATB, l'azienda trasporti pubblici di Bergamo.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T22:02:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f73327e4ef9148e7738d32ac43d46fe-14216-oooz0000.jpeg",
+   "id": "653c2ac7834b",
+   "age_minutes": 502,
+   "also": [],
+   "score": 3.937
+  },
+  {
+   "title": "Orlando: \"Thuram finanziariamente vale più di tutti\"",
+   "link": "https://www.fcinternews.it/news/orlando-thuram-finanziariamente-tutti-1023679",
+   "summary": "Nel corso di un recente intervento radiofonico ai microfoni di TMW Radio, l'ex calciatore Massimo Orlando si è espresso in merito alla posizione di alcuni elementi cruciali dello scacchiere dell'Inter: \"Le generazioni durano 7-8 a ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T21:48:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/55/554fbfc669930a25a37a355925ee843e-78825-827o0o2111o1283z107d.jpeg",
+   "id": "db1348c540d4"
+  },
+  {
+   "title": "Rampulla: \"Ecco chi lascerei andare tra Calhanoglu, Dimarco e Thuram\"",
+   "link": "https://www.fcinternews.it/news/rampulla-ecco-lascerei-andare-calhanoglu-dimarco-thuram-1023678",
+   "summary": "Nel corso di un recente intervento radiofonico a TMW Radio, l'ex portiere Michelangelo Rampulla ha espresso una propria preferenza in merito a chi, secondo lui, si meriterebbe la permanenza all'Inter tra Calhanoglu, Dimarco e Thuram, tutti e ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T21:34:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c1/c1038b4613eadb33bce864dbdd769279-65284-445o48o1469o1072z0bda.jpeg",
+   "id": "139b35ade760"
+  },
+  {
+   "title": "SI - Bastoni-Barça, osservatori nella sera del 'famoso' Inter-Juve. Ora...",
+   "link": "https://www.fcinternews.it/focus/i-si-i-bastoni-barca-osservatori-sera-famoso-inter-juve-ora-1023683",
+   "summary": "Nell'ambito dell'inseguimento perpetrato nei mesi scorsi, il Barcellona ha mandato alcune volte degli osservati per monitorare le prestazioni di Alessandro Bastoni.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T21:20:03+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b0/b05cea72531c84747a7a3e8f5a2cbf45-63731-132o335o840o1043z092e.jpeg",
+   "id": "4d7029d82684"
+  },
+  {
+   "title": "Mangas: \"Varela mi ricorda due ex giocatori dell'Inter\"",
+   "link": "https://www.fcinternews.it/news/mangas-varela-ricorda-giocatori-inter-1023675",
+   "summary": "Nel corso di una recente intervista concessa a Sky Sport, Ricardo Mangas, terzino sinistro del Monza, ha parlato apertamente del talento di Gustavo Varela, suo compagno di squadra nella compagine brianzola e attuale capocannoniere del campionato.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T21:06:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ac/ac20f8071f2af3c80873616662fc68f5-98593-1007o0o2411o1403z12d5.jpeg",
+   "id": "65f9605f1cf7"
+  },
+  {
+   "title": "Ternana Women, Quizzico: \"L'Inter ha molta qualità, lotta per restare ai vertici del campionato\"",
+   "link": "https://www.fcinternews.it/l-avversario/ternana-women-quizzico-l-inter-qualita-lotta-restare-vertici-campionato-1023655",
+   "summary": "Francesca Quazzico, difensore della Ternana Women, ha presentato la sfida in programma domenica alle 12.30 al Moreno Giubotti contro l'Inter Women.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T20:52:26+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/69/694604342d065bece07a2c4a6431e664-85054-oooz0000.jpeg",
+   "id": "afea7d89f0a2"
+  },
+  {
+   "title": "Galliani-Malagò, caso chiuso: l'ex AD Milan rinuncia al ricorso nel merito",
+   "link": "https://www.fcinternews.it/news/galliani-malago-chiuso-milan-rinuncia-ricorso-merito-1023674",
+   "summary": "Si chiude definitivamente il caso del ricorso di Adriano Galliani contro la commissione per le candidature alle elezioni della FIGC creata da Giovanni Malagò.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T20:38:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f0/f00dfdb8937957308c10109e724977d4-75987-oooz0000.jpeg",
+   "id": "0ed2d659dbed"
+  },
+  {
+   "title": "Inchiesta San Siro, annullato il sequestro dei dispositivi di Malangone",
+   "link": "https://www.fcinternews.it/news/inchiesta-san-siro-annullato-sequestro-dispositivi-malangone-1023671",
+   "summary": "La Corte di Cassazione dà un colpo importante sull'inchiesta legata alle presunte irregolarità nella vendita dello stadio di San Siro a Inter e Milan: è stato infatti annullato definitivamente il sequestro del cellulare…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T20:23:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b9/b9ab68f0303392bf4c5742c9e865d7df-41896-oooz0000.jpeg",
+   "id": "a5feb2f8e20c",
+   "age_minutes": 601,
+   "also": [],
+   "score": 3.679
+  },
+  {
+   "title": "Inter-Lazio di Supercoppa, gli ultras biancocelesti al primo anello blu",
+   "link": "https://www.fcinternews.it/news/inter-lazio-supercoppa-ultras-biancocelesti-anello-blu-1023668",
+   "summary": "Attraverso la pagina Instagram della propria fanzine ufficiale, la Curva Nord laziale ha annunciato quella che sarà la collocazione dei tifosi biancocelesti più caldi in vista della finale di Supercoppa italiana contro…",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T20:09:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c8/c8ec557b7f1507d3478c95fa87c14a08-84068-oooz0000.jpeg",
+   "id": "6feb39e3cd84",
+   "age_minutes": 615,
+   "also": [],
+   "score": 3.645
+  },
+  {
+   "title": "Un Van Dijk per la cantera: l'Inter mette gli occhi su un 2010 del Malmö",
+   "link": "https://www.fcinternews.it/in-primo-piano/van-dijk-cantera-inter-mette-occhi-silva-malmo-1023673",
+   "summary": "Ha soltanto 16 anni, ma ha saputo calamitare già le attenzioni dei grandi club soprattutto in Italia.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T19:55:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d9/d9ad2240f060d822c789417da61fe6e5-98658-oooz0000.jpeg",
+   "id": "b2eafc0cb947"
+  },
+  {
+   "title": "Luis Garcia: \"Siviglia-Betis è un'altra cosa rispetto a Inter-Milan\"",
+   "link": "https://www.fcinternews.it/news/luis-garcia-siviglia-betis-inter-milan-fofana-1023663",
+   "summary": "Luis García Plaza, allenatore del SIviglia, è pronto a giocare il suo primo derby della città andalusa alla guida del Nervion.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T19:40:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5a/5a55e88efe1c3d1d38e1b564c8f78463-73382-523o0o1204o680z0967.jpeg",
+   "id": "60272aa46613"
+  },
+  {
+   "title": "Stoccarda, Hoeneß spera: \"Stiller potrebbe esserci contro l'Inter\"",
+   "link": "https://www.fcinternews.it/eurorivali/stoccarda-hoeness-spera-stiller-esserci-inter-1023662",
+   "summary": "Sebastian Hoeneß, allenatore dello Stoccarda ha dato speranza ai tifosi riguardo al suo giocatore chiave, il centrocampista Angelo Stiller, che potrebbe essere di nuovo disponibile per la partita di Champions League contro l'Inter di mercol ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T19:25:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/98/98a23ede31d2af9becd9486072d2356d-92081-1127o0o2038o911z0fec.jpeg",
+   "id": "5e7e8f1c1221"
+  },
+  {
+   "title": "Missione Luis Henrique: \"Far sognare un futuro dignitoso alla mia gente\"",
+   "link": "https://www.fcinternews.it/news/missione-luis-henrique-far-sognare-dignitoso-gente-1023661",
+   "summary": "L'esterno dell'Inter Luis Henrique ha lanciato un'iniziativa benefica, denominata LH11, per 300 ragazzi di Solanea, la sua città in Brasile.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T19:11:18+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/45e97a736cf57d80627368b0bb2504b4-59450-oooz0000.jpeg",
+   "id": "a96e120e0347"
+  },
+  {
+   "title": "Andreazzoli: \"Esposito, a La Spezia stessi atteggiamenti che ha all'Inter\"",
+   "link": "https://www.fcinternews.it/focus/andreazzoli-esposito-spezia-atteggiamenti-inter-1023667",
+   "summary": "Aurelio Andreazzoli, allenatore della Fiorentina Primavera, parla nel corso di 'Sky Calcio Unplugged' dello sviluppo dei giovani italiani con riferimetno particolare sui percorsi di Pio Esposito e Francesco Camarda: \"Credo non esista una ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-20T18:58:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/aa/aa9624553a8d6ab99c8ecdafb045c6af-33591-1031o107o1738o815z0e6b.jpeg",
+   "id": "4c5a829a7330"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 150,
-  "in_edizione": 33
+  "in_edizione": 27
  }
 }
