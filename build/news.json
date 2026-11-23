@@ -1,6 +1,39 @@
 {
- "generated_at": "2026-11-22T23:24:17.194072+01:00",
+ "generated_at": "2026-11-23T03:59:31.923245+01:00",
  "articles": [
+  {
+   "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 22 novembre",
+   "link": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-22-novembre-2296559",
+   "summary": "INTER, CARNESECCHI IDEA CONCRETA PER IL FUTURO.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-23T01:00:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ed/edc902fcd85f7e00af396c4ba5e1d2c3-37140-oooz0000.jpeg",
+   "id": "47fbfc1f45d2",
+   "age_minutes": 119,
+   "also": [],
+   "score": 9.316
+  },
+  {
+   "title": "Milan, Amorim: \"Rabiot è straordinario, spero arrivi presto il suo rinnovo\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/milan-amorim-rabiot-straordinario-spero-arrivi-presto-rinnovo-2296521",
+   "summary": "Ruben Amorim, tecnico del Milan, ha parlato in conferenza stampa al termine di Milan-Frosinone 5-1: \"Rabiot? Ho guardato la partita della Francia e penso che sia uno dei migliori giocatori della squadra.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:23:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a0/a099848127c2eda0c2a47fffd56a3cb5-45152-oooz0000.jpeg",
+   "id": "2ff1d30dcc49",
+   "age_minutes": 216,
+   "also": [
+    {
+     "source": "MilanNews",
+     "link": "https://www.milannews.it/news/amorim-espone-spero-arrivi-presto-rinnovo-rabiot-637047"
+    }
+   ],
+   "score": 7.476
+  },
   {
    "title": "Il Milan pensa all’ex Inter, colpo in arrivo a centrocampo",
    "link": "https://www.calciomercato.it/2026/11/22/il-milan-pensa-allex-inter-colpo-in-arrivo-a-centrocampo/",
@@ -11,9 +44,9 @@
    "published": "2026-11-22T17:21:25+00:00",
    "image": "",
    "id": "2a958e02c8d3",
-   "age_minutes": 302,
+   "age_minutes": 578,
    "also": [],
-   "score": 7.983
+   "score": 7.136
   },
   {
    "title": "Rinnovo con l’Inter o Juve: dribbling di Marotta su Calhanoglu | VIDEO CM",
@@ -25,9 +58,9 @@
    "published": "2026-11-22T15:40:49+00:00",
    "image": "",
    "id": "28ad4651d364",
-   "age_minutes": 403,
+   "age_minutes": 678,
    "also": [],
-   "score": 7.634
+   "score": 6.901
   },
   {
    "title": "Milan, ritorno a sorpresa sull’esterno: colpo in arrivo",
@@ -39,9 +72,23 @@
    "published": "2026-11-22T14:00:55+00:00",
    "image": "",
    "id": "e4350a816241",
-   "age_minutes": 503,
+   "age_minutes": 778,
    "also": [],
-   "score": 7.334
+   "score": 6.699
+  },
+  {
+   "title": "Napoli-Torino, Gaito: \"Individualità e soliti problemi. Brutto finale, assedio regalato...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-torino-gaito-allegri-662610",
+   "summary": "Antonio Gaito, direttore di TuttoNapoli.net, è intervenuto sulla nostra Radio Tutto Napoli per commentare Napoli-Torino 1-0.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-23T02:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/65/656fa982bed81a5bc337c52d8c32fb89-87400-oooz0000.jpeg",
+   "id": "4b9a88daf308",
+   "age_minutes": 59,
+   "also": [],
+   "score": 5.871
   },
   {
    "title": "Juventus, mercato di gennaio: torna di moda Sorloth, ma c'è un nome che intriga i bianconeri",
@@ -53,65 +100,23 @@
    "published": "2026-11-22T22:00:27+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/09/090994dddd8dd0d1d74c6d8b3295fe52-90111-oooz0000.jpeg",
    "id": "95816743848a",
-   "age_minutes": 23,
+   "age_minutes": 299,
    "also": [],
-   "score": 7.065
+   "score": 5.797
   },
   {
-   "title": "Inter, occhi in casa Atalanta: piace Carnesecchi per il futuro",
-   "link": "https://www.calciomercato.it/2026/11/22/inter-occhi-in-casa-atalanta-piace-carnesecchi-per-il-futuro/",
-   "summary": "L'articolo Inter, occhi in casa Atalanta: piace Carnesecchi per il futuro proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-22T20:10:06+00:00",
-   "image": "",
-   "id": "3ecf53f70ace",
-   "age_minutes": 134,
-   "also": [],
-   "score": 6.695
-  },
-  {
-   "title": "Amorim si espone: \"Spero arrivi presto il rinnovo di Rabiot\"",
-   "link": "https://www.milannews.it/news/amorim-espone-spero-arrivi-presto-rinnovo-rabiot-637047",
-   "summary": "Ruben Amorim non si è nascosto in conferenza stampa, al termine della partita che il Milan ha vinto 5-1 contro il Frosinone.",
+   "title": "Milan, Cardinale vuole blindare Rabiot: ecco cosa manca. Krösche in arrivo. E a gennaio almeno tre colpi",
+   "link": "https://www.milannews.it/editoriale/milan-cardinale-vuole-blindare-rabiot-manca-krosche-arrivo-gennaio-almeno-colpi-637054",
+   "summary": "Cosa manca per il rinnovo di Adrien Rabiot con il Milan? Di sicuro non la volontà delle parti, che si stanno parlando per trovare il giusto accordo che soddisfi tutti.",
    "source": "MilanNews",
    "source_weight": 0.8,
    "scope": "Milan",
-   "published": "2026-11-22T20:48:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/94/9409be55ece1727623b07124d24e2d1b-21399-oooz0000.jpeg",
-   "id": "df1b5d0d21ce",
-   "age_minutes": 95,
+   "published": "2026-11-22T23:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f4/f44dfbfa2554d24a9da9d0248dee0b6a-04351-oooz0000.jpeg",
+   "id": "b249a08a2441",
+   "age_minutes": 239,
    "also": [],
-   "score": 6.684
-  },
-  {
-   "title": "Moretto: \"Annuncio Krosche atteso nella prossima settimana\"",
-   "link": "https://www.milannews.it/news/moretto-annuncio-krosche-atteso-prossima-settimana-637056",
-   "summary": "Matteo Moretto, giornalista esperto di calciomercato, nell'ultimo video pubblicato su YouTube, ha parlato insieme a Fabrizio Romano della situazione tra il Milan e Markus Krosche, destinato in breve tempo a diventare il…",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T21:24:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/03/039bf5b52f042b0c444e8b1d4d613403-37144-oooz0000.jpeg",
-   "id": "f54e1af86a32",
-   "age_minutes": 60,
-   "also": [],
-   "score": 6.467
-  },
-  {
-   "title": "Cardinale: \"Ogni volta che andremo sul mercato, lo faremo per vincere. Questo è il tema\"",
-   "link": "https://www.milannews.it/news/cardinale-ogni-andremo-mercato-vincere-tema-637030",
-   "summary": "Al termine di Milan-Frosinone 5-1, nella zona mista di San Siro si è presentato il proprietario rossonero Gerry Cardinale che ha condiviso le sue sensazioni dopo una bellissima prestazione della squadra.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c3/c3e8f63ce9b46401e389632e6634aa8a-52073-oooz0000.jpeg",
-   "id": "7a63117f26f1",
-   "age_minutes": 156,
-   "also": [],
-   "score": 6.392
+   "score": 5.63
   },
   {
    "title": "Cambiaghi incedibile per il Bologna, niente cessione a gennaio | CM",
@@ -123,9 +128,23 @@
    "published": "2026-11-21T17:23:14+00:00",
    "image": "",
    "id": "74f5b71e579e",
-   "age_minutes": 1741,
+   "age_minutes": 2016,
    "also": [],
-   "score": 5.724
+   "score": 5.618
+  },
+  {
+   "title": "Inter, occhi in casa Atalanta: piace Carnesecchi per il futuro",
+   "link": "https://www.calciomercato.it/2026/11/22/inter-occhi-in-casa-atalanta-piace-carnesecchi-per-il-futuro/",
+   "summary": "L'articolo Inter, occhi in casa Atalanta: piace Carnesecchi per il futuro proviene da CalcioMercato.it .",
+   "source": "Calciomercato.it",
+   "source_weight": 1.2,
+   "scope": "generalista",
+   "published": "2026-11-22T20:10:06+00:00",
+   "image": "",
+   "id": "3ecf53f70ace",
+   "age_minutes": 409,
+   "also": [],
+   "score": 5.615
   },
   {
    "title": "Lazio, la verità sul mercato di gennaio: Lotito di fronte ad un bivio",
@@ -137,23 +156,51 @@
    "published": "2026-11-22T06:22:45+00:00",
    "image": "",
    "id": "88284289bfc8",
-   "age_minutes": 961,
+   "age_minutes": 1236,
    "also": [],
-   "score": 5.598
+   "score": 5.271
   },
   {
-   "title": "Napoli-Torino, blitz della Polizia Locale: 81 auto portate via, multe e sequestri",
-   "link": "https://www.tuttonapoli.net/napoli-citta/napoli-torino-maradona-polizia-locale-81-auto-rimosse-multe-sequestri-662658",
-   "summary": "Controlli a tappeto della Polizia Locale nelle strade intorno allo stadio Diego Armando Maradona in occasione di Napoli-Torino.",
+   "title": "Moretto: \"Annuncio Krosche atteso nella prossima settimana\"",
+   "link": "https://www.milannews.it/news/moretto-annuncio-krosche-atteso-prossima-settimana-637056",
+   "summary": "Matteo Moretto, giornalista esperto di calciomercato, nell'ultimo video pubblicato su YouTube, ha parlato insieme a Fabrizio Romano della situazione tra il Milan e Markus Krosche, destinato in breve tempo a diventare il…",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T21:24:02+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/03/039bf5b52f042b0c444e8b1d4d613403-37144-oooz0000.jpeg",
+   "id": "f54e1af86a32",
+   "age_minutes": 335,
+   "also": [],
+   "score": 5.264
+  },
+  {
+   "title": "David-Sorloth, continuano le voci",
+   "link": "https://www.tuttojuve.com/calciomercato/david-sorloth-continuano-voci-801546",
+   "summary": "La Juventus lavora a un nuovo centravanti per il mercato di gennaio e continano le voci di uno scambio con l'Atletico Madrid tra Jonathan David e Alexander Sørloth, le due società starebbero valutando un'operazione che…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T23:45:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/19/195cec59aa20f73d04df9e7e198b39b3-45531-oooz0000.jpeg",
+   "id": "01a1c41fef02",
+   "age_minutes": 193,
+   "also": [],
+   "score": 5.024
+  },
+  {
+   "title": "Juventus, Spalletti punge: “Non abbiamo una punta fisica, perciò Kolo Muani si adatta lì…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/spalletti-juventus-venezia-kolo-muani-attaccante-messaggio-societa-662673",
+   "summary": "La Juventus travolge il Venezia per 4-0, ma nel postpartita Luciano Spalletti non rinuncia a lanciare una frecciata alla società sul mercato.",
    "source": "TuttoNapoli",
    "source_weight": 0.8,
    "scope": "Napoli",
-   "published": "2026-11-22T19:15:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/78/78d596f0686b0f4f1456aea5869d1414-38704-oooz0000.jpeg",
-   "id": "6a1336307aa2",
-   "age_minutes": 188,
+   "published": "2026-11-22T22:45:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7c8bfd1fcfaff27965efde692f6af41a-39636-oooz0000.jpeg",
+   "id": "fe3959a60477",
+   "age_minutes": 254,
    "also": [],
-   "score": 5.248
+   "score": 4.77
   },
   {
    "title": "Atalanta-Inter, la decisione definitiva su Lautaro: cosa succede",
@@ -165,9 +212,9 @@
    "published": "2026-11-22T12:37:41+00:00",
    "image": "",
    "id": "ce0701d9fa1a",
-   "age_minutes": 586,
+   "age_minutes": 861,
    "also": [],
-   "score": 5.115
+   "score": 4.552
   },
   {
    "title": "Milan-Frosinone, Amorim ha deciso: le ultime su Moreira e Pulisic",
@@ -179,9 +226,23 @@
    "published": "2026-11-22T10:36:13+00:00",
    "image": "",
    "id": "7a4bec4f834d",
-   "age_minutes": 708,
+   "age_minutes": 983,
    "also": [],
-   "score": 4.839
+   "score": 4.367
+  },
+  {
+   "title": "Inter-Atalanta, Rocchi sui due rigori: \"Corretti entrambi. Giusto non espellere Zappacosta\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-atalanta-rocchi-rigori-corretti-entrambi-giusto-espellere-zappacosta-801583",
+   "summary": "Entrambi i calci di rigore assegnati durante Atalanta-Inter sono corretti, ma resta qualche perplessità sul cartellino giallo mostrato a Davide Zappacosta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T22:35:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9d/9d099e54d92130589cd3d315d7b1d41e-65733-oooz0000.jpeg",
+   "id": "2edde5e0d176",
+   "age_minutes": 264,
+   "also": [],
+   "score": 4.331
   },
   {
    "title": "Juventus-Venezia, le ultimissime: chi gioca tra Alajbegovic e Conceicao",
@@ -193,9 +254,9 @@
    "published": "2026-11-22T08:35:13+00:00",
    "image": "",
    "id": "e0d830aec039",
-   "age_minutes": 829,
+   "age_minutes": 1104,
    "also": [],
-   "score": 4.608
+   "score": 4.212
   },
   {
    "title": "Conte e il ritorno alla Juventus: arriva la risposta di Spalletti",
@@ -207,9 +268,9 @@
    "published": "2026-11-22T07:59:21+00:00",
    "image": "",
    "id": "948c7efe4920",
-   "age_minutes": 864,
+   "age_minutes": 1140,
    "also": [],
-   "score": 4.547
+   "score": 4.171
   },
   {
    "title": "Napoli-Torino 1-0, tre punti pesanti per Allegri",
@@ -221,9 +282,9 @@
    "published": "2026-11-21T21:38:59+00:00",
    "image": "",
    "id": "6d9001366734",
-   "age_minutes": 1485,
+   "age_minutes": 1760,
    "also": [],
-   "score": 3.868
+   "score": 3.715
   },
   {
    "title": "L’annuncio di Spalletti: due big della Juventus restano ai box",
@@ -235,9 +296,9 @@
    "published": "2026-11-21T20:10:25+00:00",
    "image": "",
    "id": "bf37d5cae95c",
-   "age_minutes": 1573,
+   "age_minutes": 1849,
    "also": [],
-   "score": 3.812
+   "score": 3.677
   },
   {
    "title": "Voti Parma-Roma 1-5, Malen da sogno: volano i giallorossi",
@@ -249,246 +310,12 @@
    "published": "2026-11-21T18:51:21+00:00",
    "image": "",
    "id": "87f168694920",
-   "age_minutes": 1652,
+   "age_minutes": 1928,
    "also": [],
-   "score": 3.768
-  },
-  {
-   "title": "Bayern Monaco, pesantissimo infortunio per Kane: i tempi di recupero",
-   "link": "https://www.calciomercato.it/2026/11/21/bayern-monaco-pesantissimo-infortunio-per-kane-i-tempi-di-recupero/",
-   "summary": "L'articolo Bayern Monaco, pesantissimo infortunio per Kane: i tempi di recupero proviene da CalcioMercato.it .",
-   "source": "Calciomercato.it",
-   "source_weight": 1.2,
-   "scope": "generalista",
-   "published": "2026-11-21T11:51:35+00:00",
-   "image": "",
-   "id": "9a91efb31547",
-   "age_minutes": 2072,
-   "also": [],
-   "score": 3.601
+   "score": 3.647
   }
  ],
  "raw": [
-  {
-   "title": "Sarri a DAZN: \"Fragilità difensiva un difetto. De Ketelaere ha un potenziale straordinario\"",
-   "link": "https://www.fcinternews.it/l-avversario/sarri-i-dazn-i-fragilita-difensiva-difetto-de-ketelaere-potenziale-straordinario-1023814",
-   "summary": "Maurizio Sarri, tecnico dell'Atalanta, ha parlato a DAZN nel post-partita dopo l'incredibile 4-4 contro l'Inter: \"Uno dei pregi della squadra è quello caratteriale, e poi anche la pericolosità offensiva che nelle ultime ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T22:20:55+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7c/7c04296860d8462ae493017ae463c403-52324-528o0o1716o1187z0d67.jpeg",
-   "id": "96e16f7b6114"
-  },
-  {
-   "title": "Atalanta-Inter, chi è stato il migliore? Cliccate e votate",
-   "link": "https://www.fcinternews.it/il-pallone-d-oro-nerazzurro/atalanta-inter-migliore-cliccate-votate-1023583",
-   "summary": "L'Inter viene raggiunta nel finale a Bergamo dall'Atalanta in un incredibile 4-4. Ai lettori di FcInterNews.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T22:01:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e7/e7d8037fcd4b633b3733b12a7f052888-78733-oooz0000.jpeg",
-   "id": "0d14ae0d75e1"
-  },
-  {
-   "title": "Atalanta-Inter, le pagelle - Pio, che serata. I cambi stavolta danneggiano",
-   "link": "https://www.fcinternews.it/pagelle/atalanta-inter-pagelle-pio-serata-cambi-stavolta-danneggiano-1023582",
-   "summary": "J. MARTINEZ 6 - Subisce quattro gol ma è comunque importante, perché tiene in vita l'Inter fino al rigore trasformato da Kessie.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T21:52:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/88/8866e41663c122ec55e18c53f25daacb-31681-oooz0000.jpeg",
-   "id": "7b9a6d7ac790"
-  },
-  {
-   "title": "Capogiro Inter a Bergamo: l'Atalanta rimonta 3 volte e strappa il 4-4",
-   "link": "https://www.fcinternews.it/in-primo-piano/capogiro-inter-bergamo-atalanta-rimonta-3-strappa-4-4-1023773",
-   "summary": "È successo praticamente di tutto, e questa volta la rimonta all'Inter è andata di traverso.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T21:47:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8f/8ff26628a5a60455fa8012a3b7c198c3-72781-oooz0000.jpeg",
-   "id": "4624a4b49976"
-  },
-  {
-   "title": "Atalanta-Inter, Fischio Finale - Chivu non riparte da dove aveva finito: pazzo 4-4 a Bergamo",
-   "link": "https://www.fcinternews.it/focus/atalanta-inter-fischio-finale-chivu-riparte-finito-pazzo-4-4-bergamo-1023813",
-   "summary": "\"Ripartire da dove avevamo finito\": questo l'auspicio espresso da Cristian Chivu prima di Atalanta-Inter, augurandosi una versione della sua squadra il più possibile simile a quella migliore della stagione vista contro il Como pr ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T21:41:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/32/32a90e5cc85e1743e9a579883b26791f-36136-oooz0000.jpeg",
-   "id": "22e2b659ae72"
-  },
-  {
-   "title": "LIVE - In DIRETTA con il POST PARTITA di ATALANTA-INTER: COMMENTI e ANALISI. COLLEGAMENTO da STADIO",
-   "link": "https://www.fcinternews.it/copertina/live-diretta-post-partita-atalanta-inter-1023769",
-   "summary": "Commentiamo insieme Atalanta-Inter, match valido per la 12a giornata di Serie A 2026/27. Dall’analisi tattica alla valutazione delle prestazioni individuali, passando per i commenti dei protagonisti e gli episodi più discussi.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T21:40:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a2/a2a34e431a67cc0a3653dc705ef7a99b-32886-oooz0000.jpeg",
-   "id": "ce9d51d4322c"
-  },
-  {
-   "title": "Atalanta, Giuntoli a DAZN: \"Sarri? Ha grande esperienza, penso sia sulla strada giusta\"",
-   "link": "https://www.fcinternews.it/l-avversario/atalanta-giuntoli-a-i-dazn-i-sarri-esperienza-penso-strada-giusta-1023812",
-   "summary": "Cristiano Giuntoli, direttore sportivo dell'Atalanta, ha parlato a DAZN nel pre-partita: \"Scamacca? Conosciamo le sue qualità, si sta dividendo i minuti con Krstovic. Contiamo molto sulle sue qualità, che sono tantissime\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T19:12:31+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e9/e9a650cf7674ca2e21e3bcdfdc9ea70d-86698-oooz0000.jpeg",
-   "id": "edbb0c64f868"
-  },
-  {
-   "title": "Chivu a DAZN: \"A Bergamo gara tosta. Pavard-Spence? Non faccio esperimenti\"",
-   "link": "https://www.fcinternews.it/in-primo-piano/chivu-dazn-a-bergamo-gara-tosta-pavard-spence-esperimenti-1023811",
-   "summary": "\"Grazie per i complimenti per la Panchina d'Oro\". Inizia con queste parole l'intervista di Cristian Chivu a DAZN prima di Atalanta-Inter.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T19:10:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6d/6d48f31cb23a5123cf8b6ce46cf575b9-91023-779o23o2086o1331z107b.jpeg",
-   "id": "abdc1f079aa4"
-  },
-  {
-   "title": "Mkhitaryan a ITV: \"Atalanta non al meglio, ma restano pericolosi\"",
-   "link": "https://www.fcinternews.it/news/mkhitaryan-i-itv-i-atalanta-meglio-restano-pericolosi-1023810",
-   "summary": "L'Inter si prepara ad affrontare l'Atalanta in una trasferta che si preannuncia particolarmente impegnativa.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T19:00:56+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8c/8cfb1826ec289c11e154fc7fff369bcb-71090-372o46o1255o930z0a2b.jpeg",
-   "id": "5f2de6e8b29e"
-  },
-  {
-   "title": "Serie A, il Frosinone crolla a San Siro: il Milan stravince per 5-1",
-   "link": "https://www.fcinternews.it/il-resto-della-a/serie-a-frosinone-crolla-san-siro-milan-stravince-5-1-1023809",
-   "summary": "Dopo un buon avvio di stagione, il Frosinone crolla rovinosamente a San Siro contro il Milan. La formazione rossonera travolge i ciociari con un netto 5-1 a San Siro e sale tra le prime quattro della Serie A.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:58:29+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/07/07cb18b569a671a260610201032dc470-02733-1092o11o2352o1271z1276.jpeg",
-   "id": "a13e9a7216ef"
-  },
-  {
-   "title": "Mkhitaryan a DAZN: \"Complimenti a Chivu per la Panchina d'Oro, ma abbiamo obiettivi più importanti\"",
-   "link": "https://www.fcinternews.it/focus/mkhitaryan-dazn-complimenti-chivu-panchina-oro-obiettivi-importanti-1023808",
-   "summary": "\"Ogni tanto bisogna fare un passo indietro per andare avanti. Stiamo dando tutto il nostro massimo in ogni partita, giocando al nostro livello con l'obiettivo di vincere\".",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:57:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b8/b834f412b1b488d430315d6a21b4fdbd-78512-457o96o1493o1132z0c6a.jpeg",
-   "id": "1ad5f48a6152"
-  },
-  {
-   "title": "Atalanta, Bellanova a DAZN: \"Per fare punti contro l'Inter serve la gara perfetta\"",
-   "link": "https://www.fcinternews.it/l-avversario/atalanta-bellanova-i-dazn-i-per-punti-inter-serve-gara-perfetta-1023806",
-   "summary": "Raoul Bellanova, esterno dell'Atalanta, ha parlato così a DAZN nel pre-partita: \"La vittoria di Monza ci ha dato morale perché arrivavamo da un periodo difficile.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:50:09+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/52/529f16c948744aa96eec55eb88e212ce-98007-602o0o1325o722z0a59.jpeg",
-   "id": "0d9bcae2de22"
-  },
-  {
-   "title": "Pochettino, esordio amaro: lo United perde 4-0 col Liverpool ed è penultimo",
-   "link": "https://www.fcinternews.it/news/pochettino-esordio-amaro-united-perde-4-0-liverpool-penultimo-1023807",
-   "summary": "Inizia nel peggiore dei modi l'avventura di Mauricio Pochettino sulla panchina del Manchester United.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:45:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e0/e036adc4d0351d1264a576c8ff192771-79975-oooz0000.jpeg",
-   "id": "edb65175af6a"
-  },
-  {
-   "title": "Giaccherini: \"Conte vuole allenare, fatica lontano dal calcio\"",
-   "link": "https://www.fcinternews.it/news/giaccherini-conte-vuole-allenare-fatica-calcio-1023805",
-   "summary": "Il futuro della panchina della Juventus continua ad alimentare il dibattito, soprattutto dopo le recenti dichiarazioni di Antonio Conte sul desiderio di chiudere un cerchio con il club bianconero.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:30:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a8/a8b425db52940a357d061c8299c3228f-44169-oooz0000.jpeg",
-   "id": "d3d66f308e1d"
-  },
-  {
-   "title": "Sky - Atalanta-Inter, Chivu sorprende a centrocampo. La scelta su Lautaro",
-   "link": "https://www.fcinternews.it/focus/i-sky-i-atalanta-inter-chivu-sorprende-centrocampo-scelta-lautaro-1023804",
-   "summary": "Manca sempre meno al fischio d'inizio di Atalanta-Inter, ma Cristian Chivu deve ancora sciogliere un dubbio importante sulla formazione da schierare a Bergamo.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:15:08+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6d/6d48f31cb23a5123cf8b6ce46cf575b9-91023-623o71o2134o1582z113a.jpeg",
-   "id": "a315b0635295"
-  },
-  {
-   "title": "Minaudo: \"L'Inter ha rappresentato tutto per me. All'Atalanta gli anni più belli\"",
-   "link": "https://www.fcinternews.it/news/minaudo-l-inter-rappresentato-me-atalanta-belli-1023798",
-   "summary": "Stasera, quando si sintonizzerà su Atalanta-Inter, Giuseppe Minaudo avrà il cuore diviso a metà.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T18:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6e/6e7a4c7488fccf043310fd030944f0e3-92608-oooz0000.jpeg",
-   "id": "edfee03b8fc5"
-  },
-  {
-   "title": "Compagnoni: \"Spence ormai è una garanzia, curioso per Jones dal 1'\"",
-   "link": "https://www.fcinternews.it/news/compagnoni-spence-ormai-garanzia-curioso-jones-1-1023802",
-   "summary": "L'Inter si prepara ad affrontare l'Atalanta in una sfida che potrebbe offrire indicazioni importanti sul percorso delle due squadre.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T17:45:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2c/2ce0d79c8b61d7bd3c12643a96d0f869-17075-oooz0000.jpeg",
-   "id": "89bff749e3ee"
-  },
-  {
-   "title": "Benitez, la foto di Mourinho e Leonardo: i retroscena di Materazzi",
-   "link": "https://www.fcinternews.it/focus/benitez-foto-mourinho-leonardo-retroscena-materazzi-1023803",
-   "summary": "Marco Materazzi a Napoli in un evento dedicato agli Inter Club della Campania è tornato sul rapporto decisamente controverso con Rafael Benitez: “Nella mia vita calcistica in nazionale è avvenuto un fatto ...",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T17:16:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d641718789fe06e9c79f375564fb3456-84025-537o545o1235o1243z0de8.jpeg",
-   "id": "8ad1c0046b78"
-  },
-  {
-   "title": "Corsa alla presidenza FIFA, anche la CAF africana appoggia Infantino",
-   "link": "https://www.fcinternews.it/news/corsa-presidenza-fifa-caf-africana-appoggia-infantino-1023780",
-   "summary": "Gianni Infantino incassa un nuovo sostegno nella corsa alla presidenza della FIFA, in vista delle elezioni in programma a marzo in Marocco.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T17:15:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/af/afcfb2d121db25e37c894a0594bb1cfe-26279-oooz0000.jpeg",
-   "id": "4690ed9f028b"
-  },
-  {
-   "title": "Milan, Amorim: \"I principi di altre squadre sono più chiari dei nostri\"",
-   "link": "https://www.fcinternews.it/il-resto-della-a/milan-amorim-i-principi-squadre-chiari-nostri-1023801",
-   "summary": "Il tecnico del Milan Ruben Amorim presenta così a DAZN la sfida contro il Frosinone: “È difficile interpretare la loro formazione, hanno giocato così qualche volta fa - ha esordito -.",
-   "source": "FcInterNews",
-   "source_weight": 0.8,
-   "scope": "Inter",
-   "published": "2026-11-22T17:00:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5a/5abe7b295de16dcfef70b87ca5c73f7f-30067-oooz0000.jpeg",
-   "id": "c29cb4f7d1c0"
-  },
   {
    "title": "PAGELLE e TABELLINO Atalanta-Inter 4-4: Sarri riagguanta Chivu, super Esposito non basta",
    "link": "https://www.calciomercato.it/2026/11/22/pagelle-e-tabellino-atalanta-inter-4-4-sarri-riagguanta-chivu-super-esposito-non-basta/",
@@ -510,9 +337,9 @@
    "published": "2026-11-22T20:10:06+00:00",
    "image": "",
    "id": "3ecf53f70ace",
-   "age_minutes": 134,
+   "age_minutes": 409,
    "also": [],
-   "score": 6.695
+   "score": 5.615
   },
   {
    "title": "Voti Milan-Frosinone 5-1, il tabellino della partita",
@@ -535,9 +362,9 @@
    "published": "2026-11-22T17:21:25+00:00",
    "image": "",
    "id": "2a958e02c8d3",
-   "age_minutes": 302,
+   "age_minutes": 578,
    "also": [],
-   "score": 7.983
+   "score": 7.136
   },
   {
    "title": "Rinnovo con l’Inter o Juve: dribbling di Marotta su Calhanoglu | VIDEO CM",
@@ -549,9 +376,9 @@
    "published": "2026-11-22T15:40:49+00:00",
    "image": "",
    "id": "28ad4651d364",
-   "age_minutes": 403,
+   "age_minutes": 678,
    "also": [],
-   "score": 7.634
+   "score": 6.901
   },
   {
    "title": "Milan, ritorno a sorpresa sull’esterno: colpo in arrivo",
@@ -563,9 +390,9 @@
    "published": "2026-11-22T14:00:55+00:00",
    "image": "",
    "id": "e4350a816241",
-   "age_minutes": 503,
+   "age_minutes": 778,
    "also": [],
-   "score": 7.334
+   "score": 6.699
   },
   {
    "title": "PAGELLE e TABELLINO Juventus-Venezia 4-0: poker di Spalletti, Woltemade spegne i fischi",
@@ -588,9 +415,9 @@
    "published": "2026-11-22T12:37:41+00:00",
    "image": "",
    "id": "ce0701d9fa1a",
-   "age_minutes": 586,
+   "age_minutes": 861,
    "also": [],
-   "score": 5.115
+   "score": 4.552
   },
   {
    "title": "Milan-Frosinone, Amorim ha deciso: le ultime su Moreira e Pulisic",
@@ -602,9 +429,9 @@
    "published": "2026-11-22T10:36:13+00:00",
    "image": "",
    "id": "7a4bec4f834d",
-   "age_minutes": 708,
+   "age_minutes": 983,
    "also": [],
-   "score": 4.839
+   "score": 4.367
   },
   {
    "title": "Juventus-Venezia, le ultimissime: chi gioca tra Alajbegovic e Conceicao",
@@ -616,9 +443,9 @@
    "published": "2026-11-22T08:35:13+00:00",
    "image": "",
    "id": "e0d830aec039",
-   "age_minutes": 829,
+   "age_minutes": 1104,
    "also": [],
-   "score": 4.608
+   "score": 4.212
   },
   {
    "title": "Conte e il ritorno alla Juventus: arriva la risposta di Spalletti",
@@ -630,9 +457,9 @@
    "published": "2026-11-22T07:59:21+00:00",
    "image": "",
    "id": "948c7efe4920",
-   "age_minutes": 864,
+   "age_minutes": 1140,
    "also": [],
-   "score": 4.547
+   "score": 4.171
   },
   {
    "title": "Lazio, la verità sul mercato di gennaio: Lotito di fronte ad un bivio",
@@ -644,9 +471,9 @@
    "published": "2026-11-22T06:22:45+00:00",
    "image": "",
    "id": "88284289bfc8",
-   "age_minutes": 961,
+   "age_minutes": 1236,
    "also": [],
-   "score": 5.598
+   "score": 5.271
   },
   {
    "title": "Napoli-Torino 1-0, tre punti pesanti per Allegri",
@@ -658,9 +485,9 @@
    "published": "2026-11-21T21:38:59+00:00",
    "image": "",
    "id": "6d9001366734",
-   "age_minutes": 1485,
+   "age_minutes": 1760,
    "also": [],
-   "score": 3.868
+   "score": 3.715
   },
   {
    "title": "L’annuncio di Spalletti: due big della Juventus restano ai box",
@@ -672,9 +499,9 @@
    "published": "2026-11-21T20:10:25+00:00",
    "image": "",
    "id": "bf37d5cae95c",
-   "age_minutes": 1573,
+   "age_minutes": 1849,
    "also": [],
-   "score": 3.812
+   "score": 3.677
   },
   {
    "title": "Voti Parma-Roma 1-5, Malen da sogno: volano i giallorossi",
@@ -686,9 +513,9 @@
    "published": "2026-11-21T18:51:21+00:00",
    "image": "",
    "id": "87f168694920",
-   "age_minutes": 1652,
+   "age_minutes": 1928,
    "also": [],
-   "score": 3.768
+   "score": 3.647
   },
   {
    "title": "Cambiaghi incedibile per il Bologna, niente cessione a gennaio | CM",
@@ -700,9 +527,9 @@
    "published": "2026-11-21T17:23:14+00:00",
    "image": "",
    "id": "74f5b71e579e",
-   "age_minutes": 1741,
+   "age_minutes": 2016,
    "also": [],
-   "score": 5.724
+   "score": 5.618
   },
   {
    "title": "PAGELLE E TABELLINO Lazio-Lecce 3-0: Super Noslin e Frattesi lanciano Gattuso",
@@ -862,6 +689,89 @@
    "id": "47d24df9e156"
   },
   {
+   "title": "Napoli-Torino, Gaito: \"Individualità e soliti problemi. Brutto finale, assedio regalato...\"",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/napoli-torino-gaito-allegri-662610",
+   "summary": "Antonio Gaito, direttore di TuttoNapoli.net, è intervenuto sulla nostra Radio Tutto Napoli per commentare Napoli-Torino 1-0.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-23T02:00:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/65/656fa982bed81a5bc337c52d8c32fb89-87400-oooz0000.jpeg",
+   "id": "4b9a88daf308",
+   "age_minutes": 59,
+   "also": [],
+   "score": 5.871
+  },
+  {
+   "title": "Caso Lang, Caporale: “Sta crescendo, basta fischiarlo! Va ricucito rapporto coi tifosi”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/caporale-napoli-champions-quattro-vittorie-pareggio-lang-manchester-city-662649",
+   "summary": "Il giornalista Carlo Caporale, intervenuto ai microfoni di Radio Tutto Napoli, l'unica radio tematica sul Napoli live dalle 7 su sito, app smartphone e smartTv e DAB Campania, ha analizzato il successo degli azzurri contro il Torin ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-23T01:00:37+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/1a/1a02463d5ffba12e42e2351d28631354-36371-oooz0000.jpeg",
+   "id": "ee9416d56ddb"
+  },
+  {
+   "title": "Corsa 4º posto? Forgione: “3 sono già dentro, puntavo la Lazio ma dovevi batterla…”",
+   "link": "https://www.tuttonapoli.net/radio-tutto-napoli/forgione-napoli-champions-impossibile-allegri-risultatismo-torino-662678",
+   "summary": "Lo scrittore e giornalista Angelo Forgione, intervenuto ai microfoni di Radio Tutto Napoli, l'unica radio tematica sul Napoli in diretta dalle 7 su sito, app per smartphone e Smart TV e DAB in Campania, ha analizzato la vittoria degli azzurri con ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-23T00:00:50+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7c0fe972a18084339ad6dd448ef49448-36283-oooz0000.jpeg",
+   "id": "fa59a6ec9de3"
+  },
+  {
+   "title": "Vigilia di City-Napoli su Radio Tutto Napoli, il palinsesto di oggi: live dalle 7",
+   "link": "https://www.tuttonapoli.net/radio-tn/radio-napoli-palinsesto-oggi-trasmissioni-live-7-657597",
+   "summary": "Giornata di vigilia di Man City-Napoli sulla nostra Radio TuttoNapoli, prima radio tematica sul Napoli, con i nostri inviati a Manchester.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-22T23:30:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/3f/3fcc3e79d120fb95c7b997ff5ce94628-31907-oooz0000.jpeg",
+   "id": "8b3c305c9dd2"
+  },
+  {
+   "title": "Corsa Champions a ritmo folle: Napoli a -9 dal 4º posto, servirà media da scudetto",
+   "link": "https://www.tuttonapoli.net/notizie/napoli-champions-media-punti-quarto-posto-serie-a-2026-2027-662684",
+   "summary": "La Serie A viaggia a ritmi impressionanti, con una corsa Champions che rischia di diventare una delle più complicate degli ultimi anni.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-22T23:00:04+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/ad/ade8d32f1e15eaa5dca6d3c3627c7b0e-45881-oooz0000.jpeg",
+   "id": "c474f5eb34b8"
+  },
+  {
+   "title": "Juventus, Spalletti punge: “Non abbiamo una punta fisica, perciò Kolo Muani si adatta lì…”",
+   "link": "https://www.tuttonapoli.net/le-interviste/spalletti-juventus-venezia-kolo-muani-attaccante-messaggio-societa-662673",
+   "summary": "La Juventus travolge il Venezia per 4-0, ma nel postpartita Luciano Spalletti non rinuncia a lanciare una frecciata alla società sul mercato.",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-22T22:45:07+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7c8bfd1fcfaff27965efde692f6af41a-39636-oooz0000.jpeg",
+   "id": "fe3959a60477",
+   "age_minutes": 254,
+   "also": [],
+   "score": 4.77
+  },
+  {
+   "title": "Materazzi attacca Benitez: “Soffre le personalità forti! A Napoli fece fuori Cannavaro, suo ego veniva prima di tutto”",
+   "link": "https://www.tuttonapoli.net/le-interviste/materazzi-attacca-benitez-soffre-personalita-forti-napoli-cannavaro-ego-veniva-tutto-662681",
+   "summary": "L'ex difensore dell'Inter, Marco Materazzi, intervenuto a Napoli durante un evento dedicato agli Inter Club della Campania, è tornato sul difficile rapporto con Rafael Benitez, allenatore nerazzurro dopo il Triplete conquistato con Jos ...",
+   "source": "TuttoNapoli",
+   "source_weight": 0.8,
+   "scope": "Napoli",
+   "published": "2026-11-22T22:30:15+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/c1/c18edff1d6c7bee2ee93c8d0d026cce3-94620-oooz0000.jpeg",
+   "id": "8a1985d6f93d"
+  },
+  {
    "title": "Manchester City-Napoli, azzurri mai vittoriosi in Inghilterra: tutti i precedenti",
    "link": "https://www.tuttonapoli.net/champions-league/manchester-city-napoli-precedenti-statistiche-champions-league-trasferte-inghilterra-662675",
    "summary": "Il Napoli si prepara alla trasferta contro il Manchester City, in programma martedì alle ore 21 all'Etihad Stadium per la quinta giornata di Champions League.",
@@ -1005,84 +915,357 @@
    "id": "fe10c61a6425"
   },
   {
-   "title": "Psg, Doué si rompe il crociato come Kvara: il messaggio dell'ex Napoli emoziona i tifosi",
-   "link": "https://www.tuttonapoli.net/dai-social/psg-doue-rottura-crociato-kvaratskhelia-messaggio-instagram-infortunio-662663",
-   "summary": "Brutte notizie per il Paris Saint-Germain, che perde anche Désiré Doué dopo il grave infortunio rimediato da Khvicha Kvaratskhelia.",
-   "source": "TuttoNapoli",
+   "title": "Juventus-Venezia, pagelle: Kolo Muani 7, torna al gol ma la svolta arriva con Woltemade. Spalletti ha trovato la soluzione?",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-pagelle-kolo-muani-7-torna-gol-svolta-arriva-woltemade-spalletti-soluzione-801541",
+   "summary": "Randal Kolo Muani torna a segnare in campionato e contribuisce al successo per 4-0 della Juventus contro il Venezia, l'attaccante francese parte come riferimento offensivo nella formazione iniziale scelta da Luciano Spalletti, ma fatica a renders ...",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T19:45:24+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/5a/5a018df49c4f17abc29308377cbc5b77-26549-oooz0000.jpeg",
-   "id": "b33158265d86"
+   "scope": "Juventus",
+   "published": "2026-11-23T00:30:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/04/04e27e63ef3ac56e5da64345d5193481-44480-oooz0000.jpeg",
+   "id": "a286658bbd69"
   },
   {
-   "title": "Infortunio Vergara, De Luca: \"A Qualiano serve un Napoli Medical, basta con questo scempio!”",
-   "link": "https://www.tuttonapoli.net/dai-social/napoli-vergara-infortunio-diego-de-luca-qualiano-napoli-medical-662641",
-   "summary": "L'ennesimo infortunio in casa Napoli scatena nuove polemiche sulla gestione fisica dei calciatori azzurri.",
-   "source": "TuttoNapoli",
+   "title": "Juventus-Venezia, pagelle: Bremer 7, salva subito la Juventus e guida la difesa. La sua presenza è una garanzia",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-pagelle-bremer-7-salva-juventus-guida-difesa-presenza-garanzia-801544",
+   "summary": "Bremer è uno dei protagonisti meno appariscenti ma più importanti della vittoria per 4-0 della Juventus contro il Venezia, il difensore brasiliano è decisivo già nei primi minuti, quando interviene per fermare una pericolo ...",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T19:30:42+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/44/44c4f2e8bbe07180402def381e1c3631-12979-oooz0000.jpeg",
-   "id": "da291b662003"
+   "scope": "Juventus",
+   "published": "2026-11-23T00:15:40+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9f/9f194d3d942438ad0f16b2b089a94308-23615-oooz0000.jpeg",
+   "id": "126a68be6829"
   },
   {
-   "title": "Napoli-Torino, blitz della Polizia Locale: 81 auto portate via, multe e sequestri",
-   "link": "https://www.tuttonapoli.net/napoli-citta/napoli-torino-maradona-polizia-locale-81-auto-rimosse-multe-sequestri-662658",
-   "summary": "Controlli a tappeto della Polizia Locale nelle strade intorno allo stadio Diego Armando Maradona in occasione di Napoli-Torino.",
-   "source": "TuttoNapoli",
+   "title": "La Juventus cala il poker sul piatto del Venezia ma Spalletti ringhia..,",
+   "link": "https://www.tuttojuve.com/firme-bianconere/juventus-cala-poker-piatto-venezia-spalletti-ringhia-801551",
+   "summary": "La solita Juvents che gioca solo un tempo. Spalletti lascia WOLTEMADE in panchina per mettere Kolo Muani centravanti ma nel primo tempo sbatte sul muro del Venezia che ha l'occasione più clamorosa in avvio di partita.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T19:15:59+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/78/78d596f0686b0f4f1456aea5869d1414-38704-oooz0000.jpeg",
-   "id": "6a1336307aa2",
-   "age_minutes": 188,
+   "scope": "Juventus",
+   "published": "2026-11-23T00:02:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
+   "id": "218d1a3300c5"
+  },
+  {
+   "title": "Juventus-Venezia, pagelle: Koopmeiners 7, finalmente il gol e una giocata da grande giocatore. Ma serve continuità",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-pagelle-koopmeiners-7-gol-giocata-giocatore-serve-continuita-801535",
+   "summary": "Teun Koopmeiners ritrova il gol e contribuisce alla vittoria per 4-0 della Juventus contro il Venezia.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-23T00:00:29+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a6/a687df5c9be7800ec0b2d5966e1ee478-09324-oooz0000.jpeg",
+   "id": "097e134fe45f"
+  },
+  {
+   "title": "David-Sorloth, continuano le voci",
+   "link": "https://www.tuttojuve.com/calciomercato/david-sorloth-continuano-voci-801546",
+   "summary": "La Juventus lavora a un nuovo centravanti per il mercato di gennaio e continano le voci di uno scambio con l'Atletico Madrid tra Jonathan David e Alexander Sørloth, le due società starebbero valutando un'operazione che…",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T23:45:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/19/195cec59aa20f73d04df9e7e198b39b3-45531-oooz0000.jpeg",
+   "id": "01a1c41fef02",
+   "age_minutes": 193,
    "also": [],
-   "score": 5.248
+   "score": 5.024
   },
   {
-   "title": "Serie A, la classifica del Napoli piange: vincono tutte le rivali e resta il -9 dal 4º posto",
-   "link": "https://www.tuttonapoli.net/serie-a/serie-a-classifica-napoli-ottavo-milan-quarto-posto-champions-allegri-662672",
-   "summary": "La vittoria contro il Torino non basta al Napoli per accorciare le distanze dalla zona Champions League.",
-   "source": "TuttoNapoli",
+   "title": "Juventus-Venezia, pagelle: Cabal 7, trova il gol e si prende la fascia. Una risposta importante a Spalletti",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-pagelle-cabal-7-trova-gol-prende-fascia-risposta-importante-spalletti-801534",
+   "summary": "Juan Cabal è tra i protagonisti del 4-0 della Juventus contro il Venezia, il colombiano parte titolare sulla corsia sinistra nella difesa a quattro scelta da Luciano Spalletti e chiude la partita con una rete importante, realizzata sfruttando ...",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T19:00:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/7c/7c0d86d149932203a3d7957ae52e4aad-04239-oooz0000.jpeg",
-   "id": "e52a1561b25d"
+   "scope": "Juventus",
+   "published": "2026-11-22T23:30:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9d/9d6484c41602aec056c742946c75019d-37093-oooz0000.jpeg",
+   "id": "5c79cdf12935"
   },
   {
-   "title": "Vola anche il Milan di Amorim: goleada al Frosinone e torna a +9 sul Napoli",
-   "link": "https://www.tuttonapoli.net/serie-a/milan-frosinone-5-1-gol-ramos-jashari-cisse-pulisic-amorim-serie-a-662671",
-   "summary": "Il Milan di Ruben Amorim travolge il Frosinone per 5-1 a San Siro, conquistando una vittoria importante nella corsa alle prime posizioni della classifica.",
-   "source": "TuttoNapoli",
+   "title": "Juventus-Venezia, pagelle: Zhegrova 7,5, il migliore per continuità. Dribbling, qualità e assist: Spalletti deve puntare su di lui",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-pagelle-zhegrova-7-5-migliore-continuita-dribbling-qualita-assist-spalletti-puntare-801542",
+   "summary": "Edon Zhegrova è uno dei giocatori più convincenti della Juventus nella vittoria per 4-0 contro il Venezia, il kosovaro parte titolare e, a differenza di molti compagni, prova a creare qualcosa anche durante un primo tempo deludente, nel ...",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T18:52:19+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/47/47027143b3c440588d91280d819d7a90-82215-oooz0000.jpeg",
-   "id": "2eeb2496bf79"
+   "scope": "Juventus",
+   "published": "2026-11-22T23:15:49+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/69/6950c3571f809c074343a941b605fb25-25784-oooz0000.jpeg",
+   "id": "8e9830fdaec5"
   },
   {
-   "title": "Atalanta-Inter, le formazioni ufficiali: sorpresa in porta per Chivu, Sarri si affida a Krstovic",
-   "link": "https://www.tuttonapoli.net/serie-a/atalanta-inter-formazioni-ufficiali-sorpresa-porta-chivu-sarri-affida-krstovic-662670",
-   "summary": "Atalanta e Inter si affrontano alla New Balance Arena di Bergamo in una sfida importante per la classifica di Serie A.",
-   "source": "TuttoNapoli",
+   "title": "Juventus, primo tempo horror contro il Venezia: il 4-0 non cancelli i problemi. Da dove bisogna ripartire?",
+   "link": "https://www.tuttojuve.com/primo-piano/juventus-horror-venezia-4-0-cancelli-problemi-bisogna-ripartire-801529",
+   "summary": "La Juventus batte il Venezia 4-0, conquista tre punti fondamentali e torna a sperare nella rincorsa Champions. Tutto bene? Assolutamente no.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T18:45:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/eb/eb5ee798e09f118c15b565a1a514e6ad-84554-oooz0000.jpeg",
-   "id": "959a0a475598"
+   "scope": "Juventus",
+   "published": "2026-11-22T23:05:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/3e/3e88416db07ed894905a5f451001fb66-15343-oooz0000.jpeg",
+   "id": "095644bf4590"
   },
   {
-   "title": "Iannicelli: \"E' crollato il soffitto! Meret e Vergara ko, non può essere solo sfortuna”",
-   "link": "https://www.tuttonapoli.net/le-interviste/iannicelli-napoli-infortuni-meret-vergara-gestione-allegri-torino-662664",
-   "summary": "Il giornalista Peppe Iannicelli, intervenuto nel corso di 'Campania Sport' su Canale 21, ha analizzato il momento del Napoli, soffermandosi soprattutto sull'emergenza infortuni che continua a condizionare la stagione azzurra.",
-   "source": "TuttoNapoli",
+   "title": "Juventus-Venezia, pagelle: Woltemade 7,5, entra e cambia tutto. Il tedesco dimostra perché è fondamentale per Spalletti",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-venezia-pagelle-woltemade-7-5-entra-cambia-tutto-tedesco-dimostra-fondamentale-spalletti-801533",
+   "summary": "Nick Woltemade è uno dei grandi protagonisti della vittoria per 4-0 della Juventus contro il Venezia, Luciano Spalletti lo lascia inizialmente in panchina, ma il primo tempo deludente dei bianconeri costringe il tecnico a cambiare strategia.",
+   "source": "TuttoJuve",
    "source_weight": 0.8,
-   "scope": "Napoli",
-   "published": "2026-11-22T18:30:11+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttonapoli.net/img_notizie/thumb3/62/621e4a962e81957c8cf220ac4f5710ba-83264-oooz0000.jpeg",
-   "id": "f766cf908ab2"
+   "scope": "Juventus",
+   "published": "2026-11-22T23:00:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/93/93fe153f93baad46e7d3045f90957504-33404-oooz0000.jpeg",
+   "id": "7cf80480a6f8"
+  },
+  {
+   "title": "Oreggia: \"Se la Juventus avesse Pio Esposito o anche solo Krstovic non sarebbe dove si trova\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/oreggia-se-juventus-pio-esposito-krstovic-trova-801582",
+   "summary": "La tripletta di Pio Esposito contro l'Atalanta diventa l'occasione per una riflessione sull'attacco della Juventus.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T22:45:11+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/4e/4eff78e6d5644b3087220edc5253777a-22345-oooz0000.jpeg",
+   "id": "a0a38453dd36"
+  },
+  {
+   "title": "Inter-Atalanta, Rocchi sui due rigori: \"Corretti entrambi. Giusto non espellere Zappacosta\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-atalanta-rocchi-rigori-corretti-entrambi-giusto-espellere-zappacosta-801583",
+   "summary": "Entrambi i calci di rigore assegnati durante Atalanta-Inter sono corretti, ma resta qualche perplessità sul cartellino giallo mostrato a Davide Zappacosta.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T22:35:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/9d/9d099e54d92130589cd3d315d7b1d41e-65733-oooz0000.jpeg",
+   "id": "2edde5e0d176",
+   "age_minutes": 264,
+   "also": [],
+   "score": 4.331
+  },
+  {
+   "title": "Atletico Madrid, tris al Getafe e terzo posto consolidato: Jonathan David resta in panchina",
+   "link": "https://www.tuttojuve.com/altre-notizie/atletico-madrid-tris-getafe-consolidato-jonathan-david-resta-panchina-801581",
+   "summary": "L'Atletico Madrid supera il Getafe per 3-0 in trasferta e consolida il terzo posto nella Liga, ma Jonathan David resta in panchina per tutta la partita.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T22:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/d7/d79df8b0c14315ff1b13e7a1971d3a7d-07297-oooz0000.jpeg",
+   "id": "8b4d37653478"
+  },
+  {
+   "title": "Juventus Women, Sarriegi protagonista del 5-1 alla Lazio: \"Sono molto emozionata. Felice per la squadra e per me, era una partita difficile\"",
+   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-sarriegi-protagonista-5-1-lazio-sono-emozionata-felice-squadra-me-partita-difficile-801580",
+   "summary": "Una tripletta per trascinare la Juventus Women alla vittoria e arrivare alla pausa con entusiasmo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T22:15:12+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8a/8af9f1d27f9b5239b75467600eb3f4fb-88966-oooz0000.jpeg",
+   "id": "5214ef9b9676"
+  },
+  {
+   "title": "Juventus, mercato di gennaio: torna di moda Sorloth, ma c'è un nome che intriga i bianconeri",
+   "link": "https://www.tuttojuve.com/calciomercato/juventus-mercato-gennaio-torna-moda-sorloth-intriga-bianconeri-801577",
+   "summary": "Un centravanti fisico, capace di giocare spalle alla porta e vincere i duelli con i difensori avversari. È questo il profilo richiesto da Luciano Spalletti alla Juventus in vista del mercato di gennaio.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T22:00:27+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/09/090994dddd8dd0d1d74c6d8b3295fe52-90111-oooz0000.jpeg",
+   "id": "95816743848a",
+   "age_minutes": 299,
+   "also": [],
+   "score": 5.797
+  },
+  {
+   "title": "Premier: esordio amaro per Pochettino, lo United in 10 crolla a Liverpool",
+   "link": "https://www.tuttojuve.com/altre-notizie/premier-esordio-amaro-pochettino-united-10-crolla-liverpool-801579",
+   "summary": "(ANSA) - ROMA, 22 NOV - Comincia in salita l'avventura di Mauricio Pochettino sulla panchina del Manchester United, sconfitto 4-0 dal Liverpool.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T21:55:42+00:00",
+   "image": "",
+   "id": "9233778007dd"
+  },
+  {
+   "title": "Inter, che beffa a Bergamo! Avanti 3-1 e 4-2, si fa rimontare dall'Atalanta: finisce 4-4. La classifica aggiornata",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-beffa-bergamo-3-1-4-2-rimontare-atalanta-finisce-4-4-classifica-aggiornata-801578",
+   "summary": "Otto gol, due doppi vantaggi sprecati dall'Inter e una rimonta completata dall'Atalanta su calcio di rigore.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T21:45:13+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7f472e327a5685e36bb0fed58912de86-26754-oooz0000.jpeg",
+   "id": "796876075216"
+  },
+  {
+   "title": "Serie A, Cardinale: \"Milan fantastico, sono orgoglioso della squadra\"",
+   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-cardinale-milan-fantastico-orgoglioso-squadra-801576",
+   "summary": "\"Non sono mai soddisfatto, ma i risultati parlano da soli. I ragazzi sono stati fantastici stasera.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T21:36:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6b/6b940d3264ea9b2d4a7188d11058b9fa-17586-oooz0000.jpeg",
+   "id": "3344ef22742c"
+  },
+  {
+   "title": "Inter, allarme Calhanoglu: problema muscolare durante la sfida con l'Atalanta",
+   "link": "https://www.tuttojuve.com/altre-notizie/inter-allarme-calhanoglu-problema-muscolare-sfida-atalanta-801575",
+   "summary": "Problema muscolare per Hakan Calhanoglu durante la sfida tra Atalanta e Inter.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T21:30:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/72/720de40b907c683eb475d05afb7335de-92991-oooz0000.jpeg",
+   "id": "956cb02068eb"
+  },
+  {
+   "title": "Lazio-Juventus Women 1-5 - Finisce la partita: tripletta Sarriegi, Pavan e Khelifi. Bianconere quarte",
+   "link": "https://www.tuttojuve.com/primo-piano/lazio-juventus-women-breve-formazioni-ufficiali-sfida-801558",
+   "summary": "90 + 5' - FINISCE LA PARTITA. Juve che cala la cinquina con la tripletta di Sarriegi, Pavan e Khelifi.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T21:29:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e4/e431d69ba8a4b381a7848199e37c8f88-82086-oooz0000.jpeg",
+   "id": "2e507c58a3d4"
+  },
+  {
+   "title": "Juventus, Woltemade come ai tempi del Newcastle: le statistiche che premiano il centravanti",
+   "link": "https://www.tuttojuve.com/altre-notizie/juventus-woltemade-tempi-newcastle-statistiche-premiano-centravanti-801574",
+   "summary": "Un gol per sbloccare la partita, un assist per indirizzarla definitivamente e due statistiche che confermano il suo momento positivo.",
+   "source": "TuttoJuve",
+   "source_weight": 0.8,
+   "scope": "Juventus",
+   "published": "2026-11-22T21:15:23+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e2/e2034a216779f3edc847cc3851c8463b-38767-oooz0000.jpeg",
+   "id": "79586f4523a2"
+  },
+  {
+   "title": "Cisse: \"Scudetto? Il Milan deve sempre competere per vincere. Abbiamo iniziato l'anno con idee nuove...\"",
+   "link": "https://www.milannews.it/news/cisse-scudetto-milan-competere-vincere-iniziato-idee-nuove-637071",
+   "summary": "9 gol in 14 presenze tra campionato e coppe. Numeri impressionanti per Alphadjo Cisse.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-23T00:12:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a0562c332daf16c2035be380a4f4e301-53819-oooz0000.jpeg",
+   "id": "c9c5dbe3a26a"
+  },
+  {
+   "title": "Amorim a sorpresa: \"Sono davvero preoccupato! Se guardate le big...\"",
+   "link": "https://www.milannews.it/news/amorim-sorpresa-sono-davvero-preoccupato-guardate-big-opposto-637048",
+   "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Frosinone, sfida valida per la dodicesima giornata di Serie A.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-23T00:00:30+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3b/3ba1df6f48c0b554150c018410d886dd-27611-oooz0000.jpeg",
+   "id": "f7aa4645d008"
+  },
+  {
+   "title": "Brocchi sulla vittoria del Milan: \"Oggi è stato devastante\"",
+   "link": "https://www.milannews.it/news/brocchi-vittoria-milan-oggi-devastante-637042",
+   "summary": "Nel post partita di Milan-Frosinone, sfida vinta dalla formazione di Ruben Amorim per 5 a 1, l'ex Milan Cristian Brocchi ha così parlato ai microfoni di DAZN della squadra rossonera: \"È vero che il Frosinone ti dà l&rsqu ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T23:48:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/47/47027143b3c440588d91280d819d7a90-82215-oooz0000.jpeg",
+   "id": "896eb61575d5"
+  },
+  {
+   "title": "Amorim: \"Belle sensazioni ma in questo club testa sempre alla prossima\"",
+   "link": "https://www.milannews.it/news/calcio-amorim-belle-sensazioni-club-testa-prossima-637072",
+   "summary": "(ANSA) - MILANO, 22 NOV - \"Belle sensazioni, ma non è solo il risultato: anche il discorso di continuità nel corso dei 90 minuti della partita, ma ora la testa alla prossima.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T23:43:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a0fbd96ef9b150d9ca85d3b626667957-88005-oooz0000.jpeg",
+   "id": "9dc92c1ef5bf"
+  },
+  {
+   "title": "Buscaglia: \"Milan da scudetto? Se mantengono questo equilibrio...\"",
+   "link": "https://www.milannews.it/news/buscaglia-milan-scudetto-mantengono-equilibrio-637046",
+   "summary": "Nel post partita di Milan-Frosinone, sfida valida per la 12esima giornata di Serie A Enilive, il collega di DAZN Riccardo Buscaglia ha detto la sua sulla sempre più avvincente corsa ad un posto alla prossima Champions League, che vede ben 5 sq ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T23:36:17+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d3/d3e86c1bae94c3dc56085e8b463e5384-55077-oooz0000.jpeg",
+   "id": "ed70324875d9"
+  },
+  {
+   "title": "Costacurta: \"Rabiot tra i più forti centrocampisti nel panorama europeo\"",
+   "link": "https://www.milannews.it/news/costacurta-rabiot-forti-centrocampisti-panorama-europeo-637053",
+   "summary": "Ennesima prestazione da assoluto trascinatore per Adrien Rabiot. Il centrocampista francese anche contro il Frosinone ha offerto una prestazione da tuttocampista, praticamente impeccabile.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T23:24:56+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/32/3286b3a8a203a665ed7bc0f91b130867-87425-506o795o1397o1686z1120.jpeg",
+   "id": "ab9b5e9e8719"
+  },
+  {
+   "title": "Amorim: \"Se non ci qualifichiamo in Europa League, falliremo obiettivo importante\"",
+   "link": "https://www.milannews.it/news/amorim-se-qualifichiamo-europa-league-falliremo-obiettivo-importante-637038",
+   "summary": "Al termine della gara stravinta dal Milan per 5-1 sul Frosinone, il tecnico rossonero Ruben Amorim non ha voluto sedersi sugli allori e ha iniziato già a pensare alla partita di giovedì contro l'Olympiacos, impor ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T23:12:43+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/a0/a099848127c2eda0c2a47fffd56a3cb5-45152-oooz0000.jpeg",
+   "id": "42754f17ca2f"
+  },
+  {
+   "title": "Milan, Cardinale vuole blindare Rabiot: ecco cosa manca. Krösche in arrivo. E a gennaio almeno tre colpi",
+   "link": "https://www.milannews.it/editoriale/milan-cardinale-vuole-blindare-rabiot-manca-krosche-arrivo-gennaio-almeno-colpi-637054",
+   "summary": "Cosa manca per il rinnovo di Adrien Rabiot con il Milan? Di sicuro non la volontà delle parti, che si stanno parlando per trovare il giusto accordo che soddisfi tutti.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T23:00:01+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f4/f44dfbfa2554d24a9da9d0248dee0b6a-04351-oooz0000.jpeg",
+   "id": "b249a08a2441",
+   "age_minutes": 239,
+   "also": [],
+   "score": 5.63
+  },
+  {
+   "title": "Bergomi promuove Diawara: \"Sta crescendo, non mi dispiace\"",
+   "link": "https://www.milannews.it/news/bergomi-promuove-diawara-sta-crescendo-dispiace-637063",
+   "summary": "Gli infortuni del Milan hanno costretto Ruben Amorim a schierare Sankhoun Diawara titolare contro il Frosinone, al centro della difesa in coppia con Koni De Winter.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T22:48:57+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/f1/f166fa3fe11a4a9738ae08e92fda3046-64966-oooz0000.jpeg",
+   "id": "9ddb53f3db5c"
+  },
+  {
+   "title": "Ecco da quanto il Milan non segnava cinque gol in campionato",
+   "link": "https://www.milannews.it/news/milan-segnava-gol-campionato-637051",
+   "summary": "Il Milan ha dominato la partita contro il Frosinone, almeno dal punto di vista del risultato: i rossoneri hanno vinto 5-1 a San Siro con una prova offensiva travolgente che, in questa misura, non si vedeva in campionato da un ...",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T22:36:48+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fd/fd3e16722c4c507b5d1b0137a817e2c1-98615-oooz0000.jpeg",
+   "id": "d26f45d91961"
+  },
+  {
+   "title": "Amorim: \"Non siamo come le big: se non miglioriamo non manterremo questi punti\"",
+   "link": "https://www.milannews.it/news/amorim-non-big-miglioriamo-manterremo-punti-637050",
+   "summary": "Ruben Amorim ha preso la parola in conferenza stampa dopo la vittoria netta del Milan sul Frosinone per 5-1, a San Siro.",
+   "source": "MilanNews",
+   "source_weight": 0.8,
+   "scope": "Milan",
+   "published": "2026-11-22T22:24:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/1c/1c1df667192925679677eba33be0a6a9-40947-oooz0000.jpeg",
+   "id": "1fb5fc8b0483"
   },
   {
    "title": "Buscaglia sulla corsa Champions: \"Il perimetro è estremamente stretto\"",
@@ -1138,9 +1321,9 @@
    "published": "2026-11-22T21:24:02+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/03/039bf5b52f042b0c444e8b1d4d613403-37144-oooz0000.jpeg",
    "id": "f54e1af86a32",
-   "age_minutes": 60,
+   "age_minutes": 335,
    "also": [],
-   "score": 6.467
+   "score": 5.264
   },
   {
    "title": "Il Milan vola con i suoi top player: ma Amorim e Cardinale vogliono anche l'Europa",
@@ -1174,9 +1357,10 @@
    "published": "2026-11-22T20:48:33+00:00",
    "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/94/9409be55ece1727623b07124d24e2d1b-21399-oooz0000.jpeg",
    "id": "df1b5d0d21ce",
-   "age_minutes": 95,
-   "also": [],
-   "score": 6.684
+   "_kw": 2.0,
+   "_fresh": 0.5852487549897417,
+   "_fp": "amorim espone spero arrivi presto rinnovo rabiot",
+   "age_minutes": 370
   },
   {
    "title": "Cardinale: \"Teniamo sotto controllo entusiasmo ma sono davvero orgoglioso\"",
@@ -1190,128 +1374,477 @@
    "id": "d4030c1ff41b"
   },
   {
-   "title": "Amorim: \"Oggi non c'era da preparare chissà che. Merito tutto dei giocatori\"",
-   "link": "https://www.milannews.it/news/amorim-oggi-preparare-chissa-che-merito-giocatori-637041",
-   "summary": "Nella conferenza stampa al termine di Milan-Frosinone 5-1, il tecnico rossonero Ruben Amorim ha risposto a una domanda su un possibile \"amorim-ball\".",
-   "source": "MilanNews",
+   "title": "VIDEO - Atalanta-Inter 4-4, Tramontana: \"Cambi tragici, Sucic pessimo. Il rigore di Bastoni? Ci prendono per...\"",
+   "link": "https://www.fcinternews.it/vento-di-tramontana/video-atalanta-inter-tramontana-1023770",
+   "summary": "Nel consueto video editoriale per FcInterNews, Filippo Tramontana ha commentato il 4-4 tra Atalanta e Inter. \"Pareggio deludentissimo.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T20:24:02+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3b/3ba1df6f48c0b554150c018410d886dd-27611-oooz0000.jpeg",
-   "id": "ddb375e81d64"
+   "scope": "Inter",
+   "published": "2026-11-22T23:06:14+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0c/0c23f79f00eb95f90703afa09f1f2a29-52636-oooz0000.jpeg",
+   "id": "bd67c24cacc4"
   },
   {
-   "title": "Scudetto? Cardinale: \"Ancora molta strada da fare. E anche l'Europa è importante\"",
-   "link": "https://www.milannews.it/news/scudetto-cardinale-ancora-strada-fare-europa-importante-637031",
-   "summary": "All'uscita da San Siro, il proprietario rossonero Gerry Cardinale è intervenuto ai microfoni di TeleLombardia in zona mista e ha condiviso i suoi pensieri dopo la vittoria per 5-1 sul Frosinone a San Siro.",
-   "source": "MilanNews",
+   "title": "Un'occasione buttata via e 10 passi indietro",
+   "link": "https://www.fcinternews.it/editoriale/editoriale-inter-news-1023826",
+   "summary": "Ci sono partite che non puoi permetterti di non vincere. E quella dell'Inter a Bergamo è una di queste.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T20:12:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/0f/0f24abf73e03c540cc1bbb628316d2b0-41709-oooz0000.jpeg",
-   "id": "01760b9634cf"
+   "scope": "Inter",
+   "published": "2026-11-22T23:00:44+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e1/e1b6d1a5f90850c78d7b9de232304ac6-45166-oooz0000.jpeg",
+   "id": "c9706e678b13"
   },
   {
-   "title": "Amorim: \"Vogliamo che Rabiot rimanga. Uno dei migliori che ho allenato\"",
-   "link": "https://www.milannews.it/news/amorim-vogliamo-rabiot-rimanga-migliori-allenato-637039",
-   "summary": "Parole al miele di Ruben Amorim all'indirizzo di Adrien Rabiot, anche oggi decisivo e travolgente nella vittoria del Milan contro il Frosinone per 5-1.",
-   "source": "MilanNews",
+   "title": "Kessie in conferenza: \"Contenti del pareggio, ripartiamo da questi ultimi minuti\"",
+   "link": "https://www.fcinternews.it/l-avversario/kessie-conferenza-contenti-pareggio-ripartiamo-ultimi-minuti-1023827",
+   "summary": "Frank Kessie è il calciatore dell'Atalanta che si presenta in sala stampa a fine partita.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T20:00:16+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/97/9765cfabf41abdad85e9a5d4c2ebb3f9-21177-oooz0000.jpeg",
-   "id": "1b1b354820bf"
+   "scope": "Inter",
+   "published": "2026-11-22T22:57:39+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/67/67afc98897ca293761d1c45bcfd09ea0-74919-414o314o1113o1013z0b26.jpeg",
+   "id": "348a24c1b0b9"
   },
   {
-   "title": "Masini: \"Chi ti capitava, ti capitava male stasera. Al Milan tutti campioni\"",
-   "link": "https://www.milannews.it/news/masini-chi-capitava-capitava-stasera-milan-campioni-637045",
-   "summary": "Patrizio Masini, centrocampista del Frosinone, è presente in conferenza stampa al termine di Milan-Frosinone, sfida valida per la dodicesima giornata di Serie A.",
-   "source": "MilanNews",
+   "title": "Atalanta, De Ketelaere: \"Bello rimontare l'Inter così, punto importante\"",
+   "link": "https://www.fcinternews.it/l-avversario/atalanta-de-ketelaere-bello-rimontare-inter-cosi-punto-importante-1023825",
+   "summary": "Premiato come 'Player of The Match' di Atalanta-Inter 4-4, Charles De Ketelaere parla così a DAZN della gara in cui ha messo a referto una doppietta: \"E' un punto importante.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:57:20+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/71/71b9c902d56caf86c75699bdf28c8444-10915-oooz0000.jpeg",
-   "id": "ed0b77b7474b"
+   "scope": "Inter",
+   "published": "2026-11-22T22:55:08+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d1/d17eadcfed0d405c0d068f2edf359ee3-95673-553o108o1360o915z0b78.jpeg",
+   "id": "cc81908e8622"
   },
   {
-   "title": "Cisse: \"La mia percentuale non è cresciuta. Scudetto? Il Milan deve vincere ogni torneo\"",
-   "link": "https://www.milannews.it/news/cisse-la-percentuale-cresciuta-scudetto-milan-vincere-torneo-637040",
-   "summary": "Alphadjo Cisse, attaccante del Milan, è presente in conferenza stampa al termine di Milan-Frosinone, sfida valida per la dodicesima giornata di Serie A.",
-   "source": "MilanNews",
+   "title": "Atalanta, Elmas a DAZN: \"Dovevamo fare di più per questa bellissima tifoseria\"",
+   "link": "https://www.fcinternews.it/l-avversario/elmas-i-dazn-i-dovevamo-bellissima-tifoseria-1023824",
+   "summary": "Elmas, centrocampista macedone dell'Atalanta, ha parlato così a DAZN al 90esimo: \"Oggi abbiamo messo più carattere e mentalità di squadra.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:51:28+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d3/d349616de91321288ee262f69c98ddd9-23418-oooz0000.jpeg",
-   "id": "b3350369a42b"
+   "scope": "Inter",
+   "published": "2026-11-22T22:54:28+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/05/05f10c5d1f553c2bfd4f9db2806fee69-45874-228o36o1096o903z08d7.jpeg",
+   "id": "a8680815db95"
   },
   {
-   "title": "Amorim: \"Non mi piace 'Amorim ball'! Sono preoccupato, anche se oggi ho visto passi avanti\"",
-   "link": "https://www.milannews.it/news/conferenza-amorim-milan-frosinone-live-diretta-parole-636972",
-   "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Frosinone, sfida valida per la dodicesima giornata di Serie A.",
-   "source": "MilanNews",
+   "title": "Pavard a ITV: \"Siamo arrabbiati e delusi, sul 4-2 sembravamo in controllo\"",
+   "link": "https://www.fcinternews.it/news/pavard-i-itv-i-siamo-arrabbiati-delusi-4-2-sembravamo-controllo-1023823",
+   "summary": "Ai microfoni di Inter TV, il difensore francese dell’Inter Benjamin Pavard commenta così il 4-4 contro l’Atalanta: “Il rammarico è tanto perché la squadra ha segnato quattro gol, siamo arrabbiati e delusi perch& ...",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:50:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3b/3ba1df6f48c0b554150c018410d886dd-27611-oooz0000.jpeg",
-   "id": "8bfd8d94e0f4"
+   "scope": "Inter",
+   "published": "2026-11-22T22:53:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1f/1f81488a6c7ec3229baf6ffa8cf806a9-55888-713o58o1521o867z0c57.jpeg",
+   "id": "5f0aefba4602"
   },
   {
-   "title": "Cardinale: \"Ogni volta che andremo sul mercato, lo faremo per vincere. Questo è il tema\"",
-   "link": "https://www.milannews.it/news/cardinale-ogni-andremo-mercato-vincere-tema-637030",
-   "summary": "Al termine di Milan-Frosinone 5-1, nella zona mista di San Siro si è presentato il proprietario rossonero Gerry Cardinale che ha condiviso le sue sensazioni dopo una bellissima prestazione della squadra.",
-   "source": "MilanNews",
+   "title": "Atalanta-Inter, la moviola: Maresca valuta bene gli episodi nelle due aree di rigore",
+   "link": "https://www.fcinternews.it/moviola/atalanta-inter-moviola-maresca-valuta-episodi-aree-rigore-1023792",
+   "summary": "La domenica calcistica del 22 novembre si chiude con il posticipo della New Balance Arena di Bergamo tra Atalanta e Inter, penultima sfida di questa 12ª giornata di Serie A.",
+   "source": "FcInterNews",
    "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:48:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/c3/c3e8f63ce9b46401e389632e6634aa8a-52073-oooz0000.jpeg",
-   "id": "7a63117f26f1",
-   "age_minutes": 156,
+   "scope": "Inter",
+   "published": "2026-11-22T22:50:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/94/94770ff114a2513259110a04e83efb4e-71528-349o168o1385o1204z0c22.jpeg",
+   "id": "7357ddf21981"
+  },
+  {
+   "title": "Chivu in conferenza: \"Calhanoglu ha chiesto il cambio, qualcosa ha sentito\"",
+   "link": "https://www.fcinternews.it/in-primo-piano/chivu-conferenza-calhanoglu-chiesto-cambio-sentito-1023821",
+   "summary": "Cristian Chivu si presenta così in conferenza alla New Balance Arena dopo il pareggio contro l'Atalanta: \"Oggi siamo andati tre volte in doppio vantaggio e non abbiamo saputo gestirlo, un po' per leggerezza un po' perchè ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:48:24+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ae/ae03610f60d8358d92cb644a09fdb7bb-80333-560o330o1244o1013z0c4b.jpeg",
+   "id": "c628c06d62fb"
+  },
+  {
+   "title": "Esposito a ITV: \"L'abbiamo buttata via e questo non deve succedere\"",
+   "link": "https://www.fcinternews.it/focus/esposito-i-itv-i-l-buttata-via-succedere-1023822",
+   "summary": "Francesco Pio Esposito, autore di una tripletta a Bergamo che purtroppo non ha portato i tre punti all’Inter, commenta a Inter TV il match pareggiato per 4-4 contro l’Atalanta: “C’è il rammarico di averla buttata via, s ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:47:45+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/72/725c03ff4d3c7fda5bbe517f95d0150d-92420-oooz0000.jpeg",
+   "id": "3658fde20739"
+  },
+  {
+   "title": "Pavard a DAZN: \"Deluso e arrabbiato per i 4 gol concessi. Ora rialziamo la testa\"",
+   "link": "https://www.fcinternews.it/focus/pavard-i-dazn-i-deluso-arrabbiato-4-gol-concessi-rialziamo-testa-1023820",
+   "summary": "Dopo Cristian Chivu, è Benjamin Pavard a presentarsi ai microfoni di DAZN per analizzare il 4-4 maturato sul campo dell'Atalanta, partendo dai numeri difensivi da horror dell'Inter in questa prima parte di stagione: \"In quanto dif ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:42:25+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b4/b41016cc768210cb527a8f8d2baaa00b-07093-770o96o1697o1023z0e02.jpeg",
+   "id": "1938c988ece8"
+  },
+  {
+   "title": "Sarri in conferenza: \"Un punto preso contro una delle squadre più forti d'Europa\"",
+   "link": "https://www.fcinternews.it/l-avversario/sarri-conferenza-un-punto-preso-squadre-forti-europa-1023819",
+   "summary": "Maurizio Sarri in conferenza analizza così il punto preso contro l'Inter: \"Un punto preso contro una delle squadre più forti dì'Europa dopo essere andati sotto due volte.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:35:33+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b2c8508b9ecb4dfb5dd27dcd5d91ea6c-07216-oooz0000.jpeg",
+   "id": "3dff0cf1ca57"
+  },
+  {
+   "title": "Chivu a ITV: \"Rammarico grandissimo, tre volte in doppio vantaggio...\"",
+   "link": "https://www.fcinternews.it/news/chivu-i-itv-i-rammarico-grandissimo-vantaggio-1023818",
+   "summary": "Grande delusione nelle parole di Cristian Chivu a Inter TV dopo il pareggio per 4-4 contro l’Atalanta: “Il rammarico è grandissimo, siamo andati tre volte in doppio vantaggio pensando che tutto sarebbe finito nella maniera pi&ugrav ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:35:05+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fb/fbd24fe5629e58bc452109d6ed965888-59095-585o80o1295o790z0abe.jpeg",
+   "id": "cbd9ec3ea963"
+  },
+  {
+   "title": "Atalanta, Kessie a DAZN: \"Per me un piccolo derby, meno male ho segnato alla fine\"",
+   "link": "https://www.fcinternews.it/l-avversario/kessie-i-dazn-i-per-piccolo-derby-segnato-fine-1023817",
+   "summary": "Franck Kessie, centrocampista dell'Atalanta, ha parlato a DAZN nel post-partita: \"Dopo l'inizio difficile per i tifosi, noi cercavamo questa risposta e l'abbiamo data.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:32:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/96/96cad325d633e8bb2b594e69a4e232f1-18280-oooz0000.jpeg",
+   "id": "9aeb3751805c"
+  },
+  {
+   "title": "Chivu a DAZN: \"Fallito l'esame di maturità, due punti regalati. Siamo stati leggeri\"",
+   "link": "https://www.fcinternews.it/in-primo-piano/chivu-dazn-fallito-esame-maturita-punti-regalati-leggeri-1023816",
+   "summary": "No, non si è rivista l'Inter della vittoria conquistata a spese del Como prima della sosta, a Bergamo, dove è arrivato un 4-4 pazzo subito in rimonta contro l'Atalanta.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:30:32+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/36/36531afc895de53d92afd53b98b3f8c9-89533-oooz0000.jpeg",
+   "id": "0943d22ecf71"
+  },
+  {
+   "title": "Atalanta-Inter, Esposito detta legge: il dato storico impressionante",
+   "link": "https://www.fcinternews.it/stats/atalanta-inter-esposito-detta-legge-dato-storico-impressionante-1023815",
+   "summary": "In una serata che provocherà sogni amarissimi all'Inter vi è un unico elemento che può far tirare un forzatissimo sospiro di sollievo: Pio Esposito.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:30:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8a/8a2e3b42f5175cc563dba6c274b761ec-57083-672o0o2220o1548z1158.jpeg",
+   "id": "8fffcf686a2f"
+  },
+  {
+   "title": "Sarri a DAZN: \"Fragilità difensiva un difetto. De Ketelaere ha un potenziale straordinario\"",
+   "link": "https://www.fcinternews.it/l-avversario/sarri-i-dazn-i-fragilita-difensiva-difetto-de-ketelaere-potenziale-straordinario-1023814",
+   "summary": "Maurizio Sarri, tecnico dell'Atalanta, ha parlato a DAZN nel post-partita dopo l'incredibile 4-4 contro l'Inter: \"Uno dei pregi della squadra è quello caratteriale, e poi anche la pericolosità offensiva che nelle ultime ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:20:55+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7c/7c04296860d8462ae493017ae463c403-52324-528o0o1716o1187z0d67.jpeg",
+   "id": "96e16f7b6114"
+  },
+  {
+   "title": "Atalanta-Inter, chi è stato il migliore? Cliccate e votate",
+   "link": "https://www.fcinternews.it/il-pallone-d-oro-nerazzurro/atalanta-inter-migliore-cliccate-votate-1023583",
+   "summary": "L'Inter viene raggiunta nel finale a Bergamo dall'Atalanta in un incredibile 4-4. Ai lettori di FcInterNews.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T22:01:16+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e7/e7d8037fcd4b633b3733b12a7f052888-78733-oooz0000.jpeg",
+   "id": "0d14ae0d75e1"
+  },
+  {
+   "title": "Atalanta-Inter, le pagelle - Pio, che serata. I cambi stavolta danneggiano",
+   "link": "https://www.fcinternews.it/pagelle/atalanta-inter-pagelle-pio-serata-cambi-stavolta-danneggiano-1023582",
+   "summary": "J. MARTINEZ 6 - Subisce quattro gol ma è comunque importante, perché tiene in vita l'Inter fino al rigore trasformato da Kessie.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T21:52:36+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/88/8866e41663c122ec55e18c53f25daacb-31681-oooz0000.jpeg",
+   "id": "7b9a6d7ac790"
+  },
+  {
+   "title": "Capogiro Inter a Bergamo: l'Atalanta rimonta 3 volte e strappa il 4-4",
+   "link": "https://www.fcinternews.it/in-primo-piano/capogiro-inter-bergamo-atalanta-rimonta-3-strappa-4-4-1023773",
+   "summary": "È successo praticamente di tutto, e questa volta la rimonta all'Inter è andata di traverso.",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T21:47:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8f/8ff26628a5a60455fa8012a3b7c198c3-72781-oooz0000.jpeg",
+   "id": "4624a4b49976"
+  },
+  {
+   "title": "Atalanta-Inter, Fischio Finale - Chivu non riparte da dove aveva finito: pazzo 4-4 a Bergamo",
+   "link": "https://www.fcinternews.it/focus/atalanta-inter-fischio-finale-chivu-riparte-finito-pazzo-4-4-bergamo-1023813",
+   "summary": "\"Ripartire da dove avevamo finito\": questo l'auspicio espresso da Cristian Chivu prima di Atalanta-Inter, augurandosi una versione della sua squadra il più possibile simile a quella migliore della stagione vista contro il Como pr ...",
+   "source": "FcInterNews",
+   "source_weight": 0.8,
+   "scope": "Inter",
+   "published": "2026-11-22T21:41:00+00:00",
+   "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/32/32a90e5cc85e1743e9a579883b26791f-36136-oooz0000.jpeg",
+   "id": "22e2b659ae72"
+  },
+  {
+   "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 22 novembre",
+   "link": "https://www.tuttomercatoweb.com/serie-a/calciomercato-stop-indiscrezioni-trattative-retroscena-22-novembre-2296559",
+   "summary": "INTER, CARNESECCHI IDEA CONCRETA PER IL FUTURO.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-23T01:00:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ed/edc902fcd85f7e00af396c4ba5e1d2c3-37140-oooz0000.jpeg",
+   "id": "47fbfc1f45d2",
+   "age_minutes": 119,
    "also": [],
-   "score": 6.392
+   "score": 9.316
   },
   {
-   "title": "Cisse a DAZN: \"Non sono neanche alla metà del mio potenziale. Sempre una grande emozione segnare\"",
-   "link": "https://www.milannews.it/news/cisse-dazn-non-neanche-meta-potenziale-emozione-segnare-637037",
-   "summary": "Nel post partita di Milan-Frosinone Alphadjo Cisse ha parlato ai microfoni di DAZN per commentare gol e vittoria contro la formazione ciociara. Di seguito le sue dichiarazioni.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:45:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/3e/3ebf811b0ed664a83377459fc5731a0c-64645-oooz0000.jpeg",
-   "id": "cee7781e0f13"
+   "title": "Pasquale Marino: \"Lazio prima con merito, Roma può sorridere. Udinese, Zanetti ha le idee chiare\"",
+   "link": "https://www.tuttomercatoweb.com/a-tu-per-tu/pasquale-marino-lazio-merito-roma-sorridere-udinese-zanetti-idee-chiare-2296558",
+   "summary": "“La Lazio è prima con grande merito, è la sorpresa di questo campionato e con tutte le problematiche che ha avuto è un grande risultato”.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-23T00:00:17+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/80/8076752d8bb8139c834ee37d905f7c9c-58586-oooz0000.jpeg",
+   "id": "a23b362bbe76"
   },
   {
-   "title": "Alvini: \"Se concedi certe occasioni al Milan, con giocatori così forti e con la qualità di questa squadra, rischi poi di perdere\"",
-   "link": "https://www.milannews.it/news/conferenza-alvini-milan-frosinone-breve-diretta-parole-live-636973",
-   "summary": "Massimiliano Alvini, allenatore del Frosinone, è presente in conferenza stampa al termine di Milan-Frosinone, sfida valida per la dodicesima giornata di Serie A.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:41:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cf/cf840039ea037acffbe87e74991e5cc7-84402-oooz0000.jpeg",
-   "id": "0324b08d62bc"
+   "title": "Serie A, classifica aggiornata: in vetta stecca solo l'Inter, dominano le romane",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-classifica-aggiornata-vetta-stecca-inter-dominano-romane-2296546",
+   "summary": "Lo scoppiettante 4-4 fra Atalanta e Inter nel match della domenica sera della 12esima giornata vede la frenata della squadra di Cristian Chivu, mentre tutte le altre squadre di vetta trovano la vittoria.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:56:32+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/36/36936d8ac56e9fb68967933d81531d0f-24207-oooz0000.jpeg",
+   "id": "dac686ac1060"
   },
   {
-   "title": "Alvini a DAZN: \"La sconfitta è pesante, anche troppo larga. Ecco perché sono arrabbiato...\"",
-   "link": "https://www.milannews.it/l-avversario/alvini-dazn-la-sconfitta-pesante-larga-arrabbiato-637034",
-   "summary": "Nel post partita di Milan-Frosinone Massimiliano Alvini ha commentato la larga sconfitta della sua squadra contro la formazione di Ruben Amorim. Di seguito le sue dichiarazioni.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:36:32+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/cf/cf840039ea037acffbe87e74991e5cc7-84402-oooz0000.jpeg",
-   "id": "4b9c578330b6"
+   "title": "Atalanta \"In crescita\", l'Inter \"Regala due punti\": notte pazza, Chivu e Sarri la spiegano bene",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/atalanta-in-crescita-inter-regala-punti-notte-pazzi-chivu-sarri-spiegano-2296548",
+   "summary": "Una partita destinata a restare impressa nella memoria di questa Serie A.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:53:03+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/f2/f23e3f76464e79b918c98ad5db04f0c3-00478-oooz0000.jpeg",
+   "id": "28256690cdf7"
   },
   {
-   "title": "Cisse a Sky: \"Vorrei aggiungere più assist. Devo ringraziare soprattutto Gabbia\"",
-   "link": "https://www.milannews.it/news/cisse-sky-vorrei-aggiungere-assist-ringraziare-gabbia-637033",
-   "summary": "Alphadjo Cisse contro il Frosinone, entrando dalla panchina, ha trovato il suo sesto gol in campionato e il suo nono complessivo in stagione.",
-   "source": "MilanNews",
-   "source_weight": 0.8,
-   "scope": "Milan",
-   "published": "2026-11-22T19:35:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/57/57c28aea2f17548c8780ebf7235b726e-17111-oooz0000.jpeg",
-   "id": "2a7a1c17fead"
+   "title": "Il Frosinone ha coraggio, il Milan pazienza e qualità: a San Siro non c'è storia, finisce 5-1",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/frosinone-coraggio-milan-pazienza-qualita-san-siro-storia-finisce-5-1-2296526",
+   "summary": "Il 5-1 al Frosinone è una vittoria larga, ma soprattutto racconta un Milan maturo.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:49:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/47/47027143b3c440588d91280d819d7a90-82215-oooz0000.jpeg",
+   "id": "f53913db0572"
+  },
+  {
+   "title": "Sassuolo ko con il Genoa, esordio amaro per D'Aversa. De Rossi si gode il \"cane\" Osmajic",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/sassuolo-ko-genoa-esordio-amaro-aversa-de-rossi-gode-cane-osmajic-2296400",
+   "summary": "Niente da fare per il Sassuolo, neanche il cambio di guida tecnica per il momento ha risollevato la squadra.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:45:26+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/2c/2c96fc271d0bdca894e98c7c0cb9a3f6-59410-325o1421o1433o2530z164d.jpeg",
+   "id": "3297b04d3ec4"
+  },
+  {
+   "title": "Il Bologna si inceppa in casa: merito di un'Udinese umile al tempo stesso guerriera",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/bologna-inceppa-casa-merito-udinese-umile-guerriera-2296508",
+   "summary": "Un punto a testa per Bologna e Udinese, in uno dei due match di Serie A in programma domenica alle 15.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:42:51+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/cb/cbb48091ea7afd9317a86bf7dd266cca-73545-oooz0000.jpeg",
+   "id": "68ce11c14698"
+  },
+  {
+   "title": "La Juventus trasforma i fischi in applausi: poker nella ripresa e 4-0 al Venezia di Nicola",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/juventus-trasforma-fischi-applausi-poker-ripresa-4-0-venezia-nicola-2296334",
+   "summary": "La Juventus riprende il campionato con una vittoria.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:38:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/3e/3e88416db07ed894905a5f451001fb66-15343-oooz0000.jpeg",
+   "id": "a770459c33f1"
+  },
+  {
+   "title": "Desenzano e Foggia, poli opposti ma solo geograficamente. I tecnici non svoltano, e ora?",
+   "link": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/desenzano-foggi-poli-opposti-geograficamente-tecnici-svoltano-ora-2296501",
+   "summary": "Sta andando verso la sua conclusione la 15ª giornata del campionato di Serie C, che nella serata di oggi, lunedì 23 novembre, manderà in archivio gli ultimi due confronti del turno (CLICCA QUI per il punto sulla giornata).",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:34:36+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/90/90485b31854d2934eba77afb5dbb7086-27319-oooz0000.jpeg",
+   "id": "fdb48044eb59"
+  },
+  {
+   "title": "Genoa, De Rossi: \"Poveri tifosi, oggi 5.000 bronchiti! Bello averli resi felici\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/genoa-de-rossi-poveri-tifosi-5-000-bronchiti-bello-averli-resi-felici-2296431",
+   "summary": "Intervenuto in conferenza stampa, il tecnico del Genoa Daniele De Rossi ha commentato così il match vinto oggi sul campo del Sassuolo-Genoa: \"Abbiamo espresso il massimo delle qualità che avevamo, in fase difensiva 100% - ha esordito -, in fase offensiva...",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:30:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/80/8002af9dc314feb0e8432f68b2f8b960-22091-oooz0000.jpeg",
+   "id": "a757c073b822"
+  },
+  {
+   "title": "Simeone si toglie i sassolini dopo il record: \"Non si vincono 345 partite difendendo\"",
+   "link": "https://www.tuttomercatoweb.com/calcio-estero/simeone-record-toglie-sassolini-en-historia-liga-no-vincono-345-partite-difendendo-2296533",
+   "summary": "Diego Pablo Simeone si gode una giornata speciale.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:26:53+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/51/51e0aaa14f68c1c3b9f789ae6501c9ce-33429-oooz0000.jpeg",
+   "id": "075ba5d791f3"
+  },
+  {
+   "title": "Milan, Amorim: \"Rabiot è straordinario, spero arrivi presto il suo rinnovo\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/milan-amorim-rabiot-straordinario-spero-arrivi-presto-rinnovo-2296521",
+   "summary": "Ruben Amorim, tecnico del Milan, ha parlato in conferenza stampa al termine di Milan-Frosinone 5-1: \"Rabiot? Ho guardato la partita della Francia e penso che sia uno dei migliori giocatori della squadra.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:23:01+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a0/a099848127c2eda0c2a47fffd56a3cb5-45152-oooz0000.jpeg",
+   "id": "2ff1d30dcc49",
+   "age_minutes": 216,
+   "also": [
+    {
+     "source": "MilanNews",
+     "link": "https://www.milannews.it/news/amorim-espone-spero-arrivi-presto-rinnovo-rabiot-637047"
+    }
+   ],
+   "score": 7.476
+  },
+  {
+   "title": "Atalanta, Elmas: \"Abbiamo messo carattere e mentalità, dobbiamo fare il massimo\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/atalanta-elmas-abbiamo-messo-carattere-mentalita-dobbiamo-massimo-2296554",
+   "summary": "Un gol nel primo tempo per Eljif Elmas nel 4-4 dell'Atalanta contro l'Inter, il centrocampista ha parlato così ai microfoni di DAZN dopo la partita: \"Oggi abbiamo messo più carattere e mentalità di squadra, ci siamo messi in gioco tutti insieme per fare...",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:21:10+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/37/3749d94e39281f1d36e61ece49963694-86288-oooz0000.jpeg",
+   "id": "a5d0228ed8bf"
+  },
+  {
+   "title": "Guerrero esalta la sua Juve: \"Le ragazze hanno alzato il livello. Siamo una squadra completa\"",
+   "link": "https://www.tuttomercatoweb.com/calcio-femminile/guerrero-esalta-juve-le-ragazze-alzato-livello-squadra-completa-2296550",
+   "summary": "\"La partita conferma quello che pensiamo del campionato italiano: tutte le squadre si mettono in gioco, con le loro armi, e noi abbiamo trovato una squadra che pressa molto forte, e rende difficile trovare continuità\": così, ai canali ufficiali del club,...",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:19:02+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/32/3228746ba81034df2de144739a1cd688-59615-oooz0000.jpeg",
+   "id": "5d46dbaff866"
+  },
+  {
+   "title": "Behrami contro Conte: \"Perché insiste pubblicamente a far sapere che vuole tornare?\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/behrami-attacca-conte-perche-insiste-pubblicamente-far-sapere-vuole-tornare-2296535",
+   "summary": "Le recenti dichiarazioni di Antonio Conte sugli allenatori aziendalisti e sugli “yes-men” continuano a far discutere.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:15:22+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/40/40fd5f45e011d67330e02fc19cfca1a5-32303-oooz0000.jpeg",
+   "id": "348a64107037"
+  },
+  {
+   "title": "Real Madrid, Mourinho omaggia Nadal: \"Un onore averlo nella nostra dirigenza\"",
+   "link": "https://www.tuttomercatoweb.com/calcio-estero/real-madrid-mourinho-omaggia-nadal-un-onore-dirigenza-2296519",
+   "summary": "Il Real Madrid non si ferma più.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:12:48+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e4/e418350b00d1d110939e377866933c2b-36928-oooz0000.jpeg",
+   "id": "9af2cace9c15"
+  },
+  {
+   "title": "Atalanta, Kessié: \"Ripartiamo da questo pareggio. Sarri? Crediamo in lui\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/atalanta-kessie-dichiarazioni-ultime-notizie-inter-sarri-2296259",
+   "summary": "23:10 - Franck Kessié, giocatore dell’Atalanta, ha commentato così in conferenza stampa il match contro l'Inter nel post gara.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:10:00+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/08/086388552024675348818d0f740ac486-38284-oooz0000.jpeg",
+   "id": "d0472865c751"
+  },
+  {
+   "title": "Milan, Cissé: \"Non ho fissato un numero di gol da segnare, penso solo a giocare bene\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/milan-cisse-non-fissato-numero-gol-segnare-penso-giocare-bene-2296525",
+   "summary": "Intervenuto in conferenza stampa, l'attaccante del Milan Alphadjo Cisse, attaccante del Milan, è intervenuto in conferenza stampa dopo la netta vittoria contro il Frosinone, in cui è arrivato anche un suo gol: \"Veramente la percentuale non si è alzata...",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:08:01+00:00",
+   "image": "",
+   "id": "772e0b5bfef9"
+  },
+  {
+   "title": "Atalanta, De Ketelaere: \"Un punto importante, ci sono tante cose da migliorare\"",
+   "link": "https://www.tuttomercatoweb.com/serie-a/atalanta-de-ketelaere-un-punto-importante-tante-cose-migliorare-2296553",
+   "summary": "Intervistato da DAZN ha parlato così Charles De Ketelaere dopo la doppietta che ha regalato il pareggio all'Atalanta contro l'Inter: \"E' un punto importante per il morale, ci sono tante cose da migliorare però un pareggio così contro l'Inter è bello....",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:06:36+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c1/c1b4c3db7f521993785799620374a358-01008-oooz0000.jpeg",
+   "id": "81a9d5fc5ffb"
+  },
+  {
+   "title": "Il Padova pareggia ad Arezzo. Artistico: \"Tanto rammarico, volevamo portare a casa i tre punti\"",
+   "link": "https://www.tuttomercatoweb.com/serie-b/padova-pareggia-arezzo-artistico-tanto-rammarico-volevamo-portare-casa-punti-2296547",
+   "summary": "\"Sono rammaricato per il risultato perché volevamo fare bottino pieno\": queste, le prime parole di Gabriele Artistico, che ha commentato la prestazione odierna del suo Padova, reduce dall'1-1 sul campo dell'Arezzo.",
+   "source": "TuttoMercatoWeb",
+   "source_weight": 1.3,
+   "scope": "generalista",
+   "published": "2026-11-22T23:04:22+00:00",
+   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/ea/eae4a5063a015e57718f8b0abbcda2a2-92864-oooz0000.jpeg",
+   "id": "6c08e6dc95f5"
+  },
+  {
+   "title": "Chivu: ‘Inter failed the exam, too soft and shallow’ in wild 4-4 with Atalanta",
+   "link": "https://football-italia.net/chivu-inter-failed-the-exam-too-soft-shallow/",
+   "summary": "Cristian Chivu warns Inter ‘failed the exam’ in their 4-4 draw with Atalanta, criticising some...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-11-22T22:44:39+00:00",
+   "image": "",
+   "id": "708f44cd2614"
+  },
+  {
+   "title": "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’",
+   "link": "https://football-italia.net/sarri-atalanta-hire-someone-else-man-marking/",
+   "summary": "Maurizio Sarri hails Atalanta’s ‘character’ to fight back from 4-2 down for a 4-4 draw...",
+   "source": "Football Italia",
+   "source_weight": 0.9,
+   "scope": "generalista",
+   "published": "2026-11-22T22:25:40+00:00",
+   "image": "",
+   "id": "e984d730ad4a"
   },
   {
    "title": "Serie A | Atalanta 4-4 Inter: Incredible comeback, Pio hat-trick not enough",
@@ -1510,476 +2043,11 @@
    "published": "2026-11-22T15:52:26+00:00",
    "image": "",
    "id": "90eda3bd138e"
-  },
-  {
-   "title": "Spalletti: ‘Juventus had team idea, Kolo Muani doesn’t enjoy role’",
-   "link": "https://football-italia.net/spalletti-juventus-kolo-muani-doesnt-enjoy/",
-   "summary": "Luciano Spalletti explains what changed for Juventus at half-time to crush Venezia 4-0, admitting Randal...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-11-22T14:07:18+00:00",
-   "image": "",
-   "id": "61918e97e32e"
-  },
-  {
-   "title": "Woltemade: ‘I don’t want to act like a good guy’ after giving penalty to Kolo Muani",
-   "link": "https://football-italia.net/woltemade-not-want-act-good-guy-penalty/",
-   "summary": "Nick Woltemade explains why he let his teammate Randal Kolo Muani take a penalty kick...",
-   "source": "Football Italia",
-   "source_weight": 0.9,
-   "scope": "generalista",
-   "published": "2026-11-22T14:05:05+00:00",
-   "image": "",
-   "id": "670d0ef76bd4"
-  },
-  {
-   "title": "Juventus Women, Sarriegi protagonista del 5-1 alla Lazio: \"Sono molto emozionata. Felice per la squadra e per me, era una partita difficile\"",
-   "link": "https://www.tuttojuve.com/juventus-femminile/juventus-women-sarriegi-protagonista-5-1-lazio-sono-emozionata-felice-squadra-me-partita-difficile-801580",
-   "summary": "Una tripletta per trascinare la Juventus Women alla vittoria e arrivare alla pausa con entusiasmo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T22:15:12+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8a/8af9f1d27f9b5239b75467600eb3f4fb-88966-oooz0000.jpeg",
-   "id": "5214ef9b9676"
-  },
-  {
-   "title": "La Juventus cala il poker sul piatto del Venezia ma Spalletti ringhia..,",
-   "link": "https://www.tuttojuve.com/firme-bianconere/juventus-cala-poker-piatto-venezia-spalletti-ringhia-801551",
-   "summary": "La solita Juvents che gioca solo un tempo. Spalletti lascia WOLTEMADE in panchina per mettere Kolo Muani centravanti ma nel primo tempo sbatte sul muro del Venezia che ha l'occasione più clamorosa in avvio di partita.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T22:11:49+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/c5/c5f36ffaf12e10fadd56c45d16f54baa-96552-oooz0000.jpeg",
-   "id": "218d1a3300c5"
-  },
-  {
-   "title": "Juventus, mercato di gennaio: torna di moda Sorloth, ma c'è un nome che intriga i bianconeri",
-   "link": "https://www.tuttojuve.com/calciomercato/juventus-mercato-gennaio-torna-moda-sorloth-intriga-bianconeri-801577",
-   "summary": "Un centravanti fisico, capace di giocare spalle alla porta e vincere i duelli con i difensori avversari. È questo il profilo richiesto da Luciano Spalletti alla Juventus in vista del mercato di gennaio.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T22:00:27+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/09/090994dddd8dd0d1d74c6d8b3295fe52-90111-oooz0000.jpeg",
-   "id": "95816743848a",
-   "age_minutes": 23,
-   "also": [],
-   "score": 7.065
-  },
-  {
-   "title": "Premier: esordio amaro per Pochettino, lo United in 10 crolla a Liverpool",
-   "link": "https://www.tuttojuve.com/altre-notizie/premier-esordio-amaro-pochettino-united-10-crolla-liverpool-801579",
-   "summary": "(ANSA) - ROMA, 22 NOV - Comincia in salita l'avventura di Mauricio Pochettino sulla panchina del Manchester United, sconfitto 4-0 dal Liverpool.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:55:42+00:00",
-   "image": "",
-   "id": "9233778007dd"
-  },
-  {
-   "title": "Inter, che beffa a Bergamo! Avanti 3-1 e 4-2, si fa rimontare dall'Atalanta: finisce 4-4. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/inter-beffa-bergamo-3-1-4-2-rimontare-atalanta-finisce-4-4-classifica-aggiornata-801578",
-   "summary": "Otto gol, due doppi vantaggi sprecati dall'Inter e una rimonta completata dall'Atalanta su calcio di rigore.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:45:13+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/7f/7f472e327a5685e36bb0fed58912de86-26754-oooz0000.jpeg",
-   "id": "796876075216"
-  },
-  {
-   "title": "Serie A, Cardinale: \"Milan fantastico, sono orgoglioso della squadra\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/serie-a-cardinale-milan-fantastico-orgoglioso-squadra-801576",
-   "summary": "\"Non sono mai soddisfatto, ma i risultati parlano da soli. I ragazzi sono stati fantastici stasera.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:36:01+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6b/6b940d3264ea9b2d4a7188d11058b9fa-17586-oooz0000.jpeg",
-   "id": "3344ef22742c"
-  },
-  {
-   "title": "Inter, allarme Calhanoglu: problema muscolare durante la sfida con l'Atalanta",
-   "link": "https://www.tuttojuve.com/altre-notizie/inter-allarme-calhanoglu-problema-muscolare-sfida-atalanta-801575",
-   "summary": "Problema muscolare per Hakan Calhanoglu durante la sfida tra Atalanta e Inter.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:30:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/72/720de40b907c683eb475d05afb7335de-92991-oooz0000.jpeg",
-   "id": "956cb02068eb"
-  },
-  {
-   "title": "Lazio-Juventus Women 1-5 - Finisce la partita: tripletta Sarriegi, Pavan e Khelifi. Bianconere quarte",
-   "link": "https://www.tuttojuve.com/primo-piano/lazio-juventus-women-breve-formazioni-ufficiali-sfida-801558",
-   "summary": "90 + 5' - FINISCE LA PARTITA. Juve che cala la cinquina con la tripletta di Sarriegi, Pavan e Khelifi.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:29:00+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e4/e431d69ba8a4b381a7848199e37c8f88-82086-oooz0000.jpeg",
-   "id": "2e507c58a3d4"
-  },
-  {
-   "title": "Juventus, Woltemade come ai tempi del Newcastle: le statistiche che premiano il centravanti",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-woltemade-tempi-newcastle-statistiche-premiano-centravanti-801574",
-   "summary": "Un gol per sbloccare la partita, un assist per indirizzarla definitivamente e due statistiche che confermano il suo momento positivo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:15:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/e2/e2034a216779f3edc847cc3851c8463b-38767-oooz0000.jpeg",
-   "id": "79586f4523a2"
-  },
-  {
-   "title": "Juventus, Nerozzi solleva un dubbio tattico: \"Mai avrei tolto Kolo Muani dall'esterno\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-nerozzi-solleva-dubbio-tattico-mai-tolto-kolo-muani-esterno-801570",
-   "summary": "Il 4-0 della Juventus contro il Venezia non cancella tutti i dubbi sulle scelte tattiche di Luciano Spalletti.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T21:00:17+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/19/197f09e00902ac51991e16c1b10dba6e-80803-oooz0000.jpeg",
-   "id": "3e5a29206990"
-  },
-  {
-   "title": "La Juventus non segnava almeno tre gol in un secondo tempo dal 7 marzo",
-   "link": "https://www.tuttojuve.com/altre-notizie/juventus-segnava-almeno-gol-7-marzo-801568",
-   "summary": "Quattro gol nel secondo tempo per trasformare una partita bloccata in una vittoria netta. La Juventus supera il Venezia per 4-0 all'Allianz Stadium, trovando tutte le reti dopo l'intervallo grazie a Woltemade, Koopmeiners, Cabal e Kolo Muani.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T20:45:51+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/22/22607dc1449facd78e90282703828378-03250-oooz0000.jpeg",
-   "id": "fb31ddd7332f"
-  },
-  {
-   "title": "Amorim: \"Belle sensazioni ma in questo club testa sempre alla prossima\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/calcio-amorim-belle-sensazioni-club-testa-prossima-801567",
-   "summary": "(ANSA) - MILANO, 22 NOV - \"Belle sensazioni, ma non è solo il risultato: anche il discorso di continuità nel corso dei 90 minuti della partita, ma ora la testa alla prossima.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T20:44:07+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/a0/a0fbd96ef9b150d9ca85d3b626667957-88005-oooz0000.jpeg",
-   "id": "2a6ab16209fd"
-  },
-  {
-   "title": "Pistocchi: \"Dopo la replica a Conte di Spalletti, la Juve ha risposto sul campo\"",
-   "link": "https://www.tuttojuve.com/altre-notizie/pistocchi-dopo-replica-conte-spalletti-juve-risposto-campo-801566",
-   "summary": "Dal botta e risposta tra Luciano Spalletti e Antonio Conte alla risposta della Juventus sul campo.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T20:30:23+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f9/f9757e346f66318c019f7f26f408bcff-65249-oooz0000.jpeg",
-   "id": "395b23c0308b"
-  },
-  {
-   "title": "Cabal: “Grande vittoria, diamo tutto per questo club”",
-   "link": "https://www.tuttojuve.com/altre-notizie/cabal-gran-triunfo-dejamos-todo-por-este-club-801563",
-   "summary": "La Juventus ha battuto il Venezia per 4-0. Il punteggio a favore dei bianconeri è molto rotondo, ma nel primo tempo la squadra di Spalletti non ha offerto una prestazione particolarmente brillante.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T20:15:26+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8c/8c81c625e1282423c7e7f04a229764fe-70252-445o409o1409o1373z0e34.jpeg",
-   "id": "3079cf9744c0"
-  },
-  {
-   "title": "Juventus, poker contro il Venezia ma Oreggia punge Spalletti: “Spallettate al contrario”",
-   "link": "https://www.tuttojuve.com/altre-notizie/oreggia-perche-cambiare-schieramento-offensivo-poche-cose-funziona-tornarci-fretta-furia-spallettate-801562",
-   "summary": "La Juventus ha battuto il Venezia per 4-0. Nel primo tempo, però, i bianconeri non hanno giocato bene e, soprattutto, Spalletti aveva deciso di lasciare in panchina Woltemade.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T20:00:48+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/8e/8e0b98a35551df8595ecf01ee259edb9-42889-oooz0000.jpeg",
-   "id": "44bf4035d478"
-  },
-  {
-   "title": "Vicario dedica la vittoria ai tifosi bianconeri: “Ci voleva. Per noi, per voi”",
-   "link": "https://www.tuttojuve.com/altre-notizie/vicario-dedica-vittoria-tifosi-bianconeri-ci-voleva-noi-voi-801557",
-   "summary": "La Juventus è ripartita bene dopo la pausa e i bianconeri hanno battuto per 4-0 il Venezia.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T19:45:33+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/f8/f80d82d084c1ab88e8b90b608d4a959b-50478-674o1047o1697o2071z1571.jpeg",
-   "id": "5074cbf0084b"
-  },
-  {
-   "title": "ATP Finals, Yildiz e Locatelli hanno assistito alla vittoria di Alcaraz. C’era anche Del Piero",
-   "link": "https://www.tuttojuve.com/altre-notizie/atp-finals-yildiz-locatelli-presenti-finale-zverev-alcaraz-c-e-piero-801565",
-   "summary": "Dopo la partita tra la Juventus e il Venezia a Torino è cominciata la finale delle ATP Finals. Ad assistere alla sfida tra Alexander Zverev e Carlos Alcaraz c'erano anche Kenan Yildiz e Manuel Locatelli.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T19:30:38+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/da/da8bd2ac34022ed1821add22463d004a-97252-oooz0000.jpeg",
-   "id": "5cf13ef708f7"
-  },
-  {
-   "title": "Atalanta-Inter, le formazioni ufficiali: Sarri e Chivu a caccia di continuità",
-   "link": "https://www.tuttojuve.com/altre-notizie/atalanta-inter-formazioni-ufficiali-801561",
-   "summary": "Alle 20:45 ci sarà la sfida tra Atalanta e Inter, valida per la 12ª giornata di Serie A, un big match che mette di fronte due squadre ambiziose, entrambe determinate a confermare il proprio buon momento di forma davanti al pubblico di Ber ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T19:15:21+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/6f/6ff5486ee8e8da5c64842f6555991013-76223-oooz0000.jpeg",
-   "id": "89bac381c8f8"
-  },
-  {
-   "title": "Milan-Frosinone 5-1: rossoneri show, cinque gol e vittoria in scioltezza. La classifica aggiornata",
-   "link": "https://www.tuttojuve.com/altre-notizie/milan-frosinone-801559",
-   "summary": "Si è appena conclusa la sfida di Serie A tra il Milan e il Frosinone con il punteggio di 5-1, un successo netto che permette ai rossoneri di fare il pieno di punti e di fiducia, al termine di una gara che la squadra di Amorim ha saputo indiriz ...",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T19:00:44+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/39/39a903100a82a8787329f71fa6f436f3-73270-oooz0000.jpeg",
-   "id": "3840e564c2a2"
-  },
-  {
-   "title": "Lazio-Juventus Women, formazioni ufficiali: le scelte di Guerrero e Grassadonia",
-   "link": "https://www.tuttojuve.com/altre-notizie/lazio-juventus-women-formazioni-ufficiali-801560",
-   "summary": "La Juventus Women tornerà in campo dopo la vittoria contro il Leuven in Champions League.",
-   "source": "TuttoJuve",
-   "source_weight": 0.8,
-   "scope": "Juventus",
-   "published": "2026-11-22T18:45:36+00:00",
-   "image": "https://net-storage-auto.tcccdn.com/storage/tuttojuve.com/img_notizie/thumb3/32/3228746ba81034df2de144739a1cd688-59615-oooz0000.jpeg",
-   "id": "3fad31e460fd"
-  },
-  {
-   "title": "De Zerbi si confida: \"Non penso di restare ancora tanti anni nel calcio, nella vita c'è altro\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/de-zerbi-confida-non-penso-restare-tanti-calcio-2296510",
-   "summary": "Roberto De Zerbi ha ritrovato equilibrio al Tottenham dopo un avvio di stagione complicato, ma le sue parole sul futuro hanno attirato l'attenzione.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T22:12:53+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e6/e63078a2d200a3add17f079b7e579e87-76075-oooz0000.jpeg",
-   "id": "d3c24d839edb"
-  },
-  {
-   "title": "Atalanta-Inter, la moviola: bravo Maresca sui rigori. E giusto non espellere Zappacosta",
-   "link": "https://www.tuttomercatoweb.com/serie-a/atalanta-inter-moviola-maresca-rigori-giusto-espellere-zappacosta-2296524",
-   "summary": "Otto gol, due calci di rigore e tante emozioni alla New Balance Arena, dove Atalanta e Inter pareggiano 4-4 al termine di una partita spettacolare.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T22:08:50+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/a7/a78f5b163b60b6e9e0b9cccfbcc0014e-94935-oooz0000.jpeg",
-   "id": "a81da2205298"
-  },
-  {
-   "title": "Tracollo Samb, Mussi precisa: \"Siamo tutti schifati da questa situazione\". D'Alesio è confermato",
-   "link": "https://www.tuttomercatoweb.com/serie-c/tracollo-samb-mussi-precisa-siamo-schifati-situazione-alesio-confermato-2296522",
-   "summary": "Una Sambenedettese inerme quella che nel pomeriggio è scesa in campo al cospetto del Perugia, che si è imposto per 1-4 nella sfida valevole per la 15ª giornata del campionato di Serie C, Girone B (CLICCA QUI per il punto sulla giornata).",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T22:03:24+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/73/73974e4a43091a6db95304a4dcc8ddeb-81500-oooz0000.jpeg",
-   "id": "b5cde4755a24"
-  },
-  {
-   "title": "L’Inter aveva ragione: un anno e mezzo fa il no a 50 milioni per Pio Esposito",
-   "link": "https://www.tuttomercatoweb.com/serie-a/l-inter-ragione-50-pio-esposito-2296503",
-   "summary": "Impossibile non accorgersi della crescita continua, costante, che Francesco Pio Esposito sta avendo sul campo in questa stagione.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T22:00:12+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/10/104bd05c8360c8b25230762665eb2d3d-23720-oooz0000.jpeg",
-   "id": "d092b60cecbc"
-  },
-  {
-   "title": "Atalanta-Inter 4-4, le pagelle: Esposito alla Haaland, Thuram prezioso. Scalvini da incubo",
-   "link": "https://www.tuttomercatoweb.com/serie-a/atalanta-inter-4-4-pagelle-esposito-haaland-thurat-prezioso-scalvini-incubo-2296520",
-   "summary": "Risultato finale: Atalanta-Inter 4-4 LE PAGELLE DELL'ATALANTA (A cura di Nino Sergi) Sportiello 6 - Chiamato a prendere il posto di Carnesecchi all'ultimo secondo dopo il problema nel riscaldamento nel compagno, subisce quattro reti ma non ha grandissime...",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:59:06+00:00",
-   "image": "",
-   "id": "87a746dabe21"
-  },
-  {
-   "title": "Tris sul campo del Getafe, l'Atletico va: la squadra di Simeone si conferma terza forza della Liga",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/tris-campo-getafe-atletico-va-squadra-simeone-conferma-terza-liga-2296518",
-   "summary": "Basta mezzora all'Atletico Madrid per regolare la pratica Getafe.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:56:52+00:00",
-   "image": "",
-   "id": "c03135fbec57"
-  },
-  {
-   "title": "Serie A, classifica aggiornata: l'Inter non tiene il passo, derby romano in vetta",
-   "link": "https://www.tuttomercatoweb.com/serie-a/serie-a-classifica-aggiornata-inter-tiene-roma-torna-ridosso-lazio-2296506",
-   "summary": "L'Inter inciampa.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:53:25+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/1a/1acf7b0087f18dbd37c4dbc226c467eb-74291-oooz0000.jpeg",
-   "id": "184ce441cfec"
-  },
-  {
-   "title": "AlbinoLeffe show, sei gol al Desenzano: un risultato così roboante non si vedeva dal 1998",
-   "link": "https://www.tuttomercatoweb.com/serie-c/albinoleffe-2296495",
-   "summary": "Ci stiamo avvicinando sempre di più alla conclusione della 15ª giornata del campionato di Serie C, che nella serata di domani, lunedì 23 novembre, manderà in archivio gli ultimi due confronti del turno (CLICCA QUI per il punto sulla giornata), ma la domenica...",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:49:24+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/37/37041e50dfb63fc4d3d7727e1332e79e-38454-oooz0000.jpeg",
-   "id": "73f4aa7c3983"
-  },
-  {
-   "title": "Spalletti chiede una prima punta: chi sono gli attaccanti che sta seguendo la Juventus",
-   "link": "https://www.tuttomercatoweb.com/serie-a/spalletti-chiede-punta-attaccanti-seguendo-juventus-2296439",
-   "summary": "La Juventus si muoverà per una prima punta a gennaio.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:45:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/19/195cec59aa20f73d04df9e7e198b39b3-45531-oooz0000.jpeg",
-   "id": "38bbed5a1720"
-  },
-  {
-   "title": "Inter, a breve la conferenza stampa di Chivu post Atalanta",
-   "link": "https://www.tuttomercatoweb.com/serie-a/inter-breve-conferenza-stampa-chivu-post-atalanta-2296267",
-   "summary": "22:45 – Cristian Chivu, allenatore dell'Inter, ha commentato così in conferenza stampa il match contro l'Atalanta nel post gara.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:44:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/d6/d6935f0e8f8f279592601f1fe14cd5a9-04870-oooz0000.jpeg",
-   "id": "585d2f0dc177"
-  },
-  {
-   "title": "Atalanta, a breve la conferenza di mister Sarri post Inter",
-   "link": "https://www.tuttomercatoweb.com/serie-a/atalanta-sarri-inter-dichiarazioni-intervista-conferenza-stampa-2296258",
-   "summary": "22:44 – Maurizio Sarri, allenatore dell’Atalanta, ha commentato così in conferenza stampa il match contro l'Inter nel post gara.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:44:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/e4/e464504146037d508118e0b80967d2be-32272-oooz0000.jpeg",
-   "id": "5172e659fd45"
-  },
-  {
-   "title": "Partita folle a Bergamo: all'Inter non basta la tripletta di Pio, l'Atalanta trova il 4-4 al 91'",
-   "link": "https://www.tuttomercatoweb.com/serie-a/partita-folle-bergamo-inter-tripletta-pio-atalanta-trova-4-4-91-2296515",
-   "summary": "Otto gol, continui ribaltamenti di fronte e un finale da cardiopalma.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:43:00+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/33/33515f052a1644264aa9504aa58630a4-93243-oooz0000.jpeg",
-   "id": "e7ceaac77e30"
-  },
-  {
-   "title": "Clamoroso al Velodrome: il Le Mans ribalta lo 0-2 dei primi 45' e segna il 3-2 al 95'",
-   "link": "https://www.tuttomercatoweb.com/calcio-estero/clamoroso-velodrome-mans-ribalta-0-2-primi-45-segna-3-2-95-2296514",
-   "summary": "L'undicesima giornata di Ligue 1 si è chiusa in modo clamoroso al Velodrome.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:42:10+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/7c/7cb7522d4165f034a9a7bc79068e4cbb-00744-oooz0000.jpeg",
-   "id": "378462b18c90"
-  },
-  {
-   "title": "Costacurta promuove il Milan di Amorim: \"La squadra cresce a ogni partita\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/costacurta-promuove-milan-amorim-la-squadra-cresce-partita-2296499",
-   "summary": "Il Milan riparte dopo la sosta per le Nazionali con una vittoria convincente, travolgendo il Frosinone per 5-1 a San Siro.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:38:01+00:00",
-   "image": "",
-   "id": "20e4db84b8f4"
-  },
-  {
-   "title": "Incredibile a Bergamo: Kessié freddissimo su rigore, l'Atalanta raggiunge l'Inter",
-   "link": "https://www.tuttomercatoweb.com/serie-a/incredibile-bergamo-kessie-freddissimo-rigore-atalanta-raggiunge-inter-91-2296513",
-   "summary": "L'Atalanta trova un pareggio incredibile al 91', a quattro minuti dalla fine.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:36:07+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/36/361128df552a33564d1e582a8902e8c1-48170-oooz0000.jpeg",
-   "id": "8c39242bbab4"
-  },
-  {
-   "title": "Con la vittoria della Juve, si chiude l'8ª giornata di Serie A Women. Lazio in crisi",
-   "link": "https://www.tuttomercatoweb.com/calcio-femminile/vittoria-juve-chiude-8a-giornata-serie-women-lazio-crisi-2296494",
-   "summary": "Smaltite le fatiche europee di Roma, Inter e Juve, nel pomeriggio di ieri è tornata in campo la Serie A Women, che con la giornata odierna che ha mandato in archivio l'8ª giornata del campionato, chiusa dal match serale che si è giocato al 'Fersini' di...",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:34:15+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/32/3228746ba81034df2de144739a1cd688-59615-oooz0000.jpeg",
-   "id": "0afe8700b1a7"
-  },
-  {
-   "title": "Materazzi a Benitez: \"Soffriva Mourinho e le personalità forti, veniva prima il suo ego\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/materazzi-benitez-soffriva-mourinho-personalita-forti-veniva-ego-2296418",
-   "summary": "Marco Materazzi torna a parlare del suo passato all'Inter e non risparmia critiche a Rafael Benitez.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:30:01+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/6b/6bb7b6b3ebd09d3fec268f1bbbb83b92-05420-oooz0000.jpeg",
-   "id": "e41518e0f202"
-  },
-  {
-   "title": "Pochettino difende lo United: \"In 10 ad Anfield soffrirebbe anche il miglior club al mondo\"",
-   "link": "https://www.tuttomercatoweb.com/serie-a/pochettino-difende-united-in-10-anfield-soffrirebbe-miglior-club-mondo-2296500",
-   "summary": "L'esordio di Mauricio Pochettino sulla panchina del Manchester United non poteva essere più complicato.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:26:02+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8f/8f7c93e3e1b339258df5b2d42e6a3c6e-14454-oooz0000.jpeg",
-   "id": "4f5e2b936067"
-  },
-  {
-   "title": "De Ketelaere fa doppietta e riapre ancora il match: Atalanta-Inter non finisce mai",
-   "link": "https://www.tuttomercatoweb.com/serie-a/de-ketelaere-doppietta-riapre-match-atalanta-inter-finisce-2296509",
-   "summary": "Atalanta-Inter non finisce mai.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:25:31+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/2b/2bbac938bf279f06cd0c58cea518f4a8-61118-oooz0000.jpeg",
-   "id": "0ac0f4d7fa34"
-  },
-  {
-   "title": "Rabiot come Kaká: sette partite di fila con gol o assist, il Milan si gode il suo leader",
-   "link": "https://www.tuttomercatoweb.com/serie-a/rabiot-kaka-partite-fila-gol-assist-milan-gode-leader-2296484",
-   "summary": "Adrien Rabiot continua a essere uno degli uomini simbolo del Milan di Ruben Amorim.",
-   "source": "TuttoMercatoWeb",
-   "source_weight": 1.3,
-   "scope": "generalista",
-   "published": "2026-11-22T21:22:05+00:00",
-   "image": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/47/47027143b3c440588d91280d819d7a90-82215-oooz0000.jpeg",
-   "id": "ce8fdf427a76"
   }
  ],
  "stats": {
   "fonti": 8,
   "voci_lette": 150,
-  "in_edizione": 19
+  "in_edizione": 22
  }
 }
